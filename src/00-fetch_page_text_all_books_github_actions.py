@@ -52,7 +52,7 @@ class BookScraper:
             file.write(text)
         logging.info(f"Text saved to {file_path}")
 
-    def fetch_book_text(self, book_id, num_pages, start_page=1, end_page=3):
+    def fetch_book_text(self, book_id, num_pages, start_page=1, end_page=1300):
         for i in range(start_page, min(num_pages + 1, end_page + 1)):
             file_path = DATA_DIR / f"{book_id}_page_text_{i}.txt"
             if file_path.exists():
