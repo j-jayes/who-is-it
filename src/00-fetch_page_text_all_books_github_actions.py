@@ -19,7 +19,7 @@ SLEEP_DURATION = 5
 MAX_RETRIES = 3
 
 class BookScraper:
-    def __init__(self, resume_book_id=None, resume_page=0):
+    def __init__(self, resume_book_id, resume_page=0):
         self.resume_book_id = resume_book_id
         self.resume_page = resume_page
 

@@ -35,12 +35,9 @@ jobs:
           git pull origin main
 
       - name: Run scraper
-        run: python src/00-fetch_page_text_all_books_github_actions.py
-
-      - name: Run scraper
         run: |
-          python src/00-fetch_page_text_all_books_github_actions.py ${{ github.event.inputs.resume_book_id }} --resume_page ${{ github.event.inputs.resume_page }}
-
+          python src/00-fetch_page_text_all_books_github_actions.py "${{ github.event.inputs.resume_book_id }}" --resume_page "${{ github.event.inputs.resume_page }}"
+      
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
