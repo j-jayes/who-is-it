@@ -3,7 +3,7 @@ import time
 from bs4 import BeautifulSoup
 import json
 
-resume_book_id = "1918"
+resume_book_id = "2001"
 resume_page = 0
 
 def extract_bio_data(page_source):
@@ -20,8 +20,6 @@ def extract_bio_data(page_source):
     bio_data = page_source[start_index:end_index].strip()
 
     return bio_data
-
-url = "https://runeberg.org/vemardet/2001/1279.html"
 
 def fetch_book_text(book_id, num_pages, start_page=1, end_page=952):
     for i in range(start_page, min(num_pages + 1, end_page + 1)):
@@ -59,7 +57,9 @@ for book_id, num_pages in number_of_pages_per_book.items():
         if book_id == resume_book_id:
             found_resume_book = True
             print(f"Resuming text fetching for {book_id}...")
-            fetch_book_text(book_id, num_pages, resume_page, num_pages - resume_page + 1)
+            # num_pages - resume_page + 1
+            # testing, 3 pages
+            fetch_book_text(book_id, num_pages, resume_page, 3)
         else:
             print(f"Skipping {book_id}...")
             continue
