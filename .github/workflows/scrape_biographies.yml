@@ -1,7 +1,16 @@
-name: Web Scraper
+name: Scrape Book Pages
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
+    inputs:
+      resume_book_id:
+        description: 'Book ID to scrape'
+        required: true
+        default: '2001'
+      resume_page:
+        description: 'Page number to resume scraping from'
+        required: false
+        default: '0'
 
     
 jobs:
@@ -15,7 +24,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8 # Or any version you'd like
+          python-version: 3.11 # Or any version you'd like
 
       - name: Install dependencies
         run: |
@@ -27,6 +36,10 @@ jobs:
 
       - name: Run scraper
         run: python src/00-fetch_page_text_all_books_github_actions.py
+
+      - name: Run scraper
+        run: |
+          python src/00-fetch_page_text_all_books_github_actions.py ${{ github.event.inputs.resume_book_id }} --resume_page ${{ github.event.inputs.resume_page }}
 
       - name: Commit files
         run: |
