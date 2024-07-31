@@ -20,7 +20,7 @@ jobs:
 
     env:
       BOOK_IDS: "1981 1977 1969 1967 1963 1957 1955 1953 1945 1943 1939 1933 1925 1918"
-      CURRENT_BOOK_ID: 1981
+      CURRENT_BOOK_ID: 1977
 
     steps:
       - name: Checkout repository
