@@ -21,7 +21,6 @@ jobs:
     env:
       BOOK_IDS: "1981 1977 1969 1967 1963 1957 1955 1953 1945 1943 1939 1933 1925 1918"
       CURRENT_BOOK_ID: 1981
-      
 
     steps:
       - name: Checkout repository
@@ -48,12 +47,12 @@ jobs:
           else
             CURRENT_BOOK_ID=${{ env.CURRENT_BOOK_ID }}
           fi
+          echo "CURRENT_BOOK_ID=$CURRENT_BOOK_ID" >> $GITHUB_ENV
           echo "Current book ID: $CURRENT_BOOK_ID"
-          echo "::set-output name=book_id::$CURRENT_BOOK_ID"
 
       - name: Run scraper
         run: |
-            python src/00-fetch_page_text_all_books_github_actions.py "${{ steps.get-book-id.outputs.book_id }}" --resume_page "0"
+          python src/00-fetch_page_text_all_books_github_actions.py "${{ env.CURRENT_BOOK_ID }}" --resume_page "0"
 
       - name: Commit files
         run: |
@@ -72,13 +71,14 @@ jobs:
         id: update-book-id
         run: |
           BOOK_IDS=(${{ env.BOOK_IDS }})
-          CURRENT_BOOK_ID=${{ steps.get-book-id.outputs.book_id }}
+          CURRENT_BOOK_ID=${{ env.CURRENT_BOOK_ID }}
           for i in "${!BOOK_IDS[@]}"; do
             if [ "${BOOK_IDS[$i]}" == "$CURRENT_BOOK_ID" ]; then
               if [ $i -lt $((${#BOOK_IDS[@]} - 1)) ]; then
                 NEXT_BOOK_ID=${BOOK_IDS[$((i + 1))]}
                 echo $NEXT_BOOK_ID > .current_book_id
                 echo "Next book ID: $NEXT_BOOK_ID"
+                echo "CURRENT_BOOK_ID=$NEXT_BOOK_ID" >> $GITHUB_ENV
                 break
               fi
             fi
