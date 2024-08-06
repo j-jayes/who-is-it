@@ -11,8 +11,8 @@ on:
         description: 'Page number to resume scraping from'
         required: false
         default: '0'
-  schedule:
-    - cron: '0 */4 * * *'
+  # schedule:
+  #   - cron: '0 */4 * * *'
 
 jobs:
   scrape:
