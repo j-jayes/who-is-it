@@ -34,7 +34,7 @@ jobs:
     # Step 4: Run the scraper
     - name: Run scraper
       run: |
-        python 01-fetch_page_text_all_books_github_actions.py ${{ github.event.inputs.book_id }} --start_page ${{ github.event.inputs.start_page }}
+        python src/01-fetch_page_text_all_books_github_actions.py ${{ github.event.inputs.book_id }} --start_page ${{ github.event.inputs.start_page }}
 
     # Step 5: Pull the latest changes from the repository
     - name: Pull latest changes
