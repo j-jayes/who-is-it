@@ -1,0 +1,38 @@
+I have a table of contents format that I need help matching. Please take the provided sections and generate a table of contents with the structure and formatting outlined below. Each letter corresponds to a page number where the section starts.
+
+Here’s an example of the format I want:
+
+```
+A: 1  
+B: 58  
+C: 173  
+D: 201  
+E: 227  
+F: 290  
+G: 333  
+H: 381  
+I: 494  
+J: 501  
+K: 535  
+L: 578  
+M: 700  
+N: 745  
+O: 793  
+P: 819  
+Q: 850  
+R: 852  
+S: 903  
+T: 1027  
+U: 1065  
+V: 1072  
+Y: 1156  
+Z: 1157  
+"\xC5": 1164  # Å  
+"\xC4": 1179  # Ä  
+"\xD6": 1180  # Ö  
+
+```
+
+Please make sure your response matches this structure exactly.
+
+Here is the table of contents I need help with
