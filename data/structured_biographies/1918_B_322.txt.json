@@ -1,0 +1,137 @@
+{
+    "career": [
+        {
+            "position": "lektor",
+            "start_year": 1914,
+            "organization": "Härnösand",
+            "location": "Härnösand",
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Bucht",
+        "middle_name": "Gösta Andreas",
+        "gender": "Male",
+        "birth_date": "01-10-1884",
+        "birth_place": "Härnösand",
+        "occupation": {
+            "occupation": "lektor",
+            "occupation_english": "lecturer"
+        },
+        "parents": [
+            {
+                "first_name": "G.V.",
+                "last_name": "Bucht",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "seminarierektor",
+                    "occupation_english": "seminary principal"
+                }
+            },
+            {
+                "first_name": "A.",
+                "last_name": "Sidner",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1904,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1908,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1909,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1909,
+            "end_year": null,
+            "field": "matern"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "vetenskapliga skapelser",
+            "field": "avhandlingar",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ellen",
+            "last_name": "Löidgren",
+            "middle_name": "Sofia",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "filosofie kandidat",
+                "occupation_english": "Bachelor of Arts"
+            },
+            "parents": [
+                {
+                    "first_name": "Fr.",
+                    "last_name": "Löidgren",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "fröhandlare",
+                        "occupation_english": "seed merchant"
+                    }
+                },
+                {
+                    "first_name": "Märta",
+                    "last_name": "Persson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1911",
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1911"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1912"
+        }
+    ]
+}
