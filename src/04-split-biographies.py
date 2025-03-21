@@ -35,20 +35,11 @@ def read_and_split_biographies(file_name, letter, year):
         # Replace multiple spaces with a single space
         text = re.sub(' +', ' ', text)
         
-        # Determine case for surnames
-        if year < 50:
-            # Title case for surnames
-            pattern = fr'^[\s{re.escape(string.punctuation)}\d]*({letter}[a-zåäö{re.escape(string.punctuation)}]+),'
-        else:
-            # Upper case for surnames
-            pattern = fr'^[\s{re.escape(string.punctuation)}\d]*({letter}[A-ZÅÄÖ{re.escape(string.punctuation)}]+),'
-        
+        pattern = fr'^[\s{re.escape(string.punctuation)}\d]*({letter}[a-zåäö{re.escape(string.punctuation)}]+),'
+
         # Special handling for "V" and "W"
         if letter == 'V':
-            if year < 50:
-                pattern = fr'^[\s{re.escape(string.punctuation)}\d]*([VW][a-zåäö{re.escape(string.punctuation)}]+),'
-            else:
-                pattern = fr'^[\s{re.escape(string.punctuation)}\d]*([VW][A-ZÅÄÖ{re.escape(string.punctuation)}]+),'
+            pattern = fr'^[\s{re.escape(string.punctuation)}\d]*([VW][a-zåäö{re.escape(string.punctuation)}]+),'
 
         # Split text based on the updated pattern
         split_text = re.split(pattern, text, flags=re.MULTILINE)
@@ -76,7 +67,7 @@ def save_biography(biography, file_path):
 
 
 def process_books():
-    books = ["gota48", "gota65", "norr68", "skane48", "skane66", "sthlm45", "sthlm62", "svea64"]
+    books = ["1918", "1925", "1933", "1939", "1943", "1945", "1953", "1955", "1957", "1963", "1967", "1969", "1977", "1981", "1985", "1993", "1995", "1997", "2001"]
     
     for book_name in books:
         try:
