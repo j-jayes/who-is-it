@@ -9,6 +9,7 @@ import logging
 from pathlib import Path
 from google import genai
 import os
+import argparse  # Added for command-line argument support
 
 
 # Configure logging
@@ -348,5 +349,13 @@ def process_biographies(limit: int = float('inf')) -> None:
 
 
 if __name__ == "__main__":
-    # Process all biographies (or set a specific limit)
-    process_biographies(limit=10)
+    # Set up argument parser
+    parser = argparse.ArgumentParser(description='Process Swedish biographies into structured format')
+    parser.add_argument('limit', type=int, nargs='?', default=10,
+                      help='Maximum number of biographies to process (default: 10)')
+    
+    # Parse arguments
+    args = parser.parse_args()
+    
+    # Process biographies with the specified limit
+    process_biographies(limit=args.limit)
