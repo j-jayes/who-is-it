@@ -32,8 +32,11 @@ class Parent(BaseModel):
 
 
 class Person(BaseModel):
-    name: str = Field(..., description="Person's full name")
-    birth_date: Optional[str] = Field(None, description="Person's birth date")
+    first_name: str = Field(..., description="Person's first name or initials")
+    last_name: str = Field(..., description="Person's last name")
+    middle_name: Optional[str] = Field(None, description="Person's middle name")
+    gender: Literal["Male", "Female"] = Field(..., description="Person's gender, inferred from the name")
+    birth_date: Optional[str] = Field(None, description="Person's birth date, in DD-MM-YYYY format")
     occupation: Optional[Occupation] = Field(None, description="Person's occupation title")
 
 
