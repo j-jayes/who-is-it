@@ -34,7 +34,7 @@ jobs:
       - name: Process biographies
         run: |
           # Run the script with the specified limit
-          python src/053-structure-gemini.py ${{ github.event.inputs.limit }}
+          python src/053-structure-gemini-async.py ${{ github.event.inputs.limit }}
       
       - name: Configure Git
         run: |
