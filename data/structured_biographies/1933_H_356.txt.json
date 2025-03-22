@@ -1,0 +1,111 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Ivar",
+        "last_name": "Holmgren",
+        "middle_name": "Albert",
+        "gender": "Male",
+        "birth_date": "31-05-1889",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "lektor",
+            "occupation_english": "Lecturer"
+        },
+        "parents": [
+            {
+                "first_name": "Theodor",
+                "last_name": "Holmgren",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "perukmakare",
+                    "occupation_english": "wigmaker"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Löfgren",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "institution": "Stockholm",
+            "start_year": 1919,
+            "field": "None"
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Stockholms högskola",
+            "department": "botanik",
+            "start_year": 1919,
+            "end_year": 1930,
+            "field": "botanik"
+        },
+        {
+            "position": "lektor",
+            "position_english": "Lecturer",
+            "institution": "Nya elementarskolan",
+            "department": "biologi",
+            "start_year": 1929,
+            "end_year": null,
+            "field": "biologi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Stockholm",
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1914",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1917",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1919",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Zytologische Studien iiber die Fortpflanzung bei den Gattungen Erigeron und Eupatorium",
+            "year": "1919",
+            "type": "book"
+        },
+        {
+            "title": "upps.",
+            "year": "None",
+            "type": "article",
+            "publisher": "Svensk botanisk tidskrift"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Ecuador",
+            "country_code": "ECU",
+            "year": "1919-1921"
+        }
+    ]
+}
