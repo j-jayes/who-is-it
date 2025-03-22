@@ -1,0 +1,48 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Billbergh",
+        "last_name": "None",
+        "gender": "Female",
+        "birth_date": null,
+        "parents": [
+            {
+                "first_name": "Ture",
+                "last_name": "Billbergh",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "advokatfiskal"
+                }
+            },
+            {
+                "first_name": "Olivia",
+                "last_name": "Fåhraeus",
+                "gender": "Female"
+            }
+        ]
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Maria",
+            "last_name": "Dellwik",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Carl-Axel",
+                    "last_name": "Dellwik",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "direktör"
+                    }
+                },
+                {
+                    "first_name": "Ebba",
+                    "last_name": "Collander",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1885"
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "career": [
+        {
+            "position": "medicin kandidat",
+            "start_year": 1886,
+            "organization": "Uppsala Universitet",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "medicine licentiat",
+            "start_year": 1891,
+            "organization": "Stockholm",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1898,
+            "end_year": 1905,
+            "organization": "Visby",
+            "location": "Visby",
+            "country_code": "SWE"
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1905,
+            "organization": "Örebro",
+            "location": "Örebro",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Lange",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "12-05-1863",
+        "birth_place": "Alva, Gotlands Län",
+        "occupation": {
+            "occupation": "lasarettsläkare",
+            "occupation_english": "Hospital Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Lange",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kyrkoherde",
+                    "occupation_english": "Vicar"
+                }
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Ihre",
+                "middle_name": "Wilhelmina",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Örebro",
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Sara",
+            "last_name": "Bengtsson",
+            "middle_name": "Tyra Erhardina",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Johan",
+                    "last_name": "Bengtsson",
+                    "middle_name": "Adolf",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "grosshandlare",
+                        "occupation_english": "Wholesaler"
+                    }
+                },
+                {
+                    "first_name": "Nanny",
+                    "last_name": "Hallman",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1895",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU"
+        },
+        {
+            "country": "Österrike",
+            "country_code": "AUT"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE"
+        }
+    ]
+}
