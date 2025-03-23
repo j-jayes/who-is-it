@@ -1,0 +1,89 @@
+{
+    "career": [
+        {
+            "position": "tecknare",
+            "start_year": 1900,
+            "organization": "Strix med flera skämttidningar",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Hallgren",
+        "middle_name": "Leonard",
+        "gender": "Male",
+        "birth_date": "11-11-1885",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist"
+        },
+        "parents": [
+            {
+                "first_name": "Claes",
+                "last_name": "Hallgren",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bokbindare",
+                    "occupation_english": "bookbinder"
+                }
+            },
+            {
+                "first_name": "Lovisa",
+                "last_name": "Larson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "teknisk skola",
+            "degree_level": "Schooling",
+            "year": "1908",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "konstakademin",
+            "degree_level": "Schooling",
+            "year": "1908",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Stina",
+            "last_name": "André",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Casper",
+                    "last_name": "André",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "gymnastikdirektör",
+                        "occupation_english": "Director of Gymnastics"
+                    }
+                },
+                {
+                    "first_name": "Signhild",
+                    "last_name": "Modéer",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1929"
+    },
+    "travels": [
+        {
+            "country": "Rom",
+            "country_code": "ITA",
+            "year": "1919"
+        }
+    ]
+}

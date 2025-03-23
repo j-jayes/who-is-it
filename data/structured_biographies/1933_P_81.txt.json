@@ -1,0 +1,129 @@
+{
+    "career": [
+        {
+            "position": "ständig adjunkt",
+            "start_year": 1918,
+            "organization": "Borås pastorat"
+        },
+        {
+            "position": "Komminister",
+            "start_year": 1920,
+            "organization": "Bredared"
+        },
+        {
+            "position": "Svensk sjömanspastor",
+            "start_year": 1924,
+            "organization": "Reval",
+            "location": "Reval"
+        },
+        {
+            "position": "Kyrkoherde",
+            "start_year": 1924,
+            "organization": "Svensk-finska S:t Mikaélsförsamlingen",
+            "location": "S:t Mikaélsförsamlingen"
+        },
+        {
+            "position": "Kontraktsprost",
+            "start_year": 1924,
+            "organization": "Svenska kontraktet"
+        },
+        {
+            "position": "Kyrkoherde",
+            "start_year": 1928,
+            "organization": "Fristad"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Petzäll",
+        "gender": "Male",
+        "birth_date": "10-07-1895",
+        "birth_place": "Borås",
+        "occupation": {
+            "occupation": "Teologie licentiat, prost",
+            "occupation_english": null
+        },
+        "parents": [
+            {
+                "first_name": "Claes",
+                "last_name": "Petzäll",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Adolfine",
+                "last_name": "Gustafsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Teologie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Teologie licentiat",
+            "degree_level": "Doctorate",
+            "year": "1927",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ester",
+            "last_name": "Tidstrand",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "rödakorssyster",
+                "occupation_english": null
+            },
+            "parents": [
+                {
+                    "first_name": "Johan",
+                    "last_name": "Tidstrand",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kyrkoherde",
+                        "occupation_english": null
+                    }
+                },
+                {
+                    "first_name": "Agnes",
+                    "last_name": "Sundler",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1922"
+    },
+    "publications": [
+        {
+            "title": "Gottfrid Billin g som andlig talare o. författare",
+            "year": "None",
+            "type": "bok"
+        },
+        {
+            "title": "Julhälsningar t. de sv. församl. i Estl.",
+            "year": "1927",
+            "type": "tidskrift",
+            "editions": [
+                {
+                    "edition_number": "None",
+                    "year": "1927"
+                },
+                {
+                    "edition_number": "None",
+                    "year": "1928"
+                }
+            ]
+        }
+    ]
+}
