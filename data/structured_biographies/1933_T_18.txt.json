@@ -1,0 +1,92 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Teiling",
+        "middle_name": "Einar Sigurd",
+        "gender": "Male",
+        "birth_date": "21-03-1888",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "lektor",
+            "occupation_english": "lecturer"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Larsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "föreståndare",
+                    "occupation_english": "manager"
+                }
+            },
+            {
+                "first_name": "Eva",
+                "last_name": "Westling",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "lärare",
+            "institution": "Beskows skola",
+            "start_year": 1908,
+            "end_year": 1919
+        },
+        {
+            "position": "lektor",
+            "institution": "Strängnäs seminarium",
+            "start_year": 1919,
+            "field": "geografi och biologi"
+        },
+        {
+            "position": "lektor",
+            "institution": "Växjö seminarium",
+            "start_year": 1931,
+            "field": "geografi och biologi"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "skrifter",
+            "field": "kvartärgeologi, hydrografi, sötvattensalgologi, hembygdsgeografi och geografimetodik",
+            "significance": "geografiska läroböcker för seminarier, läroverk och folkskolor, diverse översättningar av populärvetenskaplig litteratur, föreläsningar och recensioner (speciellt i Pedagogisk tidskrift)"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Tora",
+            "last_name": "Ullstedt",
+            "gender": "Female",
+            "birth_date": "00-00-1890",
+            "parents": [
+                {
+                    "first_name": "John",
+                    "last_name": "Ullstedt",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kassör",
+                        "occupation_english": "treasurer"
+                    }
+                },
+                {
+                    "first_name": "Ebba",
+                    "last_name": "Norlén",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1915"
+    },
+    "honors": [],
+    "publications": [
+        {
+            "title": "skrifter huvudsakligen inom kvartärgeologi, hydrografi, sötvattensalgologi, hembygdsgeografi och geografimetodik, geografiska läroböcker för seminarier, läroverk och folkskolor, diverse översättningar av populärvetenskaplig litteratur, föreläsningar och recensioner (speciellt i Pedagogisk tidskrift)",
+            "year": "None",
+            "type": "skrifter"
+        }
+    ],
+    "travels": null
+}
