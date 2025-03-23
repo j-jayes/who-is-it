@@ -1,0 +1,33 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Kalle",
+        "last_name": "Sprätten",
+        "gender": "Male"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Ruth",
+            "last_name": "Liljeblad",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "Liljeblad",
+                    "middle_name": "Fredrik",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kassör"
+                    }
+                },
+                {
+                    "first_name": "Tekla",
+                    "last_name": "Svanström",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1921"
+    }
+}
