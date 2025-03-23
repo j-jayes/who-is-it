@@ -1,0 +1,67 @@
+{
+    "career": [
+        {
+            "position": "grosshandlare",
+            "start_year": 1903,
+            "organization": "Gullbrantson & Möller",
+            "location": "Malmö"
+        }
+    ],
+    "person": {
+        "first_name": "Victor",
+        "last_name": "Gullbrantson",
+        "middle_name": "Daniel",
+        "gender": "Male",
+        "birth_date": "19-09-1870",
+        "birth_place": "Torslunda, Kalmar Län",
+        "occupation": {
+            "occupation": "grosshandlare",
+            "occupation_english": "Wholesaler"
+        },
+        "parents": [
+            {
+                "first_name": "P",
+                "last_name": "Danielsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer"
+                }
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "G.",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Nina",
+            "last_name": "Flaméhn",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Henr. F.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "trävaruhandlare",
+                        "occupation_english": "Timber Merchant"
+                    }
+                },
+                {
+                    "first_name": "Victorine",
+                    "last_name": "Engström",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1903"
+    },
+    "publications": null,
+    "travels": null
+}

@@ -1,0 +1,129 @@
+{
+    "career": [
+        {
+            "position": "konstnär",
+            "start_year": 1897,
+            "end_year": 1903,
+            "organization": "Konstakademien",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "lärare i figurteckning",
+            "start_year": 1904,
+            "organization": "Tekniska skolan",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "överlärare",
+            "start_year": 1919,
+            "organization": "Tekniska skolan",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1919,
+            "organization": "Althins målarskola",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överlärare",
+            "start_year": 1920,
+            "end_year": 1933,
+            "organization": "Konstskolan",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "porträttmålare",
+            "start_year": 1933,
+            "organization": "egen elevateljé",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Berggren",
+        "middle_name": "Edward",
+        "gender": "Male",
+        "birth_date": "20-11-1876",
+        "birth_place": "Törnevalla, Östergötlands Län",
+        "occupation": {
+            "occupation": "konstnär, överlärare",
+            "occupation_english": "artist, senior teacher"
+        },
+        "parents": [
+            {
+                "first_name": "Ernst",
+                "last_name": "Berggren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "statsinspektör",
+                    "occupation_english": "state inspector"
+                }
+            },
+            {
+                "first_name": "Lotte",
+                "last_name": "Heijne",
+                "middle_name": "von",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "elev",
+            "degree_level": "Schooling",
+            "year": "okänt",
+            "institution": "Tekniska skolan i Stockholm"
+        }
+    ],
+    "travels": [
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1904"
+        },
+        {
+            "country": "Belgien",
+            "country_code": "BEL",
+            "year": "1904"
+        },
+        {
+            "country": "Holland",
+            "country_code": "NLD",
+            "year": "1904"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1904"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": "1910"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": "1911"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": "1912"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": "1913"
+        }
+    ]
+}

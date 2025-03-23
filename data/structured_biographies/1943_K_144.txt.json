@@ -1,0 +1,40 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Ulla",
+        "last_name": "Kalle",
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Ruth",
+            "last_name": "Liljeblad",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "Liljeblad",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kassör",
+                        "occupation_english": "cashier"
+                    }
+                },
+                {
+                    "first_name": "Tekla",
+                    "last_name": "Svanström",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1921",
+        "children": [
+            {
+                "first_name": "Sprätten",
+                "last_name": "Kalle",
+                "gender": "Male"
+            }
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "career": [
+        {
+            "position": "Direktör",
+            "start_year": 1931,
+            "organization": "Göteborgs Flyghamn",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Andree",
+        "middle_name": "Emil",
+        "gender": "Male",
+        "birth_date": "18-01-1899",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Direktör, Fältflygare",
+            "occupation_english": "Director, Field Aviator"
+        },
+        "parents": [
+            {
+                "first_name": "Emil",
+                "last_name": "Andree",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Petree",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1918",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Fältflyg",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Greta",
+            "last_name": "Petterson",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Karl",
+                    "last_name": "Petterson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Fabrikör",
+                        "occupation_english": "Manufacturer"
+                    }
+                },
+                {
+                    "first_name": "Sofia",
+                    "last_name": "Persdtr",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1925"
+    },
+    "travels": [
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1921"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": "Sydafrika",
+            "country_code": "ZAF",
+            "year": "1929"
+        }
+    ]
+}
