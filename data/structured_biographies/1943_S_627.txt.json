@@ -1,0 +1,60 @@
+{
+    "career": [
+        {
+            "position": "lärare i matematik",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "norra kommunala mellanskolan",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "kartredaktör",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "generalstaben",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Alfred",
+        "last_name": "Söderlund",
+        "middle_name": "Hilmer",
+        "gender": "Male",
+        "birth_date": "30-12-1884",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "lärare",
+            "occupation_english": "teacher"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Stockholms högskola",
+            "department": null,
+            "start_year": 1900,
+            "end_year": null,
+            "field": "geografi"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Norge",
+            "country_code": "NOR",
+            "year": "1918-1919"
+        },
+        {
+            "country": "Warszawa",
+            "country_code": "POL",
+            "year": "1934"
+        },
+        {
+            "country": "Amsterdam",
+            "country_code": "NLD",
+            "year": "1938"
+        }
+    ]
+}
