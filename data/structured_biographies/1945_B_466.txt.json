@@ -1,0 +1,42 @@
+{
+    "career": [
+        {
+            "position": "agronom",
+            "start_year": 1876,
+            "organization": "ägare av Bosjökloster, Snogeröd",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Trolle-Bonde",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "29-07-1876",
+        "birth_place": "Västra Vingåker, Södermanlands Län",
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Trolle-Bonde",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "greve",
+                    "occupation_english": "count"
+                }
+            },
+            {
+                "first_name": "Ewa",
+                "last_name": "Leijonhufvud",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "friherrinna",
+                    "occupation_english": "baroness"
+                }
+            }
+        ]
+    }
+}
