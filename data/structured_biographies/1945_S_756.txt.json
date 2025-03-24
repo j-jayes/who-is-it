@@ -1,0 +1,83 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1928,
+            "organization": "Julita museum"
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1931,
+            "end_year": 1936,
+            "organization": "Nordiska museet"
+        },
+        {
+            "position": "intendent",
+            "start_year": 1937,
+            "organization": "Nordiska museet"
+        },
+        {
+            "position": "landsantikvarie",
+            "start_year": 1938,
+            "organization": "Dalarna",
+            "location": "Falun"
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1932,
+            "end_year": 1937,
+            "organization": "Konsthantverkares Gille",
+            "location": "Gävle"
+        }
+    ],
+    "person": {
+        "first_name": "Sven-Erik",
+        "last_name": "Svärdström",
+        "middle_name": "Svante",
+        "gender": "Male",
+        "birth_date": "06-09-1906",
+        "birth_place": "Falun",
+        "occupation": {
+            "occupation": "landsantikvarie"
+        },
+        "parents": [
+            {
+                "first_name": "Fredrik",
+                "last_name": "Svärdström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman"
+                }
+            },
+            {
+                "first_name": "Hildur",
+                "last_name": "Hermanson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1930",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1938",
+            "institution": "Stockholms universitet"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Dalmålningar",
+            "year": "1944",
+            "type": "bok",
+            "signature": "Svt"
+        }
+    ],
+    "travels": null
+}

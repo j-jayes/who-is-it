@@ -1,0 +1,41 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Rut",
+        "last_name": "Hallenborg",
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Olof",
+            "last_name": "Hallenborg",
+            "gender": "Male",
+            "occupation": {
+                "occupation": "godsägare",
+                "occupation_english": "landowner"
+            },
+            "parents": [
+                {
+                    "first_name": "Hedda",
+                    "last_name": "Askenstedt",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1908"
+    },
+    "travels": [
+        {
+            "country": "Australien",
+            "country_code": "AUS"
+        },
+        {
+            "country": "Nya Zeeland",
+            "country_code": "NZL"
+        },
+        {
+            "country": "Sydafrika",
+            "country_code": "ZAF"
+        }
+    ]
+}
