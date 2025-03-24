@@ -1,0 +1,85 @@
+{
+    "career": [
+        {
+            "position": "biträdande överläkare",
+            "start_year": 1935,
+            "organization": "Lunds lasarett",
+            "location": "Lund",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Olle",
+        "last_name": "Olssön",
+        "middle_name": "Gunnar Anton",
+        "gender": "Male",
+        "birth_date": "09-01-1900",
+        "birth_place": "Landskrona",
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "Docent"
+        },
+        "parents": [
+            {
+                "first_name": "Tage",
+                "last_name": "Olssön",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "elektriker",
+                    "occupation_english": "electrician"
+                }
+            },
+            {
+                "first_name": "Inez",
+                "last_name": "Andersson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Lunds Universitet",
+            "start_year": 1943,
+            "field": "röntgendiagnostik"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Wally",
+            "last_name": "Person",
+            "gender": "Female",
+            "birth_date": "11-01-1911",
+            "parents": [
+                {
+                    "first_name": "Olof",
+                    "last_name": "Person",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "grosshandlare",
+                        "occupation_english": "Wholesaler"
+                    }
+                },
+                {
+                    "first_name": "Hilma",
+                    "last_name": "Ahlström",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1938"
+    },
+    "travels": [
+        {
+            "country": "Skandinavien",
+            "country_code": "None"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU"
+        }
+    ]
+}

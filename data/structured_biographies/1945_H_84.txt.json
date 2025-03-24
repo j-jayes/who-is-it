@@ -1,0 +1,62 @@
+{
+    "career": [
+        {
+            "position": "direktor",
+            "start_year": 1933,
+            "organization": "ASEA",
+            "location": "Västerås",
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Svante",
+        "last_name": "Hamberg",
+        "middle_name": "Conrad",
+        "gender": "Male",
+        "birth_date": "26-01-1878",
+        "birth_place": "Göteborg",
+        "occupation": {
+            "occupation": "direktor",
+            "occupation_english": "director"
+        },
+        "parents": [
+            {
+                "first_name": "Conr.",
+                "last_name": "Hamberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "grosshandlare",
+                    "occupation_english": "wholesaler"
+                }
+            },
+            {
+                "first_name": "Jeanna",
+                "last_name": "Möller",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "avgångsexamen",
+            "degree_level": "Schooling",
+            "year": "1897",
+            "institution": "Chalmers tekniska läroanstalt"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Zürich",
+            "country_code": "CHE",
+            "year": "1897"
+        },
+        {
+            "country": "Zürich",
+            "country_code": "CHE",
+            "year": "1898"
+        }
+    ]
+}

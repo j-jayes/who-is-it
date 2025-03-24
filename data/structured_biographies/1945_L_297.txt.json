@@ -1,0 +1,86 @@
+{
+    "career": [
+        {
+            "position": "laborator",
+            "start_year": 1943,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Jonas",
+        "last_name": "Linde",
+        "middle_name": "Otto",
+        "gender": "Male",
+        "birth_date": "01-05-1898",
+        "birth_place": "Mo, Västernorrlands Län",
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "docent"
+        },
+        "parents": [
+            {
+                "first_name": "Olof",
+                "last_name": "Linde",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Salomonsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Kungliga Tekniska Högskolan",
+            "start_year": 1940,
+            "field": "Fysik"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Undersökning över överstrukturen i metallegeringar",
+            "year": "1925-1937",
+            "type": "artikel",
+            "publisher": "Annalen der Physik"
+        },
+        {
+            "title": "Thermoelektriska undersökningar vid låga temperaturer",
+            "year": "1929-1931",
+            "type": "artikel",
+            "publisher": "Leiden"
+        },
+        {
+            "title": "Elektriska motståndsegenskaper hos utspädda blandkristallegeringar",
+            "year": "1930-1934",
+            "type": "artikel",
+            "publisher": "Annalen der Physik"
+        },
+        {
+            "title": "Elektriska motståndsegenskaper hos utspädda blandkristallegeringar",
+            "year": "1939",
+            "type": "gradualavhandling"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Leiden",
+            "country_code": "NLD",
+            "year": "1929"
+        },
+        {
+            "country": "Leiden",
+            "country_code": "NLD",
+            "year": "1931"
+        }
+    ]
+}
