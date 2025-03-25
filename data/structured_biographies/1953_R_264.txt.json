@@ -1,0 +1,121 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1928,
+            "organization": "jordbrukstekniska föreningen"
+        },
+        {
+            "position": "laboratorieingenjör",
+            "start_year": 1929,
+            "end_year": 1937,
+            "organization": "ab Iföverken"
+        },
+        {
+            "position": "driftsingenjör",
+            "start_year": 1931,
+            "end_year": 1937,
+            "organization": "Ifö keramiska ab"
+        },
+        {
+            "position": "ingenjör",
+            "start_year": 1937,
+            "end_year": 1938,
+            "organization": "Skånska cement ab",
+            "location": "Limhamn"
+        },
+        {
+            "position": "ingenjör",
+            "start_year": 1938,
+            "end_year": 1941,
+            "organization": "Skånska cement ab",
+            "location": "Köping"
+        },
+        {
+            "position": "disponent",
+            "start_year": 1941,
+            "end_year": 1951,
+            "location": "Köping"
+        },
+        {
+            "position": "disponent",
+            "start_year": 1951,
+            "organization": "Internationella Siporex ab",
+            "location": "Stockholm"
+        }
+    ],
+    "person": {
+        "first_name": "Kurt",
+        "last_name": "Rustan",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "20-07-1905",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "disponent",
+            "occupation_english": "manager"
+        },
+        "parents": [
+            {
+                "first_name": "Georg",
+                "last_name": "Rustan",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "godsägare",
+                    "occupation_english": "estate owner"
+                }
+            },
+            {
+                "first_name": "Thyra",
+                "last_name": "Sylvén",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "ingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1928",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Herta",
+            "last_name": "Neusteuer",
+            "gender": "Female",
+            "birth_date": "07-07-1907",
+            "parents": [
+                {
+                    "first_name": "E.",
+                    "last_name": "Neusteuer",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "fabrikägare",
+                        "occupation_english": "factory owner"
+                    }
+                },
+                {
+                    "first_name": "Johanna",
+                    "last_name": "Hedtke",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1933"
+    },
+    "travels": [
+        {
+            "country": "Europa"
+        },
+        {
+            "country": "Amerika"
+        },
+        {
+            "country": "Afrika"
+        }
+    ]
+}
