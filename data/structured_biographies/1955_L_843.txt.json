@@ -1,0 +1,83 @@
+{
+    "career": [
+        {
+            "position": "rådman",
+            "start_year": 1925,
+            "organization": "Visby"
+        },
+        {
+            "position": "borgmästare",
+            "start_year": 1937,
+            "organization": "Visby"
+        },
+        {
+            "position": "Krigsdomare",
+            "start_year": 1929,
+            "end_year": 1948
+        }
+    ],
+    "person": {
+        "first_name": "Harald",
+        "last_name": "Löwenberg",
+        "middle_name": "Johan Oscar",
+        "gender": "Male",
+        "birth_date": "25-11-1895",
+        "birth_place": "Visby",
+        "occupation": {
+            "occupation": "borgmästare",
+            "occupation_english": "mayor"
+        },
+        "parents": [
+            {
+                "first_name": "Emil",
+                "last_name": "Löwenberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "major",
+                    "occupation_english": "major"
+                }
+            },
+            {
+                "first_name": "Agnes",
+                "last_name": "Jansson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "juridisk kandidat",
+            "degree_level": "Master's",
+            "year": "1918",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "de Jounge",
+            "gender": "Female",
+            "birth_date": "01-01-1903",
+            "parents": [
+                {
+                    "first_name": "Ållon",
+                    "last_name": "de T",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "direktör",
+                        "occupation_english": "director"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Wedin",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1931"
+    },
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}
