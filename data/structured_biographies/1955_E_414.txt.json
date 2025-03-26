@@ -1,0 +1,91 @@
+{
+    "career": [
+        {
+            "position": "Professor",
+            "start_year": 1949,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl-Gustaf",
+        "last_name": "Esseen",
+        "middle_name": "Haraldsson",
+        "gender": "Male",
+        "birth_date": "18-09-1918",
+        "birth_place": "Linköping",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor"
+        },
+        "parents": [
+            {
+                "first_name": "Harald",
+                "last_name": "E.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Ryttmästare",
+                    "occupation_english": "Cavalry Master"
+                }
+            },
+            {
+                "first_name": "Elsa",
+                "last_name": "Værneus",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "Uppsala Universitet",
+            "start_year": 1938,
+            "field": "filosofi"
+        },
+        {
+            "position": "filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1941,
+            "field": "filosofi"
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "start_year": 1944,
+            "field": "matematik"
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1945,
+            "field": "matematik"
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "Kungliga Tekniska Högskolan",
+            "start_year": 1949,
+            "field": "tillämpad matematik"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Fourier analysis of distribution functions",
+            "year": "None",
+            "type": "scientific article"
+        },
+        {
+            "title": "Mathematical study of the Laplace-Gaussian law",
+            "year": "1944",
+            "type": "doctoral thesis"
+        }
+    ]
+}

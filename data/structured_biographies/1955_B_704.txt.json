@@ -1,0 +1,105 @@
+{
+    "career": [
+        {
+            "position": "Tjänstgörande",
+            "start_year": 1913,
+            "organization": "Roslags häradsrätt"
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1914,
+            "end_year": 1916,
+            "organization": "Nya bankens notariatavdelning"
+        },
+        {
+            "position": "Anställd hos",
+            "start_year": 1916,
+            "organization": "Advokat W. Hellberg"
+        },
+        {
+            "position": "Egen advokatbyrå",
+            "start_year": 1917,
+            "location": "Stockholm"
+        }
+    ],
+    "person": {
+        "first_name": "Georg",
+        "last_name": "Branting",
+        "gender": "Male",
+        "birth_date": "21-09-1887",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Advokat",
+            "occupation_english": "Lawyer"
+        },
+        "parents": [
+            {
+                "first_name": "Hjalmar",
+                "last_name": "Branting",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Redaktör, sedermera statsminister",
+                    "occupation_english": "Editor, later Prime Minister"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Jäderin",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Juridisk kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1913",
+            "institution": "Stockholms högskola"
+        }
+    ],
+    "political_positions": [
+        {
+            "organization": "Stockholms stadsfullmäktige",
+            "position": "Stadsfullmäktig",
+            "start_year": 1927,
+            "end_year": 1938
+        },
+        {
+            "organization": "Första Kammaren",
+            "position": "Ledamot",
+            "start_year": 1931,
+            "focus_area": "Lagutskottet",
+            "significance": "Socialdemokrat"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Rättvisan i Finland",
+            "year": "1924",
+            "type": "Bok"
+        },
+        {
+            "title": "Sacco-Vanzetti-dramat",
+            "year": "1927",
+            "type": "Bok"
+        },
+        {
+            "title": "Socialistisk samhällssyn",
+            "year": "1941",
+            "type": "Bok"
+        },
+        {
+            "title": "Lagröta",
+            "year": "1943",
+            "type": "Bok"
+        }
+    ],
+    "travels": [
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1927"
+        }
+    ]
+}

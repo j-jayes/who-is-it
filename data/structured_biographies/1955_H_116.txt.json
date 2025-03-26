@@ -1,0 +1,157 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1922,
+            "end_year": 1924,
+            "organization": "Mekaniska prövningsanstalten",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1924,
+            "end_year": 1926,
+            "organization": null,
+            "location": null,
+            "country_code": "USA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1927,
+            "end_year": 1930,
+            "organization": null,
+            "location": null,
+            "country_code": "GBR"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Aktiebolaget Vattenbyggnadsbyrån",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1933,
+            "end_year": 1936,
+            "organization": "Sydsvenska kraft aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1939,
+            "end_year": 1946,
+            "organization": "Sydsvenska kraft aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Egen konsult",
+            "start_year": 1936,
+            "end_year": 1938,
+            "organization": null,
+            "location": "Malmö",
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Olof",
+        "last_name": "Hammar",
+        "middle_name": "Gillis",
+        "gender": "Male",
+        "birth_date": "13-09-1897",
+        "birth_place": "Göteborg",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor"
+        },
+        "parents": [
+            {
+                "first_name": "Hugo",
+                "last_name": "Hammar",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Doktor Ingenjör",
+                    "occupation_english": "Doctor Engineer"
+                }
+            },
+            {
+                "first_name": "Betty",
+                "last_name": "Nordeman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Chalmers Tekniska Högskola",
+            "department": null,
+            "start_year": 1946,
+            "end_year": null,
+            "field": "Ångteknik"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunvor",
+            "last_name": "Petersen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "E.",
+                    "last_name": "Petersen",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Disponent",
+                        "occupation_english": null
+                    }
+                },
+                {
+                    "first_name": "Agnes",
+                    "last_name": "Nielsen",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1930",
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": "Jorden",
+            "country_code": "None",
+            "year": "1921"
+        },
+        {
+            "country": "Malajstaterna",
+            "country_code": "None",
+            "year": "1928"
+        },
+        {
+            "country": "Malajstaterna",
+            "country_code": "None",
+            "year": "1929"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1946"
+        }
+    ]
+}
