@@ -1,0 +1,37 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Harriet",
+        "last_name": "Eriksson",
+        "middle_name": null,
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Otto",
+            "last_name": "Eriksson",
+            "middle_name": null,
+            "gender": "Male",
+            "occupation": {
+                "occupation": "folkskollärare",
+                "occupation_english": "primary school teacher"
+            },
+            "parents": [
+                {
+                    "first_name": "Annie",
+                    "last_name": "Sandegren",
+                    "middle_name": null,
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1939"
+    },
+    "political_positions": [
+        {
+            "organization": "Strängnäs",
+            "position": "something",
+            "start_year": 1953
+        }
+    ]
+}
