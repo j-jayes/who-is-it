@@ -1,0 +1,92 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "A",
+        "last_name": "Ekspong",
+        "middle_name": "Gösta",
+        "gender": "Male",
+        "birth_date": "24-02-1922",
+        "birth_place": "Skogstorp, Södermanlands Län",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor"
+        },
+        "parents": [
+            {
+                "first_name": "Arvid",
+                "last_name": "Carlson",
+                "gender": "Male"
+            },
+            {
+                "first_name": "Betty",
+                "last_name": "Uggla",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie kandidat",
+            "position_english": "Bachelor of Philosophy",
+            "institution": "Uppsala",
+            "start_year": 1946
+        },
+        {
+            "position": "Filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Uppsala",
+            "start_year": 1951
+        },
+        {
+            "position": "Filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala",
+            "start_year": 1955
+        },
+        {
+            "position": "Extraordinarie docent",
+            "position_english": "Associate Professor",
+            "institution": "Uppsala",
+            "start_year": 1955,
+            "end_year": 1959
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Stockholms universitet",
+            "department": "Fysik",
+            "start_year": 1960
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Vetenskapliga skrifter",
+            "field": "Vetenskap"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Svedmyr",
+            "gender": "Female",
+            "birth_date": "1924",
+            "parents": [
+                {
+                    "first_name": "Eric",
+                    "last_name": "Svensson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Skräddarmästare",
+                        "occupation_english": "Master Tailor"
+                    }
+                },
+                {
+                    "first_name": "Ester",
+                    "last_name": "S",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1951"
+    }
+}
