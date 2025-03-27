@@ -1,0 +1,190 @@
+{
+    "career": [
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Karlskrona",
+            "location": "Karlskrona",
+            "country_code": null
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1934,
+            "end_year": 1949,
+            "organization": "Luleå",
+            "location": "Luleå",
+            "country_code": null
+        },
+        {
+            "position": "chef",
+            "start_year": 1941,
+            "end_year": 1941,
+            "organization": "krigssjukhuset i Finland",
+            "location": "Finland",
+            "country_code": "FIN"
+        },
+        {
+            "position": "lasarettsunderläkare",
+            "start_year": 1923,
+            "end_year": 1926,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Gyllensvärd",
+        "middle_name": "Robert Vilhelm",
+        "gender": "Male",
+        "birth_date": "01-04-1896",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "lasarettsläkare",
+            "occupation_english": "hospital physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Vilh.",
+                "last_name": "Gyllensvärd",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "registrator",
+                    "occupation_english": "registrar"
+                }
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Geijer",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1933,
+            "end_year": null,
+            "field": "experimentell kirurgi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Karlskrona",
+    "education": [
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1923",
+            "institution": "None"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1933",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gudrun",
+            "last_name": "Graeve",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Halvor",
+                    "last_name": "Graeve",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "lasarettsläkare",
+                        "occupation_english": "hospital physician",
+                        "hisco_code_swedish": "6105.0",
+                        "hisco_description_swedish": "General Physician",
+                        "hisco_code_english": "6100.0",
+                        "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Annie",
+                    "last_name": "Gylling",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1926",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Experimentelle u. klin. Stud. über Avertinnarkose",
+            "year": "1933",
+            "type": "doktorsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1928"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1928"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1933"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1949"
+        },
+        {
+            "country": "Canada",
+            "country_code": "CAN",
+            "year": "1949"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1951"
+        }
+    ]
+}

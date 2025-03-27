@@ -1,0 +1,36 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Rut",
+        "last_name": "Almqvist",
+        "gender": "Female",
+        "occupation": null
+    },
+    "family": {
+        "spouse": {
+            "first_name": "David",
+            "last_name": "Davidsson",
+            "gender": "Male",
+            "occupation": {
+                "occupation": "köpman",
+                "occupation_english": "merchant",
+                "hisco_code_swedish": "41025.0",
+                "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                "hisco_code_english": "41025.0",
+                "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+            },
+            "parents": [
+                {
+                    "first_name": "Ebba",
+                    "last_name": "Carlsson",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1946"
+    },
+    "honors": [
+        "filosofie magister"
+    ]
+}

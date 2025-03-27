@@ -1,0 +1,121 @@
+{
+    "career": [
+        {
+            "position": "Fänrik",
+            "start_year": 1929,
+            "organization": "I 12"
+        },
+        {
+            "position": "Löjtnant",
+            "start_year": 1933
+        },
+        {
+            "position": "Elev",
+            "start_year": 1935,
+            "end_year": 1937,
+            "organization": "Krigshögskolan"
+        },
+        {
+            "position": "Aspirant",
+            "start_year": 1937,
+            "end_year": 1939,
+            "organization": "Generalstaben"
+        },
+        {
+            "position": "Kapten",
+            "start_year": 1939,
+            "organization": "Generalstaben"
+        },
+        {
+            "position": "Kapten",
+            "start_year": 1945,
+            "end_year": 1947,
+            "organization": "I 3"
+        },
+        {
+            "position": "Major",
+            "start_year": 1947,
+            "organization": "I 3"
+        },
+        {
+            "position": "Major",
+            "start_year": 1948,
+            "organization": "I i"
+        },
+        {
+            "position": "Överstelöjtnant",
+            "start_year": 1951,
+            "organization": "Generalstaben"
+        },
+        {
+            "position": "Elev",
+            "start_year": 1951,
+            "organization": "Försvarshögskolan"
+        },
+        {
+            "position": "Överstelöjtnant",
+            "start_year": 1953,
+            "end_year": 1956,
+            "organization": "I 18"
+        },
+        {
+            "position": "Överste och chef",
+            "start_year": 1956,
+            "organization": "I 15"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Rosengren",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "01-02-1908",
+        "birth_place": "Kalmar",
+        "occupation": {
+            "occupation": "Överste",
+            "occupation_english": "Colonel",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "58320.0",
+            "hisco_description_english": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Elander",
+                "last_name": "Rosengren",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Banmästare",
+                    "occupation_english": "Track Master",
+                    "hisco_code_swedish": "22675.0",
+                    "hisco_description_swedish": "Supervisor and General Foreman (Construction Work)"
+                }
+            },
+            {
+                "first_name": "Ruth",
+                "last_name": "Österberg",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Lärare",
+            "institution": "Krigshögskolan",
+            "start_year": 1943,
+            "end_year": 1945
+        },
+        {
+            "position": "Lärare",
+            "institution": "Krigshögskolan",
+            "start_year": 1948,
+            "end_year": 1953
+        }
+    ],
+    "travels": [
+        {
+            "country": "Västeuropa"
+        }
+    ]
+}

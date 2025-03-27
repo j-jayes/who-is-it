@@ -1,0 +1,180 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1908,
+            "end_year": 1909,
+            "organization": "Karolinska Institutet",
+            "location": "Stockholm",
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1908,
+            "end_year": 1909,
+            "organization": "S:t Görans sjukhus tuberkulosavdelning",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1910,
+            "end_year": 1911,
+            "organization": "Barnsjukhuset Samariten",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1911,
+            "end_year": 1913,
+            "organization": "Barnsjukhuset Simon och Math. Sachs minne",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1913,
+            "end_year": 1914,
+            "organization": "Kronprinsessan Lovisas vårdanstalt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "tillförordnad överläkare",
+            "start_year": 1914,
+            "end_year": 1914,
+            "organization": "Kronprinsessan Lovisas vårdanstalt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1914,
+            "end_year": 1918,
+            "organization": "Barnsjukhuset Simon och Math. Sachs minne",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "läkare",
+            "start_year": 1917,
+            "end_year": 1924,
+            "organization": "Allmänna barnbördshusets spädbarnsavdelning",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "konsultläkare",
+            "start_year": 1922,
+            "end_year": 1924,
+            "organization": "Allmänna barnbördshuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "tillförordnad professor",
+            "start_year": 1919,
+            "end_year": 1921,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överläkare och chef",
+            "start_year": 1924,
+            "end_year": null,
+            "organization": "Epidemisjukhuset i Stockholm",
+            "location": "Stockholm",
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Adolf",
+        "last_name": "Lichtenstein",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "01-11-1884",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "medicin doktor, docent, överläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6100.0",
+            "hisco_description_swedish": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Henr.",
+                "last_name": "Lichtenstein",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Paula",
+                "last_name": "Hirschfeld",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1917,
+            "end_year": null,
+            "field": "pediatrik"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Dagmar",
+            "last_name": "Munnich",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Herm.",
+                    "last_name": "Munnich",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "grosshandlare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "41020.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale Trade)"
+                    }
+                },
+                {
+                    "first_name": "Ada",
+                    "last_name": "Felländer",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1915",
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": "flertal europeiska länder",
+            "country_code": "string",
+            "year": "1909"
+        }
+    ]
+}

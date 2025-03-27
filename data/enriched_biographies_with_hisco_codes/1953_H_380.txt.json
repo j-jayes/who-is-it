@@ -1,0 +1,39 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Henrik",
+        "last_name": "H.",
+        "middle_name": null,
+        "gender": "Male"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Ebba",
+            "last_name": "Weck",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "07-00-1907",
+            "parents": [
+                {
+                    "first_name": "Alfred",
+                    "last_name": "W.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "fabrikör",
+                        "occupation_english": "manufacturer"
+                    }
+                },
+                {
+                    "first_name": "Hildur",
+                    "last_name": "Bergström",
+                    "middle_name": null,
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1931",
+        "divorce_year": null,
+        "children": null
+    }
+}

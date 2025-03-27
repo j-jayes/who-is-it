@@ -1,0 +1,207 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Westin",
+        "middle_name": "Egon Natanael",
+        "gender": "Male",
+        "birth_date": "27-10-1895",
+        "birth_place": "Ystad",
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "W.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "folkskollärare",
+                    "occupation_english": "public school teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13990.0",
+                    "hisco_description_english": "Other Teachers"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "tf. labor.",
+            "position_english": "acting laboratory assistant",
+            "institution": "tandläkarinstitutet",
+            "department": null,
+            "start_year": 1924,
+            "end_year": 1925,
+            "field": null
+        },
+        {
+            "position": "ord.",
+            "position_english": "chief",
+            "institution": "tandläkarinstitutet",
+            "department": null,
+            "start_year": 1925,
+            "end_year": 1927,
+            "field": null
+        },
+        {
+            "position": "tf. lär.",
+            "position_english": "acting teacher",
+            "institution": "tandläkarinstitutet",
+            "department": null,
+            "start_year": 1927,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "ord. lär. i tandfyllmkonst",
+            "position_english": "chief teacher in dental filling art",
+            "institution": "tandläkarinstitutet",
+            "department": null,
+            "start_year": 1928,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "doc.",
+            "position_english": "docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1932,
+            "end_year": null,
+            "field": "odontologi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "S. O. L:s kongress",
+            "role": "sekreterare",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Stockholm",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": "Djursholm",
+    "education": [
+        {
+            "degree": "odontologie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1915",
+            "institution": "None"
+        },
+        {
+            "degree": "tandläkarexamen",
+            "degree_level": "Master's",
+            "year": "1918",
+            "institution": "None"
+        },
+        {
+            "degree": "medicine doktorsexamen",
+            "degree_level": "Doctorate",
+            "year": "1931",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Lundholm",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "C. A. V.",
+                    "last_name": "L.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "direktör",
+                        "occupation_english": "director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Sophie",
+                    "last_name": "Dyhr",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1920",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "ett 20-tal skrifter inom tandpatologin (spec. rör. C-vitaminbristens tandinverkan, tandkaries’ etiologi, hårdsubstansombyggnadens teori etc.) samt uppsatser i kårsoc. fråg., särsk. rör. folktandvårds- o. undervisningsfrågor",
+            "year": "None",
+            "type": "skrifter",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Berlin",
+            "country_code": "DEU",
+            "year": "1923"
+        },
+        {
+            "country": "Berlin",
+            "country_code": "DEU",
+            "year": "1924"
+        },
+        {
+            "country": "Berlin",
+            "country_code": "DEU",
+            "year": "1930"
+        },
+        {
+            "country": "Köpenhamn",
+            "country_code": "DNK",
+            "year": "1927"
+        },
+        {
+            "country": "London",
+            "country_code": "GBR",
+            "year": "1930"
+        }
+    ]
+}

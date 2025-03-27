@@ -1,0 +1,151 @@
+{
+    "career": [
+        {
+            "position": "underläkare",
+            "start_year": 1915,
+            "organization": "Stockholm",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1915,
+            "organization": "Vänersborg",
+            "location": "Vänersborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1915,
+            "organization": "Malmö",
+            "location": "Malmö",
+            "country_code": "SWE"
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1923,
+            "end_year": 1931,
+            "organization": "Simrishamns lasarett",
+            "location": "Simrishamn",
+            "country_code": "SWE"
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1931,
+            "end_year": 1951,
+            "organization": "Ängelholms lasarett",
+            "location": "Ängelholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Bauer",
+        "middle_name": "Viktor",
+        "gender": "Male",
+        "birth_date": "22-01-1886",
+        "birth_place": "Malmö",
+        "occupation": {
+            "occupation": "lasarettsläkare",
+            "occupation_english": "Hospital doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Bauer",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bagaremästare",
+                    "occupation_english": "master baker",
+                    "hisco_code_swedish": "77610.0",
+                    "hisco_description_swedish": "Baker, General",
+                    "hisco_code_english": "77610.0",
+                    "hisco_description_english": "Baker, General"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Jakobsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Ängelholm",
+    "education": [
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1915",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Keyler",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "John",
+                    "last_name": "Peterson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "konsul",
+                        "occupation_english": "Consul",
+                        "hisco_code_swedish": "20210.0",
+                        "hisco_description_swedish": "Government Administrator",
+                        "hisco_code_english": "20210.0",
+                        "hisco_description_english": "Government Administrator"
+                    }
+                },
+                {
+                    "first_name": "Nanny",
+                    "last_name": "Holst-Hagberg",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1914",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "Simrishamn stadsfullmäktige",
+            "position": "stadsfullmäktige",
+            "start_year": 1923,
+            "end_year": 1931,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": null,
+    "travels": [
+        {
+            "country": "Österrike",
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

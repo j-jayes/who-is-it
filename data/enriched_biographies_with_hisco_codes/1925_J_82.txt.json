@@ -1,0 +1,214 @@
+{
+    "career": [
+        {
+            "position": "Praktiserande Läkare",
+            "start_year": 1891,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Professor i Obstetrik och Gynekologi",
+            "start_year": 1909,
+            "organization": "Akademiska sjukhuset i Uppsala",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1909,
+            "organization": "Akademiska sjukhuset i Uppsala",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1916,
+            "end_year": 1923,
+            "organization": "Akademiska sjukhuset",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Josephson",
+        "middle_name": "David",
+        "gender": "Male",
+        "birth_date": "25-02-1858",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Professor Emeritus",
+            "occupation_english": "Professor Emeritus",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Edv.",
+                "last_name": "Josephson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Hotellägare",
+                    "occupation_english": "Hotel Owner",
+                    "hisco_code_swedish": "51020.0",
+                    "hisco_description_swedish": "Working Proprietor (Hotel and Restaurant)",
+                    "hisco_code_english": "51020.0",
+                    "hisco_description_english": "Working Proprietor (Hotel and Restaurant)"
+                }
+            },
+            {
+                "first_name": "Eugenie",
+                "last_name": "Josephson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1891,
+            "field": "obstetrik och gynekologi"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Akademiska sjukhuset i Uppsala",
+            "department": null,
+            "start_year": 1909,
+            "field": "obstetrik och gynekologi"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Läkaresällskapet",
+            "role": "Ordförande",
+            "start_year": 1923,
+            "end_year": 1924,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1880",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1885",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1887",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ida",
+            "last_name": "Josephson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Wilhelm",
+                    "last_name": "J.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Grosshandlare",
+                        "occupation_english": "Wholesaler",
+                        "hisco_code_swedish": "41020.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Emelie",
+                    "last_name": "Marcus",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1887",
+        "divorce_year": null,
+        "children": null
+    },
+    "publications": [
+        {
+            "title": "Urogenitalfistlar hos kvinnan",
+            "year": "1887",
+            "type": "spec:avh",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Förlossningsoperationer, främst för praktisk läkare och studenter",
+            "year": "1898",
+            "type": "Lärobok",
+            "editions": [
+                {
+                    "edition_number": "2",
+                    "year": "1918",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Lärobok i gynekologi",
+            "year": "1902",
+            "type": "Lärobok",
+            "editions": [
+                {
+                    "edition_number": "2",
+                    "year": "1922",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Hälsosamma lärdomar",
+            "year": "1924",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

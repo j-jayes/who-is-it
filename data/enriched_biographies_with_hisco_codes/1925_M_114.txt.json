@@ -1,0 +1,203 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1907,
+            "end_year": 1913,
+            "organization": "Lunds privatelementskola",
+            "location": "Lund",
+            "country_code": null
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": "Göteborgs högre samskola",
+            "location": "Göteborg",
+            "country_code": null
+        },
+        {
+            "position": "Lektor i svenska",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": "Göteborgs högre latinläroverk",
+            "location": "Göteborg",
+            "country_code": null
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": "Lunds högre läroverk",
+            "location": "Lund",
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Mjöberg",
+        "middle_name": "Josua",
+        "gender": "Male",
+        "birth_date": "11-09-1876",
+        "birth_place": "Tostared, Älvsborgs Län",
+        "occupation": {
+            "occupation": "Rektor",
+            "occupation_english": "Principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "37040.0",
+            "hisco_description_english": "Messenger"
+        },
+        "parents": [
+            {
+                "first_name": "L.",
+                "last_name": "Mjöberg",
+                "middle_name": "J.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Komminister",
+                    "occupation_english": "Assistant Minister",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Gustava",
+                "last_name": "Salomonsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "Göteborg",
+            "department": null,
+            "start_year": 1899,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Göteborg",
+            "department": null,
+            "start_year": 1904,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Lund",
+            "department": null,
+            "start_year": 1911,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Docent i stilistik",
+            "position_english": "Docent in Stylistics",
+            "institution": "Lund",
+            "department": null,
+            "start_year": 1911,
+            "end_year": null,
+            "field": "Stilistik"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Svenska akademiens ordbok",
+            "field": "Redaktion",
+            "year": "1904-1907",
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Astrid",
+            "last_name": "Josefson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "C.",
+                    "last_name": "Josefson",
+                    "middle_name": "A.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Kyrkoherde",
+                        "occupation_english": "Vicar",
+                        "hisco_code_swedish": "14120.0",
+                        "hisco_description_swedish": "Minister of Religion",
+                        "hisco_code_english": "14120.0",
+                        "hisco_description_english": "Minister of Religion"
+                    }
+                },
+                {
+                    "first_name": "Debora",
+                    "last_name": "Dahl",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1906",
+        "divorce_year": null,
+        "children": null
+    },
+    "publications": [
+        {
+            "title": "Svensk läsebok",
+            "year": "1910",
+            "type": "Lärobok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Stilstudier i Tegnérs ungdomsdiktning",
+            "year": "1911",
+            "type": "Stilistisk studie",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Unknown",
+            "country_code": "UNK",
+            "year": "1903"
+        },
+        {
+            "country": "Unknown",
+            "country_code": "UNK",
+            "year": "1906"
+        },
+        {
+            "country": "Unknown",
+            "country_code": "UNK",
+            "year": "1912"
+        },
+        {
+            "country": "Unknown",
+            "country_code": "UNK",
+            "year": "1923"
+        }
+    ]
+}

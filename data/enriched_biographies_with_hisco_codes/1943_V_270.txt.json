@@ -1,0 +1,180 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1914,
+            "end_year": 1917,
+            "organization": "folkskoleseminariet i Örnsköldsvik",
+            "location": "Örnsköldsvik",
+            "country_code": null
+        },
+        {
+            "position": "lärare",
+            "start_year": 1914,
+            "end_year": 1917,
+            "organization": "folkskoleseminariet i Luleå",
+            "location": "Luleå",
+            "country_code": null
+        },
+        {
+            "position": "lärare",
+            "start_year": 1918,
+            "end_year": 1920,
+            "organization": "folkskoleseminariet i Luleå övningsskola",
+            "location": "Luleå",
+            "country_code": null
+        },
+        {
+            "position": "överlärare",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Ludvika",
+            "location": "Ludvika",
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Emil",
+        "last_name": "Wiklund",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "11-05-1888",
+        "birth_place": "Arnäs, Västernorrlands Län",
+        "occupation": {
+            "occupation": "överlärare",
+            "occupation_english": null,
+            "hisco_code_swedish": "13000.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "P.",
+                "last_name": "Wiklund",
+                "middle_name": "A.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "hemmansägare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Gimbergsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska överlärareförbundet",
+            "role": "ordförande",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": "Ludvika",
+    "education": [
+        {
+            "degree": "folkskoleexamen",
+            "degree_level": "Schooling",
+            "year": "1914",
+            "institution": "folkskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lalan",
+            "last_name": "Bergström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Lars",
+                    "last_name": "Bergström",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "direktör",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager"
+                    }
+                },
+                {
+                    "first_name": "Hilda",
+                    "last_name": "Johansson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "Ludvika",
+            "position": "kommunalman",
+            "start_year": 1920,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Kristen tros- och sedelära",
+            "year": "1928",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Europa",
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": "Egypten",
+            "country_code": "EGY",
+            "year": null
+        },
+        {
+            "country": "Palestina",
+            "country_code": "PSE",
+            "year": null
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1938"
+        }
+    ]
+}

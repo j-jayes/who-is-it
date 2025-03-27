@@ -1,0 +1,215 @@
+{
+    "career": [
+        {
+            "position": "kemist",
+            "start_year": 1919,
+            "end_year": 1921,
+            "organization": "Aktiebolaget Stockholms Bryggerier",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "vid Physiatric Institute",
+            "start_year": 1923,
+            "end_year": 1925,
+            "organization": "Physiatric Institute",
+            "location": "Morristown, USA",
+            "country_code": "USA"
+        },
+        {
+            "position": "assistent i biokemi",
+            "start_year": 1926,
+            "end_year": 1927,
+            "organization": "Harvard Medical School",
+            "location": "Boston",
+            "country_code": "USA"
+        },
+        {
+            "position": "laboratorieföreståndare",
+            "start_year": 1927,
+            "organization": "Aktiebolaget Stockholms Bryggerier",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "spec:lärare och föreståndare",
+            "start_year": 1932,
+            "organization": "Kungliga Tekniska Högskolans institution för jäsningslära",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "teknisk chef",
+            "start_year": 1934,
+            "end_year": 1943,
+            "organization": "Kärn-bolaget aktiebolag",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "tillförordnad speciallärare i livsmedelskemi",
+            "start_year": 1943,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Lundin",
+        "middle_name": "Harry",
+        "gender": "Male",
+        "birth_date": "19-07-1896",
+        "birth_place": "Stockholm",
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Lundin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "byggmästare",
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor"
+                }
+            },
+            {
+                "first_name": "Hedvig",
+                "last_name": "Steberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Kungliga Tekniska Högskolan",
+            "department": "teknisk biokemi",
+            "start_year": 1943
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Äppelviken",
+    "education": [
+        {
+            "degree": "civilingenjör",
+            "degree_level": "Master's",
+            "year": "1919",
+            "institution": "Kungliga Tekniska Högskolan"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1927",
+            "institution": "Harvard University, faculty of Medical Sciences"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maria",
+            "last_name": "von Wagner",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "06-06-1906",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Wilhelm",
+                    "last_name": "Ritter von Wagner",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "diplomingenjör",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Emilie",
+                    "last_name": "Heinzelmann",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1927",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "ett 50-tal avhandlingar angående biokemiska och kemiska undersökningar",
+            "year": "None",
+            "type": "avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Österrike",
+            "country_code": "AUT",
+            "year": "1921"
+        },
+        {
+            "country": "Österrike",
+            "country_code": "AUT",
+            "year": "1923"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1922"
+        },
+        {
+            "country": "Tjeckoslovakien",
+            "country_code": "CZE",
+            "year": "1935"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1935"
+        },
+        {
+            "country": "Danmark",
+            "country_code": "DNK",
+            "year": "1935"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1936"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1937"
+        },
+        {
+            "country": "Finland",
+            "country_code": "FIN",
+            "year": "1943"
+        }
+    ]
+}

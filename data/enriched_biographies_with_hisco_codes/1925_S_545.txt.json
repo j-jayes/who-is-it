@@ -1,0 +1,226 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1898,
+            "end_year": 1899,
+            "organization": "Stockholms hospital",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tjänstförrättande biträdande läkare",
+            "start_year": 1899,
+            "end_year": 1900,
+            "organization": "Uppsala hospital",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande läkare",
+            "start_year": 1900,
+            "end_year": 1904,
+            "organization": "Kristinehamns hospital",
+            "location": "Kristinehamn",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1904,
+            "organization": "Uppsala hospital och asyl",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Frey",
+        "last_name": "Svenson",
+        "middle_name": "Herman",
+        "gender": "Male",
+        "birth_date": "14-11-1866",
+        "birth_place": "Vetlanda",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Sven",
+                "last_name": "Svenson",
+                "middle_name": "Israel",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bokkamrerare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Calla",
+                "last_name": "Stålhandske",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Extra ordinarie professor",
+            "position_english": "Extra ordinary professor",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1904,
+            "end_year": 1908,
+            "field": "psykiatri"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1909,
+            "end_year": null,
+            "field": "psykiatri"
+        }
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Sinnessjukvårdspersonals löneregleringskommitté",
+            "role": "Ordförande",
+            "start_year": 1912,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Medicinalstyrelsens vetenskapliga råd",
+            "role": "Ledamot",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1891",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1897",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1903",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Clary",
+            "last_name": "Ohlsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Joh",
+                    "last_name": "Ohlsson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Ingenjör direktör",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Clara",
+                    "last_name": "Beamesh",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1902",
+        "divorce_year": null,
+        "children": null
+    },
+    "publications": [
+        {
+            "title": "Psykiatriskpsykolog, studier till jagets mekanism",
+            "year": "1903",
+            "type": "book"
+        },
+        {
+            "title": "Om anstaltsvård av sinnessjuka",
+            "year": "1904",
+            "type": "book"
+        },
+        {
+            "title": "Själslivets hygien",
+            "year": "1906",
+            "type": "book",
+            "editions": [
+                {
+                    "edition_number": "2",
+                    "year": "1906",
+                    "publisher": null,
+                    "notes": null
+                }
+            ]
+        },
+        {
+            "title": "Lärobok i sinnessjukvård",
+            "year": "1907",
+            "type": "book"
+        },
+        {
+            "title": "Frihet, ansvar och beskaffenhet",
+            "year": "1908",
+            "type": "book"
+        },
+        {
+            "title": "Den straffrättsliga tillräkneligheten",
+            "year": "1909",
+            "type": "book"
+        },
+        {
+            "title": "Psychopath. Verbrecher 1-2",
+            "year": "1910-1912",
+            "type": "book",
+            "volumes": "1-2"
+        },
+        {
+            "title": "Den nya äktenskapslagens praktiska medicinska konsekvenser",
+            "year": "1915",
+            "type": "article"
+        },
+        {
+            "title": "Gustaf Frödings diktning",
+            "year": "1916",
+            "type": "article"
+        },
+        {
+            "title": "Vanföreställningarnas och sinnesvillornas psykologi",
+            "year": "1919",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

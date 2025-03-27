@@ -1,0 +1,195 @@
+{
+    "career": [
+        {
+            "position": "överläkare",
+            "start_year": 1933,
+            "organization": "Stockholms epidemisjukhus",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "mikroläkare",
+            "start_year": 1921,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1925,
+            "end_year": 1933,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Rolf",
+        "last_name": "Bergman",
+        "middle_name": "Kjerulf",
+        "gender": "Male",
+        "birth_date": "13-09-1897",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "docent, överläkare",
+            "occupation_english": "Docent, Chief Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Otto",
+                "last_name": "Bergman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Elise",
+                "last_name": "Albrechtsen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1930,
+            "field": "bakteriologi och serologi"
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1933,
+            "field": "bakteriologi och hygien"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Stockholm",
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1923",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1925",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Harriet",
+            "last_name": "Rogberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Olof",
+                    "last_name": "Rogberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "regementspastor",
+                        "occupation_english": "Regimental pastor",
+                        "hisco_code_swedish": "14120.0",
+                        "hisco_description_swedish": "Minister of Religion",
+                        "hisco_code_english": "14120.0",
+                        "hisco_description_english": "Minister of Religion"
+                    }
+                },
+                {
+                    "first_name": "Harriet",
+                    "last_name": "Kennedy",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1926",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "ett 60-tal skrifter",
+            "year": "None",
+            "type": "skrifter",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1926"
+        },
+        {
+            "country": "Spanien",
+            "country_code": "ESP",
+            "year": "1927"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1927"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1929"
+        },
+        {
+            "country": "Österrike",
+            "country_code": "AUT",
+            "year": "1930"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE",
+            "year": "1930"
+        }
+    ]
+}

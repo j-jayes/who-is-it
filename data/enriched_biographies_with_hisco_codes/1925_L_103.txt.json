@@ -1,0 +1,141 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1916,
+            "organization": "finansdepartementet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "tillförordnad revisor",
+            "start_year": 1917,
+            "organization": "Överintendentsämbetet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "extra ordinarie assessor",
+            "start_year": 1917,
+            "organization": "kammarrätten",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "revisor",
+            "start_year": 1918,
+            "organization": "Överintendentsämbetet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "assessor",
+            "start_year": 1921,
+            "organization": "Överintendentsämbetet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "ordförande",
+            "start_year": 1917,
+            "end_year": 1922,
+            "organization": "taxeringsnämnden",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1917,
+            "end_year": 1924,
+            "organization": "Stockholms prövningsnämnd",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1922,
+            "organization": "bevillningsutskottets andra avdelning",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Leijonmarck",
+        "middle_name": "Gustaf",
+        "gender": "Male",
+        "birth_date": "08-11-1885",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "assessor",
+            "occupation_english": "assessor",
+            "hisco_code_swedish": "12210.0",
+            "hisco_description_swedish": "Judge"
+        },
+        "parents": [
+            {
+                "first_name": "Ludvig",
+                "last_name": "Leijonmarck",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kanslisekreterare",
+                    "occupation_english": "chancellor secretary",
+                    "hisco_code_swedish": "30000.0",
+                    "hisco_description_swedish": "Clerical or Related Worker, Specialisation Unknown",
+                    "hisco_code_english": "32120.0",
+                    "hisco_description_english": "Stenographic Secretary"
+                }
+            },
+            {
+                "first_name": "Henriette",
+                "last_name": "Nauckhoff",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "juris kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1910",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maja",
+            "last_name": "Traung",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "00-00-1889",
+            "parents": [
+                {
+                    "first_name": "Th.",
+                    "last_name": "Traung",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "skeppsredare",
+                        "occupation_english": "shipowner",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "41040.0",
+                        "hisco_description_english": "Working Proprietor (Hiring Out)"
+                    }
+                },
+                {
+                    "first_name": "Elin",
+                    "last_name": "Tenow",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1917"
+    },
+    "honors": null
+}

@@ -1,0 +1,115 @@
+{
+    "career": [
+        {
+            "position": "folkskollärare",
+            "start_year": 1884,
+            "organization": "v. Jakobs folkskola",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "lärare",
+            "start_year": 1888,
+            "organization": "Stockholms folkskola",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "förste folkskoleinspektör",
+            "start_year": 1905,
+            "organization": "Stockholms folkskoledirektör",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Christofer",
+        "last_name": "Wassberg",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "07-03-1863",
+        "birth_place": "Fröskog, Älvsborgs Län",
+        "occupation": {
+            "occupation": "folkskollärare",
+            "occupation_english": "public school teacher",
+            "hisco_code_swedish": "13320.0",
+            "hisco_description_swedish": "FirstLevel Education Teacher",
+            "hisco_code_english": "13990.0",
+            "hisco_description_english": "Other Teachers"
+        },
+        "parents": [
+            {
+                "first_name": "Jonas",
+                "last_name": "W.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Pettersdtr Ingemarsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "folkskollärareexamen",
+            "degree_level": "Bachelor's",
+            "year": "1884",
+            "institution": "Karlstad"
+        },
+        {
+            "degree": "Nääs slöjdlärarseminarium",
+            "degree_level": "Schooling",
+            "year": "1885",
+            "institution": "Nääs"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elin",
+            "last_name": "Vilhelmina Holmqvist",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "marriage_year": "1892",
+        "divorce_year": null,
+        "children": null
+    },
+    "honors": [
+        "GV Ol M 12"
+    ],
+    "publications": [
+        {
+            "title": "Stockholms folkskolors lekserie I",
+            "year": "1901",
+            "type": "book"
+        },
+        {
+            "title": "Stockholms folkskolors lekserie II",
+            "year": "1903",
+            "type": "book"
+        },
+        {
+            "title": "Stockholms folkskolors lekserie tilläggshäfte I",
+            "year": "1906",
+            "type": "book"
+        },
+        {
+            "title": "Stockholms folkskolors lekserie tilläggshäfte II",
+            "year": "1910",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,168 @@
+{
+    "career": [
+        {
+            "position": "medarbetare",
+            "start_year": 1905,
+            "organization": "Nordsvenska Dagbladet"
+        },
+        {
+            "position": "medarbetare",
+            "start_year": 1905,
+            "organization": "Söderhamns Kuriren"
+        },
+        {
+            "position": "assistent",
+            "start_year": 1907,
+            "organization": "Telegrafverket"
+        },
+        {
+            "position": "telegrafkontrollör",
+            "start_year": 1929,
+            "organization": "Telegrafverket"
+        },
+        {
+            "position": "förste telegrafkontrollör",
+            "start_year": 1941,
+            "organization": "Telegrafverket"
+        },
+        {
+            "position": "redaktör",
+            "start_year": 1913,
+            "organization": "Svenska Telegraftidningen"
+        },
+        {
+            "position": "medarbetare",
+            "start_year": 1914,
+            "organization": "Afton-tidningen"
+        },
+        {
+            "position": "redaktionssekreterare",
+            "start_year": 1919
+        },
+        {
+            "position": "medredaktör",
+            "start_year": 1926,
+            "organization": "Svensk Trafiktidning"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Eriksson",
+        "middle_name": "Einar",
+        "gender": "Male",
+        "birth_date": "01-11-1886",
+        "birth_place": "Örebro",
+        "occupation": {
+            "occupation": "redaktör, författare, förste telegrafkontrollör",
+            "occupation_english": "Editor, Author, First Telegraph Controller"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Eriksson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "polistjänsteman",
+                    "occupation_english": "police officer",
+                    "hisco_code_swedish": "58220.0",
+                    "hisco_description_swedish": "Policeman and other Maintainers of Law and Order (except Military)",
+                    "hisco_code_english": "58220.0",
+                    "hisco_description_english": "Policeman and other Maintainers of Law and Order (except Military)"
+                }
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Eriksson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1905",
+            "institution": "Örebro"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Greta",
+            "last_name": "Lindqvist",
+            "gender": "Female",
+            "birth_date": "01-01-1891",
+            "parents": [
+                {
+                    "first_name": "Henning",
+                    "last_name": "Lindqvist",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "lantbrukare",
+                        "occupation_english": "farmer",
+                        "hisco_code_swedish": "61110.0",
+                        "hisco_description_swedish": "General Farmer",
+                        "hisco_code_english": "61110.0",
+                        "hisco_description_english": "General Farmer"
+                    }
+                },
+                {
+                    "first_name": "Selma",
+                    "last_name": "Lindqvist",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1917"
+    },
+    "publications": [
+        {
+            "title": "Här vilar inte sorgen tung",
+            "year": "1910",
+            "type": "bok",
+            "signature": "Einar Erix"
+        },
+        {
+            "title": "Himlar och hälveten",
+            "year": "1911",
+            "type": "bok",
+            "signature": "Einar Erix"
+        },
+        {
+            "title": "Drömmen om kvinnan",
+            "year": "1911",
+            "type": "bok",
+            "signature": "Einar Erix"
+        },
+        {
+            "title": "Backi sakrament",
+            "year": "1913",
+            "type": "bok",
+            "signature": "Einar Erix"
+        },
+        {
+            "title": "flera arbeten om radio",
+            "year": "1923-1924",
+            "type": "bok",
+            "signature": "Einar Erix"
+        },
+        {
+            "title": "Ett år en vår",
+            "year": "1938",
+            "type": "bok",
+            "signature": "Einar Erix"
+        },
+        {
+            "title": "Karola Arholm telefonist",
+            "year": "1940",
+            "type": "bok",
+            "signature": "Einar Erix"
+        },
+        {
+            "title": "Diktatorn i Malmtuna",
+            "year": "1941",
+            "type": "bok",
+            "signature": "Einar Erix"
+        }
+    ],
+    "travels": null
+}

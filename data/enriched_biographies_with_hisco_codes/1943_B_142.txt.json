@@ -1,0 +1,151 @@
+{
+    "career": [
+        {
+            "position": "Extra ordinarie postexpeditör",
+            "start_year": 1899,
+            "organization": "Postverket"
+        },
+        {
+            "position": "Notarie",
+            "start_year": 1915,
+            "organization": "Generalpoststyrelsen"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1921
+        },
+        {
+            "position": "Byrådirektör",
+            "start_year": 1927
+        },
+        {
+            "position": "Byråchef",
+            "start_year": 1936,
+            "end_year": 1942
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Bildt",
+        "middle_name": "Arvid Gabriel",
+        "gender": "Male",
+        "birth_date": "05-11-1877",
+        "birth_place": "Morlanda, Göteborgs och Bohus Län",
+        "occupation": {
+            "occupation": "Före detta byråchef",
+            "occupation_english": "Former Head of Department",
+            "hisco_code_swedish": "21000.0",
+            "hisco_description_swedish": "Manager, Specialisation Unknown",
+            "hisco_code_english": "61110.0",
+            "hisco_description_english": "General Farmer"
+        },
+        "parents": [
+            {
+                "first_name": "Knut",
+                "last_name": "Bildt",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapten",
+                    "occupation_english": "Sea Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Amalia",
+                "last_name": "Apelquist",
+                "gender": "Female"
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Vägföreningen"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Stockholms stads andra hyresnämnd",
+            "role": "Sekreterare",
+            "start_year": 1917,
+            "end_year": 1922
+        },
+        {
+            "committee_name": "Luftfartsutredningen",
+            "role": "Ledamot",
+            "start_year": 1934
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Signe",
+            "last_name": "Borg",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "J. P.",
+                    "last_name": "Borg",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Underlöjtnant",
+                        "occupation_english": "Second Lieutenant",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "58320.0",
+                        "hisco_description_english": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Emma",
+                    "last_name": "Petterson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1911",
+        "divorce_year": null
+    },
+    "honors": [
+        "Svenska Turistföreningens Silvermedalj"
+    ],
+    "political_positions": [
+        {
+            "organization": "Svenska Postverket",
+            "position": "Ombud",
+            "start_year": 1930,
+            "end_year": 1931,
+            "focus_area": null,
+            "significance": "Konferens i Bryssel och Prag"
+        },
+        {
+            "organization": "Världspostkongressen i Kairo",
+            "position": "Ombud",
+            "start_year": 1934,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Belgien",
+            "country_code": "BEL",
+            "year": "1930"
+        },
+        {
+            "country": "Tjeckien",
+            "country_code": "CZE",
+            "year": "1931"
+        },
+        {
+            "country": "Egypten",
+            "country_code": "EGY",
+            "year": "1934"
+        }
+    ]
+}

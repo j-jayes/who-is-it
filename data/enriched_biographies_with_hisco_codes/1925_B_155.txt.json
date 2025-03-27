@@ -1,0 +1,203 @@
+{
+    "career": [
+        {
+            "position": "Underlöjtnant",
+            "start_year": 1871,
+            "organization": "Livregementets dragoner",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Kapten",
+            "start_year": 1883,
+            "organization": "Generalstaben",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överstelöjtnant",
+            "start_year": 1893,
+            "organization": "Smålands husarregemente",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överste",
+            "start_year": 1896,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överste",
+            "start_year": 1902,
+            "organization": "Livregementets dragoner",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Generalmajor",
+            "start_year": 1904,
+            "organization": "Chef för intendenturdepartementet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1905,
+            "end_year": 1919,
+            "organization": "Generalstaben",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Generallöjtnant",
+            "start_year": 1910,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "General",
+            "start_year": 1919,
+            "organization": "Armén",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Knut",
+        "last_name": "Bildt",
+        "middle_name": "Gillis",
+        "gender": "Male",
+        "birth_date": "13-07-1854",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "General",
+            "occupation_english": "General",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "58320.0",
+            "hisco_description_english": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Gillis",
+                "last_name": "Bildt",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Statsminister och riksmarskalk, friherre",
+                    "occupation_english": "Prime Minister and Marshal of the Realm, Baron",
+                    "hisco_code_swedish": "20110.0",
+                    "hisco_description_swedish": "Legislative Official",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Rosa",
+                "last_name": "Dufva",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Kommittén angående fasta försvaret",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Kustartillerikommittén",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Krigslagstiftningskommittén",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Héléne",
+            "last_name": "Åkerhielm",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Oscar",
+                    "last_name": "Åkerhielm",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Kapten, friherre",
+                        "occupation_english": "Captain, Baron",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "58320.0",
+                        "hisco_description_english": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Fredrique",
+                    "last_name": "Åkerhielm",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "Friherrinna",
+                        "occupation_english": "Baroness",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "61110.0",
+                        "hisco_description_english": "General Farmer"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1883"
+    },
+    "honors": [
+        "LKrVA 1891",
+        "HedL ÖS 1907"
+    ],
+    "political_positions": [
+        {
+            "organization": "Första Kammaren",
+            "position": "Ledamot",
+            "start_year": 1900,
+            "end_year": 1908,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "Statsutskottet",
+            "position": "Ledamot",
+            "start_year": 1900,
+            "end_year": 1908,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "Försvarsutskottet",
+            "position": "Ledamot",
+            "start_year": 1901,
+            "end_year": 1901,
+            "focus_area": null,
+            "significance": null
+        }
+    ]
+}

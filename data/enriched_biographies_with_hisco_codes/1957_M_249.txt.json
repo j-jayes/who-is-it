@@ -1,0 +1,133 @@
+{
+    "career": [
+        {
+            "position": "Laborator",
+            "start_year": 1928,
+            "end_year": 1932,
+            "organization": "Biokemiska institutionen vid Stockholms Högskola",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Personlig Professor i Jäsningkemi",
+            "start_year": 1932,
+            "end_year": 1946,
+            "organization": "Stockholms Högskola",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i Organisk Kemi och Biokemi",
+            "start_year": 1946,
+            "organization": "Stockholms Högskola",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Myrbäck",
+        "middle_name": "David Reinhold",
+        "gender": "Male",
+        "birth_date": "07-09-1900",
+        "birth_place": "Vendel, Uppsala Län",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Herman",
+                "last_name": "Myrbäck",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Redaktör",
+                    "occupation_english": "Editor",
+                    "hisco_code_swedish": "15920.0",
+                    "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+                    "hisco_code_english": "15120.0",
+                    "hisco_description_english": "Author"
+                }
+            },
+            {
+                "first_name": "Helena",
+                "last_name": "Lundgren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie Kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "None",
+            "start_year": 1922
+        },
+        {
+            "position": "Filosofie Licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "None",
+            "start_year": 1923
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "None",
+            "department": "Biokemi",
+            "start_year": 1926
+        },
+        {
+            "position": "Filosofie Doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "None",
+            "start_year": 1927
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Ledamot av Vetenskapsakademien",
+            "field": "Vetenskap",
+            "year": "1943",
+            "significance": null,
+            "recognized_by": "Vetenskapsakademien"
+        },
+        {
+            "title": "Ledamot av Ingenjörsvetenskapsakademien",
+            "field": "Ingenjörsvetenskap",
+            "year": "1943",
+            "significance": null,
+            "recognized_by": "Ingenjörsvetenskapsakademien"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Die Methoden der Fermentforschung (tills. m. E. Hamann)",
+            "year": "1941",
+            "type": "bok"
+        },
+        {
+            "title": "The Enzymes (tills. m. J. B. Sumner)",
+            "year": "None",
+            "type": "bok"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Köpenhamn",
+            "country_code": "DNK",
+            "year": "1927"
+        },
+        {
+            "country": "Ludwigshafen",
+            "country_code": "DEU",
+            "year": "1928"
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Hagendahl",
+        "middle_name": "Oskar Harald",
+        "gender": "Male",
+        "birth_date": "31-08-1889",
+        "birth_place": "Örebro",
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Hagendahl",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Hindberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "lektor",
+            "position_english": "lecturer",
+            "institution": "Jönköping",
+            "department": null,
+            "start_year": 1921,
+            "end_year": null,
+            "field": "latin och grekiska"
+        },
+        {
+            "position": "lektor",
+            "position_english": "lecturer",
+            "institution": "latinläroverket i Göteborg",
+            "department": null,
+            "start_year": 1927,
+            "end_year": 1938,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Göteborgs Högskola",
+            "department": null,
+            "start_year": 1927,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Göteborgs Högskola",
+            "department": null,
+            "start_year": 1938,
+            "end_year": null,
+            "field": "klassiska språk"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "studiekår",
+            "role": "inspektor",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "studiekår",
+            "role": "inspektor",
+            "start_year": 1945,
+            "end_year": 1947,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "statsstipendienämnden",
+            "role": "ordförande",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": "Göteborg",
+    "education": [
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1918",
+            "institution": "None"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1921",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Tonny",
+            "last_name": "Verduin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        }
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Ledamot av Vetenskaps- och Vitterhetssamhället i Göteborg (LVVS) 1934",
+        "Ledamot av Humanistiska Vetenskapssamfundet i Lund (LHA) 1944"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "stadsfullmäktige",
+            "position": "ledamot",
+            "start_year": 1943,
+            "end_year": 1946,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Studia Åmmianea",
+            "year": "1921",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Roms historia i Bonniers världshistoria 1-2",
+            "year": "1926-1929",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Lingua Latina, latinsk elementarbok",
+            "year": "1931",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "La prose métrique d’Arnobe",
+            "year": "1937",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Romarna i Britannien",
+            "year": "1946",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": "1923"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1924"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1925"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1926"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1929"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1929"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1946"
+        }
+    ]
+}

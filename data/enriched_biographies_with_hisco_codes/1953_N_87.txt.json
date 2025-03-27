@@ -1,0 +1,135 @@
+{
+    "career": [
+        {
+            "position": "medicin licentiat",
+            "start_year": 1916,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tjänstgörande vid psykiatriska sjukhuset i Stockholm",
+            "start_year": 1916,
+            "organization": "Psykiatriska sjukhuset",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tjänstgörande vid S:t Lars sjukhus i Lund",
+            "start_year": 1916,
+            "organization": "S:t Lars sjukhus",
+            "location": "Lund",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tjänstgörande vid Birgittas sjukhus i Vadstena",
+            "start_year": 1916,
+            "organization": "Birgittas sjukhus",
+            "location": "Vadstena",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tjänstgörande vid Sundby sjukhus i Strängnäs",
+            "start_year": 1916,
+            "organization": "Sundby sjukhus",
+            "location": "Strängnäs",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tillförordnad överläkare",
+            "start_year": 1926,
+            "end_year": 1926,
+            "organization": "Furunäsets sjukhus",
+            "location": "Piteå",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare och sjukhuschef",
+            "start_year": 1929,
+            "end_year": 1949,
+            "organization": "S:t Gertruds sjukhus",
+            "location": "Västervik",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Josef",
+        "last_name": "Nilsson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "28-12-1884",
+        "birth_place": "Malmö",
+        "occupation": {
+            "occupation": "Före detta överläkare",
+            "occupation_english": "Former Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "7990.0",
+            "hisco_description_english": "Other Medical, Dental, Veterinary and Related Workers"
+        },
+        "parents": [
+            {
+                "first_name": "Oskar",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "byggmästare",
+                    "occupation_english": "builder",
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor",
+                    "hisco_code_english": "95910.0",
+                    "hisco_description_english": "Housebuilder, General"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Ekelund",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "community_involvement": [
+        {
+            "role": "Ordförande",
+            "organization": "Västerviks Orkesterförening"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Lindborg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Karl",
+                    "last_name": "Lindborg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "pastor",
+                        "occupation_english": "pastor",
+                        "hisco_code_swedish": "14120.0",
+                        "hisco_description_swedish": "Minister of Religion",
+                        "hisco_code_english": "14120.0",
+                        "hisco_description_english": "Minister of Religion"
+                    }
+                },
+                {
+                    "first_name": "Ida",
+                    "last_name": "Jonsson",
+                    "middle_name": "Sofia",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1914"
+    }
+}

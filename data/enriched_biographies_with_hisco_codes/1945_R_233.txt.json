@@ -1,0 +1,119 @@
+{
+    "career": [
+        {
+            "position": "tillförordnad assistent",
+            "start_year": 1936,
+            "organization": "statens farmacevtiska laboratorium"
+        },
+        {
+            "position": "laborator",
+            "start_year": 1938,
+            "organization": "statens farmacevtiska laboratorium"
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1942,
+            "organization": "statens farmacevtiska laboratorium"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Rydin",
+        "middle_name": "Håkan",
+        "gender": "Male",
+        "birth_date": "30-08-1902",
+        "birth_place": "Seglora, Älvsborgs Län",
+        "occupation": {
+            "occupation": "medicinsk doktor",
+            "occupation_english": "Medical Doctor",
+            "hisco_code_swedish": "6100.0",
+            "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "R",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kamrer",
+                    "occupation_english": "Comptroller",
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Jenny",
+                "last_name": "Fagerström",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Uppsala universitet",
+            "department": "farmakologi",
+            "start_year": 1935,
+            "field": "farmakologi"
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Karolinska institutet",
+            "department": null,
+            "start_year": 1942,
+            "field": "farmakologi"
+        }
+    ],
+    "publications": [
+        {
+            "title": "ett 50-tal skrifter inom farmakologi och fysiologi",
+            "year": "None",
+            "type": "skrifter"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE"
+        },
+        {
+            "country": "Belgien",
+            "country_code": "BEL"
+        },
+        {
+            "country": "Holland",
+            "country_code": "NLD"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1934"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1935"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1936"
+        }
+    ]
+}

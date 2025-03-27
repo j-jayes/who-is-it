@@ -1,0 +1,159 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1933,
+            "organization": "Kungliga Biblioteket",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tf. 2:e bibliotekarie",
+            "start_year": 1943,
+            "organization": "Kungliga Biblioteket",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Presskommissarie",
+            "start_year": 1935,
+            "end_year": 1936,
+            "organization": "Dramatiska Teatern",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1937,
+            "organization": "Ord och Bild",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1940,
+            "organization": "Svenska humanistiska förbundet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medlem",
+            "start_year": 1940,
+            "organization": "Nordens Frihets redaktionskommitté",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Rinman",
+        "middle_name": "Erik Reinhold",
+        "gender": "Male",
+        "birth_date": "01-04-1905",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Biblioteksamanuens, redaktör",
+            "occupation_english": "Library Assistant, Editor",
+            "hisco_code_swedish": "15920.0",
+            "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+            "hisco_code_english": "19120.0",
+            "hisco_description_english": "Librarian"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Rinman",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Redaktör",
+                    "occupation_english": "Editor",
+                    "hisco_code_swedish": "15920.0",
+                    "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+                    "hisco_code_english": "15120.0",
+                    "hisco_description_english": "Author"
+                }
+            },
+            {
+                "first_name": "Elisabet",
+                "last_name": "von Essen",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1927",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Doctorate",
+            "year": "1932",
+            "institution": "Stockholms Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunilla",
+            "last_name": "Edwards",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Rudolf",
+                    "last_name": "Edwards",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Kapten",
+                        "occupation_english": "Captain",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "4215.0",
+                        "hisco_description_english": "Ship's Master (Sea)"
+                    }
+                },
+                {
+                    "first_name": "Hjördis",
+                    "last_name": "Christenson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1936"
+    },
+    "publications": [
+        {
+            "title": "Runebergs samlade skrifter. 1",
+            "year": "1933",
+            "type": "book",
+            "publisher": "Svenska Vitterhetssamfundet"
+        },
+        {
+            "title": "Litteraturhistoriska studier",
+            "year": "None",
+            "type": "study",
+            "signature": "S. R-n"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Finland",
+            "country_code": "FIN",
+            "year": "1929"
+        },
+        {
+            "country": "Finland",
+            "country_code": "FIN",
+            "year": "1931"
+        },
+        {
+            "country": "Finland",
+            "country_code": "FIN",
+            "year": "1935"
+        }
+    ]
+}

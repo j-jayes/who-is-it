@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "lektor",
+            "start_year": 1932,
+            "organization": "högre allmänna läroverket för flickor på Norrmalm",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "ordförande",
+            "start_year": 1927,
+            "end_year": 1930,
+            "organization": "Stockholms högre folkskolors länförening",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1930,
+            "organization": "svenska fornskriftsällskapet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1934,
+            "organization": "föreningen för svensk kulturhistoria",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1936,
+            "organization": "Svenska skolmäns",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "vice ordförande",
+            "start_year": 1936,
+            "organization": "Svenska skolmäns",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "redaktör",
+            "start_year": 1933,
+            "organization": "tidskriften Rig",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "ledamot",
+            "start_year": 1930,
+            "end_year": 1933,
+            "organization": "sakkunniga rörande akademiska befordringsväsendet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1930,
+            "end_year": 1933,
+            "organization": "sakkunniga rörande akademiska befordringsväsendet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "ledamot",
+            "start_year": 1932,
+            "end_year": 1933,
+            "organization": "rörande prokanslersinstitutionen",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1932,
+            "end_year": 1933,
+            "organization": "rörande prokanslersinstitutionen",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Alfred",
+        "last_name": "Kraft",
+        "middle_name": "Salomon",
+        "gender": "Male",
+        "birth_date": "08-06-1898",
+        "birth_place": "Löderup, Kristianstads Län",
+        "occupation": {
+            "occupation": "docent, lektor",
+            "occupation_english": "docent, lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "J.",
+                "last_name": "Kraft",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "furir",
+                    "occupation_english": "corporal",
+                    "hisco_code_swedish": "58330.0",
+                    "hisco_description_swedish": "NonCommissioned Officer",
+                    "hisco_code_english": "58330.0",
+                    "hisco_description_english": "NonCommissioned Officer"
+                }
+            },
+            {
+                "first_name": "H.",
+                "last_name": "Hansson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Stockholms högskola",
+            "department": null,
+            "start_year": 1929,
+            "field": "historia"
+        },
+        {
+            "position": "uppehållen professor",
+            "position_english": null,
+            "institution": "Uppsala universitet",
+            "department": null,
+            "start_year": 1930,
+            "field": "historia"
+        },
+        {
+            "position": "uppehållen professor",
+            "position_english": null,
+            "institution": "Uppsala universitet",
+            "department": null,
+            "start_year": 1937,
+            "end_year": 1938,
+            "field": "kyrkohistoria"
+        },
+        {
+            "position": "uppehållen professor",
+            "position_english": null,
+            "institution": "Stockholms högskola",
+            "department": null,
+            "start_year": 1940,
+            "field": "historia"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Textstudier till Birgittas revelationer",
+            "year": "1929",
+            "type": "gradualavhandling"
+        },
+        {
+            "title": "Kring Erikskrönikan",
+            "year": "1932",
+            "type": "bok"
+        },
+        {
+            "title": "Sveriges historia till våra dagar: avsnittet 1448-1520",
+            "year": "1944",
+            "type": "bok"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Prag",
+            "country_code": "CZE",
+            "year": "1926"
+        },
+        {
+            "country": "Bayern",
+            "country_code": "DEU",
+            "year": "1928"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": "1930"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": "1935"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1938"
+        }
+    ]
+}

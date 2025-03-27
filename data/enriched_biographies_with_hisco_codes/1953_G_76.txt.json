@@ -1,0 +1,174 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1938,
+            "end_year": 1946,
+            "organization": "Karolinska Institutet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Docentstipendiat",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "Karolinska Institutet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Forskarstipendiat",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Professor",
+            "start_year": 1950,
+            "end_year": null,
+            "organization": "Göteborgs medicinska högskola",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Bo",
+        "last_name": "Gernandt",
+        "middle_name": "Ernest",
+        "gender": "Male",
+        "birth_date": "28-08-1915",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ernest",
+                "last_name": "Gernandt",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fabrikör",
+                    "occupation_english": "Manufacturer"
+                }
+            },
+            {
+                "first_name": "Fanny",
+                "last_name": "Acharius",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Medicine Licentiat",
+            "position_english": "Medical Licentiate",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1944,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Medicine Doktor",
+            "position_english": "Medical Doctor",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1946,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": "Fysiologi",
+            "start_year": 1946,
+            "end_year": null,
+            "field": "Fysiologi"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Göteborgs medicinska högskola",
+            "department": "Fysiologi",
+            "start_year": 1950,
+            "end_year": null,
+            "field": "Fysiologi"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Arbete",
+            "field": "Andningsfysiologi, cirkulationsfysiologi, nervfysiologi och sinnesfysiologi",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ruth",
+            "last_name": "Sundqvist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Rödakorssyster",
+                "occupation_english": "Red Cross Nurse",
+                "hisco_code_swedish": "14990.0",
+                "hisco_description_swedish": "Other Workers in Religion",
+                "hisco_code_english": "7110.0",
+                "hisco_description_english": "Professional Nurse, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Hjalmar",
+                    "last_name": "Sundqvist",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Ingenjör",
+                        "occupation_english": "Engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Maja",
+                    "last_name": "Fredén",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1939"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1948-1949"
+        }
+    ]
+}

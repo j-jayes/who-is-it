@@ -1,0 +1,164 @@
+{
+    "career": [
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1935,
+            "organization": "Växjö lasarett",
+            "location": "Växjö",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1929,
+            "end_year": 1935,
+            "organization": "Karlskrona lasarett",
+            "location": "Karlskrona",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Adolf",
+        "last_name": "Lindblom",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "10-05-1898",
+        "birth_place": "Jönköping",
+        "occupation": {
+            "occupation": "Lasarettsläkare",
+            "occupation_english": "Hospital Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Lindblom",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Tandläkare",
+                    "occupation_english": "Dentist",
+                    "hisco_code_swedish": "6310.0",
+                    "hisco_description_swedish": "Dentist, General",
+                    "hisco_code_english": "6310.0",
+                    "hisco_description_english": "Dentist, General"
+                }
+            },
+            {
+                "first_name": "Ottilia",
+                "last_name": "Sjöholm",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Växjö",
+    "education": [
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1924",
+            "institution": "None"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1926",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Marthe",
+            "last_name": "Winckler",
+            "middle_name": "Eugenia",
+            "gender": "Female",
+            "birth_date": "04-XX-1904",
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "Winckler",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Ingenjör",
+                        "occupation_english": "Engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Jenny",
+                    "last_name": "Ahlström",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1926",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Undersökningar om den pneumothoraxbehandlade lungans funktionsduglighet",
+            "year": "1926",
+            "type": "akademisk avhandling"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1931"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1931"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE",
+            "year": "1931"
+        },
+        {
+            "country": "Österrike",
+            "country_code": "AUT",
+            "year": "1931"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1939"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1939"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE",
+            "year": "1939"
+        },
+        {
+            "country": "Österrike",
+            "country_code": "AUT",
+            "year": "1939"
+        }
+    ]
+}

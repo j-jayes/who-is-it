@@ -1,0 +1,105 @@
+{
+    "career": [
+        {
+            "position": "länsveterinär",
+            "start_year": 1904,
+            "end_year": null,
+            "organization": "Gästrikl.",
+            "location": "Gävle",
+            "country_code": null
+        },
+        {
+            "position": "exportbesiktningsveterinär",
+            "start_year": 1907,
+            "end_year": null,
+            "organization": null,
+            "location": "Gävle",
+            "country_code": null
+        },
+        {
+            "position": "distriktsveterinär",
+            "start_year": 1894,
+            "end_year": null,
+            "organization": null,
+            "location": "Gysinge",
+            "country_code": null
+        },
+        {
+            "position": "veterinär",
+            "start_year": 1904,
+            "end_year": null,
+            "organization": "medicin styrelsens veterinär råd",
+            "location": "Skåne",
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Jonas",
+        "last_name": "Högvall",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "26-07-1863",
+        "birth_place": "Föllinge, Jämtlands Län",
+        "occupation": {
+            "occupation": "länsveterinär",
+            "occupation_english": "County Veterinarian",
+            "hisco_code_swedish": "6510.0",
+            "hisco_description_swedish": "Veterinarian, General",
+            "hisco_code_english": "6510.0",
+            "hisco_description_english": "Veterinarian, General"
+        },
+        "parents": [
+            {
+                "first_name": "Öl",
+                "last_name": "Eriksson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1886",
+            "institution": "Östersund"
+        },
+        {
+            "degree": "veterinärexamen",
+            "degree_level": "Bachelor's",
+            "year": "1890",
+            "institution": "None"
+        },
+        {
+            "degree": "länsveterinärexamen",
+            "degree_level": "Bachelor's",
+            "year": "1902",
+            "institution": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Danmark",
+            "country_code": "DNK",
+            "year": "1899"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1899"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE",
+            "year": "1899"
+        }
+    ]
+}

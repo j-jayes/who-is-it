@@ -1,0 +1,152 @@
+{
+    "career": [
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1917,
+            "organization": "Stockholm",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "James",
+        "last_name": "Strandberg",
+        "middle_name": "Viktor",
+        "gender": "Male",
+        "birth_date": "09-03-1883",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Georg",
+                "last_name": "Strandberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bankir",
+                    "occupation_english": "Banker",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "44140.0",
+                    "hisco_description_english": "Stock Broker"
+                }
+            },
+            {
+                "first_name": "Jane",
+                "last_name": "Kempff",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1922,
+            "field": "Syfilidologi och dermatologi"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1936,
+            "field": null
+        }
+    ],
+    "board_memberships": [
+        {
+            "position": "Överläkare",
+            "organization": "Sjukhuset S:t Göran"
+        },
+        {
+            "position": "Överläkare och Direktör",
+            "organization": "Lilla Hemmet i Stockholm"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Arméförvaltningens sjukvårdsstyrelse",
+            "role": "Medlem",
+            "start_year": 1936
+        },
+        {
+            "committee_name": "Medicinalstyrelsens vetenskapliga råd",
+            "role": "Medlem",
+            "start_year": 1936
+        },
+        {
+            "committee_name": "Nordiska dermatologiska föreningen",
+            "role": "Generalsekreterare",
+            "start_year": 1936
+        }
+    ],
+    "education": [
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1905",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1909",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1917",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märta",
+            "last_name": "Johansson",
+            "gender": "Female",
+            "birth_date": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "David",
+                    "last_name": "Johansson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Köpmän",
+                        "occupation_english": "Merchant",
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Helma",
+                    "last_name": "Krumlinde",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1909"
+    },
+    "publications": [
+        {
+            "title": "Ett 80-tal arbeten inom dermatologi och syfilidologi",
+            "year": "1917",
+            "type": "Vetenskapliga artiklar"
+        }
+    ],
+    "travels": null
+}

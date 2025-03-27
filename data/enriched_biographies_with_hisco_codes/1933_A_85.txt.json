@@ -1,0 +1,101 @@
+{
+    "career": [
+        {
+            "position": "advokat",
+            "start_year": 1896,
+            "organization": "Chicago",
+            "location": "Chicago, Illinois",
+            "country_code": "USA"
+        },
+        {
+            "position": "svensk vicekonsul",
+            "start_year": 1914,
+            "organization": "Chicago",
+            "location": "Chicago, Illinois",
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Anderson",
+        "middle_name": "Bernhard",
+        "gender": "Male",
+        "birth_date": "19-04-1867",
+        "birth_place": "Barnarp, Jönköpings Län",
+        "occupation": {
+            "occupation": "advokat",
+            "occupation_english": "lawyer",
+            "hisco_code_swedish": "12110.0",
+            "hisco_description_swedish": "Lawyer",
+            "hisco_code_english": "73210.0",
+            "hisco_description_english": "Sawyer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Svante",
+                "last_name": "Anderson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Magnusdtr",
+                "middle_name": "Maria",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "B. A.",
+            "degree_level": "Bachelor's",
+            "year": "1888",
+            "institution": "Augustana College"
+        },
+        {
+            "degree": "M. A.",
+            "degree_level": "Master's",
+            "year": "1893",
+            "institution": "Harvard University, Cambridge, Massachussets"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1893",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "B. L.",
+            "degree_level": "Bachelor's",
+            "year": "1896",
+            "institution": "Chicago"
+        },
+        {
+            "degree": "LLD",
+            "degree_level": "Doctorate",
+            "year": "1923",
+            "institution": "Augustana College"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Alma",
+            "last_name": "Peterson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1893",
+        "divorce_year": null,
+        "children": null
+    },
+    "languages_spoken": [
+        "Swedish",
+        "English"
+    ]
+}

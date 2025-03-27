@@ -1,0 +1,131 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Alice",
+        "last_name": "Nordin",
+        "middle_name": "Maria",
+        "gender": "Female",
+        "birth_date": "04-05-1873",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "konstnärinna",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Aug.",
+                "last_name": "N.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "snickaremästare",
+                    "occupation_english": "master carpenter",
+                    "hisco_code_swedish": "95410.0",
+                    "hisco_description_swedish": "Carpenter, General",
+                    "hisco_code_english": "95410.0",
+                    "hisco_description_english": "Carpenter, General"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Hansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "2:a medalj för statyn Skymning",
+            "field": "konst",
+            "year": null,
+            "significance": null,
+            "recognized_by": "Konstakademien"
+        },
+        {
+            "title": "1:a medalj för statyn En vårdröm",
+            "field": "konst",
+            "year": null,
+            "significance": null,
+            "recognized_by": "Konstakademien"
+        }
+    ],
+    "awards": [
+        "Litteris et Artibus 1926"
+    ],
+    "board_memberships": [],
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska bildhuggarföreningen",
+            "role": "styrelsemedlem",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [],
+    "current_location": "Stockholm",
+    "education": [
+        {
+            "degree": "teknisk skola",
+            "degree_level": "Schooling",
+            "year": "1886-1890",
+            "institution": "teknisk skola"
+        },
+        {
+            "degree": "konstakademin",
+            "degree_level": "Bachelor's",
+            "year": "1890-1896",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Andreas",
+            "last_name": "Lindblom",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "professor",
+                "occupation_english": "professor",
+                "hisco_code_swedish": "13100.0",
+                "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                "hisco_code_english": "13100.0",
+                "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+            },
+            "parents": null
+        },
+        "marriage_year": "1917",
+        "divorce_year": null,
+        "children": []
+    },
+    "hobbies": [],
+    "honorary_titles": [],
+    "honors": [],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [],
+    "travels": [
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

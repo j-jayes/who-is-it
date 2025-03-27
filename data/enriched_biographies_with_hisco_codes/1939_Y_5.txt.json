@@ -1,0 +1,198 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1926,
+            "end_year": 1929,
+            "organization": "Bollerups lantbruksskola",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1930,
+            "end_year": 1934,
+            "organization": "Svenska allmänna lantbrukssällskapet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "spec:lärare i jordbrukets handelslära",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Lantbrukshögskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "byråchef",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "lantbruksstyrelsen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustav",
+        "last_name": "Ytterborn",
+        "middle_name": "Rudolv",
+        "gender": "Male",
+        "birth_date": "11-08-1901",
+        "birth_place": "Ytterby, Göteborgs och Bohus Län",
+        "occupation": {
+            "occupation": "byråchef",
+            "occupation_english": "head of department",
+            "hisco_code_swedish": "21000.0",
+            "hisco_description_swedish": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Lars",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Rasmusson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "utredning angående lantarbetares lönestatistik",
+            "role": "sakkunnig",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "1938 års jordbruksutredning",
+            "role": "ledamot",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": "Ängby",
+    "education": [
+        {
+            "degree": "agronom:ex",
+            "degree_level": "Bachelor's",
+            "year": "1926",
+            "institution": "Alnarp"
+        },
+        {
+            "degree": "konsulentkurs",
+            "degree_level": "Schooling",
+            "year": "1929-1930",
+            "institution": "Ultuna"
+        },
+        {
+            "degree": "Master of Arts in Economics",
+            "degree_level": "Master's",
+            "year": "1934",
+            "institution": "University of Wisconsin"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Vivan",
+            "last_name": "Wallström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "02-01-1902",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Teodor",
+                    "last_name": "W.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": null
+                },
+                {
+                    "first_name": "Ester",
+                    "last_name": "Arvidson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1930",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Agricultural Cooperation in Sweden",
+            "year": "1938",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1928"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE",
+            "year": "1929"
+        },
+        {
+            "country": "Tjeckoslovakien",
+            "country_code": "CSK",
+            "year": "1931"
+        },
+        {
+            "country": "Danmark",
+            "country_code": "DNK",
+            "year": "1933"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1933-1934"
+        },
+        {
+            "country": "Kanada",
+            "country_code": "CAN",
+            "year": "1933-1934"
+        }
+    ]
+}

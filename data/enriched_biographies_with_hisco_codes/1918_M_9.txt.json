@@ -1,0 +1,134 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1889,
+            "organization": "firman August Magnusson"
+        },
+        {
+            "position": "delägare",
+            "start_year": 1898,
+            "organization": "firman August Magnusson"
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Magnusson",
+        "middle_name": "August",
+        "gender": "Male",
+        "birth_date": "17-02-1870",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "grosshandlare",
+            "occupation_english": "Wholesaler",
+            "hisco_code_swedish": "41020.0",
+            "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+            "hisco_code_english": "41025.0",
+            "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "August",
+                "last_name": "Magnusson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Clary",
+                "last_name": "Wilson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Stockholm",
+    "education": [
+        {
+            "degree": "handelsskola",
+            "degree_level": "Schooling",
+            "year": "1886",
+            "institution": "handelsskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gerda",
+            "last_name": "Hasselgren",
+            "gender": "Female",
+            "birth_date": "1881",
+            "parents": [
+                {
+                    "first_name": "Ludvig C:son",
+                    "last_name": "Hasselgren",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "protokollssekreterare",
+                        "occupation_english": "Minute Secretary",
+                        "hisco_code_swedish": "31090.0",
+                        "hisco_description_swedish": "Government Executive Officials Not Elsewhere Classified"
+                    }
+                },
+                {
+                    "first_name": "Lydia",
+                    "last_name": "Kempff",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1902",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1885"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1885"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1885"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1889"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1889"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1889"
+        }
+    ]
+}

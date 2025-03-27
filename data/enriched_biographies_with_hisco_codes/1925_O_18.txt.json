@@ -1,0 +1,97 @@
+{
+    "career": [
+        {
+            "position": "sättarlärling",
+            "start_year": 1885,
+            "end_year": 1887,
+            "organization": "P. A. Norstedt & söner aktiebolag",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "tryckerielev",
+            "start_year": 1887,
+            "end_year": 1888,
+            "organization": null,
+            "location": "Leipzig",
+            "country_code": "DEU"
+        },
+        {
+            "position": "tryckeriförman",
+            "start_year": 1888,
+            "end_year": 1891,
+            "organization": "centraltryckeriet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "teknisk disponent",
+            "start_year": 1891,
+            "end_year": null,
+            "organization": "centraltryckeriet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1893,
+            "end_year": null,
+            "organization": "centraltryckeriet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1893,
+            "end_year": null,
+            "organization": "centraltryckeriet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "fullmäktig",
+            "start_year": 1893,
+            "end_year": null,
+            "organization": "handelskammaren",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Oldenburg",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "23-02-1867",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "verkställande direktör",
+            "occupation_english": "Managing Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Oldenburg",
+                "middle_name": "Axel",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "extra ordinarie hovrättsnotarie",
+                    "occupation_english": "Extra Ordinary Judge of Appeal Notary",
+                    "hisco_code_swedish": "12310.0",
+                    "hisco_description_swedish": "Notary"
+                }
+            },
+            {
+                "first_name": "Hedvig",
+                "last_name": "Zethraeus",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    }
+}

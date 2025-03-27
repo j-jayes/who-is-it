@@ -1,0 +1,130 @@
+{
+    "career": [
+        {
+            "position": "attaché",
+            "start_year": 1905,
+            "end_year": 1905,
+            "organization": "beskickningen i Berlin",
+            "location": "Berlin",
+            "country_code": "DEU"
+        },
+        {
+            "position": "attaché",
+            "start_year": 1906,
+            "end_year": 1906,
+            "organization": "beskickningen i Paris",
+            "location": "Paris",
+            "country_code": "FRA"
+        },
+        {
+            "position": "attaché",
+            "start_year": 1907,
+            "end_year": 1907,
+            "organization": "beskickningen i Madrid",
+            "location": "Madrid",
+            "country_code": "ESP"
+        },
+        {
+            "position": "vice ordförande",
+            "start_year": 1907,
+            "organization": "Stockholms läns sparbank",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "förste lånedeputerade",
+            "start_year": 1907,
+            "organization": "Stockholms läns sparbank",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Boström",
+        "middle_name": "Samuel",
+        "gender": "Male",
+        "birth_date": "17-10-1881",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "godsägare",
+            "occupation_english": "landowner",
+            "hisco_code_swedish": "-1.0",
+            "hisco_description_swedish": "Missing, no title"
+        },
+        "parents": [
+            {
+                "first_name": "Erik Gustaf",
+                "last_name": "Boström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "statsminister",
+                    "occupation_english": "Prime Minister",
+                    "hisco_code_swedish": "20110.0",
+                    "hisco_description_swedish": "Legislative Official",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Lina",
+                "last_name": "Almqvist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "juridisk kandidat",
+            "degree_level": "Master's",
+            "year": "1905",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Berta",
+            "last_name": "Rydin",
+            "middle_name": "Kristina",
+            "gender": "Female",
+            "birth_date": "01-01-1900",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "A.H.",
+                    "last_name": "Rydin",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "borgmästare",
+                        "occupation_english": "Mayor",
+                        "hisco_code_swedish": "20110.0",
+                        "hisco_description_swedish": "Legislative Official",
+                        "hisco_code_english": "58320.0",
+                        "hisco_description_english": "Officer"
+                    }
+                },
+                {
+                    "first_name": "L.",
+                    "last_name": "Roos af Hjelmsäter",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1938"
+    },
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

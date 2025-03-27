@@ -1,0 +1,175 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Torsten",
+        "last_name": "Gustafson",
+        "middle_name": "Valdemar",
+        "gender": "Male",
+        "birth_date": "08-05-1904",
+        "birth_place": "Falkenberg",
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Albin",
+                "last_name": "Gustafson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "vaktmästare",
+                    "occupation_english": "caretaker",
+                    "hisco_code_swedish": "55130.0",
+                    "hisco_description_swedish": "Janitor",
+                    "hisco_code_english": "55130.0",
+                    "hisco_description_english": "Janitor"
+                }
+            },
+            {
+                "first_name": "Hulda",
+                "last_name": "Bramstång",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lund",
+            "department": null,
+            "start_year": 1933,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Lund",
+            "department": "mekanik och matematisk fysik",
+            "start_year": 1939,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "atomkommittén",
+            "role": "ledamot",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": "Lund",
+    "education": [
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1924",
+            "institution": "Lund"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1929",
+            "institution": "Lund"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1934",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Lindskog",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Erik",
+                    "last_name": "Lindskog",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "lektor",
+                        "occupation_english": "lecturer",
+                        "hisco_code_swedish": "13030.0",
+                        "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+                        "hisco_code_english": "13100.0",
+                        "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Gunhild",
+                    "last_name": "Frigell",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Avhandlingar i aerodynamik, oceanografi och atomteori",
+            "year": "None",
+            "type": "avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Göttingen",
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": "Köpenhamn",
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "career": [
+        {
+            "position": "medarbetare",
+            "start_year": 1898,
+            "end_year": 1905,
+            "organization": "Svenska morgonbladet",
+            "location": "Stockholm",
+            "country_code": null
+        },
+        {
+            "position": "medarbetare",
+            "start_year": 1910,
+            "end_year": 1914,
+            "organization": "Svenska morgonbladet",
+            "location": "Stockholm",
+            "country_code": null
+        },
+        {
+            "position": "redaktör",
+            "start_year": 1918,
+            "organization": "Svenska morgonbladet",
+            "location": "Stockholm",
+            "country_code": null
+        },
+        {
+            "position": "stipendiat",
+            "start_year": 1914,
+            "end_year": 1916,
+            "organization": "Sveriges allmänna exportförening",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Jonatan",
+        "last_name": "Ollén",
+        "middle_name": "Magnus",
+        "gender": "Male",
+        "birth_date": "06-06-1880",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "redaktör",
+            "occupation_english": null,
+            "hisco_code_swedish": "15920.0",
+            "hisco_description_swedish": "Editor, Newspapers and Periodicals"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Ollén",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "redaktör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "15920.0",
+                    "hisco_description_swedish": "Editor, Newspapers and Periodicals"
+                }
+            },
+            {
+                "first_name": "Nella",
+                "last_name": "Dahlborg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1898",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Larsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1917",
+        "divorce_year": null,
+        "children": null
+    },
+    "publications": [
+        {
+            "title": "Svenska missionsbragder",
+            "year": "1919-1921",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Amerika",
+            "country_code": "USA",
+            "year": "1914-1916"
+        },
+        {
+            "country": "Japan",
+            "country_code": "JPN",
+            "year": "1914-1916"
+        },
+        {
+            "country": "Korea",
+            "country_code": "KOR",
+            "year": "1914-1916"
+        },
+        {
+            "country": "Mongoliet",
+            "country_code": "MNG",
+            "year": "1914-1916"
+        },
+        {
+            "country": "Kina",
+            "country_code": "CHN",
+            "year": "1914-1916"
+        },
+        {
+            "country": "Indien",
+            "country_code": "IND",
+            "year": "1914-1916"
+        },
+        {
+            "country": "Östafrika",
+            "country_code": "null",
+            "year": "1914-1916"
+        },
+        {
+            "country": "Sydafrika",
+            "country_code": "ZAF",
+            "year": "1914-1916"
+        },
+        {
+            "country": "Kongo",
+            "country_code": "COG",
+            "year": "1914-1916"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1914-1916"
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1922,
+            "organization": "Tandläkarinstitutet"
+        },
+        {
+            "position": "laborator",
+            "start_year": 1924,
+            "end_year": 1923,
+            "organization": "Tandläkarinstitutet"
+        },
+        {
+            "position": "biträdande lärare",
+            "start_year": 1939,
+            "organization": "Tandläkarinstitutet"
+        },
+        {
+            "position": "professor i proteslära och tandreglering",
+            "start_year": 1947,
+            "organization": "Tandläkarinstitutet"
+        },
+        {
+            "position": "kassaförvaltare",
+            "start_year": 1944,
+            "organization": "Kinakommitten"
+        },
+        {
+            "position": "sakkunnig",
+            "start_year": 1945,
+            "organization": "Sverige-Amerikastiftelsen"
+        },
+        {
+            "position": "fullmäktig",
+            "start_year": 1953
+        },
+        {
+            "position": "vetenskapsråd",
+            "start_year": 1946,
+            "organization": "sjukvårdsförvaltningen"
+        },
+        {
+            "position": "vetenskapsråd",
+            "start_year": 1953,
+            "organization": "Medicinalstyrelsen"
+        },
+        {
+            "position": "redaktör",
+            "start_year": 1936,
+            "end_year": 1940,
+            "organization": "Svensk tandläkartidskrift"
+        },
+        {
+            "position": "redaktör",
+            "start_year": 1939,
+            "end_year": 1941,
+            "organization": "Acta odontologica scandinavica"
+        },
+        {
+            "position": "ordförande",
+            "start_year": 1949,
+            "end_year": 1951,
+            "organization": "Svenska tandläkaresällskapet"
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Hildebrand",
+        "middle_name": "Yngve",
+        "gender": "Male",
+        "birth_date": "15-01-1895",
+        "birth_place": "Partille, Göteborgs och Bohus Län",
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Svenson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kassör",
+                    "occupation_english": "Cashier",
+                    "hisco_code_swedish": "33135.0",
+                    "hisco_description_swedish": "Cashier, Office or Cash Desk",
+                    "hisco_code_english": "33135.0",
+                    "hisco_description_english": "Cashier, Office or Cash Desk"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Hildebrand",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "institution": "Karolinska Institutet",
+            "start_year": 1931,
+            "field": "medicin"
+        },
+        {
+            "position": "professor",
+            "institution": "Tandläkarinstitutet",
+            "start_year": 1947,
+            "field": "proteslära och tandreglering"
+        }
+    ],
+    "education": [
+        {
+            "degree": "tandläkarexamen",
+            "degree_level": "Doctorate",
+            "year": "1918",
+            "institution": "None"
+        },
+        {
+            "degree": "Doctor of Dental Surgery",
+            "degree_level": "Doctorate",
+            "year": "1920",
+            "institution": "USA"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "odontologie doktor",
+            "degree_level": "Doctorate",
+            "year": "1949",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Emy",
+            "last_name": "Söderhell",
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "Johan",
+                    "last_name": "Söderhell",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "mästerlots och sjökapten",
+                        "occupation_english": "master pilot and sea captain",
+                        "hisco_code_swedish": "4240.0",
+                        "hisco_description_swedish": "Ship Pilot"
+                    }
+                },
+                {
+                    "first_name": "Sophia",
+                    "last_name": "Bolin",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1921"
+    },
+    "honors": [
+        "Hedersledamot Odontologiska föreningen 1938",
+        "Hedersledamot Finska tandläkaresällskapet 1950",
+        "Hedersledamot Odontologiska samfundet",
+        "Hedersledamot Svenska tandläkaresällskapet 1955",
+        "Korresponderande ledamot Norska tannlaegeforeningen 1949",
+        "Ledamot av Läkarsällskapet 1950",
+        "Ledamot av Finska läkarsällskapet 1951"
+    ],
+    "publications": [
+        {
+            "title": "disputationsavhandling över käkmekan",
+            "year": "1931",
+            "type": "avhandling"
+        },
+        {
+            "title": "Studier i klinisk proteslära",
+            "year": "1937",
+            "type": "bok",
+            "volumes": "2 volymer"
+        },
+        {
+            "title": "Krigskäkskador",
+            "year": "1950",
+            "type": "bok",
+            "volumes": "2 volymer"
+        }
+    ],
+    "travels": [
+        {
+            "country": "USA"
+        },
+        {
+            "country": "Finland"
+        },
+        {
+            "country": "Norge"
+        },
+        {
+            "country": "Danmark"
+        },
+        {
+            "country": "Holland"
+        },
+        {
+            "country": "England"
+        },
+        {
+            "country": "Tyskland"
+        }
+    ]
+}

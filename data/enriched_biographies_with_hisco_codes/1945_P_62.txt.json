@@ -1,0 +1,140 @@
+{
+    "career": [
+        {
+            "position": "pastorsadjunkt",
+            "start_year": 1932,
+            "organization": "Mjölby",
+            "location": "Mjölby",
+            "country_code": null
+        },
+        {
+            "position": "stiftsadjunkt",
+            "start_year": 1932,
+            "end_year": 1941,
+            "organization": "Linköpings stift",
+            "location": "Linköping",
+            "country_code": null
+        },
+        {
+            "position": "kyrkoadjunkt",
+            "start_year": 1942,
+            "organization": "Norrköpings Hedvigs församling",
+            "location": "Norrköping",
+            "country_code": null
+        },
+        {
+            "position": "kyrkoherde",
+            "start_year": 1942,
+            "organization": "Svenska Victoriaförsamlingen i Berlin",
+            "location": "Berlin",
+            "country_code": "DEU"
+        },
+        {
+            "position": "legationspastor",
+            "start_year": 1942,
+            "organization": null,
+            "location": "Berlin",
+            "country_code": "DEU"
+        },
+        {
+            "position": "marinpastor",
+            "start_year": 1940,
+            "end_year": 1942,
+            "organization": "Flottan",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Perwe",
+        "middle_name": "Hjalmar",
+        "gender": "Male",
+        "birth_date": "01-01-1905",
+        "birth_place": "Karlskrona",
+        "occupation": {
+            "occupation": "Kyrkoherde, legationspastor",
+            "occupation_english": "Parish priest, legation pastor",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Oskar",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "FlaggunderOfficer",
+                    "occupation_english": "Petty officer",
+                    "hisco_code_swedish": "58330.0",
+                    "hisco_description_swedish": "NonCommissioned Officer",
+                    "hisco_code_english": "58330.0",
+                    "hisco_description_english": "NonCommissioned Officer"
+                }
+            },
+            {
+                "first_name": "Ellen",
+                "last_name": "Boman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1925",
+            "institution": "None"
+        },
+        {
+            "degree": "teologie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1931",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märtha",
+            "last_name": "Werkström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Otto",
+                    "last_name": "Werkström",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Urmakare",
+                        "occupation_english": "Watchmaker",
+                        "hisco_code_swedish": "84222.0",
+                        "hisco_description_swedish": "Watch and Clock Assembler or Repairer",
+                        "hisco_code_english": "84220.0",
+                        "hisco_description_english": "Watch and Clock Assembler"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Langwagen",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1933",
+        "divorce_year": null,
+        "children": null
+    },
+    "publications": null,
+    "travels": null
+}

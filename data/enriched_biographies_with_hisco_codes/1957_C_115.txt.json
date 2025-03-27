@@ -1,0 +1,45 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Ceres",
+        "last_name": "None",
+        "gender": "Female"
+    },
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Försäkringsaktiebolaget Skandia"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Skandinaviska banken aktiebolag"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hervor",
+            "last_name": "Barkman",
+            "middle_name": "C:son",
+            "gender": "Female",
+            "birth_date": "None",
+            "parents": [
+                {
+                    "first_name": "Ernst",
+                    "last_name": "Carlson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Överdirektör",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager"
+                    }
+                },
+                {
+                    "first_name": "Valborg",
+                    "last_name": "Korsgren",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1936"
+    }
+}

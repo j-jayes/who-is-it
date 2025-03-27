@@ -1,0 +1,186 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1945,
+            "end_year": 1949,
+            "organization": "LM Ericsson",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1950,
+            "end_year": 1951,
+            "organization": "Massachusetts Institute of Technology",
+            "location": null,
+            "country_code": "USA"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1951,
+            "end_year": null,
+            "organization": "Taltransmissionslab",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "Kungliga Tekniska Högskolans institution för telegrafi-telefoni",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Fant",
+        "middle_name": "C M",
+        "gender": "Male",
+        "birth_date": "08-10-1919",
+        "birth_place": "Nyköping",
+        "occupation": {
+            "occupation": "Docent",
+            "occupation_english": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "F",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Borgmästare",
+                    "occupation_english": "Mayor",
+                    "hisco_code_swedish": "20110.0",
+                    "hisco_description_swedish": "Legislative Official",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Märta",
+                "last_name": "Norström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Teknologie Licentiat",
+            "position_english": "Licentiate of Technology",
+            "institution": "Kungliga Tekniska Högskolan",
+            "department": null,
+            "start_year": 1952,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Teknologie Doktor",
+            "position_english": "Doctor of Technology",
+            "institution": "Kungliga Tekniska Högskolan",
+            "department": null,
+            "start_year": 1958,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Kungliga Tekniska Högskolan",
+            "department": "Telegrafi och telefoni",
+            "start_year": 1958,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Fellow",
+            "field": "Akustik",
+            "year": null,
+            "significance": null,
+            "recognized_by": "Acoustical Society of America"
+        }
+    ],
+    "current_location": "Djursholm",
+    "education": [
+        {
+            "degree": "Filosofie Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1945",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ann",
+            "last_name": "Marie",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Filosofie Licentiat",
+                "occupation_english": "Licentiate of Philosophy",
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title",
+                "hisco_code_english": "13100.0",
+                "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+            },
+            "parents": [
+                {
+                    "first_name": "Alf",
+                    "last_name": "L",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Advokat",
+                        "occupation_english": "Lawyer",
+                        "hisco_code_swedish": "12110.0",
+                        "hisco_description_swedish": "Lawyer",
+                        "hisco_code_english": "73210.0",
+                        "hisco_description_english": "Sawyer, General"
+                    }
+                },
+                {
+                    "first_name": "Margareta",
+                    "last_name": "Langenskiöld",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1952"
+    },
+    "publications": [
+        {
+            "title": "Preliminaries to Speech Analysis",
+            "year": "1952",
+            "type": "okänd",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "On the Acoustics of Speech (doktorsavhandling)",
+            "year": "1958",
+            "type": "doktorsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ]
+}

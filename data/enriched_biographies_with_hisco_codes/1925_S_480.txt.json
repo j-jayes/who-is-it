@@ -1,0 +1,127 @@
+{
+    "career": [
+        {
+            "position": "hovrättsexamen",
+            "start_year": 1894,
+            "organization": "Uppsala",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tillförordnad hovrättsfiskal",
+            "start_year": 1901,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "borgmästare",
+            "start_year": 1903,
+            "organization": "Lysekil",
+            "location": "Lysekil",
+            "country_code": "SWE"
+        },
+        {
+            "position": "ledamot",
+            "start_year": 1907,
+            "organization": "Göteborgs och Bohusläns landsting",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "A. K.",
+            "start_year": 1914,
+            "end_year": 1918,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Sundberg",
+        "middle_name": "Ludvig",
+        "gender": "Male",
+        "birth_date": "11-11-1869",
+        "birth_place": "Västervik",
+        "occupation": {
+            "occupation": "borgmästare",
+            "occupation_english": "mayor",
+            "hisco_code_swedish": "20110.0",
+            "hisco_description_swedish": "Legislative Official",
+            "hisco_code_english": "58320.0",
+            "hisco_description_english": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "C.",
+                "last_name": "Sundberg",
+                "middle_name": "L.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "handlande",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Amelie",
+                "last_name": "Andersen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "ordförande i styrelsen",
+            "organization": "Lysekils järnvägsaktiebolag"
+        },
+        {
+            "position": "ordförande i styrelsen",
+            "organization": "Aktiebolaget Nordiska Handelsbankens kontor i Lysekil"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Julia",
+            "last_name": "Nordvall",
+            "middle_name": "Amelie",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Robert",
+                    "last_name": "Nordvall",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "handlande",
+                        "occupation_english": "merchant",
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Julia",
+                    "last_name": "Landeberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1906",
+        "divorce_year": null,
+        "children": null
+    },
+    "political_positions": null
+}

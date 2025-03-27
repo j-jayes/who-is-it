@@ -1,0 +1,90 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1931,
+            "organization": "Serafimerlasarettet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1932,
+            "end_year": 1940,
+            "organization": "S:t Görans sjukhus",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Röntgendiagnostisk avdelning",
+            "start_year": 1940,
+            "end_year": 1944,
+            "organization": "Radiumhemmet och Karolinska sjukhuset",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1944,
+            "organization": "Landskrona lasaretts röntgendiagnostiska avdelning",
+            "location": "Landskrona",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lasaretts styresman",
+            "start_year": 1948,
+            "organization": "Landskrona lasarett",
+            "location": "Landskrona",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Forssman",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "09-01-1903",
+        "birth_place": "Mariestad",
+        "occupation": {
+            "occupation": "Lasarettsläkare",
+            "occupation_english": "Hospital doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Fredrik",
+                "last_name": "Forssman",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Major",
+                    "occupation_english": "Major",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Rohdin",
+                "gender": "Female"
+            }
+        ]
+    },
+    "political_positions": [
+        {
+            "organization": "Stadsfullmäktige",
+            "position": "Stadsfullmäktige",
+            "start_year": 1951
+        }
+    ],
+    "publications": [
+        {
+            "title": "Ett 20-tal arbeten särskilt i röntgendiagnostik",
+            "year": "None",
+            "type": "Arbete"
+        }
+    ],
+    "travels": null
+}
