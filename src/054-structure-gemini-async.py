@@ -28,7 +28,7 @@ if not API_KEY:
 
 MODEL_ID = "gemini-2.0-flash"
 INPUT_DATA_PATH = "data/biography_list/biography_list.json"
-OUTPUT_DATA_PATH = Path("data/structured_biographies_test")
+OUTPUT_DATA_PATH = Path("data/structured_biographies")
 MAX_CONCURRENT_REQUESTS = 20  # Limit concurrent API requests
 
 # Ensure output directory exists
@@ -237,6 +237,9 @@ genai_client = genai.Client(api_key=API_KEY)
 # Create a thread pool for synchronous API calls
 executor = concurrent.futures.ThreadPoolExecutor(max_workers=MAX_CONCURRENT_REQUESTS)
 
+# Create an event to signal rate limit exceeded
+rate_limit_event = asyncio.Event()
+
 async def read_file_async(file_path: str) -> str:
     """Read file content asynchronously"""
     try:
@@ -267,6 +270,10 @@ def make_api_call(client, content, schema):
             }
         )
         return response
+    except genai.RateLimitError as e:
+        logger.error(f"Rate limit exceeded: {e}")
+        # Signal that we've hit a rate limit
+        return "RATE_LIMIT_EXCEEDED"
     except Exception as e:
         logger.error(f"API call error: {e}")
         raise
@@ -275,6 +282,11 @@ async def structure_biography_async(filename: str, file_path: str) -> Optional[D
     """
     Process a biography file and structure its content according to the BioSchema asynchronously.
     """
+    # Check if rate limit has been reached
+    if rate_limit_event.is_set():
+        logger.warning(f"Skipping {filename} due to rate limit")
+        return None
+        
     # Create output path
     output_path = OUTPUT_DATA_PATH / f"{filename}.json"
     
@@ -294,6 +306,12 @@ async def structure_biography_async(filename: str, file_path: str) -> Optional[D
             executor, 
             lambda: make_api_call(genai_client, api_content, BioSchema.model_json_schema())
         )
+        
+        # Check if we hit a rate limit
+        if response == "RATE_LIMIT_EXCEEDED":
+            logger.warning(f"Rate limit detected while processing {filename}")
+            rate_limit_event.set()
+            return None
         
         # Process the response
         if not response.candidates or not response.candidates[0].content.parts:
@@ -351,6 +369,9 @@ async def process_biographies_async(limit: int = 10) -> None:
         
         async def process_with_semaphore(filename, file_path):
             async with semaphore:
+                # Check rate limit before acquiring the semaphore
+                if rate_limit_event.is_set():
+                    return None
                 return await structure_biography_async(filename, file_path)
         
         # Process biographies concurrently with semaphore control
@@ -364,6 +385,10 @@ async def process_biographies_async(limit: int = 10) -> None:
         
         # Count successful results
         successful_count = sum(1 for result in results if result is not None)
+        
+        if rate_limit_event.is_set():
+            logger.warning("Processing stopped due to API rate limit")
+        
         logger.info(f"Successfully processed {successful_count} out of {len(biographies_to_process)} biographies")
         
     except Exception as e:
@@ -371,10 +396,15 @@ async def process_biographies_async(limit: int = 10) -> None:
 
 async def main(limit: int = 10):
     """Main async entry point"""
-    # Process biographies with the given limit
-    await process_biographies_async(limit=limit)
-    # Clean up the executor when done
-    executor.shutdown(wait=True)
+    try:
+        # Reset the rate limit event
+        rate_limit_event.clear()
+        
+        # Process biographies with the given limit
+        await process_biographies_async(limit=limit)
+    finally:
+        # Clean up the executor when done
+        executor.shutdown(wait=True)
 
 if __name__ == "__main__":
     # Set up argument parser

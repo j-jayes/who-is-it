@@ -38,9 +38,9 @@ jobs:
         run: |
           # If triggered by schedule, process 2500 biographies, otherwise use the input limit
           if [[ "${{ github.event_name }}" == "schedule" ]]; then
-            python src/053-structure-gemini-async.py 2500
+            python src/054-structure-gemini-async.py 2500
           else
-            python src/053-structure-gemini-async.py ${{ github.event.inputs.limit }}
+            python src/054-structure-gemini-async.py ${{ github.event.inputs.limit }}
           fi
       
       
