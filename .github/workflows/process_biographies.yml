@@ -51,6 +51,9 @@ jobs:
           
       - name: Commit and push changes
         run: |
+          # pull latest changes to avoid merge conflicts
+          git pull origin main
+          # Add structured biographies to the repository
           git add data/structured_biographies/
           # Only commit if there are changes
           git diff --quiet && git diff --staged --quiet || git commit -m "Add structured biographies [automated]"

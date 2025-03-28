@@ -178,7 +178,7 @@ function processEngineerFiles(directoryPath) {
   };
   
   // Write to output file
-  fs.writeFileSync('engineer_education_analysis.json', JSON.stringify(resultData, null, 2));
+  fs.writeFileSync('analysis/engineer_education_analysis.json', JSON.stringify(resultData, null, 2));
   
   console.log(`Analysis complete. Found ${allEngineers.length} engineers.`);
   console.log(`Data saved to engineer_education_analysis.json`);

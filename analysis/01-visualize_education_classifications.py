@@ -7,7 +7,7 @@ from collections import defaultdict
 
 def visualize_education_by_decade():
     # Load the analysis data
-    with open('engineer_education_analysis.json', 'r') as file:
+    with open('analysis/engineer_education_analysis.json', 'r') as file:
         data = json.load(file)
     
     # Extract education by decade data
@@ -61,7 +61,7 @@ def visualize_education_by_decade():
     plt.legend(title='Education Level', title_fontsize=12)
     
     plt.tight_layout()
-    plt.savefig('engineer_education_by_decade.png', dpi=300)
+    plt.savefig('analysis/engineer_education_by_decade.png', dpi=300)
     print("Saved visualization to engineer_education_by_decade.png")
     
     # Calculate percentages for each decade
@@ -83,7 +83,7 @@ def visualize_education_by_decade():
     plt.legend(title='Education Level', title_fontsize=12)
     
     plt.tight_layout()
-    plt.savefig('engineer_education_percentage_by_decade.png', dpi=300)
+    plt.savefig('analysis/engineer_education_percentage_by_decade.png', dpi=300)
     print("Saved percentage visualization to engineer_education_percentage_by_decade.png")
     
     # Analyze educational institutions
@@ -120,7 +120,7 @@ def analyze_institutions(institutions_data):
     plt.grid(axis='x', linestyle='--', alpha=0.7)
     
     plt.tight_layout()
-    plt.savefig('engineer_institutions.png', dpi=300)
+    plt.savefig('analysis/engineer_institutions.png', dpi=300)
     print("Saved institutions visualization to engineer_institutions.png")
     
     # Create a classification template for institutions
@@ -145,7 +145,7 @@ def create_institution_classification_template(institutions_data):
         }
     
     # Save the template
-    with open('institution_classification_template.json', 'w') as file:
+    with open('analysis/institution_classification_template.json', 'w') as file:
         json.dump(classification, file, indent=2, ensure_ascii=False)
     
     print("Created institution classification template: institution_classification_template.json")

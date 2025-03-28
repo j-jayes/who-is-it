@@ -28,8 +28,8 @@ if not API_KEY:
 
 MODEL_ID = "gemini-2.0-flash"
 INPUT_DATA_PATH = "data/biography_list/biography_list.json"
-OUTPUT_DATA_PATH = Path("data/structured_biographies")
-MAX_CONCURRENT_REQUESTS = 5  # Limit concurrent API requests
+OUTPUT_DATA_PATH = Path("data/structured_biographies_test")
+MAX_CONCURRENT_REQUESTS = 20  # Limit concurrent API requests
 
 # Ensure output directory exists
 OUTPUT_DATA_PATH.mkdir(parents=True, exist_ok=True)
