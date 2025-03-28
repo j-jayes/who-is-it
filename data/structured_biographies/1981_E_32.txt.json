@@ -1,0 +1,80 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Paul",
+        "last_name": "Edholm",
+        "middle_name": "R",
+        "gender": "Male",
+        "birth_date": "03-08-1926",
+        "birth_place": "Härnösand",
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor"
+        },
+        "parents": [
+            {
+                "first_name": "Harald",
+                "last_name": "Edholm",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fartygsinsp",
+                    "occupation_english": "ship inspector"
+                }
+            },
+            {
+                "first_name": "Ragnhild",
+                "last_name": "Flodin",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Med lic",
+            "position_english": "Medical licentiate",
+            "institution": "Sthlm",
+            "start_year": 1954
+        },
+        {
+            "position": "med dr",
+            "position_english": "Doctor of Medicine",
+            "institution": "Karolinska Institutet",
+            "start_year": 1960
+        },
+        {
+            "position": "doc",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "start_year": 1960
+        },
+        {
+            "position": "prof",
+            "position_english": "Professor",
+            "institution": "Linköpings högskola",
+            "start_year": 1970,
+            "field": "diagnostisk radiologi"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skr i röntgendiagnostik o med teknik",
+            "field": "röntgendiagnostik",
+            "year": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Else",
+            "last_name": "Larsson",
+            "gender": "Female",
+            "occupation": {
+                "occupation": "dietist",
+                "occupation_english": "dietitian"
+            }
+        },
+        "marriage_year": "1968"
+    },
+    "honors": null,
+    "publications": null,
+    "travels": null
+}

@@ -1,0 +1,81 @@
+{
+    "career": [
+        {
+            "position": "Diplomingenjör",
+            "start_year": 1945,
+            "organization": "Åbo Akademi",
+            "location": "Åbo",
+            "country_code": "FIN"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1945,
+            "end_year": 1959,
+            "organization": "A Ahlström OY"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1959,
+            "end_year": 1963,
+            "organization": "Svenska Cellulosa Aktiebolaget Matfors",
+            "location": "Matfors",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1964,
+            "end_year": 1967,
+            "organization": "Svenska Cellulosa Aktiebolagets Kramforsgrupp",
+            "location": "Kramfors",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1967,
+            "end_year": 1970,
+            "organization": "Aschaffenburger Zellstoffwerke AG"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1970,
+            "end_year": 1971,
+            "organization": "Papierwerke Waldhof-Aschaffenburg"
+        },
+        {
+            "position": "Disponent och platschef",
+            "start_year": 1972,
+            "organization": "Svenska Cellulosa Aktiebolaget Matfors",
+            "location": "Matfors",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gertrud",
+        "last_name": "Jacobsson",
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Maj-Lis",
+            "last_name": "Grandeli",
+            "gender": "Female",
+            "birth_date": "null",
+            "parents": [
+                {
+                    "first_name": "Väinö",
+                    "last_name": "G",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Inköpschef"
+                    }
+                },
+                {
+                    "first_name": "Anna-Lisa",
+                    "last_name": "Lindquist",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1946"
+    }
+}

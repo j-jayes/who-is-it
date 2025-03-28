@@ -1,0 +1,89 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Michael",
+        "last_name": "Gutman",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "02-01-1951",
+        "birth_place": "Bukhara, Sovjetunionen",
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Michael",
+                "last_name": "Gutman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Ingenjör",
+                    "occupation_english": "Engineer"
+                }
+            },
+            {
+                "first_name": "Frida",
+                "last_name": "Reinis",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": [
+        {
+            "degree": "Music School",
+            "degree_level": "Schooling",
+            "year": "1966",
+            "institution": "State Conservatory Tashkent"
+        },
+        {
+            "degree": "Tel Aviv Conservatory",
+            "degree_level": "Schooling",
+            "year": "1969",
+            "institution": "Tel Aviv Conservatory"
+        },
+        {
+            "degree": "Acad of Music",
+            "degree_level": "Schooling",
+            "year": "1971",
+            "institution": "University of Tel Aviv"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": "Europa",
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": "Nordamerika",
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": "Sydamerika",
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": "Afrika",
+            "country_code": "string",
+            "year": null
+        }
+    ]
+}

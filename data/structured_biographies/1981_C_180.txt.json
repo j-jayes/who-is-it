@@ -1,0 +1,81 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1959,
+            "organization": "Asea Västerås",
+            "location": "Västerås",
+            "country_code": "SWE"
+        },
+        {
+            "position": "chef",
+            "start_year": 1963,
+            "organization": "Asea Västerås centrala kontor",
+            "location": "Västerås",
+            "country_code": "SWE"
+        },
+        {
+            "position": "professor i mekanisk teknologi",
+            "start_year": 1967,
+            "end_year": null,
+            "organization": "KTH",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "professor i industrial and operations engineering",
+            "start_year": 1976,
+            "end_year": null,
+            "organization": "University of Michigan Ann Arbor",
+            "location": "Ann Arbor, Michigan",
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "N",
+        "last_name": "Colding",
+        "middle_name": "Bertil",
+        "gender": "Male",
+        "birth_date": "27-08-1923",
+        "birth_place": "Södertälje",
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "teknologie licentiat",
+            "institution": "KTH",
+            "start_year": 1955
+        },
+        {
+            "position": "Master of Science",
+            "institution": "KTH",
+            "start_year": 1957
+        },
+        {
+            "position": "teknologie doktor",
+            "institution": "KTH",
+            "start_year": 1959
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "KTH",
+            "department": null,
+            "start_year": 1967,
+            "end_year": null,
+            "field": "mekanisk teknologi"
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "University of Michigan",
+            "department": null,
+            "start_year": 1976,
+            "end_year": null,
+            "field": "industrial and operations engineering"
+        }
+    ]
+}

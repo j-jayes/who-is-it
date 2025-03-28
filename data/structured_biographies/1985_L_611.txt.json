@@ -1,0 +1,35 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Jan",
+        "last_name": "Lindsten",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "23-01-1935",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor"
+        },
+        "parents": [
+            {
+                "first_name": "Carl-Eric",
+                "last_name": "Lindsten",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kapten",
+                    "occupation_english": "captain"
+                }
+            },
+            {
+                "first_name": "unknown",
+                "last_name": "Lindsten",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "skolkökslärare",
+                    "occupation_english": "home economics teacher"
+                }
+            }
+        ]
+    }
+}

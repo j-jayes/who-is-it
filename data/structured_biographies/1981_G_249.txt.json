@@ -1,0 +1,109 @@
+{
+    "career": [
+        {
+            "position": "Laborator",
+            "start_year": 1937,
+            "end_year": 1941,
+            "organization": "Stockholms Högskola",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1941,
+            "organization": "Djursholms samskola",
+            "location": "Djursholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1951,
+            "end_year": 1953,
+            "organization": "Stockholms Arbetsinstitut",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "G.",
+        "last_name": "Grundström",
+        "middle_name": "Birger",
+        "gender": "Male",
+        "birth_date": "14-11-1905",
+        "birth_place": "Norrköping",
+        "occupation": {
+            "occupation": "Lektor",
+            "occupation_english": "Lecturer"
+        },
+        "parents": [
+            {
+                "first_name": "R",
+                "last_name": "Grundström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Verkmästare"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Johansson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie licentiat",
+            "institution": "Stockholms Högskola",
+            "start_year": 1932,
+            "field": "Fysik"
+        },
+        {
+            "position": "Filosofie doktor",
+            "institution": "Stockholms Högskola",
+            "start_year": 1936,
+            "field": "Fysik"
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Stockholms Högskola",
+            "start_year": 1936,
+            "end_year": 1957,
+            "field": "Fysik"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter",
+            "field": "Fysik"
+        }
+    ],
+    "current_location": "Djursholm",
+    "family": {
+        "spouse": {
+            "first_name": "Gurli",
+            "last_name": "Lindbom",
+            "gender": "Female",
+            "birth_date": "07-00-1907",
+            "parents": [
+                {
+                    "first_name": "Gustav",
+                    "last_name": "Jansson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör"
+                    }
+                },
+                {
+                    "first_name": "Svea",
+                    "last_name": "Lindbom",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1936"
+    }
+}

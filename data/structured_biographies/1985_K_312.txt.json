@@ -1,0 +1,54 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Karin",
+        "last_name": "Redin",
+        "gender": "Female"
+    },
+    "academic_positions": [
+        {
+            "position": "Medicin doktor",
+            "position_english": "Doctor of Medicine",
+            "institution": "Lunds Universitet",
+            "start_year": 1958
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Lunds Universitet",
+            "department": "Embryologi",
+            "start_year": 1965
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter i embryologi",
+            "field": "Embryologi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingegerd",
+            "last_name": "Mörck",
+            "gender": "Female",
+            "birth_date": "None",
+            "parents": [
+                {
+                    "first_name": "Ivar",
+                    "last_name": "Mörck",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Filosofie licentiat"
+                    }
+                },
+                {
+                    "first_name": "Rigmor",
+                    "last_name": "Söderbergh",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1951"
+    },
+    "publications": null
+}

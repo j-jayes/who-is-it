@@ -1,0 +1,35 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Ruth",
+        "last_name": "Spånberg",
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Katarina",
+            "last_name": "Herneryd",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Olov",
+                    "last_name": "H",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director"
+                    }
+                },
+                {
+                    "first_name": "Kitty",
+                    "last_name": "von Otter",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1970",
+        "divorce_year": null,
+        "children": null
+    }
+}

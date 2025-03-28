@@ -1,0 +1,88 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1937,
+            "organization": "Pensionsstyrelsen"
+        },
+        {
+            "position": "byråsekreterare",
+            "start_year": 1946,
+            "organization": "Pensionsstyrelsen"
+        },
+        {
+            "position": "byrådirektör",
+            "start_year": 1959,
+            "organization": "Riksförsäkringsanstalten"
+        },
+        {
+            "position": "byråchef",
+            "start_year": 1962,
+            "organization": "Riksförsäkringsverket"
+        },
+        {
+            "position": "försäkringsdomare",
+            "start_year": 1971,
+            "organization": "Försäkringsdomstolen"
+        },
+        {
+            "position": "tingstjänstgöring",
+            "start_year": 1934,
+            "end_year": 1937
+        }
+    ],
+    "person": {
+        "first_name": "Sthlm",
+        "last_name": "None",
+        "gender": "Male",
+        "birth_date": "10-09-1918",
+        "birth_place": "Södertälje",
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "S",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "folkskollärare"
+                }
+            },
+            {
+                "first_name": "Ellen",
+                "last_name": "Helgstrand",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "juridisk kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1934",
+            "institution": "Stockholms universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunhild",
+            "last_name": "Hallin",
+            "gender": "Female",
+            "birth_date": "15-XX-1915",
+            "parents": [
+                {
+                    "first_name": "Bror",
+                    "last_name": "H",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "grosshandlare"
+                    }
+                },
+                {
+                    "first_name": "Gun",
+                    "last_name": "Engström",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1948"
+    }
+}

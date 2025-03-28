@@ -1,0 +1,86 @@
+{
+    "career": [
+        {
+            "position": "Juristkandidat",
+            "start_year": 1942,
+            "organization": "Uppsala Universitet",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tingstjänstgöring",
+            "start_year": 1943,
+            "end_year": 1946
+        },
+        {
+            "position": "Biträdande jurist",
+            "start_year": 1946,
+            "end_year": 1956,
+            "organization": "Erik Löfgrens Advokatbyrå"
+        },
+        {
+            "position": "Egen advokatverksamhet",
+            "start_year": 1957,
+            "end_year": 1982
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1954,
+            "end_year": 1963,
+            "organization": "Tariffören för olycksfalls- och sjukförsäkring"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1957,
+            "end_year": 1980,
+            "organization": "Sjuk- och olycksfallsförsäkringsnämnden samt Försäkringsbolag skallskadenämnden"
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Atmer",
+        "middle_name": "I",
+        "gender": "Male",
+        "birth_date": "05-07-1807",
+        "birth_place": "Spånga, Stockholms Län",
+        "occupation": {
+            "occupation": "Advokat",
+            "occupation_english": "Lawyer"
+        }
+    },
+    "current_location": "Danderyd",
+    "education": [
+        {
+            "degree": "Juristkandidat",
+            "degree_level": "Master's",
+            "year": "1942",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "May",
+            "last_name": "Hjelm",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Julius",
+                    "last_name": "Hjelm",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Grosshandlare",
+                        "occupation_english": "Wholesaler"
+                    }
+                },
+                {
+                    "first_name": "Elisabeth",
+                    "last_name": "Berndt",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1944"
+    }
+}

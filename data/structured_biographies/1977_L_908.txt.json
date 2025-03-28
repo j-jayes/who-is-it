@@ -1,0 +1,103 @@
+{
+    "career": [
+        {
+            "position": "Laborator",
+            "start_year": 1951,
+            "end_year": 1969,
+            "organization": "Göteborg",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor",
+            "start_year": 1969,
+            "organization": "Linköping",
+            "location": "Linköping",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "C",
+        "last_name": "Lundholm",
+        "middle_name": "Lennart",
+        "gender": "Male",
+        "birth_date": "21-05-1921",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor"
+        },
+        "parents": [
+            {
+                "first_name": "Herman",
+                "last_name": "Lundholm",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director"
+                }
+            },
+            {
+                "first_name": "Edit",
+                "last_name": "Wahlgren",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Medicine Licentiat",
+            "position_english": "Medical Licentiate",
+            "institution": "Stockholm",
+            "start_year": 1950,
+            "field": "Medicin"
+        },
+        {
+            "position": "Medicine Doktor",
+            "position_english": "Medical Doctor",
+            "institution": "Stockholm",
+            "start_year": 1950,
+            "field": "Farmakologi"
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Stockholm",
+            "start_year": 1950,
+            "field": "Farmakologi"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter i farmakologi",
+            "field": "Farmakologi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ella",
+            "last_name": "Mohme",
+            "gender": "Female",
+            "birth_date": "01-01-1921",
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "Mohme",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Avdelningschef",
+                        "occupation_english": "Head of Department"
+                    }
+                },
+                {
+                    "first_name": "Stina",
+                    "last_name": "Martinsson",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1950"
+    }
+}

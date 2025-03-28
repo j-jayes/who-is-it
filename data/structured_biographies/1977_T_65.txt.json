@@ -1,0 +1,91 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1948,
+            "organization": "Studioteatern",
+            "location": "Oslo",
+            "country_code": "NOR"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1949,
+            "end_year": 1959,
+            "organization": "Nationalteatern",
+            "location": "Oslo",
+            "country_code": "NOR"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1960,
+            "end_year": 1963,
+            "organization": "Stora teatern",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Mezzosopran",
+            "start_year": 1964,
+            "organization": "Kungliga teatern",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Edith",
+        "last_name": "Thallaug",
+        "middle_name": "T",
+        "gender": "Female",
+        "birth_date": "29-06-1916",
+        "birth_place": "Oslo",
+        "occupation": {
+            "occupation": "operasångerska",
+            "occupation_english": "opera singer"
+        },
+        "parents": [
+            {
+                "first_name": "Rolf",
+                "last_name": "T",
+                "gender": "Male"
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "T",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Sångstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Oslo"
+        },
+        {
+            "degree": "Sångstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Sångstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "Skådespelarutbildning",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Nationalteaterns elevskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulf",
+            "last_name": "Björkegren",
+            "gender": "Male"
+        }
+    }
+}

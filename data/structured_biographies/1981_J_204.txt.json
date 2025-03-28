@@ -1,0 +1,101 @@
+{
+    "career": [
+        {
+            "position": "Överläkare",
+            "start_year": 1956,
+            "organization": "klin-fysiolog lab thoraxklin Karolinska sjukhuset",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Specialkardiolog",
+            "start_year": 1964,
+            "organization": "Kliniska Karolinska sjukhuset",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Jonsson",
+        "middle_name": "J",
+        "gender": "Male",
+        "birth_date": "25-02-1916",
+        "birth_place": "Östersund",
+        "occupation": {
+            "occupation": "Överläkare",
+            "occupation_english": "Senior Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Jakob",
+                "last_name": "Jonsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byggmästare",
+                    "occupation_english": "Building Contractor"
+                }
+            },
+            {
+                "first_name": "Brita",
+                "last_name": "Olausson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Medicine licentiat",
+            "position_english": "Medical licentiate",
+            "institution": "Stockholm",
+            "start_year": 1943,
+            "field": "Medicine"
+        },
+        {
+            "position": "Medicine doktor",
+            "position_english": "Medical Doctor",
+            "institution": "Stockholm",
+            "start_year": 1956,
+            "field": "Medicine"
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "start_year": 1956,
+            "field": "Pediatrik"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Linnéa",
+            "last_name": "Styrelius",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Avdelningsdirektör",
+                "occupation_english": "Department Director"
+            },
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "Styrelius",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Missionär",
+                        "occupation_english": "Missionary"
+                    }
+                },
+                {
+                    "first_name": "Olga",
+                    "last_name": "Ahlman",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1942"
+    }
+}

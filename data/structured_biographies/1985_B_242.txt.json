@@ -1,0 +1,66 @@
+{
+    "career": [
+        {
+            "position": "TV-producent",
+            "start_year": 1960,
+            "organization": "Sveriges Radio",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Bo",
+        "last_name": "Bjelfvenstam",
+        "middle_name": "G",
+        "gender": "Male",
+        "birth_date": "24-04-1924",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "TV-producent",
+            "occupation_english": "TV producer"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Bjelfvenstam",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Rektor",
+                    "occupation_english": "Principal"
+                }
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Jacobsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1944",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Afrika",
+            "country_code": "AFR"
+        },
+        {
+            "country": "Latinamerika",
+            "country_code": "LMA"
+        },
+        {
+            "country": "Indien",
+            "country_code": "IND"
+        },
+        {
+            "country": "Australien",
+            "country_code": "AUS"
+        }
+    ]
+}
