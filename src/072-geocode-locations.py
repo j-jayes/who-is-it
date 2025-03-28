@@ -28,7 +28,7 @@ FAILED_GEOCODES_PATH = 'data/locations/failed_geocodes.csv'
 
 # TESTING LIMIT - Process only this many locations
 # Set to 0 to process all locations
-TESTING_LIMIT = 10000
+TESTING_LIMIT = 0
 
 # Google Maps Geocoding API key from .env
 API_KEY = os.getenv('GOOGLE_MAPS_API_KEY')
