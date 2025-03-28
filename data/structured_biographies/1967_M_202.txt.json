@@ -1,0 +1,118 @@
+{
+    "career": [
+        {
+            "position": "sekreterare",
+            "start_year": 1945,
+            "organization": "Konjunkturinstitutet"
+        },
+        {
+            "position": "sakkunnig",
+            "start_year": 1948
+        },
+        {
+            "position": "finanssekreterare",
+            "start_year": 1947,
+            "end_year": 1948,
+            "organization": "beskickningen Washington",
+            "location": "Washington",
+            "country_code": "USA"
+        },
+        {
+            "position": "ECE",
+            "start_year": 1949,
+            "end_year": 1950,
+            "organization": "Genève",
+            "location": "Genève",
+            "country_code": "CHE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1955,
+            "organization": "Svenska Handelsbanken"
+        },
+        {
+            "position": "biträdande direktör och ekonomisk rådgivare",
+            "start_year": 1956,
+            "organization": "Svenska Handelsbanken"
+        },
+        {
+            "position": "ekonomisk expert",
+            "start_year": 1964,
+            "end_year": 1965,
+            "organization": "Colombia",
+            "country_code": "COL"
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Metellus",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "06-03-1915",
+        "birth_place": "Linköping",
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "Docent"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Petersson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kamrer",
+                    "occupation_english": "Comptroller"
+                }
+            },
+            {
+                "first_name": "Esther",
+                "last_name": "Jönsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Handelshögskolan Stockholm",
+            "start_year": 1960,
+            "field": "nationalekonomi"
+        },
+        {
+            "position": "tillförordnad professor",
+            "position_english": "Acting Professor",
+            "institution": "Handelshögskolan Stockholm",
+            "start_year": 1960,
+            "end_year": 1961,
+            "field": "nationalekonomi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Marianne",
+            "last_name": "Maartman",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Hans",
+                    "last_name": "Maartman",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kamrer",
+                        "occupation_english": "Comptroller"
+                    }
+                },
+                {
+                    "first_name": "Dagmar",
+                    "last_name": "Tideman",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1939"
+    }
+}
