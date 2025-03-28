@@ -1,0 +1,56 @@
+{
+    "career": [
+        {
+            "position": "Professor",
+            "start_year": 1972,
+            "organization": "Lutab, Luthanders Ingenjörsbyrå Aktiebolag"
+        }
+    ],
+    "person": {
+        "first_name": "Sten",
+        "last_name": "Luthander",
+        "gender": "Male",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "LIVA",
+            "institution": "LIVA",
+            "start_year": 1956
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Carin",
+            "last_name": "de Frumerie",
+            "gender": "Female",
+            "birth_date": null,
+            "occupation": {
+                "occupation": "Violoncellist",
+                "occupation_english": "Violoncellist"
+            },
+            "parents": [
+                {
+                    "first_name": "Gustaf",
+                    "last_name": "de Frumerie",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Arkitekt",
+                        "occupation_english": "Architect"
+                    }
+                },
+                {
+                    "first_name": "Maria",
+                    "last_name": "Helleday",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1940",
+        "divorce_year": null
+    }
+}

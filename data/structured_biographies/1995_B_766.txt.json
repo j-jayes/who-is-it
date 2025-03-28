@@ -1,0 +1,84 @@
+{
+    "career": [
+        {
+            "position": "Tjänstgörande",
+            "start_year": 1969,
+            "end_year": 1979,
+            "organization": "Göteborgs Universitet",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tjänstgörande",
+            "start_year": 1979,
+            "end_year": 1980,
+            "organization": "Uppsala Universitet",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i företagsekonomi",
+            "start_year": 1986,
+            "end_year": null,
+            "organization": "Handelshögskolan",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Brunsson",
+        "middle_name": "G M",
+        "gender": "Male",
+        "birth_date": "26-12-1946",
+        "birth_place": "Umeå",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor"
+        },
+        "parents": [
+            {
+                "first_name": "Jan",
+                "last_name": "Brunsson",
+                "middle_name": "B",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överstelöjtnant",
+                    "occupation_english": "Lieutenant Colonel"
+                }
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Nyqvist",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "institution": "Göteborgs Universitet",
+            "start_year": 1979,
+            "end_year": null,
+            "field": "Ekonomi"
+        }
+    ],
+    "publications": [
+        {
+            "title": "The irrational organization",
+            "year": "1985",
+            "type": "bok"
+        },
+        {
+            "title": "The organization of hypocrisy",
+            "year": "1989",
+            "type": "bok"
+        },
+        {
+            "title": "The reforming organization",
+            "year": "1993",
+            "type": "bok"
+        }
+    ],
+    "travels": null
+}
