@@ -1,0 +1,46 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Inga",
+        "last_name": "Esbjörnsson",
+        "gender": "Female",
+        "birth_date": "13-00-1900"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "And",
+            "last_name": "E",
+            "gender": "Male",
+            "parents": [
+                {
+                    "first_name": "Stina",
+                    "last_name": "Taberman",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1935"
+    },
+    "publications": [
+        {
+            "title": "Spektrum",
+            "year": "1900",
+            "type": "tidskrift"
+        },
+        {
+            "title": "Presens",
+            "year": "1900",
+            "type": "tidskrift"
+        },
+        {
+            "title": "Kulturfront",
+            "year": "1900",
+            "type": "tidskrift"
+        },
+        {
+            "title": "Prisma",
+            "year": "1900",
+            "type": "tidskrift"
+        }
+    ]
+}

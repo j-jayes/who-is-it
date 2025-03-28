@@ -1,0 +1,97 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "organization": "Svenska generalkonsulatet Hamburg",
+            "location": "Hamburg",
+            "country_code": "DEU"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": 1929,
+            "organization": "Hambros Bank Ltd",
+            "location": "London",
+            "country_code": "GBR"
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1929,
+            "end_year": 1936,
+            "organization": "Arbitrageavdelningen Stockholms Enskilda Bank",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktörsassistent",
+            "start_year": 1937,
+            "end_year": 1942,
+            "organization": "Stockholms Enskilda Bank",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1943,
+            "end_year": 1963,
+            "organization": "Stockholms Enskilda Bank",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Emanuel",
+        "last_name": "S",
+        "gender": "Male",
+        "birth_date": "30-08-1898",
+        "birth_place": "Stockholm",
+        "parents": [
+            {
+                "first_name": "Emanuel",
+                "last_name": "S",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Kristina Pettersson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Diplom Handelsskola",
+            "degree_level": "Schooling",
+            "year": "1919",
+            "institution": "Handelshögskolan Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Siv",
+            "last_name": "Holm",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Gunnar",
+                    "last_name": "H",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Fabrikör"
+                    }
+                },
+                {
+                    "first_name": "Hilda",
+                    "last_name": "Johansson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1936"
+    }
+}

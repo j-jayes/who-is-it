@@ -1,0 +1,131 @@
+{
+    "career": [
+        {
+            "position": "Svensk Lektor",
+            "start_year": 1928,
+            "end_year": 1932,
+            "organization": "London",
+            "location": "London",
+            "country_code": "GBR"
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1941,
+            "end_year": 1945,
+            "organization": "Stockholms borgarskola",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1944,
+            "end_year": 1957,
+            "organization": "Högre allmänna läroverket för flickor å Södermalm",
+            "location": "Södermalm, Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Svensk Lektor",
+            "start_year": 1948,
+            "end_year": 1951,
+            "organization": "Columbia University",
+            "location": "New York",
+            "country_code": "USA"
+        },
+        {
+            "position": "Pedagogisk Lektor i Engelska",
+            "start_year": 1953,
+            "end_year": 1954,
+            "organization": "Uppsala Universitet",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1954,
+            "end_year": null,
+            "organization": "Stockholms Högskola",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Universitetslektor",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": "Stockholms Universitet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Wijk",
+        "middle_name": "M",
+        "gender": "Male",
+        "birth_date": "27-07-1901",
+        "birth_place": "Norrköping",
+        "occupation": {
+            "occupation": "Universitetslektor",
+            "occupation_english": "University Lecturer"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "W",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Glasmästare",
+                    "occupation_english": "Glazier"
+                }
+            },
+            {
+                "first_name": "Matilda",
+                "last_name": "Karlson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Stockholms Högskola",
+            "department": null,
+            "start_year": 1937,
+            "end_year": 1960,
+            "field": "Engelska"
+        }
+    ],
+    "publications": [
+        {
+            "title": "The Orthography and Pronunciation of Henry Machyn",
+            "year": "1937",
+            "type": "Doktorsavhandling"
+        },
+        {
+            "title": "Regularized English",
+            "year": "1959",
+            "type": "Bok"
+        },
+        {
+            "title": "Rules of Pronunciation for the English Language",
+            "year": "1965",
+            "type": "Bok"
+        },
+        {
+            "title": "Rules of Pronunciation for the English Language",
+            "year": "1966",
+            "type": "Bok",
+            "editions": [
+                {
+                    "edition_number": "Svensk upplaga",
+                    "year": "1966"
+                }
+            ]
+        }
+    ],
+    "travels": null
+}
