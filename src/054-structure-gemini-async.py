@@ -28,7 +28,7 @@ if not API_KEY:
 
 MODEL_ID = "gemini-2.0-flash"
 INPUT_DATA_PATH = "data/biography_list/biography_list.json"
-OUTPUT_DATA_PATH = Path("data/structured_biographies")
+OUTPUT_DATA_PATH = Path("data/structured_biographies_test")
 MAX_CONCURRENT_REQUESTS = 20  # Limit concurrent API requests
 
 # Ensure output directory exists
@@ -231,8 +231,11 @@ from the 20th century biographical dictionary 'Vem är Vem' that is provided bel
 5. Put years in full based on context. Put dates in DD-MM-YYYY format where possible. 
 """
 
-# Create a semaphore to limit concurrent API requests
-semaphore = None  # Will be initialized in main function
+# Create a shared client for all requests
+genai_client = genai.Client(api_key=API_KEY)
+
+# Create a thread pool for synchronous API calls
+executor = concurrent.futures.ThreadPoolExecutor(max_workers=MAX_CONCURRENT_REQUESTS)
 
 async def read_file_async(file_path: str) -> str:
     """Read file content asynchronously"""
@@ -252,16 +255,25 @@ async def save_json_async(data: Dict, output_path: Path) -> None:
         logger.error(f"Error saving to {output_path}: {e}")
         raise
 
+def make_api_call(client, content, schema):
+    """Make a synchronous API call to Gemini"""
+    try:
+        response = client.models.generate_content(
+            model=MODEL_ID,
+            contents=content,
+            config={
+                "response_mime_type": "application/json",
+                "response_schema": schema
+            }
+        )
+        return response
+    except Exception as e:
+        logger.error(f"API call error: {e}")
+        raise
+
 async def structure_biography_async(filename: str, file_path: str) -> Optional[Dict[str, Any]]:
     """
     Process a biography file and structure its content according to the BioSchema asynchronously.
-    
-    Args:
-        filename: The name of the biography file without extension
-        file_path: The path to the biography file
-        
-    Returns:
-        Structured biography data as a dictionary, or None if processing failed
     """
     # Create output path
     output_path = OUTPUT_DATA_PATH / f"{filename}.json"
@@ -271,59 +283,42 @@ async def structure_biography_async(filename: str, file_path: str) -> Optional[D
         logger.info(f"Output for {filename} already exists, skipping.")
         return None
     
-    # Limit concurrent API requests
-    async with semaphore:
-        try:
-            # Read biography content
-            biography_text = await read_file_async(file_path)
-            
-            # Use a thread pool for the synchronous Gemini API call
-            with concurrent.futures.ThreadPoolExecutor() as executor:
-                # Create a client for this request
-                client = genai.Client(api_key=API_KEY)
-                
-                # Run the API call in a separate thread
-                response_future = executor.submit(
-                    lambda: client.models.generate_content(
-                        model=MODEL_ID,
-                        contents=[PROMPT_TEMPLATE, biography_text],
-                        config={
-                            "response_mime_type": "application/json",
-                            "response_schema": BioSchema.model_json_schema()
-                        }
-                    )
-                )
-                
-                # Wait for the response
-                response = response_future.result()
-            
-            # Process the response
-            if not response.candidates or not response.candidates[0].content.parts:
-                raise ValueError("Empty response from Gemini API")
-                
-            # Extract JSON from response
-            json_text = response.candidates[0].content.parts[0].text
-            result = json.loads(json_text)
-            
-            # Save structured data
-            await save_json_async(result, output_path)
-                
-            logger.info(f"Successfully processed and saved {filename}")
-            return result
-            
-        except json.JSONDecodeError as e:
-            logger.error(f"JSON parsing error for {filename}: {e}")
-        except Exception as e:
-            logger.error(f"Error processing {filename}: {e}", exc_info=True)
+    try:
+        # Read biography content
+        biography_text = await read_file_async(file_path)
         
-        return None
+        # Run the API call in the thread pool
+        loop = asyncio.get_running_loop()
+        api_content = [PROMPT_TEMPLATE, biography_text]
+        response = await loop.run_in_executor(
+            executor, 
+            lambda: make_api_call(genai_client, api_content, BioSchema.model_json_schema())
+        )
+        
+        # Process the response
+        if not response.candidates or not response.candidates[0].content.parts:
+            raise ValueError("Empty response from Gemini API")
+            
+        # Extract JSON from response
+        json_text = response.candidates[0].content.parts[0].text
+        result = json.loads(json_text)
+        
+        # Save structured data
+        await save_json_async(result, output_path)
+            
+        logger.info(f"Successfully processed and saved {filename}")
+        return result
+        
+    except json.JSONDecodeError as e:
+        logger.error(f"JSON parsing error for {filename}: {e}")
+    except Exception as e:
+        logger.error(f"Error processing {filename}: {e}", exc_info=True)
+    
+    return None
 
 async def process_biographies_async(limit: int = 10) -> None:
     """
     Process multiple biographies concurrently up to the specified limit.
-    
-    Args:
-        limit: Maximum number of biographies to process
     """
     try:
         # Load the list of biographies to process
@@ -351,10 +346,17 @@ async def process_biographies_async(limit: int = 10) -> None:
         biographies_to_process = unprocessed_biographies[:limit]
         logger.info(f"Will process {len(biographies_to_process)} biographies")
         
-        # Process biographies concurrently
+        # Use semaphore to limit concurrent API calls
+        semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
+        
+        async def process_with_semaphore(filename, file_path):
+            async with semaphore:
+                return await structure_biography_async(filename, file_path)
+        
+        # Process biographies concurrently with semaphore control
         tasks = []
         for filename, file_path in biographies_to_process:
-            task = asyncio.create_task(structure_biography_async(filename, file_path))
+            task = asyncio.create_task(process_with_semaphore(filename, file_path))
             tasks.append(task)
         
         # Wait for all tasks to complete
@@ -369,12 +371,10 @@ async def process_biographies_async(limit: int = 10) -> None:
 
 async def main(limit: int = 10):
     """Main async entry point"""
-    global semaphore
-    # Initialize the semaphore to limit concurrent API requests
-    semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
-    
-    # Process biographies
+    # Process biographies with the given limit
     await process_biographies_async(limit=limit)
+    # Clean up the executor when done
+    executor.shutdown(wait=True)
 
 if __name__ == "__main__":
     # Set up argument parser
