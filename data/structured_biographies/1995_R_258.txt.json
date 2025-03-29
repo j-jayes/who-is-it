@@ -1,0 +1,83 @@
+{
+    "career": [
+        {
+            "position": "Tjänstgörande läkare",
+            "start_year": 1957,
+            "end_year": 1961,
+            "organization": "Lasarettet Örebro",
+            "location": "Örebro",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tjänstgörande läkare",
+            "start_year": 1961,
+            "end_year": 1970,
+            "organization": "Lasarettet Lund",
+            "location": "Lund",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1970,
+            "end_year": 1973,
+            "organization": "Lasarettet Lidköping",
+            "location": "Lidköping",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chefsläkare",
+            "start_year": 1973,
+            "end_year": 1994,
+            "organization": "Öronkliniken Kärnsjukhuset Skövde",
+            "location": "Skövde",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Rundcrantz",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "29-12-1904",
+        "birth_place": "Göteborg",
+        "occupation": {
+            "occupation": "Docent",
+            "occupation_english": "Docent"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Rundcrantz",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Civilingenjör",
+                    "occupation_english": "Civil Engineer"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Johansson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1969,
+            "field": "Öron-, näs- och halssjukdomar"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Läroböcker i öron-, näs- och halssjukdomar",
+            "year": "None",
+            "type": "Läroböcker"
+        }
+    ],
+    "travels": null
+}
