@@ -1,0 +1,169 @@
+{
+    "career": [
+        {
+            "position": "Extra ordinarie tjänsteman",
+            "start_year": 1921,
+            "organization": "Bergsstaten"
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1921,
+            "end_year": 1923,
+            "organization": "KTH",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande ingenjör",
+            "start_year": 1923,
+            "organization": "Ryllshytte gruvor och Garpenbergs odalfält hos AB Zinkgruvor",
+            "location": "Falun"
+        },
+        {
+            "position": "Gruvmätare",
+            "start_year": 1924,
+            "organization": "AB Zinkgruvor",
+            "location": "Ryllshyttan, Garpenberg, Svärdsjö och Kalvbäckens gruvor",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Platschef",
+            "start_year": 1924,
+            "end_year": 1930,
+            "organization": "Svärdsjö gruvor och talkverk"
+        },
+        {
+            "position": "Andre anrikningsingenjör",
+            "start_year": 1930,
+            "end_year": 1931,
+            "organization": "Skellefteå Gruv AB"
+        },
+        {
+            "position": "Andre anrikningsingenjör",
+            "start_year": 1931,
+            "end_year": 1933,
+            "organization": "Bolidens Gruv AB"
+        },
+        {
+            "position": "Driftsingenjör",
+            "start_year": 1933,
+            "organization": "Bolidens Gruv AB",
+            "location": "Boliden"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1934,
+            "organization": "Bolidens Gruv AB",
+            "location": "Laver, Kristineberg, Åkulla, Renström med flera gruvor"
+        },
+        {
+            "position": "Platschef",
+            "start_year": 1934,
+            "end_year": 1943,
+            "organization": "Kristineberg"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1943,
+            "organization": "AB Zinkgruvor",
+            "location": "Falun"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Thorne",
+        "middle_name": "Gustaf",
+        "gender": "Male",
+        "birth_date": "08-06-1895",
+        "birth_place": "Östersund",
+        "occupation": {
+            "occupation": "Bergsingenjör",
+            "occupation_english": "Mining Engineer"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Thorne",
+                "middle_name": "T",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fältläkare",
+                    "occupation_english": "Field Surgeon"
+                }
+            },
+            {
+                "first_name": "Gerda",
+                "last_name": "Eksandh",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1914",
+            "institution": "Östersund"
+        },
+        {
+            "degree": "Bergsingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1920",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingegerd",
+            "last_name": "Ruuth",
+            "gender": "Female"
+        }
+    },
+    "publications": [
+        {
+            "title": "Squaresetting",
+            "year": "1933",
+            "type": "Artikel",
+            "publisher": "Teknisk Tidskrift"
+        },
+        {
+            "title": "Bolidens krossnings- och skrädningsanordningar",
+            "year": "1933",
+            "type": "Artikel",
+            "publisher": "Värmlands Bergsmannaförenings Ånn"
+        },
+        {
+            "title": "Kristinebergsgruvans utbyggnad",
+            "year": "1943",
+            "type": "Artikel",
+            "publisher": "Teknisk Tidskrift"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1935"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1938"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1938"
+        },
+        {
+            "country": "Canada",
+            "country_code": "CAN",
+            "year": "1938"
+        }
+    ]
+}
