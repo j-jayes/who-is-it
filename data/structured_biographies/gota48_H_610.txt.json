@@ -1,0 +1,163 @@
+{
+    "career": [
+        {
+            "position": "andre stadsläkare",
+            "start_year": 1916,
+            "end_year": 1944,
+            "organization": "Stockholm Stad",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "läkare",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "asylerna för husvilla å Södermalm",
+            "location": "Södermalm, Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "lärare",
+            "start_year": 1917,
+            "end_year": 1945,
+            "organization": "polisskolan",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Hultkvist",
+        "middle_name": "Emanuel",
+        "gender": "Male",
+        "birth_date": "26-03-1878",
+        "birth_place": "Hakarp, Jönköpings Län",
+        "occupation": {
+            "occupation": "medicin doktor, fd. andre stadsläkare",
+            "occupation_english": "Medical Doctor, Former Second City Doctor"
+        },
+        "parents": [
+            {
+                "first_name": "Karl",
+                "last_name": "Hultkvist",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "folkskollärare",
+                    "occupation_english": "Public School Teacher"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Bexeill",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Aman",
+            "position_english": null,
+            "institution": "Karolinska Institutet",
+            "department": "patologisk",
+            "start_year": 1906,
+            "end_year": 1907,
+            "field": null
+        },
+        {
+            "position": "Aman",
+            "position_english": null,
+            "institution": "Karolinska Institutet",
+            "department": "rättsmedicin",
+            "start_year": 1908,
+            "end_year": 1911,
+            "field": null
+        },
+        {
+            "position": "tf. professor",
+            "position_english": "Acting Professor",
+            "institution": "Karolinska Institutet",
+            "department": "rättsmedicin",
+            "start_year": 1912,
+            "end_year": 1916,
+            "field": null
+        },
+        {
+            "position": "tf. professor",
+            "position_english": "Acting Professor",
+            "institution": "Uppsala Universitet",
+            "department": "hygien",
+            "start_year": 1918,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "Mog:ex.",
+            "degree_level": "Schooling",
+            "year": "1898",
+            "institution": "Jönköping"
+        },
+        {
+            "degree": "medicin kandidat",
+            "degree_level": "Master's",
+            "year": "1904",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "medicin licentiat",
+            "degree_level": "Doctorate",
+            "year": "1910",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "medicin doktor",
+            "degree_level": "Doctorate",
+            "year": "1918",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Beth",
+            "last_name": "Simon",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Moritz",
+                    "last_name": "Simon",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "provinsialläkare",
+                        "occupation_english": "Provincial Doctor"
+                    }
+                },
+                {
+                    "first_name": "Adèle",
+                    "last_name": "Liljensparre",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1911",
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1919"
+        }
+    ]
+}

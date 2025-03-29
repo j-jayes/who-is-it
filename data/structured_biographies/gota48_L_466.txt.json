@@ -1,0 +1,135 @@
+{
+    "career": [
+        {
+            "position": "Docent i Nya testamentets exegetik",
+            "start_year": 1932,
+            "organization": "Uppsala Universitet",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tjänsteförrättande kyrkoherde",
+            "start_year": 1939,
+            "organization": "Estuna",
+            "location": "Estuna",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor i Kristenkunskap och filosofi",
+            "start_year": 1946,
+            "organization": "Halmstads högre allmänna läroverk",
+            "location": "Halmstad",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Olof",
+        "last_name": "Linton",
+        "middle_name": "Ditlef",
+        "gender": "Male",
+        "birth_date": "25-09-1898",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Lektor",
+            "occupation_english": "Lecturer"
+        },
+        "parents": [
+            {
+                "first_name": "Alfred",
+                "last_name": "Linton",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kontorschef",
+                    "occupation_english": "Office Manager"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Lind",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1932,
+            "field": "Nya testamentets exegetik"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Irene",
+            "last_name": "Wallerius",
+            "gender": "Female",
+            "occupation": null
+        },
+        "marriage_year": "1932",
+        "children": [
+            {
+                "first_name": "Michael",
+                "last_name": "Linton",
+                "gender": "Male",
+                "birth_year": "1933"
+            },
+            {
+                "first_name": "Robert",
+                "last_name": "Linton",
+                "gender": "Male",
+                "birth_year": "1937"
+            },
+            {
+                "first_name": "Verna",
+                "last_name": "Linton",
+                "gender": "Female",
+                "birth_year": "1943"
+            }
+        ]
+    },
+    "travels": [
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": "1929"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1929"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": "1930"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1930"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": "1931"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1931"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": "1935"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1935"
+        }
+    ]
+}

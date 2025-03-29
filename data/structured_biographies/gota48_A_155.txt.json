@@ -1,0 +1,121 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1935,
+            "organization": "Firma L. J. Wingqvist",
+            "location": "Fritsla"
+        },
+        {
+            "position": "Teknisk chef",
+            "start_year": 1936,
+            "organization": "Fritsla vattenledning",
+            "location": "Fritsla"
+        }
+    ],
+    "person": {
+        "first_name": "Lennart",
+        "last_name": "Anden",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "03-08-1909",
+        "birth_place": "Fritsla, Älvsborgs Län",
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer"
+        },
+        "parents": [
+            {
+                "first_name": "Lennart",
+                "last_name": "Anden",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "regementsläkare",
+                    "occupation_english": "regimental doctor"
+                }
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Ehrenpohl",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1929",
+            "institution": "Borås"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1933",
+            "institution": "Kungliga Tekniska Högskolan (KTH)"
+        },
+        {
+            "degree": "Textilstudier",
+            "degree_level": "Bachelor's",
+            "year": "1933",
+            "institution": "College of Technology i Manchester"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunnel",
+            "last_name": "Sederholm Stickler",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1934",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Birgitta",
+                "last_name": "Anden",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1937"
+            },
+            {
+                "first_name": "Bengt",
+                "last_name": "Anden",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Sven",
+                "last_name": "Anden",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1936"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1939"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1945"
+        }
+    ]
+}
