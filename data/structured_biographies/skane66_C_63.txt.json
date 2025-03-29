@@ -1,0 +1,107 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1933,
+            "organization": "Aug Huzell aktiebolag Karlstad",
+            "location": "Karlstad",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Representant",
+            "start_year": 1944,
+            "end_year": 1951,
+            "organization": "Huzell aktiebolag",
+            "location": "Södra Sverige",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1952,
+            "organization": "Huzells i Malmö aktiebolag",
+            "location": "Malmö",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sten",
+        "last_name": "Carlson",
+        "middle_name": "G H",
+        "gender": "Male",
+        "birth_date": "07-06-1918",
+        "birth_place": "Karlstad",
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Karlsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Portström",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "community_involvement": [
+        {
+            "role": "Medlem",
+            "organization": "Malmö försäljnings- och reklamförening"
+        },
+        {
+            "role": "Medlem",
+            "organization": "Odd Fellow"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maja",
+            "last_name": "Nilsson",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Nife",
+                    "last_name": "Månsson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Lantbrukare",
+                        "occupation_english": "Farmer"
+                    }
+                },
+                {
+                    "first_name": "Nilsson",
+                    "last_name": "Nilsson",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1945",
+        "children": [
+            {
+                "first_name": "Tomas",
+                "last_name": "Carlson",
+                "gender": "Male",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "hobbies": [
+        "bowling"
+    ],
+    "honors": [
+        "Patriotiska Sällskapets Stor Guldmedalj"
+    ],
+    "political_positions": null,
+    "publications": null
+}

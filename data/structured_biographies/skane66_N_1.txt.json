@@ -1,0 +1,139 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1950,
+            "end_year": 1957,
+            "organization": "Poznans universitet",
+            "location": "Poznan",
+            "country_code": "POL"
+        },
+        {
+            "position": "tillförordnad lektor",
+            "start_year": 1957,
+            "organization": "Lunds universitet",
+            "location": "Lund"
+        }
+    ],
+    "person": {
+        "first_name": "Jerzy",
+        "last_name": "Nalepa",
+        "middle_name": "S",
+        "gender": "Male",
+        "birth_date": "29-07-1926",
+        "birth_place": "Kraszewice, Polen",
+        "occupation": {
+            "occupation": "Dr fil",
+            "occupation_english": "Doctor of Philosophy"
+        },
+        "parents": [
+            {
+                "first_name": "Leon",
+                "last_name": "Nalepa",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "folkskollärare",
+                    "occupation_english": "Primary school teacher"
+                }
+            },
+            {
+                "first_name": "Zofia",
+                "last_name": "Wieckowska",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Lunds universitet",
+            "start_year": 1962,
+            "field": "filologi"
+        },
+        {
+            "position": "Dr fil",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Poznans universitet",
+            "start_year": 1958,
+            "field": "filologi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Miroslawa",
+            "last_name": "Mirecka",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "med dr",
+                "occupation_english": "Medical Doctor"
+            },
+            "parents": [
+                {
+                    "first_name": "Stanislaw",
+                    "last_name": "Mirecki",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "med dr",
+                        "occupation_english": "Medical Doctor"
+                    }
+                },
+                {
+                    "first_name": "Stefania",
+                    "last_name": "Stempniewicz",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1953",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Stanislaw",
+                "last_name": "Nalepa",
+                "gender": "Male",
+                "birth_year": "1954"
+            },
+            {
+                "first_name": "Wojciech",
+                "last_name": "Nalepa",
+                "gender": "Male",
+                "birth_year": "1955"
+            },
+            {
+                "first_name": "Dobromir",
+                "last_name": "Nalepa",
+                "gender": "Male",
+                "birth_year": "1959"
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Miedzyrzecz",
+            "year": "1961",
+            "type": "bok",
+            "publisher": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Jac-wiegowie",
+            "year": "1964",
+            "type": "bok",
+            "publisher": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "art",
+            "year": "None",
+            "type": "tidskrift",
+            "publisher": null,
+            "signature": null,
+            "volumes": null
+        }
+    ]
+}

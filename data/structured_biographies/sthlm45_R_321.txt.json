@@ -1,0 +1,113 @@
+{
+    "career": [
+        {
+            "position": "Föreståndare",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Statens Farmaceutiska Laboratorium",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gari",
+        "last_name": "Rydin",
+        "middle_name": "Håkan",
+        "gender": "Male",
+        "birth_date": "30-08-1902",
+        "birth_place": "Seglora församling, Älvsborgs Län",
+        "occupation": {
+            "occupation": "Medicinsk Doktor, Docent",
+            "occupation_english": "Medical Doctor, Docent"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1935,
+            "end_year": 1938,
+            "field": "Farmakologi"
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1938,
+            "end_year": null,
+            "field": "Farmakologi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Asta",
+            "last_name": "Rentzhog",
+            "middle_name": null,
+            "gender": "Female",
+            "occupation": {
+                "occupation": "Filosofie Kandidat",
+                "occupation_english": "Bachelor of Arts"
+            }
+        },
+        "marriage_year": "1935",
+        "children": [
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Rydin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1936"
+            },
+            {
+                "first_name": "Bertil",
+                "last_name": "Rydin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Bengt",
+                "last_name": "Rydin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1942"
+            }
+        ]
+    },
+    "hobbies": [
+        "Skidsport",
+        "Segling"
+    ],
+    "travels": [
+        {
+            "country": "Bern",
+            "country_code": "CHE"
+        },
+        {
+            "country": "Berlin",
+            "country_code": "DEU"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1934"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1935"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1936"
+        }
+    ]
+}
