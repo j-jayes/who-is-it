@@ -1,0 +1,142 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1975,
+            "end_year": 1988,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1988,
+            "end_year": 1989,
+            "organization": "Uppsala Universitet",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1989,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Forskningsledare",
+            "start_year": 1989,
+            "organization": "materialfysikgruppen Chalmers Tekniska Högskola",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Lena",
+        "last_name": "Torell",
+        "middle_name": "M",
+        "gender": "Female",
+        "birth_date": "27-08-1946",
+        "birth_place": "Göteborg",
+        "occupation": {
+            "occupation": "professor, vice rektor",
+            "occupation_english": "Professor, Vice-Chancellor"
+        },
+        "parents": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Bergström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "civilingenjör",
+                    "occupation_english": "Civil Engineer"
+                }
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Larsson",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "lärare",
+                    "occupation_english": "Teacher"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie magister",
+            "position_english": "Master of Arts",
+            "institution": "Göteborgs Universitet",
+            "start_year": 1970
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Göteborgs Universitet",
+            "start_year": 1975
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Göteborgs Universitet",
+            "start_year": 1980
+        }
+    ],
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Miljöstrateg stiftelse"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Stiftelsen SP"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Vattenfalls framtidsråd",
+            "role": "medlem",
+            "start_year": 1989
+        },
+        {
+            "committee_name": "fackkollegiet för bränsleceller",
+            "role": "medlem",
+            "start_year": 1989,
+            "organization": "Nord energiforskningsprogrammet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lars",
+            "last_name": "Börjesson",
+            "gender": "Male",
+            "occupation": {
+                "occupation": "professor",
+                "occupation_english": "Professor"
+            },
+            "parents": [
+                {
+                    "first_name": "Kjell",
+                    "last_name": "Börjesson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "lektor",
+                        "occupation_english": "Lecturer"
+                    }
+                },
+                {
+                    "first_name": "Rut",
+                    "last_name": "Jönsson",
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "ämneslärare",
+                        "occupation_english": "Subject Teacher"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1990"
+    },
+    "political_positions": null
+}
