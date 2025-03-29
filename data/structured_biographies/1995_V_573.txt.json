@@ -1,0 +1,96 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Töre",
+        "last_name": "Vänngård",
+        "middle_name": "I",
+        "gender": "Male",
+        "birth_place": "Söderhamn",
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor"
+        },
+        "parents": [
+            {
+                "first_name": "Gösta",
+                "last_name": "Vänngård",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "occupation_english": "merchant"
+                }
+            },
+            {
+                "first_name": "Dora",
+                "last_name": "Nilsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "universitetslektor",
+            "institution": "Uppsala",
+            "start_year": 1959,
+            "end_year": 1965
+        },
+        {
+            "position": "docent",
+            "institution": "Göteborgs Universitet",
+            "start_year": 1966,
+            "end_year": 1974
+        },
+        {
+            "position": "professor",
+            "institution": "Göteborgs Universitet",
+            "department": "biofysik",
+            "start_year": 1974
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Ledamot",
+            "field": "Kungliga Vetenskapsakademien",
+            "recognized_by": "KVA"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1955",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1965",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margareta",
+            "last_name": "Claesson",
+            "gender": "Female",
+            "birth_date": "None",
+            "parents": [
+                {
+                    "first_name": "Ivar",
+                    "last_name": "Claesson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "pastor",
+                        "occupation_english": "pastor"
+                    }
+                },
+                {
+                    "first_name": "Kerstin",
+                    "last_name": "Frändberg",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1959"
+    }
+}
