@@ -1,0 +1,165 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1942,
+            "organization": "Stockholms stad",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "vägkassör",
+            "start_year": 1944,
+            "organization": "Gävleborgs Län landsting",
+            "location": "Gävleborgs Län",
+            "country_code": "SWE"
+        },
+        {
+            "position": "bokhållare",
+            "start_year": 1946,
+            "organization": "Västerbottens Län landsting",
+            "location": "Västerbottens Län",
+            "country_code": "SWE"
+        },
+        {
+            "position": "intendent",
+            "start_year": 1951,
+            "organization": "Kronobergs Län landsting centralförvaltning",
+            "location": "Kronobergs Län",
+            "country_code": "SWE"
+        },
+        {
+            "position": "tillsynsman",
+            "start_year": 1956,
+            "organization": "Mediestyrelsen",
+            "location": "Kronobergs Län",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "E",
+        "last_name": "BOÄNG",
+        "middle_name": "Rune",
+        "gender": "Male",
+        "birth_date": "15-04-1915",
+        "birth_place": "Dorotea, Västerbottens Län",
+        "occupation": {
+            "occupation": "intendent",
+            "occupation_english": "superintendent"
+        },
+        "parents": [
+            {
+                "first_name": "Jens",
+                "last_name": "Karlsson-Boäng",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kronojägare",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Lisa",
+                "last_name": "Eriksson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "committee_memberships": [
+        {
+            "committee_name": "taxeringsnämnd",
+            "role": "Ordförande",
+            "start_year": 1954,
+            "end_year": 1956
+        }
+    ],
+    "current_location": "Växjö",
+    "education": [
+        {
+            "degree": "Realexamen",
+            "degree_level": "Schooling",
+            "year": "1935",
+            "institution": "Strömsund"
+        },
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1939",
+            "institution": "Härnösand"
+        },
+        {
+            "degree": "Diplom från DSI",
+            "degree_level": "Schooling",
+            "year": "1943",
+            "institution": "DSI"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Granfelt",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "1916",
+            "occupation": {
+                "occupation": "sjuksköterska",
+                "occupation_english": "nurse"
+            },
+            "parents": [
+                {
+                    "first_name": "Helge",
+                    "last_name": "G",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "lektor, filosofie doktor",
+                        "occupation_english": "lecturer, PhD"
+                    }
+                },
+                {
+                    "first_name": "Gertrud",
+                    "last_name": "Häller",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1941",
+        "children": [
+            {
+                "first_name": "Eva",
+                "last_name": "Boäng",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Laila",
+                "last_name": "Boäng",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Gun",
+                "last_name": "Boäng",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1946"
+            },
+            {
+                "first_name": "Jens",
+                "last_name": "Boäng",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1952"
+            }
+        ]
+    },
+    "hobbies": [
+        "fiske"
+    ]
+}

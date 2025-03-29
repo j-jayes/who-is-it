@@ -1,0 +1,50 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Karin",
+        "last_name": "Carlsson",
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Georg",
+            "last_name": "Carlsson",
+            "gender": "Male",
+            "occupation": {
+                "occupation": "köpman",
+                "occupation_english": "merchant"
+            },
+            "parents": [
+                {
+                    "first_name": "Alma",
+                    "last_name": "Bengtsson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1942",
+        "children": [
+            {
+                "first_name": "Töre",
+                "last_name": "None",
+                "gender": "Male",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Bjarne",
+                "last_name": "None",
+                "gender": "Male",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "hobbies": [
+        "segling"
+    ],
+    "honors": [
+        "Riddare av Kungliga Nordstjärneorden",
+        "Commendör av Finlands Vita Ros' orden av första klass",
+        "Svenska Lottakårens Skyddsmärke i silver med motivering",
+        "Bohuslän-Dals befälsutbildningsförbunds förtjänstmedalj i guld"
+    ]
+}
