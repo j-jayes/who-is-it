@@ -1,0 +1,119 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1910,
+            "end_year": 1911,
+            "organization": "Siemens-Schuckert-werke",
+            "location": "Berlin",
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1911,
+            "end_year": 1916,
+            "organization": "Public Service Co",
+            "location": "Chicago",
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1916,
+            "end_year": 1917,
+            "organization": "Sargent & Lundy Consult Engineers",
+            "location": "Chicago",
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1917,
+            "end_year": 1919,
+            "organization": "Delta Står El Co",
+            "location": "Chicago",
+            "country_code": null
+        },
+        {
+            "position": "Chefsingenjör",
+            "start_year": 1920,
+            "organization": "Sydsvenska Kraft Aktiebolag",
+            "location": "Malmö",
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1930,
+            "organization": "Sydsvenska Kraft Aktiebolag",
+            "location": "Malmö",
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Antonius",
+        "last_name": "Randers",
+        "middle_name": "Ferdinand",
+        "gender": "Male",
+        "birth_date": "17-10-1884",
+        "birth_place": "Billesholm",
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": null
+        },
+        "parents": [
+            {
+                "first_name": "Jöns",
+                "last_name": "Jönsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Trävaruhandlare",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Oscaria",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1910",
+            "institution": "Chalmers Tekniska Högskola"
+        },
+        {
+            "degree": "La Salle Extension",
+            "degree_level": "Bachelor's",
+            "year": "1919",
+            "institution": "University of Chicago"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Helena",
+            "last_name": "Hedman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        }
+    },
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1930"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1915,
+            "end_year": 1918,
+            "organization": "Aktiebolaget Stenberg & Ohlsons filialer",
+            "location": "Örebro, Göteborg och Malmö",
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1918,
+            "end_year": 1920,
+            "organization": "Firma P W Stenström",
+            "location": "Malmö",
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "end_year": 1924,
+            "organization": null,
+            "location": "Argentina",
+            "country_code": "ARG"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1924,
+            "end_year": 1930,
+            "organization": null,
+            "location": "USA",
+            "country_code": "USA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Import & Export Aktiebolag G & L Beijer",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktörsassistent",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": null,
+            "location": "Luleå",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Aktiebolaget Luleå Kol- & Materialaffär",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Luleå Tegelbruks Aktiebolag",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Oscar",
+        "last_name": "Nylander",
+        "middle_name": "Bernhard",
+        "gender": "Male",
+        "birth_date": "01-01-1896",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director"
+        },
+        "parents": [
+            {
+                "first_name": "F",
+                "last_name": "Nylander",
+                "middle_name": "O",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Järnvägstjänsteman",
+                    "occupation_english": "Railway official"
+                }
+            },
+            {
+                "first_name": "Ebba",
+                "last_name": "Sundblad",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolaget Larsson & Lind i Luleå"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Norrbottens Småindustriförening"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Norrbottens lokala värderingsnämnd"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Argentina",
+            "country_code": "ARG",
+            "year": "1920-1924"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1924-1930"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1938"
+        },
+        {
+            "country": "Ungern",
+            "country_code": "HUN",
+            "year": "1938"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1939"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1941"
+        }
+    ]
+}
