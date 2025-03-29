@@ -1,0 +1,63 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "MEM",
+        "last_name": "mem",
+        "middle_name": null,
+        "gender": "Male"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Marianne",
+            "last_name": "Ljungdahl",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Gustaf",
+                    "last_name": "Ljungdahl",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "filosofie doktor",
+                        "occupation_english": null
+                    }
+                },
+                {
+                    "first_name": "Berta",
+                    "last_name": "Göthlin",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Erik",
+                "last_name": "mem",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "mem",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Mats",
+                "last_name": "mem",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1948"
+            }
+        ]
+    }
+}

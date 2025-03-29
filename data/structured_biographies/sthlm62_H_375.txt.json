@@ -1,0 +1,110 @@
+{
+    "career": [
+        {
+            "position": "Tingstjänstgöring",
+            "start_year": 1929,
+            "end_year": 1932,
+            "organization": "Falu doms",
+            "location": "Falun",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Advokat",
+            "start_year": 1933,
+            "organization": "Egen advokatverksamhet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Stig",
+        "last_name": "Helleberg",
+        "middle_name": "A",
+        "gender": "Male",
+        "birth_date": "21-02-1905",
+        "birth_place": "Umeå landsförsamling",
+        "occupation": {
+            "occupation": "Advokat",
+            "occupation_english": "Lawyer"
+        },
+        "parents": [
+            {
+                "first_name": "Hjalmar",
+                "last_name": "Helleberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Revisor",
+                    "occupation_english": "Auditor"
+                }
+            },
+            {
+                "first_name": "Valborg",
+                "last_name": "Höijer",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1923",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Juristkandidatexamen",
+            "degree_level": "Master's",
+            "year": "1929",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Berg",
+            "gender": "Female",
+            "birth_date": "1920",
+            "parents": [
+                {
+                    "first_name": "Uno",
+                    "last_name": "Berg",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Järnvägstjänsteman",
+                        "occupation_english": "Railway Official"
+                    }
+                },
+                {
+                    "first_name": "Valborg",
+                    "last_name": "Schyberg",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1944",
+        "children": [
+            {
+                "first_name": "Peter",
+                "last_name": "Helleberg",
+                "gender": "Male",
+                "birth_year": "1949"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Helleberg",
+                "gender": "Male",
+                "birth_year": "1951"
+            }
+        ]
+    },
+    "hobbies": [
+        "Segling",
+        "Smalfilmning",
+        "Fjällvandring"
+    ],
+    "honors": [
+        "LSA 1939"
+    ]
+}

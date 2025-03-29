@@ -1,0 +1,73 @@
+{
+    "career": [
+        {
+            "position": "Arkitekt",
+            "start_year": 1957,
+            "organization": "Hjalmar Klemming och Erik Thelaus arkitektkontor",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "LARS",
+        "last_name": "GRÖNLUND",
+        "middle_name": "O A",
+        "gender": "Male",
+        "birth_date": "19-08-1930",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "arkitekt",
+            "occupation_english": "architect"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Grönlund",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Ingenjör",
+                    "occupation_english": "Engineer"
+                }
+            },
+            {
+                "first_name": "Thyra",
+                "last_name": "Bäckström",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1950",
+            "institution": "Karlskoga"
+        },
+        {
+            "degree": "Arkitekturexamen",
+            "degree_level": "Master's",
+            "year": "1958",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "hobbies": [
+        "musik",
+        "måleri",
+        "fotografering"
+    ],
+    "travels": [
+        {
+            "country": "Frankrike",
+            "country_code": "FRA"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA"
+        },
+        {
+            "country": "Grekland",
+            "country_code": "GRC"
+        }
+    ]
+}
