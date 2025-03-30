@@ -8,9 +8,9 @@ on:
         required: true
         default: '10'
         type: string
-  schedule:
-    # Run every 1.5 hours (90 minutes)
-    - cron: '0 */1 * * *' 
+  # schedule:
+  #   # Run every 1.5 hours (90 minutes)
+  #   - cron: '0 */1 * * *' 
 
 jobs:
   process-biographies:
