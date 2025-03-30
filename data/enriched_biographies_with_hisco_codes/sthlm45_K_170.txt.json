@@ -1,0 +1,159 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1903,
+            "end_year": 1908,
+            "organization": "Naftaproduktionsbolaget Bröderna Nobel",
+            "location": "S :t Petersburg",
+            "country_code": null
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1908,
+            "end_year": 1932,
+            "organization": "hos doktor Emanuel Nobel",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "hos direktör",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "G. Nobel",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Likvidator",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "A-B Ductor i likvidation",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Handels- och Industri Aktiebolaget Svenska Iran",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Fastighetsföreningen Sjömannen 7",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Fastighetsföreningen Rådjuret nr 7",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Oscar",
+        "last_name": "Kristoferson",
+        "middle_name": "Alfred",
+        "gender": "Male",
+        "birth_date": "01-09-1887",
+        "birth_place": "S :t Petersburg, Ryssland",
+        "occupation": {
+            "occupation": "kamrer",
+            "occupation_english": "comptroller",
+            "hisco_code_swedish": "11010.0",
+            "hisco_description_swedish": "Accountant, General"
+        },
+        "parents": [
+            {
+                "first_name": "K. J.",
+                "last_name": "K.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "direktör",
+                    "occupation_english": "director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Matilda",
+                "last_name": "Andersdotter",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Maria",
+            "last_name": "von Landesen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1912",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Rolf",
+                "last_name": "Kristoferson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1914"
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Kristoferson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1918"
+            }
+        ]
+    },
+    "travels": [
+        {
+            "country": "Finland",
+            "country_code": "FIN",
+            "year": null
+        },
+        {
+            "country": "Norge",
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": "Danmark",
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "career": [
+        {
+            "position": "TV-producent",
+            "start_year": 1950,
+            "organization": "Sveriges Radio",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Reporter",
+            "start_year": 1955,
+            "organization": "Sveriges Radio",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Programledare",
+            "start_year": 1955,
+            "organization": "Sveriges Radio",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Feldreich",
+        "middle_name": "V",
+        "gender": "Male",
+        "birth_date": "25-09-1912",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "TV-producent",
+            "occupation_english": "TV Producer"
+        },
+        "parents": [
+            {
+                "first_name": "Harry",
+                "last_name": "Feldreich",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Avdelningschef",
+                    "occupation_english": "Head of Department",
+                    "hisco_code_swedish": "22110.0",
+                    "hisco_description_swedish": "Clerical Supervisor, General"
+                }
+            },
+            {
+                "first_name": "Elsa",
+                "last_name": "Rhén",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1944",
+            "institution": "None"
+        },
+        {
+            "degree": "Folkskollärarexamen",
+            "degree_level": "Bachelor's",
+            "year": "1949",
+            "institution": "None"
+        }
+    ],
+    "military_service": "Kapten signaltrupp reserv",
+    "publications": [
+        {
+            "title": "Rymden runt oss",
+            "year": "1961",
+            "type": "Book"
+        }
+    ],
+    "travels": null
+}

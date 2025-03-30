@@ -1,0 +1,112 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Grimelius",
+        "middle_name": "E O",
+        "gender": "Male",
+        "birth_date": "07-04-1933",
+        "birth_place": "Sala",
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Johansson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Nellie",
+                "last_name": "Larsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Medicin licentiat",
+            "position_english": "Licentiate of Medicine",
+            "institution": "Uppsala universitet",
+            "start_year": 1961
+        },
+        {
+            "position": "Medicine doktor",
+            "position_english": "Doctor of Medicine",
+            "institution": "Uppsala universitet",
+            "start_year": 1969
+        },
+        {
+            "position": "E.o. docent",
+            "position_english": "Associate Professor",
+            "institution": "Patologiska institutionen Uppsala",
+            "start_year": 1969,
+            "end_year": 1978,
+            "field": "Patologi"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Lunds universitet",
+            "start_year": 1982,
+            "end_year": 1985,
+            "field": "endokrin patologi"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Uppsala universitet",
+            "start_year": 1985,
+            "field": "endokrin patologi"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter",
+            "field": "klinisk och experimentell patologi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margareta",
+            "last_name": "Forsström",
+            "gender": "Female",
+            "birth_date": "null",
+            "birth_place": "null",
+            "parents": [
+                {
+                    "first_name": "Svante",
+                    "last_name": "F",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "köpman",
+                        "occupation_english": "merchant",
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Aina",
+                    "last_name": "Wenkkö",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1965"
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "career": [
+        {
+            "position": "Medicin licentiat",
+            "start_year": 1938,
+            "organization": "Stockholm",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "olika läkarförordnanden",
+            "start_year": 1938,
+            "end_year": 1941
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1942,
+            "end_year": 1945,
+            "organization": "Borås lasarett",
+            "location": "Borås",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "Norrtulls sjukhus",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1946,
+            "end_year": 1947,
+            "organization": "Stockholms epidemisjukhus",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1947,
+            "organization": "barnkliniken Vänersborgs lasarett",
+            "location": "Vänersborg",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Joachimsson",
+        "gender": "Male",
+        "birth_date": "26-09-1911",
+        "birth_place": "Norrköping",
+        "occupation": {
+            "occupation": "Överläkare",
+            "occupation_english": "Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hans",
+                "last_name": "Joachimsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Häradshövding",
+                    "occupation_english": "District Judge",
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge"
+                }
+            },
+            {
+                "first_name": "Tora",
+                "last_name": "Nyqvist",
+                "gender": "Female"
+            }
+        ]
+    },
+    "achievements": [
+        {
+            "title": "Deltagande i Rädda barnens hjälparbete",
+            "field": "Humanitär hjälp",
+            "year": "1946",
+            "significance": "Hjälpinsats för barn i Ungern",
+            "recognized_by": "Rädda Barnen"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Astrid",
+            "last_name": "Eidem",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Erling",
+                    "last_name": "Eidem",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Ärkebiskop",
+                        "occupation_english": "Archbishop",
+                        "hisco_code_swedish": "14120.0",
+                        "hisco_description_swedish": "Minister of Religion",
+                        "hisco_code_english": "14120.0",
+                        "hisco_description_english": "Minister of Religion"
+                    }
+                },
+                {
+                    "first_name": "Elisabeth",
+                    "last_name": "Eklund",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1937"
+    },
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": "Ungern",
+            "country_code": "HUN",
+            "year": "1946"
+        }
+    ]
+}

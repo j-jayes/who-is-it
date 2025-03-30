@@ -1,0 +1,133 @@
+{
+    "career": [
+        {
+            "position": "kyrkopadj",
+            "start_year": 1967,
+            "organization": "Slottsstaden Malmö",
+            "location": "Malmö"
+        },
+        {
+            "position": "komminister",
+            "start_year": 1969,
+            "organization": "Ängelholm",
+            "location": "Ängelholm"
+        },
+        {
+            "position": "kyrkoh",
+            "start_year": 1977,
+            "organization": "Allerum",
+            "location": "Allerum"
+        },
+        {
+            "position": "kontrprost",
+            "start_year": 1985,
+            "organization": "Luggude",
+            "location": "Luggude"
+        },
+        {
+            "position": "domprost",
+            "start_year": 1989,
+            "organization": "Härnösand",
+            "location": "Härnösand"
+        },
+        {
+            "position": "biskop",
+            "start_year": 1991,
+            "organization": "Härnösands stift",
+            "location": "Härnösand"
+        }
+    ],
+    "person": {
+        "first_name": "Karl-Johan",
+        "last_name": "Tyrberg",
+        "gender": "Male",
+        "birth_date": "30-07-1936",
+        "birth_place": "Vittsjö, Kristianstads Län",
+        "occupation": {
+            "occupation": "biskop",
+            "occupation_english": "Bishop",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Sigfrid",
+                "last_name": "Tyrberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "rektor",
+                    "occupation_english": "principal",
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher",
+                    "hisco_code_english": "37040.0",
+                    "hisco_description_english": "Messenger"
+                }
+            },
+            {
+                "first_name": "May",
+                "last_name": "Karlsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "teologie kandidat",
+            "degree_level": "Master's",
+            "year": "1962",
+            "institution": "Lunds universitet"
+        },
+        {
+            "degree": "teologie licentiat",
+            "degree_level": "Doctorate",
+            "year": "1971",
+            "institution": "Lunds universitet"
+        },
+        {
+            "degree": "teologie doktor",
+            "degree_level": "Doctorate",
+            "year": "1972",
+            "institution": "Lunds universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Henningsson",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Helge",
+                    "last_name": "Henningsson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "handlare",
+                        "occupation_english": "trader",
+                        "hisco_code_swedish": "41030.0",
+                        "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                        "hisco_code_english": "44140.0",
+                        "hisco_description_english": "Stock Broker"
+                    }
+                },
+                {
+                    "first_name": "Syster",
+                    "last_name": "Klint",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1960"
+    },
+    "publications": [
+        {
+            "title": "Lekmannaverksamheten o församlingens förnyelse. Debatter o strävanden i Lunds stift 1848-1860",
+            "year": "1972",
+            "type": "avhandling",
+            "publisher": "Lunds universitet"
+        }
+    ]
+}

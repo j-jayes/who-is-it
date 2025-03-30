@@ -1,0 +1,124 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": 1926,
+            "organization": "Packard Motor Car Co",
+            "location": "Detroit och New York",
+            "country_code": "USA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1931,
+            "end_year": 1934,
+            "organization": "AB Dahls Patentbyrå",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1934,
+            "end_year": 1943,
+            "organization": "H Albihns Patentbyrå AB",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Huvud",
+            "start_year": 1943,
+            "organization": "AB Atlas Diesel",
+            "location": "Sickla",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Ekman",
+        "middle_name": "Axel",
+        "gender": "Male",
+        "birth_date": "13-06-1906",
+        "birth_place": "Hamburg",
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Ekman",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmann",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Ingegerd",
+                "last_name": "Bäckdahl",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Stockholm",
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1924",
+            "institution": "Södertälje"
+        },
+        {
+            "degree": "KTH (maskinbyggnad och mekanisk teknik)",
+            "degree_level": "Master's",
+            "year": "1930",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunvor",
+            "last_name": "Jonson",
+            "gender": "Female",
+            "occupation": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Segling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1925"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1926"
+        }
+    ]
+}

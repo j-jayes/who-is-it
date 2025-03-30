@@ -1,0 +1,51 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Lydia",
+        "last_name": "Janson",
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Tage",
+            "last_name": "Enhörning",
+            "gender": "Male",
+            "parents": [
+                {
+                    "first_name": "Olga",
+                    "last_name": "Thiel",
+                    "gender": "Female"
+                }
+            ]
+        }
+    },
+    "political_positions": [
+        {
+            "organization": "Sköldenborgsinst",
+            "position": "None",
+            "start_year": 1900
+        },
+        {
+            "organization": "Fören barnens dag Hbg",
+            "position": "None",
+            "start_year": 1900
+        },
+        {
+            "organization": "Centralkomm försvorg Hbg",
+            "position": "None",
+            "start_year": 1900
+        },
+        {
+            "organization": "ISRD",
+            "position": "None",
+            "start_year": 1900
+        }
+    ],
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1956"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "career": [
+        {
+            "position": "biträdande ombudsman",
+            "start_year": 1914,
+            "organization": "Aktiebolaget Stockholms Handelsbank"
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1915,
+            "organization": "Aktiebolaget Stockholms Handelsbank",
+            "location": "rembursavdelningen"
+        },
+        {
+            "position": "ombudsman",
+            "start_year": 1916,
+            "organization": "Finans Aktiebolaget"
+        },
+        {
+            "position": "direktörsassistent",
+            "start_year": 1919,
+            "organization": "Svenska Emissions Aktiebolaget"
+        },
+        {
+            "position": "biträdande direktör och ombudsman",
+            "start_year": 1920,
+            "organization": "Stockholms Intecknings Garanti Aktiebolaget"
+        },
+        {
+            "position": "ordförande",
+            "start_year": 1921,
+            "organization": "taxeringsnämnden",
+            "location": "Stockholm (18:e distriktet)"
+        },
+        {
+            "position": "riksbankschef",
+            "start_year": 1929
+        },
+        {
+            "position": "fullmäktige",
+            "start_year": 1930,
+            "organization": "Pensionsförsäkringsfonden"
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1931,
+            "end_year": 1933,
+            "organization": "Internationella banken",
+            "location": "Basel"
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1937,
+            "organization": "Internationella banken",
+            "location": "Basel"
+        },
+        {
+            "position": "postsparbanksfullmäktige",
+            "start_year": 1944
+        }
+    ],
+    "person": {
+        "first_name": "Ivar",
+        "last_name": "Rooth",
+        "gender": "Male",
+        "birth_date": "02-11-1888",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "riksbankschef",
+            "occupation_english": "Governor of the Swedish central bank",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "Otto",
+                "last_name": "Rooth",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ellen",
+                "last_name": "Hertzman",
+                "middle_name": null,
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "jur. kand.",
+            "degree_level": "Bachelor's",
+            "year": "1911",
+            "institution": "Uppsala universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Söderlind",
+            "gender": "Female"
+        },
+        "marriage_year": "1931",
+        "children": [
+            {
+                "first_name": "Elsa",
+                "last_name": "Rooth",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1915"
+            },
+            {
+                "first_name": "Gösta",
+                "last_name": "Rooth",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1918"
+            },
+            {
+                "first_name": "Lars",
+                "last_name": "Rooth",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1921"
+            },
+            {
+                "first_name": "Ellen",
+                "last_name": "Rooth",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1937"
+            }
+        ]
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1919,
+            "end_year": 1920,
+            "organization": "Svenska generalkonsulatet Moskva, avdelning B",
+            "location": "Moskva",
+            "country_code": null
+        },
+        {
+            "position": "Olika befattningar",
+            "start_year": 1920,
+            "end_year": 1925,
+            "organization": "Sveriges Litografiska Tryckerier (SLT)",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Annonsdirektör",
+            "start_year": 1926,
+            "end_year": 1939,
+            "organization": "Dagens Nyheter",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Vice verkställande direktör",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Dagens Nyheter AB",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Heilborn",
+        "middle_name": "Binär Helge",
+        "gender": "Male",
+        "birth_date": "07-10-1897",
+        "birth_place": "Sölvesborg",
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "H",
+                "last_name": "Heilborn",
+                "middle_name": "A",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Major",
+                    "occupation_english": "Major",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Helga",
+                "last_name": "Eklund",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1916",
+            "institution": "Karlskrona"
+        },
+        {
+            "degree": "Handelshögskoleexamen",
+            "degree_level": "Bachelor's",
+            "year": "1919",
+            "institution": "Handelshögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Adéle",
+            "last_name": "Hjertberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        }
+    },
+    "hobbies": [
+        "Jakt",
+        "Fiske"
+    ],
+    "honors": [
+        "Riddare av Vasaorden (RVO)"
+    ],
+    "travels": [
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1923"
+        },
+        {
+            "country": "Europaländer",
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

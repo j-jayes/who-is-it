@@ -1,0 +1,106 @@
+{
+    "career": [
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1947,
+            "organization": "Aktiebolag Svensk Byggtjänst",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Nessen",
+        "middle_name": "S",
+        "gender": "Male",
+        "birth_date": "14-12-1907",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Byggnadsingenjör",
+            "occupation_english": "Construction Engineer",
+            "hisco_code_swedish": "2220.0",
+            "hisco_description_swedish": "Building Construction Engineer",
+            "hisco_code_english": "2210.0",
+            "hisco_description_english": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Heribert",
+                "last_name": "Nilsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Johansson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Stockholms Sparbank"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Stockholms Byggnadsförening",
+            "role": "Ordförande",
+            "start_year": 1946,
+            "end_year": 1950
+        },
+        {
+            "committee_name": "Nordiska Byggdagen",
+            "role": "Ordförande",
+            "start_year": 1948,
+            "end_year": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Boström",
+            "middle_name": "Maria",
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": "None",
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Anders",
+                    "last_name": "Boström",
+                    "gender": "Male",
+                    "occupation": null
+                },
+                {
+                    "first_name": "Selma",
+                    "last_name": "Kristiansen",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": null
+    },
+    "political_positions": [
+        {
+            "organization": "Kammarrätten",
+            "position": "Särskild ledamot",
+            "start_year": 1953,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        }
+    ]
+}

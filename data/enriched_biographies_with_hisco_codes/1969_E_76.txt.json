@@ -1,0 +1,215 @@
+{
+    "career": [
+        {
+            "position": "Förste underläkare",
+            "start_year": 1939,
+            "end_year": 1946,
+            "organization": "Sabbatsbergs sjukhus",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Hjärtkliniken",
+            "start_year": 1946,
+            "end_year": 1951,
+            "organization": "Södersjukhuset",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medicinska kliniken",
+            "start_year": 1951,
+            "organization": "Karolinska sjukhuset",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande överläkare",
+            "start_year": 1948,
+            "end_year": 1951,
+            "organization": "Hjärtkliniken, Södersjukhuset",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medicinska kliniken",
+            "start_year": 1953,
+            "end_year": 1961,
+            "organization": "Karolinska sjukhuset",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "New York Hospital",
+            "start_year": 1961,
+            "organization": "New York Hospital",
+            "location": "New York",
+            "country_code": "USA"
+        },
+        {
+            "position": "Associerad professor",
+            "start_year": 1964,
+            "organization": "Cornell University Medical College",
+            "location": "New York",
+            "country_code": "USA"
+        },
+        {
+            "position": "Forskningsläkare",
+            "start_year": 1961,
+            "end_year": 1964,
+            "organization": "Cornell University",
+            "location": "New York",
+            "country_code": "USA"
+        },
+        {
+            "position": "Attending physician",
+            "start_year": 1964,
+            "organization": "New York Hospital",
+            "location": "New York",
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "E",
+        "last_name": "Ejrup",
+        "middle_name": "V Börje",
+        "gender": "Male",
+        "birth_date": "19-08-1910",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Docent",
+            "occupation_english": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Wictor",
+                "last_name": "Ericsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Sofia",
+                "last_name": "Lönnblad",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1949,
+            "end_year": 1957,
+            "field": "Hjärt- och kärlsjukdomar"
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1957,
+            "end_year": null,
+            "field": "Medicin"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Södersjukhusets kärllaboratorium",
+            "field": "Medicin",
+            "year": "1946-1951",
+            "significance": "Organiserat och förestått",
+            "recognized_by": "Södersjukhuset"
+        },
+        {
+            "title": "Karolinska sjukhusets kärllaboratorium",
+            "field": "Medicin",
+            "year": "1951-1956",
+            "significance": "Organiserat och förestått",
+            "recognized_by": "Karolinska sjukhuset"
+        },
+        {
+            "title": "Stockholms läns hjärt- och kärlforskningscentral",
+            "field": "Medicin",
+            "year": "1956-1959",
+            "significance": "Förestått",
+            "recognized_by": "Stockholms Län"
+        },
+        {
+            "title": "Norrbacka-institutets kärllaboratorium",
+            "field": "Medicin",
+            "year": "1959-1961",
+            "significance": "Organiserat och förestått",
+            "recognized_by": "Norrbacka-institutet"
+        },
+        {
+            "title": "Rökavvänjningsklinik",
+            "field": "Medicin",
+            "year": "1956",
+            "significance": "Organiserat",
+            "recognized_by": "Solna"
+        },
+        {
+            "title": "Rökavvänjningsklinik",
+            "field": "Medicin",
+            "year": "1958",
+            "significance": "Organiserat",
+            "recognized_by": "Årsta och Östermalm"
+        },
+        {
+            "title": "Rökkliniker",
+            "field": "Medicin",
+            "year": "1958",
+            "significance": "Förestått",
+            "recognized_by": "Riksförbundets mot tobaken"
+        },
+        {
+            "title": "Laboratorium för perifera kärlsjukdomar",
+            "field": "Medicin",
+            "year": "1961",
+            "significance": "Organiserat",
+            "recognized_by": "New York Hospital"
+        },
+        {
+            "title": "Rökavvänjningsklinik",
+            "field": "Medicin",
+            "year": "1963",
+            "significance": "Startat första i USA",
+            "recognized_by": "USA"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Vera",
+            "last_name": "Liversten",
+            "gender": "Female",
+            "birth_date": null
+        },
+        "marriage_year": "1937"
+    },
+    "publications": [
+        {
+            "title": "Konsten att sluta röka",
+            "year": "1960",
+            "type": "book",
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

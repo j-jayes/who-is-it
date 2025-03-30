@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1940,
+            "end_year": 1944,
+            "organization": "LME",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1947,
+            "organization": "LME",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef lab",
+            "start_year": 1953,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "TNC",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "SVEN",
+        "last_name": "ALEXANDERSSON",
+        "middle_name": "V",
+        "gender": "Male",
+        "birth_date": "19-03-1915",
+        "birth_place": "Söderhamn",
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Viktor",
+                "last_name": "Alexandersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "verkmästare",
+                    "occupation_english": "foreman",
+                    "hisco_code_swedish": "22610.0",
+                    "hisco_description_swedish": "Production Supervisor or Foreman, General",
+                    "hisco_code_english": "22610.0",
+                    "hisco_description_english": "Production Supervisor or Foreman, General"
+                }
+            },
+            {
+                "first_name": "Helga",
+                "last_name": "Caspersen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "SEK NK-06B",
+            "role": "Ledamot",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "SEK NK-06B",
+            "role": "Ordförande",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "NK-04C",
+            "role": "Ledamot",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": "Tumba",
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1934",
+            "institution": "None"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1939",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Bergquist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Otto",
+                    "last_name": "B",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "tjänsteman",
+                        "occupation_english": "clerk",
+                        "hisco_code_swedish": "30000.0",
+                        "hisco_description_swedish": "Clerical or Related Worker, Specialisation Unknown",
+                        "hisco_code_english": "30000.0",
+                        "hisco_description_english": "Clerical or Related Worker, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Edith",
+                    "last_name": "Andersson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1941",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Jan",
+                "last_name": "Alexandersson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1944"
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Alexandersson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": [
+        "Esperanto"
+    ],
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Esperanto Nytt",
+            "year": "1959",
+            "type": "tidskrift",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": "Salex",
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1956"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1956"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1956"
+        }
+    ]
+}

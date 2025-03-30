@@ -1,0 +1,116 @@
+{
+    "career": [
+        {
+            "position": "Tandläkare",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Härnösands folkskola och dövstumsskola",
+            "location": "Härnösand",
+            "country_code": null
+        },
+        {
+            "position": "Tandläkare",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "Stockholms folkskola",
+            "location": "Stockholm",
+            "country_code": null
+        },
+        {
+            "position": "Praktiserande tandläkare",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Egen praktik",
+            "location": "Stockholm",
+            "country_code": null
+        },
+        {
+            "position": "Tandläkare",
+            "start_year": 1947,
+            "end_year": 1960,
+            "organization": "Eugeniahemmet",
+            "location": "Stockholm",
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ellen",
+        "last_name": "Bretz-Lydig",
+        "middle_name": "E",
+        "gender": "Female",
+        "birth_date": "24-08-1909",
+        "birth_place": "Hudiksvall",
+        "occupation": {
+            "occupation": "Tandläkare",
+            "occupation_english": "Dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Sigfrid",
+                "last_name": "Bretz",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Tandläkare",
+                    "occupation_english": "Dentist",
+                    "hisco_code_swedish": "6310.0",
+                    "hisco_description_swedish": "Dentist, General",
+                    "hisco_code_english": "6310.0",
+                    "hisco_description_english": "Dentist, General"
+                }
+            },
+            {
+                "first_name": "Märta",
+                "last_name": "Hedström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Tandläkare",
+            "position_english": "Dentist",
+            "institution": "Tandläkarhögskolan",
+            "department": "Avdelningen för karieslära",
+            "start_year": 1953,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Birger",
+            "last_name": "Lydig",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Tandläkare",
+                "occupation_english": "Dentist",
+                "hisco_code_swedish": "6310.0",
+                "hisco_description_swedish": "Dentist, General",
+                "hisco_code_english": "6310.0",
+                "hisco_description_english": "Dentist, General"
+            },
+            "parents": null
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Bairbro",
+                "last_name": "Lydig",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1937"
+            }
+        ]
+    }
+}

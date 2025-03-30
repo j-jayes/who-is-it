@@ -1,0 +1,126 @@
+{
+    "career": [
+        {
+            "position": "intendent",
+            "start_year": 1987,
+            "end_year": 1989,
+            "organization": "Nationalmuseum",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "direktör och chef",
+            "start_year": 1989,
+            "organization": "Zornsamlingarna",
+            "location": "Mora",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "H",
+        "last_name": "Sandström",
+        "middle_name": "Birgitta",
+        "gender": "Female",
+        "birth_date": "14-01-1943",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "museidirektör",
+            "occupation_english": "museum director"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Sandström",
+                "middle_name": "Ivar",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "docent",
+                    "occupation_english": "docent",
+                    "hisco_code_swedish": "99999.0",
+                    "hisco_description_swedish": "Unspecified worktitle or several titles",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Hedda",
+                "last_name": "Geber",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "Stockholms universitet",
+            "start_year": 1970,
+            "field": "konstvetenskap"
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Stockholms universitet",
+            "start_year": 1981,
+            "field": "konstvetenskap"
+        },
+        {
+            "position": "forskare",
+            "institution": "konstvetenskapliga institutionen",
+            "department": "Stockholms universitet",
+            "start_year": 1981,
+            "end_year": 1989,
+            "field": "konstvetenskap"
+        },
+        {
+            "position": "visiting professor",
+            "institution": "University of North Carolina Charlotte",
+            "start_year": 1984,
+            "field": null
+        }
+    ],
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "Alliance Française de Suède"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "Högskolan Dalarna"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Alliance Française de Suède",
+            "role": "styrelseledamot",
+            "start_year": 1968,
+            "end_year": 1989
+        },
+        {
+            "committee_name": "Högskolan Dalarna",
+            "role": "styrelseledamot",
+            "start_year": 1993,
+            "end_year": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Svensk konsthistoria",
+            "year": "1986",
+            "type": "bok"
+        },
+        {
+            "title": "Brevväxlingen mellan Anders Zorn och Carl Larsson och deras familjer",
+            "year": "1998",
+            "type": "bok"
+        },
+        {
+            "title": "Anders Zorn som skulptör",
+            "year": "1999",
+            "type": "bok"
+        }
+    ],
+    "travels": null
+}

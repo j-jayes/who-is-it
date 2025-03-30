@@ -1,0 +1,104 @@
+{
+    "career": [
+        {
+            "position": "Professor",
+            "start_year": 1968,
+            "organization": "Dalhousie Universitet",
+            "location": "Halifax, Canada",
+            "country_code": "CAN"
+        }
+    ],
+    "person": {
+        "first_name": "T",
+        "last_name": "Segelberg",
+        "middle_name": "Erie W",
+        "gender": "Male",
+        "birth_date": "20-12-1920",
+        "birth_place": "Nyköping",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Torsten",
+                "last_name": "Segelberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Länsveterinär",
+                    "occupation_english": "County Veterinarian",
+                    "hisco_code_swedish": "6510.0",
+                    "hisco_description_swedish": "Veterinarian, General",
+                    "hisco_code_english": "6510.0",
+                    "hisco_description_english": "Veterinarian, General"
+                }
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Huss",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Teologie kandidat",
+            "position_english": "Candidate of Theology",
+            "institution": "Uppsala Universitet",
+            "start_year": 1944
+        },
+        {
+            "position": "Teologie licentiat",
+            "position_english": "Licentiate of Theology",
+            "institution": "Uppsala Universitet",
+            "start_year": 1952
+        },
+        {
+            "position": "Filosofie kandidat",
+            "position_english": "Candidate of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1952
+        },
+        {
+            "position": "Teologie doktor",
+            "position_english": "Doctor of Theology",
+            "institution": "Uppsala Universitet",
+            "start_year": 1958
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1960,
+            "field": "Religionshistoria med religionspsykologi"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Masbütä. Studies in the ritual of the Mandaean Baptism",
+            "year": "1958",
+            "type": "Doktorsavhandling"
+        },
+        {
+            "title": "7 vol av handl fr de eucharistiska kyrkodagarna i Uppsala",
+            "year": "1961-1967",
+            "type": "Handlingar"
+        },
+        {
+            "title": "Tra§a dTaga déislam 985Rabba. (Studia Mandaica I)",
+            "year": "1976",
+            "type": "Studie"
+        },
+        {
+            "title": "Gnostica - Mandaica - Liturgica",
+            "year": "1990",
+            "type": "Övrigt"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "career": [
+        {
+            "position": "Överläkare",
+            "start_year": 1975,
+            "organization": "ortoped-kirurgiska kliniken, Sahlgrenska sjukhuset",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor",
+            "start_year": 1982,
+            "organization": "Karolinska Institutet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ian",
+        "last_name": "Goldie",
+        "middle_name": "R V F",
+        "gender": "Male",
+        "birth_date": "30-08-1914",
+        "birth_place": "Göteborg",
+        "occupation": {
+            "occupation": "Professor i ortopedisk kirurgi",
+            "occupation_english": "Professor of Orthopedic Surgery",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "William",
+                "last_name": "Goldie",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmann",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Estella",
+                "last_name": "Currie",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Göteborgs Universitet",
+            "department": "experimentell ortopedi",
+            "start_year": 1965
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Göteborgs Universitet",
+            "department": "ortopedisk kirurgi",
+            "start_year": 1966
+        },
+        {
+            "position": "klinisk lärare",
+            "institution": "Göteborgs Universitet",
+            "start_year": 1970
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "Karolinska Institutet",
+            "start_year": 1982,
+            "field": "ortopedisk kirurgi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elisabeth",
+            "last_name": "Waidele",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Heimer",
+                    "last_name": "Waidele",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Svea",
+                    "last_name": "Wincrantz",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1959"
+    },
+    "travels": [
+        {
+            "country": "Canada",
+            "country_code": "CAN"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR"
+        }
+    ]
+}

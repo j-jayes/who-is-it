@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "Missiv",
+            "start_year": 1906,
+            "organization": "Starrkärr"
+        },
+        {
+            "position": "Pastorsadjunkt",
+            "start_year": 1910,
+            "organization": "Örgryte"
+        },
+        {
+            "position": "Predikant",
+            "start_year": 1911,
+            "organization": "Oskar och Maria Ekmans sjukhus",
+            "location": "Örgryte"
+        },
+        {
+            "position": "Kyrkoherde",
+            "start_year": 1929,
+            "end_year": 1947,
+            "organization": "Örgryte"
+        },
+        {
+            "position": "Prost över egen församling",
+            "start_year": 1939
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1912,
+            "end_year": 1932,
+            "organization": "Kjellbergska högre lärarinneseminarium",
+            "location": "Göteborg"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1918,
+            "end_year": 1929,
+            "organization": "Kjellbergska flickskola"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Setterwall",
+        "middle_name": "Gustaf",
+        "gender": "Male",
+        "birth_date": "04-01-1872",
+        "birth_place": "Göteborg",
+        "occupation": {
+            "occupation": "Prost",
+            "occupation_english": "Dean",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "22000.0",
+            "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Setterwall",
+                "middle_name": "Henrik",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Praktisk läkare",
+                    "occupation_english": "Practicing Doctor",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Brusewitz",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie doktor",
+            "institution": "Okänd",
+            "start_year": 1903
+        }
+    ],
+    "board_memberships": [
+        {
+            "position": "Ordförande",
+            "organization": "Gårda skolbarnshem"
+        },
+        {
+            "position": "Ordförande",
+            "organization": "Örgryte barnavårdssällskap"
+        },
+        {
+            "position": "Ordförande",
+            "organization": "J. J. Dicksons stiftelse"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Örgryte förening mot tuberkulos"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Ah kyrkliga ungdomshem"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "stiftelsen Kjellbergska flickskola"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Örgryte barnavårdsnämnd",
+            "role": "Sekreterare",
+            "start_year": 1910,
+            "end_year": 1921
+        },
+        {
+            "committee_name": "Skolråd",
+            "role": "Vice ordförande",
+            "start_year": 1913,
+            "end_year": 1915,
+            "organization": "Örgryte barnavårdsnämnd"
+        },
+        {
+            "committee_name": "Kyrkoråd",
+            "role": "Ledamot",
+            "start_year": 1913,
+            "end_year": 1929
+        },
+        {
+            "committee_name": "Göteborgs stifts diakoniråd",
+            "role": "Ledamot",
+            "start_year": 1922,
+            "end_year": 1945
+        }
+    ],
+    "education": [
+        {
+            "degree": "Moghetsexamen",
+            "degree_level": "Schooling",
+            "year": "1890",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1892",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1900",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Teologie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1905",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ida",
+            "last_name": "CavalHn",
+            "gender": "Female"
+        },
+        "marriage_year": "1906",
+        "children": [
+            {
+                "first_name": "Vera",
+                "last_name": "Setterwall",
+                "gender": "Female",
+                "birth_year": "1908"
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Studier över Syrinx hos polymyoda passeres",
+            "year": "1901",
+            "type": "Avhandling"
+        },
+        {
+            "title": "Från Örgryte gamla kyrka",
+            "year": "1921",
+            "type": "Predikan"
+        },
+        {
+            "title": "Bortgångna ämbetsbröder",
+            "year": "1927",
+            "type": "Minnesteckning",
+            "publisher": "Göteborgs prästmöte"
+        },
+        {
+            "title": "Till Örgryte gamla kyrkas historia",
+            "year": "1934",
+            "type": "Julbok",
+            "publisher": "Församlingen i Göteborgs stift"
+        }
+    ],
+    "travels": null
+}

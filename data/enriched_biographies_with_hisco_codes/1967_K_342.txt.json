@@ -1,0 +1,97 @@
+{
+    "career": [
+        {
+            "position": "Medicine licentiat",
+            "start_year": 1930,
+            "organization": "Uppsala",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medicine doktor",
+            "start_year": 1944,
+            "organization": "Stockholm",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Olika läkareförordnanden",
+            "start_year": 1930,
+            "end_year": 1951
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1951,
+            "end_year": 1956,
+            "organization": "Enköpings lasarett",
+            "location": "Enköping",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1956,
+            "organization": "Kirurgiska kliniken Uddevalla lasarett",
+            "location": "Uddevalla",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Björn",
+        "last_name": "Köhler",
+        "gender": "Male",
+        "birth_date": "24-08-1904",
+        "birth_place": "Halmstad",
+        "occupation": {
+            "occupation": "Överläkare",
+            "occupation_english": "Senior Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Sigfrid",
+                "last_name": "Köhler",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Medicine doktor",
+                    "occupation_english": "Doctor of Medicine",
+                    "hisco_code_swedish": "6100.0",
+                    "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+                    "hisco_code_english": "6100.0",
+                    "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Hallberg",
+                "gender": "Female"
+            }
+        ]
+    },
+    "committee_memberships": [
+        {
+            "committee_name": "Humanistiska förbundet Uddevalla",
+            "role": "Ordförande",
+            "start_year": 1961
+        }
+    ],
+    "political_positions": [
+        {
+            "organization": "Landstinget",
+            "position": "Landstingsman",
+            "start_year": 1962,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Skrifter i kirurgi",
+            "year": "None",
+            "type": "article"
+        }
+    ],
+    "travels": null
+}

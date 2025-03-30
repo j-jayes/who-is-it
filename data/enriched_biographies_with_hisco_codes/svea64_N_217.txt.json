@@ -1,0 +1,178 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Norin",
+        "middle_name": "S",
+        "gender": "Male",
+        "birth_date": "15-03-1895",
+        "birth_place": "Karlshamn",
+        "occupation": {
+            "occupation": "Professor Emeritus",
+            "occupation_english": "Professor Emeritus",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Emil",
+                "last_name": "Norin",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapten",
+                    "occupation_english": "Sea Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Wendla",
+                "last_name": "Ericsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "Stockholm",
+            "start_year": 1916
+        },
+        {
+            "position": "Filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Lund",
+            "start_year": 1923
+        },
+        {
+            "position": "Filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Lund",
+            "start_year": 1937
+        },
+        {
+            "position": "Docent i geologi och mineralogi",
+            "position_english": "Docent in geology and mineralogy",
+            "institution": "Lund",
+            "start_year": 1937
+        },
+        {
+            "position": "Professor i geologi särskilt petrografi och mineralogi",
+            "position_english": "Professor in geology, especially petrography and mineralogy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1945,
+            "end_year": 1961
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "KNO",
+        "HedinGM",
+        "Björkénska priset"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Uppsala",
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Karlskrona"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Ambolt",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Anders",
+                    "last_name": "Ambolt",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Civilingenjör",
+                        "occupation_english": "Civil Engineer",
+                        "hisco_code_swedish": "2210.0",
+                        "hisco_description_swedish": "Civil Engineer, General"
+                    }
+                },
+                {
+                    "first_name": "Göthilda",
+                    "last_name": "Johnsson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Elsa",
+                "last_name": "Norin",
+                "gender": "Female",
+                "birth_year": "1937"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Norin",
+                "gender": "Male",
+                "birth_year": "1940"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Ett stort antal vetenskapliga avhandlingar, huvudsakligen om geologiska förhållanden i Kina, delvis i svenska och utländska tidskrifter",
+            "year": "None",
+            "type": "Vetenskaplig avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Kina",
+            "country_code": "CHN",
+            "year": "1920-1922"
+        },
+        {
+            "country": "Kashmir",
+            "country_code": "IND",
+            "year": "1924-1925"
+        },
+        {
+            "country": "Ladakh",
+            "country_code": "IND",
+            "year": "1924-1925"
+        },
+        {
+            "country": "Himalaya",
+            "country_code": "NPL",
+            "year": "1924-1925"
+        },
+        {
+            "country": "Centralasien",
+            "country_code": "None",
+            "year": "1927-1935"
+        }
+    ]
+}

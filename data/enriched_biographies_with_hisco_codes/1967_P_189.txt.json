@@ -1,0 +1,99 @@
+{
+    "career": [
+        {
+            "position": "Medarbetare",
+            "start_year": 1910,
+            "organization": "Dagens Nyheter",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medarbetare",
+            "start_year": 1915,
+            "organization": "Nya Dagligt Allehanda",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medarbetare",
+            "start_year": 1928,
+            "organization": "Aftonbladet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1935,
+            "organization": "Pressagenturen Nord Press",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1942,
+            "end_year": 1954,
+            "organization": "Tidningen Skådebanan",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1947,
+            "organization": "Poppius journalistskola",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Set",
+        "last_name": "Poppius",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "11-10-1885",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Redaktör",
+            "occupation_english": "Editor",
+            "hisco_code_swedish": "15920.0",
+            "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Poppius",
+                "middle_name": "Gabr",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Tullfiskal",
+                    "occupation_english": "Customs Officer",
+                    "hisco_code_swedish": "12110.0",
+                    "hisco_description_swedish": "Lawyer"
+                }
+            },
+            {
+                "first_name": "Jenny",
+                "last_name": "Hazelius",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Journalisten",
+            "year": "1947",
+            "type": "book"
+        },
+        {
+            "title": "Journalistik",
+            "year": "1959",
+            "type": "book",
+            "publisher": null,
+            "signature": null
+        }
+    ],
+    "travels": null
+}

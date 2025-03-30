@@ -1,0 +1,125 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1943,
+            "end_year": 1947,
+            "organization": "Sabbatsbergs sjukhus och Södersjukhus",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medicinska kliniken",
+            "start_year": 1948,
+            "end_year": 1953,
+            "organization": "Serafimerlasarettet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Förste underläkare",
+            "start_year": 1954,
+            "organization": "Medicinska kliniken, Lunds lasarett",
+            "location": "Lund",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande överläkare",
+            "start_year": 1954,
+            "organization": "Medicinska kliniken, Lunds lasarett",
+            "location": "Lund",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Arner",
+        "middle_name": "A",
+        "gender": "Male",
+        "birth_date": "24-04-1915",
+        "birth_place": "Stensele, Västerbottens Län",
+        "occupation": {
+            "occupation": "Docent, Biträdande överläkare",
+            "occupation_english": "Docent, Associate Chief Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Arner",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lektor",
+                    "occupation_english": "Lecturer",
+                    "hisco_code_swedish": "13030.0",
+                    "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Persson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1964,
+            "end_year": null,
+            "field": "praktisk medicin"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter i invärtes medicin",
+            "field": "Invärtes medicin",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Söderholm",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Medicin kandidat",
+                "occupation_english": "Medical Candidate",
+                "hisco_code_swedish": "6100.0",
+                "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+                "hisco_code_english": "6100.0",
+                "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+            },
+            "parents": null
+        },
+        "marriage_year": "1943",
+        "divorce_year": "1947",
+        "children": [
+            {
+                "first_name": "Anders",
+                "last_name": "Arner",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1951"
+            },
+            {
+                "first_name": "Marianne",
+                "last_name": "Arner",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1955"
+            }
+        ]
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "career": [
+        {
+            "position": "medlem",
+            "start_year": 1971,
+            "end_year": 1975,
+            "organization": "Glenmarks"
+        },
+        {
+            "position": "avdelningsdirektör",
+            "start_year": 1961,
+            "end_year": 1963,
+            "organization": "FOA"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1963,
+            "end_year": 1966,
+            "organization": "hal, tekniska gymnasiet och handelsgymnasiet",
+            "location": "Arvika"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1966,
+            "end_year": 1968,
+            "organization": "folkskoleseminariet",
+            "location": "Jönköping"
+        },
+        {
+            "position": "Lärhögsk",
+            "start_year": 1968,
+            "organization": "Lärhögskolan",
+            "location": "Jönköping"
+        }
+    ],
+    "person": {
+        "first_name": "Yngve",
+        "last_name": "Glennow-Toresson",
+        "middle_name": "G G",
+        "gender": "Male",
+        "birth_date": "06-03-1922",
+        "birth_place": "Rolfstorp, Hallands Län",
+        "occupation": {
+            "occupation": "rektor",
+            "occupation_english": "principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "37040.0",
+            "hisco_description_english": "Messenger"
+        },
+        "parents": [
+            {
+                "first_name": "Oskar",
+                "last_name": "Toresson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbruk",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "99999.0",
+                    "hisco_description_swedish": "Unspecified worktitle or several titles",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Gustavsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie licentiat",
+            "institution": "Lund",
+            "start_year": 1959
+        },
+        {
+            "position": "filosofie doktor",
+            "institution": "Lund",
+            "start_year": 1960
+        },
+        {
+            "position": "docent",
+            "institution": "Lund",
+            "start_year": 1961,
+            "field": "fysik"
+        },
+        {
+            "position": "lärare",
+            "institution": "folkskoleseminariet",
+            "start_year": 1956,
+            "end_year": 1960,
+            "field": "Lund"
+        },
+        {
+            "position": "amanuens",
+            "institution": "fysiska institutionen",
+            "start_year": 1956,
+            "end_year": 1961,
+            "field": "Lund"
+        },
+        {
+            "position": "assistent",
+            "institution": "fysiska institutionen",
+            "start_year": 1956,
+            "end_year": 1961,
+            "field": "Lund"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "organisationskommittén för högskolereformen i Linköpings högskolregion",
+            "role": "sakkunnig",
+            "start_year": 1975
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lilly",
+            "last_name": "Landberg",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "John",
+                    "last_name": "Landberg",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "sjökapt",
+                        "occupation_english": "sea captain",
+                        "hisco_code_swedish": "4217.0",
+                        "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                        "hisco_code_english": "4215.0",
+                        "hisco_description_english": "Ship's Master (Sea)"
+                    }
+                },
+                {
+                    "first_name": "Signe",
+                    "last_name": "Nilsson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1943"
+    },
+    "publications": [
+        {
+            "title": "Skrifter i fysik",
+            "year": "None",
+            "type": "None"
+        }
+    ]
+}

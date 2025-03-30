@@ -1,0 +1,213 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1905,
+            "end_year": 1909,
+            "organization": "AB Vattenbyggnadsbyrån",
+            "location": "Stockholm",
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1909,
+            "organization": "Black Lake Asbestos Co",
+            "location": "Canada",
+            "country_code": "CAN"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1909,
+            "end_year": 1910,
+            "organization": "Pennsylvania Water and Power Co",
+            "location": "Pennsylvania",
+            "country_code": "USA"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1910,
+            "end_year": 1911,
+            "organization": "Shawinigan Water & Power Co",
+            "location": "Montreal",
+            "country_code": "CAN"
+        },
+        {
+            "position": "Konsultingenjör",
+            "start_year": 1911,
+            "end_year": 1912,
+            "organization": "Canadian Hydro-Electric Construction Co",
+            "location": null,
+            "country_code": "CAN"
+        },
+        {
+            "position": "Chefskonstruktör",
+            "start_year": 1912,
+            "end_year": 1915,
+            "organization": "Cedar Rapids Mfg & Power Co",
+            "location": "Montreal",
+            "country_code": "CAN"
+        },
+        {
+            "position": "Egen firma för magnesiumtillverkning",
+            "start_year": 1916,
+            "end_year": 1920,
+            "organization": null,
+            "location": "Trollhättan",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1919,
+            "end_year": 1943,
+            "organization": "AB W Dan Bergman (Wedaverken)",
+            "location": "Södertälje",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konsult",
+            "start_year": 1944,
+            "organization": "AB W Dan Bergman",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Wilhelm",
+        "last_name": "Bergman",
+        "middle_name": "Daniel",
+        "gender": "Male",
+        "birth_date": "19-03-1882",
+        "birth_place": "Norrköping",
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "D",
+                "last_name": "Bergman",
+                "middle_name": "F",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Klädesfabrikör",
+                    "occupation_english": "Cloth Manufacturer",
+                    "hisco_code_swedish": "21220.0",
+                    "hisco_description_swedish": "Production Manager (except Farm)",
+                    "hisco_code_english": "21110.0",
+                    "hisco_description_english": "General Manager"
+                }
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Bergenström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "AB W Dan Bergman"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Östertälje",
+    "education": [
+        {
+            "degree": "Mogenhetsexamen",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "Norrköping"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1905",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Bergh",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Musik",
+        "Litteratur",
+        "Sport"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1901"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1906"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1906"
+        },
+        {
+            "country": "Amerika",
+            "country_code": "USA",
+            "year": "1909"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1909"
+        },
+        {
+            "country": "Canada",
+            "country_code": "CAN",
+            "year": "1909"
+        },
+        {
+            "country": "Canada",
+            "country_code": "CAN",
+            "year": "1915"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1922"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1922"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "career": [
+        {
+            "position": "handelsmellansekreterare",
+            "start_year": 1926,
+            "organization": "Stockholms stads",
+            "location": "Stockholm"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1930,
+            "organization": "Svensk-internationella pressbyrån"
+        },
+        {
+            "position": "redaktionssekreterare",
+            "start_year": 1933
+        },
+        {
+            "position": "chefredaktör",
+            "start_year": 1938
+        },
+        {
+            "position": "grundare och utgivare samt redaktör",
+            "start_year": 1948,
+            "organization": "flygpost-tidningen Sverige-Nytt"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Hummelgren",
+        "middle_name": "V",
+        "gender": "Male",
+        "birth_date": "08-03-1909",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "chefredaktör",
+            "occupation_english": "editor",
+            "hisco_code_swedish": "15920.0",
+            "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Hummelgren",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "svetsare",
+                    "hisco_code_swedish": "87210.0",
+                    "hisco_description_swedish": "Welder, General"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Andersson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "korresponderande sekreterare",
+            "organization": "Svensk-amerikanska sällskapet Stockholm"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "Svensk-amerikanska sällskapet Stockholm"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "Utlandssvenskarnas förening"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska institutets kommitté för utredning av den svenska upplysningsverksamheten i utlandet",
+            "role": "ledamot",
+            "start_year": 1956
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maud",
+            "last_name": "Pettersson",
+            "gender": "Female",
+            "birth_date": "None",
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Pettersson",
+                    "gender": "Male"
+                },
+                {
+                    "first_name": "Ingeborg",
+                    "last_name": "Ohlson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1938"
+    },
+    "travels": [
+        {
+            "country": "Ibero-amerika",
+            "country_code": "None",
+            "year": "1946"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "career": [
+        {
+            "position": "Tandläkarexamen",
+            "start_year": 1934,
+            "organization": "Stockholm",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Praktik",
+            "start_year": 1933,
+            "end_year": 1936,
+            "organization": "Burträsk",
+            "location": "Burträsk",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Praktik",
+            "start_year": 1936,
+            "organization": "Örebro",
+            "location": "Örebro",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tillförordnad Professor",
+            "start_year": 1956,
+            "end_year": 1957,
+            "organization": "Houston Texas",
+            "location": "Houston, Texas",
+            "country_code": "USA"
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1950,
+            "organization": "Bergströms Dentalartiklar",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Bergström",
+        "middle_name": "A",
+        "gender": "Male",
+        "birth_date": "02-01-1906",
+        "birth_place": "Vänersborg",
+        "occupation": {
+            "occupation": "odontologie doktor",
+            "occupation_english": "Doctor of Odontology",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Arvid",
+                "last_name": "Bergström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Siri",
+                "last_name": "Hirschlaff",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "odont dr",
+            "position_english": "Doctor of Odontology",
+            "institution": "Stockholm",
+            "start_year": 1950
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Uppfinningar",
+            "field": "Teknik och kemi",
+            "significance": "Diverse tekniska och kemisk-tekniska artiklar för tandläkarändamål"
+        }
+    ],
+    "publications": [
+        {
+            "title": "On the Reproduction of Dental Articulation by Means of Articulators",
+            "year": "1950",
+            "type": "doktorsavhandling"
+        },
+        {
+            "title": "Tidskriftsartiklar",
+            "year": "None",
+            "type": "artikel",
+            "reception": "rör käkmekanik problem och odontolog utbildningsfrågor"
+        }
+    ],
+    "travels": null
+}

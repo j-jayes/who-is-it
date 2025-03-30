@@ -1,0 +1,54 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Ruth",
+        "last_name": "Francis",
+        "gender": "Female"
+    },
+    "achievements": [
+        {
+            "title": "Shoppingcenter i Luleå",
+            "field": "Arkitektur"
+        },
+        {
+            "title": "Skidhotell och kapell i Borgafjäll",
+            "field": "Arkitektur"
+        },
+        {
+            "title": "Skola i Gyttorp",
+            "field": "Arkitektur"
+        },
+        {
+            "title": "Bibliotek Stockholms Universitet Frescati",
+            "field": "Arkitektur"
+        },
+        {
+            "title": "Arktisk stad Resolutè Canada",
+            "field": "Arkitektur"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "John",
+            "last_name": "H",
+            "middle_name": "F",
+            "gender": "Male",
+            "occupation": {
+                "occupation": "Ingenjör",
+                "occupation_english": "Engineer",
+                "hisco_code_swedish": "2000.0",
+                "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                "hisco_code_english": "84100.0",
+                "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+            },
+            "parents": [
+                {
+                    "first_name": "Priscilla",
+                    "last_name": "Bentall",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1939"
+    }
+}

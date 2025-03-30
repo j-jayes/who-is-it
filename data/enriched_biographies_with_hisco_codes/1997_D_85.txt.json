@@ -1,0 +1,117 @@
+{
+    "career": [
+        {
+            "position": "byråd",
+            "start_year": 1972,
+            "end_year": 1979,
+            "organization": "r regavd TSV"
+        },
+        {
+            "position": "universitetslektor",
+            "start_year": 1979,
+            "organization": "Högskolan i Örebro",
+            "location": "Örebro"
+        },
+        {
+            "position": "prorektor",
+            "start_year": 1989,
+            "end_year": 1995,
+            "organization": "Högskolan i Örebro",
+            "location": "Örebro"
+        }
+    ],
+    "person": {
+        "first_name": "Berth",
+        "last_name": "Danermark",
+        "middle_name": "D",
+        "gender": "Male",
+        "birth_date": "15-07-1951",
+        "birth_place": "Älvsbyn",
+        "occupation": {
+            "occupation": "docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles"
+        },
+        "parents": [
+            {
+                "first_name": "Eskil",
+                "last_name": "Danermark",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "pastor",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Britt",
+                "last_name": "Gunnarsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie kandidat",
+            "institution": "Örebro",
+            "start_year": 1979
+        },
+        {
+            "position": "filosofie doktor",
+            "institution": "Uppsala",
+            "start_year": 1986
+        }
+    ],
+    "achievements": [
+        {
+            "title": "vetenskap verk",
+            "field": "bostadsforskn",
+            "significance": "ca 60"
+        },
+        {
+            "title": "verks",
+            "field": "äldre- o handikappforskn"
+        }
+    ],
+    "board_memberships": [
+        {
+            "position": "Styrled",
+            "organization": "Akademiska Hus i Linköping ab"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "samhvetensk fakndn",
+            "role": "led",
+            "start_year": 1982,
+            "organization": "Uppsala"
+        },
+        {
+            "committee_name": "1982 års bostadskomm",
+            "role": "sakk",
+            "start_year": 1982
+        }
+    ],
+    "current_location": "Örebro",
+    "family": {
+        "spouse": {
+            "first_name": "Gunilla",
+            "last_name": "Ohlsson",
+            "gender": "Female",
+            "birth_date": "01-01-1951",
+            "parents": [
+                {
+                    "first_name": "Börje",
+                    "last_name": "Tjärnberg",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "byggmäst",
+                        "hisco_code_swedish": "21240.0",
+                        "hisco_description_swedish": "Contractor"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1992"
+    }
+}

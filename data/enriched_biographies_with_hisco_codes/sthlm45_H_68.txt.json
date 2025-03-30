@@ -1,0 +1,67 @@
+{
+    "career": [
+        {
+            "position": "Förste statskartograf",
+            "start_year": 1936,
+            "organization": "Rikets allmänna kartverk",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Hallert",
+        "middle_name": "Bertil Pelle",
+        "gender": "Male",
+        "birth_date": "10-02-1910",
+        "birth_place": "Södra Solberga församling, Jönköpings Län",
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "tekn. dr",
+            "position_english": "Doctor of Technology",
+            "institution": "Kungliga Tekniska Högskolan",
+            "start_year": 1944
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Kungliga Tekniska Högskolan",
+            "start_year": 1944
+        }
+    ],
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1930",
+            "institution": "Linköping"
+        },
+        {
+            "degree": "Lantmäteriexamen",
+            "degree_level": "Bachelor's",
+            "year": "1936",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA"
+        }
+    ]
+}

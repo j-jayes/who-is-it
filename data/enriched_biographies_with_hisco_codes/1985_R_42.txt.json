@@ -1,0 +1,44 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Ruth",
+        "last_name": "Spånberg",
+        "middle_name": null,
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Katarina",
+            "last_name": "Herneryd",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Olov",
+                    "last_name": "H",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Kitty",
+                    "last_name": "von Otter",
+                    "middle_name": null,
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1942",
+        "divorce_year": null,
+        "children": []
+    }
+}

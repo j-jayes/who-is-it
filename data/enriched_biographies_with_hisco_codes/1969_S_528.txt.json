@@ -1,0 +1,44 @@
+{
+    "career": [
+        {
+            "position": "Redaktör",
+            "start_year": 1958,
+            "end_year": 1962,
+            "organization": "Stadsbyggnad"
+        }
+    ],
+    "person": {
+        "first_name": "Elisabeth",
+        "last_name": "Edstam",
+        "gender": "Female",
+        "occupation": null
+    },
+    "achievements": [
+        {
+            "title": "Restaurering",
+            "field": "Arkitektur",
+            "significance": "Sturehovs, Åkeshovs, Örby, Hässelby med flera slott och gårdar, Ebba Brahes palats, kulturreservat"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gustaf",
+            "last_name": "Edstam",
+            "gender": "Male",
+            "occupation": {
+                "occupation": "kamrer",
+                "hisco_code_swedish": "11010.0",
+                "hisco_description_swedish": "Accountant, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Tekla",
+                    "last_name": "Öquist",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1936"
+    }
+}

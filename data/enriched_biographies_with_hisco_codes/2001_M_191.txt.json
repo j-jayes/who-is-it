@@ -1,0 +1,128 @@
+{
+    "career": [
+        {
+            "position": "sekreterare",
+            "start_year": 1945,
+            "organization": "Konjunkturinstitutet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "sakkunnig",
+            "start_year": 1948,
+            "organization": "Konjunkturinstitutet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "finanssekreterare",
+            "start_year": 1947,
+            "end_year": 1948,
+            "organization": "Beskickningen Washington",
+            "location": "Washington",
+            "country_code": "USA"
+        },
+        {
+            "position": "ekonom",
+            "start_year": 1949,
+            "end_year": 1950,
+            "organization": "ECE Genève",
+            "location": "Genève",
+            "country_code": "CHE"
+        },
+        {
+            "position": "ekonomisk rådgivare",
+            "start_year": 1955,
+            "end_year": 1970,
+            "organization": "Stockholms Handelsbank",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "ekonomisk expert",
+            "start_year": 1964,
+            "end_year": 1965,
+            "organization": "Colombia",
+            "location": null,
+            "country_code": "COL"
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1971,
+            "end_year": 1976,
+            "organization": "finansutskottet",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Metelius",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "06-03-1915",
+        "birth_place": "Linköping",
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Petersson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kamrer",
+                    "occupation_english": "comptroller",
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Esther",
+                "last_name": "Jönsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Handelshögskolan i Stockholm",
+            "department": null,
+            "start_year": 1960,
+            "field": "nationalekonomi"
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Handelshögskolan i Stockholm",
+            "department": null,
+            "start_year": 1960,
+            "end_year": 1961,
+            "field": "nationalekonomi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Marianne",
+            "last_name": "None",
+            "gender": "Female",
+            "occupation": {
+                "occupation": "fritidspedagog",
+                "occupation_english": "recreation pedagogue",
+                "hisco_code_swedish": "13920.0",
+                "hisco_description_swedish": "Education Methods Adviser"
+            }
+        },
+        "marriage_year": "1939"
+    },
+    "publications": null,
+    "travels": null
+}

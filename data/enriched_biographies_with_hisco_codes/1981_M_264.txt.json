@@ -1,0 +1,41 @@
+{
+    "career": [
+        {
+            "position": "bankdirektör",
+            "start_year": 1922,
+            "organization": null,
+            "location": "Umeå",
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Einar",
+        "last_name": "Mogård",
+        "middle_name": "P B",
+        "gender": "Male",
+        "birth_date": "10-02-1922",
+        "birth_place": "Linköping",
+        "occupation": {
+            "occupation": "bankdirektör",
+            "occupation_english": "bank director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "44140.0",
+            "hisco_description_english": "Stock Broker"
+        },
+        "parents": [
+            {
+                "first_name": "Bertil",
+                "last_name": "Mogård",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kontraktsprost",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            }
+        ]
+    }
+}

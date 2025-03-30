@@ -1,0 +1,31 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Bergius",
+        "last_name": "None",
+        "gender": "Female",
+        "birth_date": "None",
+        "parents": [
+            {
+                "first_name": "Paul",
+                "last_name": "B",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bankrevisor",
+                    "hisco_code_swedish": "11020.0",
+                    "hisco_description_swedish": "Auditor"
+                }
+            },
+            {
+                "first_name": "Margit",
+                "last_name": "Lundell",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "None",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            }
+        ]
+    }
+}

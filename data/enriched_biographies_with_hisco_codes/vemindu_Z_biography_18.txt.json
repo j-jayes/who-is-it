@@ -1,0 +1,155 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": 1926,
+            "organization": "SKF Göteborg",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ritkontorschef",
+            "start_year": 1926,
+            "end_year": 1931,
+            "organization": "SKF Moskva",
+            "location": "Moskva",
+            "country_code": "RUS"
+        },
+        {
+            "position": "Teknisk chef",
+            "start_year": 1931,
+            "end_year": 1939,
+            "organization": "SKF Warszava",
+            "location": "Warszawa",
+            "country_code": "POL"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1940,
+            "organization": "SKF Göteborg",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Stig",
+        "last_name": "Zetterlund",
+        "middle_name": "Adolf",
+        "gender": "Male",
+        "birth_date": "16-01-1900",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "K",
+                "last_name": "Zetterlund",
+                "middle_name": "Hj",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Jägmästare",
+                    "occupation_english": "Forester",
+                    "hisco_code_swedish": "21230.0",
+                    "hisco_description_swedish": "Farm Manager",
+                    "hisco_code_english": "63220.0",
+                    "hisco_description_english": "Forest Supervisor"
+                }
+            },
+            {
+                "first_name": "h",
+                "last_name": "Åkerlind",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "Ingen information",
+            "institution": "Norra Real Stockholm"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "Ingen information",
+            "institution": "Chalmers Tekniska Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Greta",
+            "last_name": "Oden",
+            "gender": "Female"
+        }
+    },
+    "honors": [
+        "Skidlöparmärke",
+        "Skyttemärke",
+        "Pistolskyttemärke",
+        "Militär idrottsmärke"
+    ],
+    "travels": [
+        {
+            "country": "Ryssland",
+            "country_code": "RUS"
+        },
+        {
+            "country": "Polen",
+            "country_code": "POL"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU"
+        },
+        {
+            "country": "Finland",
+            "country_code": "FIN"
+        },
+        {
+            "country": "Norge",
+            "country_code": "NOR"
+        },
+        {
+            "country": "Danmark",
+            "country_code": "DNK"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR"
+        },
+        {
+            "country": "Österrike",
+            "country_code": "AUT"
+        },
+        {
+            "country": "Jugoslavien",
+            "country_code": "None"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE"
+        },
+        {
+            "country": "Ungern",
+            "country_code": "HUN"
+        },
+        {
+            "country": "Tjeckoslovakien",
+            "country_code": "None"
+        }
+    ]
+}

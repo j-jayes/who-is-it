@@ -1,0 +1,182 @@
+{
+    "career": [
+        {
+            "position": "ombudsman",
+            "start_year": 1967,
+            "end_year": 1969,
+            "organization": "SSU",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "kanslisekreterare",
+            "start_year": 1969,
+            "end_year": 1971,
+            "organization": "Utbildningsdepartementet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "ombudsman",
+            "start_year": 1971,
+            "end_year": 1973,
+            "organization": "ABF",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "sakkunnig",
+            "start_year": 1973,
+            "end_year": 1976,
+            "organization": "Statsrådsberedningen",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "ombudsman",
+            "start_year": 1976,
+            "end_year": 1982,
+            "organization": "ABF",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "biträdande socialborgarråd",
+            "start_year": 1982,
+            "end_year": 1985,
+            "organization": "Socialförvaltningen, Stockholms kommun",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "personalborgarråd",
+            "start_year": 1985,
+            "end_year": 1988,
+            "organization": "Stockholms kommun",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "socialborgarråd",
+            "start_year": 1988,
+            "end_year": 1991,
+            "organization": "Socialförvaltningen, Stockholms kommun",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "fritidsborgarråd",
+            "start_year": 1991,
+            "organization": "Stockholms kommun",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "direktör",
+            "start_year": 1991,
+            "organization": "Miljöförvaltningen, Stockholms kommun",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Karin",
+        "last_name": "Jonsson",
+        "middle_name": "E",
+        "gender": "Female",
+        "birth_date": "21-06-1942",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ossian",
+                "last_name": "Jonsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "socialinspektör",
+                    "occupation_english": "Social Inspector",
+                    "hisco_code_swedish": "22000.0",
+                    "hisco_description_swedish": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Elsie",
+                "last_name": "Jansson",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "postexpeditör",
+                    "occupation_english": "Postal Clerk",
+                    "hisco_code_swedish": "33170.0",
+                    "hisco_description_swedish": "Post Office Counter Clerk",
+                    "hisco_code_english": "30000.0",
+                    "hisco_description_english": "Clerical or Related Worker, Specialisation Unknown"
+                }
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1965",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Harald",
+            "last_name": "Ullman",
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Avdelningschef",
+                "occupation_english": "Head of Department",
+                "hisco_code_swedish": "22110.0",
+                "hisco_description_swedish": "Clerical Supervisor, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Sven",
+                    "last_name": "Ullman",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Kamrer",
+                        "occupation_english": "Comptroller",
+                        "hisco_code_swedish": "11010.0",
+                        "hisco_description_swedish": "Accountant, General"
+                    }
+                },
+                {
+                    "first_name": "Kerstin",
+                    "last_name": "Bodin",
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "Banktjänsteman",
+                        "occupation_english": "Bank Clerk",
+                        "hisco_code_swedish": "33140.0",
+                        "hisco_description_swedish": "Bank Teller",
+                        "hisco_code_english": "33940.0",
+                        "hisco_description_english": "Finance Clerk"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1972"
+    },
+    "political_positions": [
+        {
+            "organization": "Kommunfullmäktige",
+            "position": "Ledamot",
+            "start_year": 1970,
+            "end_year": 1991
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Ulla",
+        "last_name": "Isaksson",
+        "gender": "Female",
+        "occupation": {
+            "occupation": "Författare",
+            "occupation_english": "Author",
+            "hisco_code_swedish": "15120.0",
+            "hisco_description_swedish": "Author",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        }
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Erik",
+            "last_name": "Berg",
+            "gender": "Male",
+            "occupation": {
+                "occupation": "Professor",
+                "occupation_english": "Professor",
+                "hisco_code_swedish": "13100.0",
+                "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                "hisco_code_english": "13100.0",
+                "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+            }
+        },
+        "marriage_year": "1948",
+        "divorce_year": "1976"
+    },
+    "publications": [
+        {
+            "title": "Mina bästa berättelser",
+            "year": "1975",
+            "type": "bok"
+        },
+        {
+            "title": "Paradiset",
+            "year": "1973",
+            "type": "bok"
+        },
+        {
+            "title": "De två trädgårdarna",
+            "year": "1988",
+            "type": "bok"
+        },
+        {
+            "title": "Amanda och Herman",
+            "year": "1990",
+            "type": "bok"
+        },
+        {
+            "title": "Boken Adressaten okänd",
+            "year": "1992",
+            "type": "bok",
+            "publisher": "tillsammans med Carita Backström"
+        }
+    ]
+}

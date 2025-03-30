@@ -1,0 +1,115 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1945,
+            "end_year": 1948,
+            "organization": "oy Metalliteos",
+            "location": "Helsingfors",
+            "country_code": "FIN"
+        },
+        {
+            "position": "Offerting kraftöverförings-avdelningen",
+            "start_year": 1948,
+            "organization": "Asea",
+            "location": "Västerås",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Veijo",
+        "last_name": "Kiuru",
+        "middle_name": "R",
+        "gender": "Male",
+        "birth_date": "24-03-1918",
+        "birth_place": "Kexholm, Finland",
+        "occupation": {
+            "occupation": "Diplomingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "Väinö",
+                "last_name": "Kiuru",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Postmästare",
+                    "occupation_english": "Postmaster",
+                    "hisco_code_swedish": "22220.0",
+                    "hisco_description_swedish": "Postmaster",
+                    "hisco_code_english": "22220.0",
+                    "hisco_description_english": "Postmaster"
+                }
+            },
+            {
+                "first_name": "Lilia",
+                "last_name": "Gajevsky",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1937",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Diplomingenjör",
+            "degree_level": "Master's",
+            "year": "1947",
+            "institution": "Helsingfors tekniska högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsi",
+            "last_name": "Heino",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Emil",
+                    "last_name": "Heino",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Disponent",
+                        "occupation_english": "Manager",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Maria",
+                    "last_name": "Kulinala",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1953",
+        "children": [
+            {
+                "first_name": "Raija",
+                "last_name": "Kiuru",
+                "gender": "Female",
+                "birth_year": "1954"
+            }
+        ]
+    },
+    "honors": [
+        "FFrK"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

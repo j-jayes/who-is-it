@@ -1,0 +1,88 @@
+{
+    "career": [
+        {
+            "position": "Violinist",
+            "start_year": 1914,
+            "organization": "Göteborgs symfoniorkester",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konsertmästare",
+            "start_year": 1941,
+            "end_year": 1959,
+            "organization": "Göteborgs symfoniorkester",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medlem",
+            "start_year": 1922,
+            "end_year": 1937,
+            "organization": "Göteborgskvartetten",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1924,
+            "end_year": 1961,
+            "organization": "Göteborgs musikkonservatorium",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Flesch",
+        "last_name": "Flesch",
+        "gender": "Male",
+        "occupation": {
+            "occupation": "Violinist",
+            "occupation_english": "Violinist",
+            "hisco_code_swedish": "17140.0",
+            "hisco_description_swedish": "Instrumentalist",
+            "hisco_code_english": "17140.0",
+            "hisco_description_english": "Instrumentalist"
+        }
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Sigrid",
+            "last_name": "Gyllencreutz",
+            "gender": "Female",
+            "birth_date": null,
+            "occupation": {
+                "occupation": "Pianist",
+                "occupation_english": "Pianist",
+                "hisco_code_swedish": "17140.0",
+                "hisco_description_swedish": "Instrumentalist",
+                "hisco_code_english": "17140.0",
+                "hisco_description_english": "Instrumentalist"
+            },
+            "parents": [
+                {
+                    "first_name": "Axel",
+                    "last_name": "Gyllencreutz",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Major",
+                        "occupation_english": "Major",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "58320.0",
+                        "hisco_description_english": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Rosa",
+                    "last_name": "Camitz",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1925"
+    },
+    "publications": null,
+    "travels": null
+}

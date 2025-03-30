@@ -1,0 +1,100 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1930,
+            "end_year": 1936,
+            "organization": "kommunikationskollegiet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1936,
+            "end_year": 1950,
+            "organization": "Skånes handelskammare",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1950,
+            "end_year": 1969,
+            "organization": "Skånes handelskammare",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "konsult",
+            "start_year": 1969,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Jacobsson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "30-04-1904",
+        "birth_place": "Ystad",
+        "occupation": {
+            "occupation": "direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ivar",
+                "last_name": "Jacobsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "trafikchef",
+                    "occupation_english": "Traffic Manager",
+                    "hisco_code_swedish": "21960.0",
+                    "hisco_description_swedish": "Transport Operations Managers",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Martha",
+                "last_name": "Tengberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "political_positions": [
+        {
+            "organization": "stadsfullmäktige",
+            "position": "Ledamot",
+            "start_year": 1947,
+            "end_year": 1962,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "Första Kammaren",
+            "position": "ledamot",
+            "start_year": 1961,
+            "end_year": 1970,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Europarådet",
+            "country_code": "None",
+            "year": "1966-1969"
+        }
+    ]
+}

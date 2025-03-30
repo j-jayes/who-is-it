@@ -1,0 +1,153 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1941,
+            "end_year": 1949,
+            "organization": "Uppsala Universitet",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1939,
+            "end_year": 1949,
+            "organization": "Uppsala Studentkårs Kompletteringskurser",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1955,
+            "end_year": 1958,
+            "organization": "Vasa Högre Allmänna Läroverk",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Laborator",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i fysik II",
+            "start_year": 1963,
+            "end_year": null,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Brogren",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "03-05-1915",
+        "birth_place": "Örebro",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Fredrik",
+                "last_name": "Brogren",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmän",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Persson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie Doktor",
+            "institution": "Uppsala Universitet",
+            "start_year": 1949
+        },
+        {
+            "position": "Docent",
+            "institution": "Uppsala Universitet",
+            "start_year": 1949
+        },
+        {
+            "position": "Laborator",
+            "institution": "Chalmers Tekniska Högskola",
+            "start_year": 1958
+        },
+        {
+            "position": "Professor",
+            "institution": "Chalmers Tekniska Högskola",
+            "start_year": 1963
+        }
+    ],
+    "achievements": [
+        {
+            "title": "40-tal arbeten i röntgen- o kristallfysik",
+            "field": "röntgen- o kristallfysik"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ragna",
+            "last_name": "Grette",
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "Erik",
+                    "last_name": "Grette",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Verkmästare",
+                        "occupation_english": "Foreman",
+                        "hisco_code_swedish": "22610.0",
+                        "hisco_description_swedish": "Production Supervisor or Foreman, General",
+                        "hisco_code_english": "22610.0",
+                        "hisco_description_english": "Production Supervisor or Foreman, General"
+                    }
+                },
+                {
+                    "first_name": "Agda",
+                    "last_name": "Johansson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1943",
+        "children": [
+            {
+                "first_name": "Annika",
+                "last_name": "Brogren",
+                "gender": "Female",
+                "birth_year": "1946"
+            },
+            {
+                "first_name": "Lena",
+                "last_name": "Brogren",
+                "gender": "Female",
+                "birth_year": "1950"
+            }
+        ]
+    },
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

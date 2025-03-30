@@ -1,0 +1,211 @@
+{
+    "career": [
+        {
+            "position": "fiskal",
+            "start_year": 1960,
+            "organization": "Svea hovrätt",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "tjänstgöring",
+            "start_year": 1961,
+            "end_year": 1964,
+            "organization": "domsagor",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "assessor",
+            "start_year": 1967,
+            "organization": "Svea hovrätt",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "hovrättsråd",
+            "start_year": 1976,
+            "organization": "Svea hovrätt",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "regeringsråd",
+            "start_year": 1981,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "ledamot",
+            "start_year": 1985,
+            "end_year": 1987,
+            "organization": "lagrådet",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Tottie",
+        "middle_name": "W",
+        "gender": "Male",
+        "birth_date": "31-07-1921",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "regeringsråd",
+            "occupation_english": "councilor",
+            "hisco_code_swedish": "20110.0",
+            "hisco_description_swedish": "Legislative Official"
+        },
+        "parents": [
+            {
+                "first_name": "Henry",
+                "last_name": "Tottie",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "generallöjtnant",
+                    "occupation_english": "Lieutenant general",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Elsa",
+                "last_name": "Söderhielm",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "filosofie kandidat",
+                    "occupation_english": "Bachelor of Arts",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "13990.0",
+                    "hisco_description_english": "Other Teachers"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "extra lärare",
+            "position_english": null,
+            "institution": "Stockholms universitet",
+            "department": null,
+            "start_year": 1975,
+            "end_year": 1981,
+            "field": "civilrätt"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "familjelagssakkunniga",
+            "role": "sekreterare",
+            "start_year": 1969,
+            "end_year": 1981,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Stockholms Handelskammares skiljedomsinstitut",
+            "role": "sekreterare",
+            "start_year": 1968,
+            "end_year": 1973,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "skadeförsäkring villkorsnämnd",
+            "role": "ledamot",
+            "start_year": 1981,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "livförsäkring villkorsnämnd",
+            "role": "ledamot",
+            "start_year": 1985,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "valprövningsnämnden",
+            "role": "ordförande",
+            "start_year": 1992,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "current_location": "Saltsjöbaden",
+    "education": [
+        {
+            "degree": "juridik kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1956",
+            "institution": "Uppsala universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lillemor",
+            "last_name": "Svensson",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Sven",
+                    "last_name": "Svensson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kamrer",
+                        "occupation_english": "comptroller",
+                        "hisco_code_swedish": "11010.0",
+                        "hisco_description_swedish": "Accountant, General"
+                    }
+                },
+                {
+                    "first_name": "Margit",
+                    "last_name": "Nordlund",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1961"
+    },
+    "honorary_titles": [
+        {
+            "title": "Hedersledamot",
+            "institution": "Norrlands nation Uppsala",
+            "year": "1987"
+        }
+    ],
+    "political_positions": [
+        {
+            "organization": "Justitiedepartementet",
+            "position": "sakkunnig",
+            "start_year": 1965,
+            "end_year": 1969,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Giftermål o skilsmässa",
+            "year": "1974",
+            "type": "book"
+        },
+        {
+            "title": "Äktenskapsbalken o promulgationslag med mera",
+            "year": "1990",
+            "type": "book"
+        }
+    ]
+}

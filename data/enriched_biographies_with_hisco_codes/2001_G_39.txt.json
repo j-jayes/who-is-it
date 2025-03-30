@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Chef",
+            "start_year": 1953,
+            "end_year": 1960,
+            "organization": "Bokklubben Svalan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1960,
+            "end_year": 1962,
+            "organization": "Bokförlaget Aldus",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1961,
+            "end_year": 1986,
+            "organization": "Aktiebolag Wahlström & Widstrands bokförlag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1987,
+            "end_year": null,
+            "organization": "Gedins förlag",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Gedin",
+        "middle_name": "O l",
+        "gender": "Male",
+        "birth_date": "28-07-1923",
+        "birth_place": "Berlin",
+        "occupation": {
+            "occupation": "Bokförläggare",
+            "occupation_english": "Publisher",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21110.0",
+            "hisco_description_english": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Georg",
+                "last_name": "Israel",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Lena",
+                "last_name": "Gedin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1953,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Filosofie hedersdoktor",
+            "position_english": "Honorary Doctor of Philosophy",
+            "institution": "Stockholms Universitet",
+            "department": null,
+            "start_year": 1999,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska bokförläggarföreningen"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska pennklubben"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Månadens bok"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Pocketshop aktiebolag"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska bokförläggarföreningen",
+            "role": "Styrelseledamot",
+            "start_year": 1967,
+            "end_year": 1979,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Svenska bokförläggarföreningen",
+            "role": "Styrelseledamot",
+            "start_year": 1987,
+            "end_year": 1993,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Svenska bokförläggarföreningen",
+            "role": "Ordförande",
+            "start_year": 1990,
+            "end_year": 1993,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Svenska pennklubben",
+            "role": "Styrelseledamot",
+            "start_year": 1967,
+            "end_year": 1974,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Månadens bok",
+            "role": "Styrelseledamot",
+            "start_year": 1973,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Pocketshop aktiebolag",
+            "role": "Styrelseledamot",
+            "start_year": 1992,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Birgitta",
+            "last_name": "Atmer",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1954",
+        "divorce_year": "1983"
+    },
+    "publications": [
+        {
+            "title": "Den nya boken",
+            "year": "1966",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Litteraturen i verkligheten",
+            "year": "1975",
+            "type": "bok",
+            "editions": [
+                {
+                    "edition_number": "reviderad upplaga",
+                    "year": "1997",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ]
+}

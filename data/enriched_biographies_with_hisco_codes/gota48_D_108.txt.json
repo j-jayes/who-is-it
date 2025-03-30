@@ -1,0 +1,67 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1931,
+            "organization": "Aktiebolaget Siefvert & Fornander Jönköpings-avdelning",
+            "location": "Jönköping",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Albert",
+        "last_name": "Dietmann",
+        "middle_name": "Wilhelm Mauritz",
+        "gender": "Male",
+        "birth_date": "18-09-1903",
+        "birth_place": "Hoorn, Holland",
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        }
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Maj",
+            "last_name": "Forss",
+            "gender": "Female"
+        },
+        "marriage_year": "1933",
+        "children": [
+            {
+                "first_name": "Curt",
+                "last_name": "Dietmann",
+                "gender": "Male",
+                "birth_year": "1935"
+            },
+            {
+                "first_name": "Irma",
+                "last_name": "Dietmann",
+                "gender": "Female",
+                "birth_year": "1937"
+            },
+            {
+                "first_name": "Rolf",
+                "last_name": "Dietmann",
+                "gender": "Male",
+                "birth_year": "1940"
+            }
+        ]
+    },
+    "travels": [
+        {
+            "country": "England",
+            "country_code": "GBR"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE"
+        },
+        {
+            "country": "Belgien",
+            "country_code": "BEL"
+        }
+    ]
+}

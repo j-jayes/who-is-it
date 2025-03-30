@@ -1,0 +1,164 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Bolidens Gruv Aktiebolag",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Aktiebolaget Zander & Ingeström",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Nilsson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "26-05-1907",
+        "birth_place": "Borås",
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "G. J.",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fotograf",
+                    "occupation_english": "photographer",
+                    "hisco_code_swedish": "16310.0",
+                    "hisco_description_swedish": "Photographer, General",
+                    "hisco_code_english": "16310.0",
+                    "hisco_description_english": "Photographer, General"
+                }
+            },
+            {
+                "first_name": "Selma",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Saltsjöbaden",
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1925",
+            "institution": "Borås"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1931",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Sundström-Aronsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Eva",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Bengt",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1942"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Organiska jonutbytare och deras användning",
+            "year": "1943",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Avhärdning av vatten och betydelse härav för tvål- och tvättmedelsförbrukning",
+            "year": "1941",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Orn tillämpning av kalk-sodametoden vid vattenrening",
+            "year": "1945",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Skandinavien",
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

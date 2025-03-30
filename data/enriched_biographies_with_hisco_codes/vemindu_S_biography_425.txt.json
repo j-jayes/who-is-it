@@ -1,0 +1,79 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "organization": "Henrik Gahns AB",
+            "location": "Göteborg"
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "SVAXSTRÖM",
+        "gender": "Male",
+        "birth_date": "09-10-1901",
+        "birth_place": "Göteborg",
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "S",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Helga",
+                "last_name": "Halvorsen",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Real- och Handelsskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Aina",
+            "last_name": "Abel",
+            "gender": "Female"
+        }
+    },
+    "hobbies": [
+        "Ridning",
+        "Jakt",
+        "Fiske"
+    ],
+    "travels": [
+        {
+            "country": "Norge",
+            "country_code": "NOR"
+        },
+        {
+            "country": "Danmark",
+            "country_code": "DNK"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU"
+        }
+    ]
+}

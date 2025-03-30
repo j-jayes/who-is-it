@@ -1,0 +1,137 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1924,
+            "end_year": 1926,
+            "organization": "K Gillner & Co",
+            "location": "Göteborg",
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1927,
+            "end_year": 1928,
+            "organization": "Guthrie Bros & Co",
+            "location": "London",
+            "country_code": "GBR"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1928,
+            "end_year": 1935,
+            "organization": "AB Jacobsdals kamgarnsspinn",
+            "location": "Göteborg",
+            "country_code": null
+        },
+        {
+            "position": "Vice Verkställande direktör",
+            "start_year": 1935,
+            "organization": "AB Lars A Larson & Co",
+            "location": "Göteborg",
+            "country_code": null
+        },
+        {
+            "position": "Ensam Innehavare",
+            "start_year": 1937,
+            "organization": "AB Lars A Larson & Co",
+            "location": "Göteborg",
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Gillner",
+        "middle_name": "Lars",
+        "gender": "Male",
+        "birth_date": "25-02-1906",
+        "birth_place": "Göteborg",
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "K",
+                "last_name": "Gillner",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Elsa",
+                "last_name": "Thunell",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Göteborgs handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Göteborgs handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Rinman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        }
+    },
+    "hobbies": [
+        "Foto",
+        "Filateli"
+    ],
+    "travels": [
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1927-1928"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": "Danmark",
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": "Norge",
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": "Finland",
+            "country_code": "FIN",
+            "year": null
+        },
+        {
+            "country": "Estland",
+            "country_code": "EST",
+            "year": "1933-1939"
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1921,
+            "organization": "Preuss Versuchsanst fur Schiffbau",
+            "location": "Berlin",
+            "country_code": "DEU"
+        },
+        {
+            "position": "Övering",
+            "start_year": 1922,
+            "organization": "Deutsche Werke",
+            "location": "Wilhelmshafen",
+            "country_code": "DEU"
+        },
+        {
+            "position": "Marining",
+            "start_year": 1923,
+            "organization": "Flottan",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Marining 2:a grad",
+            "start_year": 1925,
+            "organization": "Flottans reserv",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Marining 1:a grad",
+            "start_year": 1936,
+            "organization": "Flottan",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Övering",
+            "start_year": 1925,
+            "end_year": 1927,
+            "organization": "Aktiebolaget Götaverken",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Avdelningschef",
+            "start_year": 1928,
+            "end_year": 1932,
+            "organization": "Sjöförsäkringsaktiebolaget Öresund",
+            "location": "Malmö",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1933,
+            "organization": "Sjöförsäkringsaktiebolaget Ägir",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1954,
+            "end_year": 1958,
+            "organization": "Sjöförsäkringsaktiebolaget Öresund",
+            "location": "Malmö",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1956,
+            "organization": "Aktiebolaget Sjö-Öresund",
+            "location": "Malmö",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Rogberg",
+        "middle_name": "O L",
+        "gender": "Male",
+        "birth_date": "07-10-1898",
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Rogberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbruksingenjör",
+                    "hisco_code_swedish": "2930.0",
+                    "hisco_description_swedish": "Agricultural Engineer"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Rosén",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1917",
+            "institution": "Karlstad"
+        },
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1921",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Minna",
+            "last_name": "Huldt",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "H",
+                    "last_name": "Huldt",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Justerare"
+                    }
+                },
+                {
+                    "first_name": "Beda",
+                    "last_name": "Waldenström",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1924",
+        "children": [
+            {
+                "first_name": "Kerstin",
+                "last_name": "Rogberg",
+                "gender": "Female",
+                "birth_year": "1925"
+            },
+            {
+                "first_name": "Gunnel",
+                "last_name": "Rogberg",
+                "gender": "Female",
+                "birth_year": "1931"
+            },
+            {
+                "first_name": "Birgitta",
+                "last_name": "Rogberg",
+                "gender": "Female",
+                "birth_year": "1934"
+            },
+            {
+                "first_name": "Nils",
+                "last_name": "Rogberg",
+                "gender": "Male",
+                "birth_year": "1938"
+            },
+            {
+                "first_name": "Elisabet",
+                "last_name": "Rogberg",
+                "gender": "Female",
+                "birth_year": "1941"
+            }
+        ]
+    },
+    "honors": [
+        "Kommendör av Vasaorden",
+        "Riddare av Nordstjärneorden",
+        "Riddare av Danska Dannebrogsorden",
+        "Riddare av Finska Vita Rosorden 1 klass"
+    ],
+    "political_positions": [
+        {
+            "organization": "Statens krigsförsäkrings-nämnd",
+            "position": "Ledamot",
+            "start_year": 1938,
+            "end_year": 1948
+        },
+        {
+            "organization": "K M:t",
+            "position": "Förordnad likvidator för avveckling av statens krigsförsäkrings-nämnds verksamhet",
+            "start_year": 1948,
+            "end_year": 1959
+        },
+        {
+            "organization": "Statens isbrytarnämnd",
+            "position": "Ledamot",
+            "start_year": 1947
+        },
+        {
+            "organization": "Handelspolitiska rådet",
+            "position": "Ledamot",
+            "start_year": 1946,
+            "end_year": 1950
+        }
+    ],
+    "travels": null
+}

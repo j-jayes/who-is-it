@@ -1,0 +1,172 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Tor",
+        "last_name": "Zelander",
+        "middle_name": "B",
+        "gender": "Male",
+        "birth_date": "21-04-1925",
+        "birth_place": "Göteborg",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Harry",
+                "last_name": "Zelander",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Tyra",
+                "last_name": "Lindberg",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Assistent",
+            "institution": "Göteborgs Universitet",
+            "department": "Anatomiska Institutionen",
+            "start_year": 1950,
+            "end_year": 1959,
+            "field": "Anatomi"
+        },
+        {
+            "position": "Docent",
+            "institution": "Göteborgs Universitet",
+            "start_year": 1960,
+            "field": "Anatomi"
+        },
+        {
+            "position": "Professor",
+            "institution": "Köpenhamns Tandläkarhögskola",
+            "start_year": 1965
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseordförande",
+            "organization": "Harry Zelander aktiebolag Göteborg"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Skandinaviska föreningen för elektronmikroskopi",
+            "role": "Sekreterare",
+            "start_year": 1962
+        }
+    ],
+    "community_involvement": [],
+    "current_location": "Köpenhamn",
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1945",
+            "institution": "None"
+        },
+        {
+            "degree": "Medicine Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1948",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Medicine Licentiat",
+            "degree_level": "Master's",
+            "year": "1954",
+            "institution": "Göteborgs Universitet"
+        },
+        {
+            "degree": "Medicine Doktor",
+            "degree_level": "Doctorate",
+            "year": "1959",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Berit",
+            "last_name": "Wikblad",
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "Åke",
+                    "last_name": "Wikblad",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Tandläkare",
+                        "occupation_english": "Dentist",
+                        "hisco_code_swedish": "6310.0",
+                        "hisco_description_swedish": "Dentist, General",
+                        "hisco_code_english": "6310.0",
+                        "hisco_description_english": "Dentist, General"
+                    }
+                },
+                {
+                    "first_name": "Elsa",
+                    "last_name": "Hamrén",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1950",
+        "children": [
+            {
+                "first_name": "Mari",
+                "last_name": "Zelander",
+                "gender": "Female",
+                "birth_year": "1956"
+            },
+            {
+                "first_name": "Eva",
+                "last_name": "Zelander",
+                "gender": "Female",
+                "birth_year": "1959"
+            }
+        ]
+    },
+    "hobbies": [
+        "segling"
+    ],
+    "honorary_titles": [],
+    "honors": [],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "The ultrastructure of the adrenal cortex of the mouse",
+            "year": "1959",
+            "type": "doktorsavhandling"
+        },
+        {
+            "title": "The ultrastructure of the rät pancreas",
+            "year": "1962",
+            "type": "None"
+        },
+        {
+            "title": "The adrenal gland in electronmicroscopic anatomy",
+            "year": "1964",
+            "type": "None"
+        }
+    ],
+    "travels": []
+}

@@ -1,0 +1,41 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Anna",
+        "last_name": "Callmer",
+        "middle_name": "Stina",
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Arvid",
+            "last_name": "Callmer",
+            "gender": "Male",
+            "occupation": {
+                "occupation": "kyrkoherde",
+                "hisco_code_swedish": "14120.0",
+                "hisco_description_swedish": "Minister of Religion"
+            },
+            "parents": [
+                {
+                    "first_name": "Inez",
+                    "last_name": "Ringheim",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1934"
+    },
+    "publications": [
+        {
+            "title": "Bibel, Bekännelse, Ämbete",
+            "year": "1955",
+            "type": "bok"
+        },
+        {
+            "title": "Effektiv prästutbildning",
+            "year": "1962",
+            "type": "bok"
+        }
+    ]
+}

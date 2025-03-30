@@ -1,0 +1,167 @@
+{
+    "career": [
+        {
+            "position": "målare",
+            "start_year": 1914,
+            "organization": "stafflikonst",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "samarbete",
+            "start_year": 1933,
+            "organization": "Föreningen Handarbetes Vänner",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Alf",
+        "last_name": "Munthe",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "08-05-1892",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "artist",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "17000.0",
+            "hisco_description_swedish": "Composer or Performing Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Åke",
+                "last_name": "Munthe",
+                "middle_name": "Wikström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "rektor",
+                    "occupation_english": "principal",
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher",
+                    "hisco_code_english": "37040.0",
+                    "hisco_description_english": "Messenger"
+                }
+            },
+            {
+                "first_name": "Louise",
+                "last_name": "Munthe",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1910",
+            "institution": "None"
+        },
+        {
+            "degree": "Konstakademin",
+            "degree_level": "Schooling",
+            "year": "1911-1912",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Torun",
+            "last_name": "Brate",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1917",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Anna",
+                "last_name": "Maria",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1919"
+            },
+            {
+                "first_name": "Elisabet",
+                "last_name": "Munthe",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1922"
+            },
+            {
+                "first_name": "Siger",
+                "last_name": "E. Å. L.",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1923"
+            },
+            {
+                "first_name": "Astrid",
+                "last_name": "F. L.",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1926"
+            }
+        ]
+    },
+    "travels": [
+        {
+            "country": "Danmark",
+            "country_code": "DNK",
+            "year": "1919-1921"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1919-1921"
+        },
+        {
+            "country": "Italien",
+            "country_code": "ITA",
+            "year": "1919-1921"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1919-1921"
+        },
+        {
+            "country": "Paris",
+            "country_code": "FRA",
+            "year": "1925"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1931-1932"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1931-1932"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1931-1932"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE",
+            "year": "1931-1932"
+        },
+        {
+            "country": "Spanien",
+            "country_code": "ESP",
+            "year": "1931-1932"
+        }
+    ]
+}

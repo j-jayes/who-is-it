@@ -1,0 +1,115 @@
+{
+    "career": [
+        {
+            "position": "Fänrik",
+            "start_year": 1932,
+            "organization": "Flottan"
+        },
+        {
+            "position": "Tjänstgörande",
+            "start_year": 1934,
+            "organization": "Flygvapnet"
+        },
+        {
+            "position": "Kapten",
+            "start_year": 1940
+        },
+        {
+            "position": "Major",
+            "start_year": 1946
+        },
+        {
+            "position": "Överstelöjtnant",
+            "start_year": 1950
+        },
+        {
+            "position": "Överste",
+            "start_year": 1955
+        },
+        {
+            "position": "Chef",
+            "start_year": 1954,
+            "end_year": null,
+            "organization": "F12"
+        },
+        {
+            "position": "Inspektör",
+            "start_year": 1955,
+            "end_year": 1958,
+            "organization": "Kalmar kommun",
+            "location": "Kalmar"
+        }
+    ],
+    "person": {
+        "first_name": "Thomas",
+        "last_name": "Stålhandske",
+        "middle_name": "Martin",
+        "gender": "Male",
+        "birth_date": "12-06-1911",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Överste",
+            "occupation_english": "Colonel",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "58320.0",
+            "hisco_description_english": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Otto",
+                "last_name": "Stålhandske",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överstelöjtnant",
+                    "occupation_english": "Lieutenant Colonel",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Huss",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Birgitta",
+            "last_name": "Sandels",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Claes",
+                    "last_name": "Sandels",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Bruksdisponent",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "21220.0",
+                        "hisco_description_swedish": "Production Manager (except Farm)"
+                    }
+                },
+                {
+                    "first_name": "Herta",
+                    "last_name": "Amnéus",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1941"
+    }
+}

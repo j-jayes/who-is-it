@@ -1,0 +1,192 @@
+{
+    "career": [
+        {
+            "position": "anställd geografiska institutionen",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "Handelshögskolan",
+            "location": "Stockholm",
+            "country_code": null
+        },
+        {
+            "position": "biträdande lärare",
+            "start_year": 1954,
+            "end_year": 1960,
+            "organization": "Handelshögskolan",
+            "location": "Stockholm",
+            "country_code": null
+        },
+        {
+            "position": "Forskningsassistent",
+            "start_year": 1952,
+            "end_year": null,
+            "organization": "University of Maryland",
+            "location": null,
+            "country_code": "USA"
+        },
+        {
+            "position": "Gästprofessor",
+            "start_year": 1953,
+            "end_year": 1954,
+            "organization": "University of Nebraska",
+            "location": null,
+            "country_code": "USA"
+        },
+        {
+            "position": "Gästprofessor",
+            "start_year": 1959,
+            "end_year": null,
+            "organization": "University of Wisconsin",
+            "location": null,
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Alexandersson",
+        "middle_name": "V",
+        "gender": "Male",
+        "birth_date": "14-03-1922",
+        "birth_place": "Söderåkra, Kalmar län",
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Albert",
+                "last_name": "Alexandersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "chaufför",
+                    "occupation_english": "driver",
+                    "hisco_code_swedish": "98500.0",
+                    "hisco_description_swedish": "MotorVehicle Drivers",
+                    "hisco_code_english": "98590.0",
+                    "hisco_description_english": "Other MotorVehicle Drivers"
+                }
+            },
+            {
+                "first_name": "Marta",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Handelshögskolan",
+            "department": null,
+            "start_year": 1960,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "current_location": "Bandhagen",
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1942",
+            "institution": "Kalmar"
+        },
+        {
+            "degree": "Diplom från DHS",
+            "degree_level": "Bachelor's",
+            "year": "1947",
+            "institution": "DHS"
+        },
+        {
+            "degree": "ekonomie licentiat",
+            "degree_level": "Master's",
+            "year": "1956",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Schiöler",
+            "middle_name": null,
+            "gender": "Female",
+            "occupation": {
+                "occupation": "ingenjör",
+                "occupation_english": "engineer",
+                "hisco_code_swedish": "2000.0",
+                "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                "hisco_code_english": "84100.0",
+                "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+            },
+            "parents": [
+                {
+                    "first_name": "Eiler",
+                    "last_name": "Schiöler",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "stadsingenjör",
+                        "occupation_english": "city engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "h h",
+                    "last_name": "",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "children": [
+            {
+                "first_name": "Ragnhild",
+                "last_name": "Alexandersson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1947"
+            },
+            {
+                "first_name": "Gun",
+                "last_name": "Alexandersson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1950"
+            },
+            {
+                "first_name": "Sonja",
+                "last_name": "Alexandersson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1953"
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Japan. En ekonomisk-geografisk översikt",
+            "year": "1958",
+            "type": "book"
+        },
+        {
+            "title": "The Industrial Structure of American Cities",
+            "year": "1956",
+            "type": "book"
+        },
+        {
+            "title": "Changes in the Location Pattern of the Anglo-American Steel Industry 1948-1959",
+            "year": "1961",
+            "type": "book"
+        }
+    ]
+}

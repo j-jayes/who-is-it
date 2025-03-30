@@ -1,0 +1,228 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1918,
+            "end_year": 1920,
+            "organization": "SKF",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": 1927,
+            "organization": "Metamografiska Institutet",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i allmän och oorganisk kemi",
+            "start_year": 1927,
+            "end_year": 1943,
+            "organization": "Stockholms Högskola",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1943,
+            "end_year": 1959,
+            "organization": "Vetenskapsakademien",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Arne",
+        "last_name": "Westgren",
+        "middle_name": "F",
+        "gender": "Male",
+        "birth_date": "11-07-1889",
+        "birth_place": "Årjäng, Värmlands Län",
+        "occupation": {
+            "occupation": "Professor emeritus",
+            "occupation_english": null,
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Westgren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Apotekare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "6710.0",
+                    "hisco_description_swedish": "Pharmacist"
+                }
+            },
+            {
+                "first_name": "Selma",
+                "last_name": "Hammar",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1917,
+            "end_year": 1919,
+            "field": "fysikalisk kemi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Metallografiska Institutet"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Stockholms Högskolas styrelse"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Vetenskapsakademiens Nobelkommittéer",
+            "role": "Sekreterare",
+            "start_year": 1926,
+            "end_year": 1943,
+            "organization": "Vetenskapsakademien",
+            "significance": null
+        },
+        {
+            "committee_name": "Nobelkommittén för kemi",
+            "role": "Ledamot",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Nobelkommittén för kemi",
+            "role": "Ordförande",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Vetenskapsakademiens Hierta-Retzius-stift",
+            "role": "Sekreterare",
+            "start_year": 1959,
+            "end_year": null,
+            "organization": "Vetenskapsakademien",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": "Stockholm",
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1910",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1911",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1914",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1915",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Nilsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gustav",
+                    "last_name": "Nilsson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Stadsfiskal",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "12110.0",
+                        "hisco_description_swedish": "Lawyer"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Rydqvist",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1915",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Anders",
+                "last_name": "Westgren",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1916"
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Westgren",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1918"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "Doctor Ingeniør honoris causa",
+            "institution": "Tekniska högskolan i Darmstadt",
+            "year": "1936"
+        },
+        {
+            "title": "Filosofie doktor honoris causa",
+            "institution": "Dorpat",
+            "year": "1939"
+        }
+    ],
+    "honors": [
+        "KNOlkl"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

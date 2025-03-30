@@ -1,0 +1,169 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "end_year": 1921,
+            "organization": "Elektriska Prövningsanstalten",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "A/S Nord Brown Boveri",
+            "location": "Köpenhamn",
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": "AG Brown, Boveri & Cie",
+            "location": "Schweiz",
+            "country_code": "CHE"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": "Brown Boveri ingenjörsbyrå",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Ritzler",
+        "middle_name": "Axel Filip",
+        "gender": "Male",
+        "birth_date": "08-02-1896",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "F",
+                "last_name": "Ritzler",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Erika",
+                "last_name": "Karlsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Stockholm",
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1915",
+            "institution": "Östra Real"
+        },
+        {
+            "degree": "Kandidatexamen",
+            "degree_level": "Bachelor's",
+            "year": "1920",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Victoria",
+            "last_name": "Brandt",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Musik",
+        "Konst",
+        "Tennis"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Div artiklar i Teknisk Tidskrift",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1922"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1928"
+        },
+        {
+            "country": "Schweiz",
+            "country_code": "CHE",
+            "year": "1928"
+        },
+        {
+            "country": "Österrike",
+            "country_code": "AUT",
+            "year": "1928"
+        },
+        {
+            "country": "Tjeckoslovakien",
+            "country_code": "CZE",
+            "year": "1928"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1927"
+        }
+    ]
+}

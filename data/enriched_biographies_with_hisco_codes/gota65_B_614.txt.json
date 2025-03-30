@@ -1,0 +1,163 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1945,
+            "end_year": 1949,
+            "organization": "olika Stockholms skolor",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "lärare",
+            "start_year": 1949,
+            "end_year": 1952,
+            "organization": "Djursholms samskola",
+            "location": "Djursholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "provar",
+            "start_year": 1951,
+            "organization": "Norra latin",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "lektor i historia och svenska",
+            "start_year": 1952,
+            "organization": "hal Visby",
+            "location": "Visby",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "H",
+        "last_name": "Bohman",
+        "middle_name": "Lennart",
+        "gender": "Male",
+        "birth_date": "31-08-1921",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "lektor",
+            "occupation_english": "lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hans",
+                "last_name": "Bohman",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "assessor",
+                    "occupation_english": "assessor",
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge"
+                }
+            },
+            {
+                "first_name": "Dolly",
+                "last_name": "Lindström",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1940",
+            "institution": "Djursholm"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1945",
+            "institution": "Stockholms högskola"
+        },
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1946",
+            "institution": "Stockholms högskola"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1950",
+            "institution": "Stockholms högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Norah",
+            "last_name": "Martin",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Frank",
+                    "last_name": "Martin",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "ryttmästare",
+                        "occupation_english": "cavalry master",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Louise",
+                    "last_name": "af Ugglas",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1948",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Staffan",
+                "last_name": "Bohman",
+                "gender": "Male",
+                "birth_year": "1949"
+            },
+            {
+                "first_name": "Agneta",
+                "last_name": "Bohman",
+                "gender": "Female",
+                "birth_year": "1950"
+            },
+            {
+                "first_name": "Hans",
+                "last_name": "Bohman",
+                "gender": "Male",
+                "birth_year": "1955"
+            },
+            {
+                "first_name": "Lars",
+                "last_name": "Bohman",
+                "gender": "Male",
+                "birth_year": "1961"
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Gotlands läns landsting 1863—1962",
+            "year": "1962",
+            "type": "bok"
+        },
+        {
+            "title": "1800-talets Visby",
+            "year": "1964",
+            "type": "bok"
+        }
+    ],
+    "travels": null
+}

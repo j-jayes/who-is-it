@@ -1,0 +1,43 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Elisabeth",
+        "last_name": "Sjögren",
+        "middle_name": null,
+        "gender": "Female"
+    },
+    "academic_positions": [
+        {
+            "position": "Latinamerika-inst",
+            "position_english": null,
+            "institution": "Centret för Stillahavsasienstudier",
+            "department": null,
+            "start_year": 0
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Carl-Einar",
+            "last_name": "Samuelsson",
+            "middle_name": null,
+            "gender": "Male",
+            "occupation": {
+                "occupation": "Bankdirektör",
+                "occupation_english": "Bank Director",
+                "hisco_code_swedish": "21110.0",
+                "hisco_description_swedish": "General Manager",
+                "hisco_code_english": "44140.0",
+                "hisco_description_english": "Stock Broker"
+            },
+            "parents": [
+                {
+                    "first_name": "Ingrid",
+                    "last_name": "Samuelsson",
+                    "middle_name": null,
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1965"
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "career": [
+        {
+            "position": "Volontär",
+            "start_year": 1924,
+            "organization": "Tidningen Karlshamn",
+            "location": "Karlshamn",
+            "country_code": null
+        },
+        {
+            "position": "Reporter",
+            "start_year": 1925,
+            "end_year": 1927,
+            "organization": "Sölvesborgs-Tidningen",
+            "location": "Sölvesborg",
+            "country_code": null
+        },
+        {
+            "position": "Redaktionssekreterare",
+            "start_year": 1927,
+            "end_year": 1929,
+            "organization": "Sölvesborgs-Tidningen",
+            "location": "Sölvesborg",
+            "country_code": null
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1930,
+            "end_year": 1945,
+            "organization": "Sydöstra Sveriges Dagblads länsavdelning",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Lokalredaktör",
+            "start_year": 1945,
+            "organization": "Sydöstra Sveriges Dagblad",
+            "location": "Karlshamn",
+            "country_code": null
+        },
+        {
+            "position": "Korrespondent",
+            "start_year": 1945,
+            "organization": "TT",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ivar",
+        "last_name": "Andrell",
+        "middle_name": "Frithiof",
+        "gender": "Male",
+        "birth_date": "16-09-1906",
+        "birth_place": "Jämshög, Blekinge Län",
+        "occupation": {
+            "occupation": "Redaktör",
+            "occupation_english": "Editor",
+            "hisco_code_swedish": "15920.0",
+            "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Andersson-A.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Folkskollärare",
+                    "occupation_english": "Primary School Teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Bengtsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Sölvesborgs kommunala mellanskola",
+            "degree_level": "Schooling",
+            "year": "1919-1922",
+            "institution": "Sölvesborgs kommunala mellanskola"
+        },
+        {
+            "degree": "Lunds privata elementarskola",
+            "degree_level": "Schooling",
+            "year": "1922-1923",
+            "institution": "Lunds privata elementarskola"
+        }
+    ],
+    "political_positions": [
+        {
+            "organization": "Blekinge distrikt av Sveriges socialdemokratiska arbetareparti",
+            "position": "Ledamot",
+            "start_year": 1930,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Estland",
+            "country_code": "EST",
+            "year": "1936"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "career": [
+        {
+            "position": "Överläkare",
+            "start_year": 1967,
+            "end_year": 1972,
+            "organization": "Rålambshovs sjukhus",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1972,
+            "end_year": 1975,
+            "organization": "FNs narkotikabyrå",
+            "location": "Genève",
+            "country_code": "CHE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1975,
+            "end_year": 1978,
+            "organization": "Beckomberga sjukhus",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sten",
+        "last_name": "Mårtens",
+        "middle_name": "G R",
+        "gender": "Male",
+        "birth_date": "17-02-1924",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Före detta överläkare",
+            "occupation_english": "Former Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "7990.0",
+            "hisco_description_english": "Other Medical, Dental, Veterinary and Related Workers"
+        },
+        "parents": [
+            {
+                "first_name": "Harald",
+                "last_name": "Mårtens",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Sundeil",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1966,
+            "field": "psykiatri"
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "University College Cork",
+            "department": null,
+            "start_year": 1978,
+            "end_year": 1982
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Trinity College Dublin",
+            "department": null,
+            "start_year": 1983
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Fellow of The Royal College of Psychiatrists",
+            "field": "Psychiatry",
+            "recognized_by": "The Royal College of Psychiatrists"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Mary",
+            "last_name": "Elisabeth",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Arthur",
+                    "last_name": "Pike",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Grosshandlare",
+                        "occupation_english": "Wholesaler",
+                        "hisco_code_swedish": "41020.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Mary",
+                    "last_name": "Andruss",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1952"
+    },
+    "honors": [
+        "Fellow of The Royal College of Psychiatrists London",
+        "Fellow of The Royal College of Psychiatrists Dublin"
+    ],
+    "languages_spoken": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": "Irland",
+            "country_code": "IRL"
+        }
+    ]
+}

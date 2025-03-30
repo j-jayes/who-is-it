@@ -1,0 +1,201 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Norin",
+        "middle_name": "S",
+        "gender": "Male",
+        "birth_date": "15-03-1895",
+        "birth_place": "Karlshamn",
+        "occupation": {
+            "occupation": "professor emeritus",
+            "occupation_english": "Professor Emeritus",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Emil",
+                "last_name": "Norin",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "sjökapt",
+                    "occupation_english": "Sea Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Wendla",
+                "last_name": "Ericsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Lund",
+            "start_year": 1937,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Lund",
+            "start_year": 1937,
+            "field": null
+        },
+        {
+            "position": "prof",
+            "position_english": "Professor",
+            "institution": "Uppsala",
+            "department": "geologi särskilt petrografi och mineralogi",
+            "start_year": 1945,
+            "end_year": 1961,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Geologiska undersökningar",
+            "field": "Geologi",
+            "year": "1920-1922",
+            "significance": "Undersökningar i provinsen Shansi, Kina",
+            "recognized_by": null
+        },
+        {
+            "title": "Kvartärundersökningar",
+            "field": "Geologi",
+            "year": "1924-1925",
+            "significance": "Undersökning av provinserna Kashmir och Ladakh nordvästra Himalaya",
+            "recognized_by": null
+        },
+        {
+            "title": "Geolog",
+            "field": "Geologi",
+            "year": "1927-1935",
+            "significance": "Sven Hedins expedition Centralasien",
+            "recognized_by": null
+        },
+        {
+            "title": "Sedimentpetrografiska undersökningar",
+            "field": "Petrografi",
+            "year": "1952, 1953, 1957, 1962",
+            "significance": "Undersökningar inom Medelhavet",
+            "recognized_by": null
+        }
+    ],
+    "awards": [],
+    "board_memberships": [],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": "Uppsala",
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Ambolt",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "And",
+                    "last_name": "A",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "civilingenjör",
+                        "occupation_english": "Civil Engineer",
+                        "hisco_code_swedish": "2210.0",
+                        "hisco_description_swedish": "Civil Engineer, General"
+                    }
+                },
+                {
+                    "first_name": "Göthilda",
+                    "last_name": "Johnsson",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [],
+    "honorary_titles": [],
+    "honors": [],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "vetenskapliga avhandlingar",
+            "year": "None",
+            "type": "avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": "dels om geologiska förhållanden i Kina, dels rör djuphavssedimentens petrografi inom Medelhavsbäckenet",
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "Kina",
+            "country_code": "CHN",
+            "year": "1920-1922"
+        },
+        {
+            "country": "Indien",
+            "country_code": "IND",
+            "year": "1924-1925"
+        },
+        {
+            "country": "Pakistan",
+            "country_code": "PAK",
+            "year": "1924-1925"
+        },
+        {
+            "country": "Centralasien",
+            "country_code": "None",
+            "year": "1927-1935"
+        },
+        {
+            "country": "Medelhavet",
+            "country_code": "None",
+            "year": "1952"
+        },
+        {
+            "country": "Medelhavet",
+            "country_code": "None",
+            "year": "1953"
+        },
+        {
+            "country": "Medelhavet",
+            "country_code": "None",
+            "year": "1957"
+        },
+        {
+            "country": "Medelhavet",
+            "country_code": "None",
+            "year": "1962"
+        }
+    ]
+}

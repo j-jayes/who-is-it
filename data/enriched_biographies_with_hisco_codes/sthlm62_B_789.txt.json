@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "organization": "Albert Bonnier",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1941,
+            "end_year": 1953,
+            "organization": "Albert Bonnier",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Styrelseordförande",
+            "start_year": 1953,
+            "end_year": 1962,
+            "organization": "Albert Bonnier",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1953,
+            "organization": "Aktiebolaget Kaj Bonnier & Co",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Kaj",
+        "last_name": "Bonnier",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "16-03-1901",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Bokförläggare",
+            "occupation_english": "Publisher",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21110.0",
+            "hisco_description_english": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Karl",
+                "last_name": "Otto Bonnier",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bokförläggare",
+                    "occupation_english": "Publisher",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21110.0",
+                    "hisco_description_english": "General Manager"
+                }
+            },
+            {
+                "first_name": "Lisen",
+                "last_name": "Josephson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Riddare av Nordstjärneorden",
+        "Riddare av Finlands Vita Ros orden av 1 klass",
+        "Nordiska Frimurare Orden",
+        "De Franska Medalj"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Dagens Nyheter",
+            "role": "Ordförande",
+            "start_year": 1960
+        },
+        {
+            "committee_name": "Svenska Bokförläggareföreningen",
+            "role": "Ordförande",
+            "start_year": 1955,
+            "end_year": 1960
+        },
+        {
+            "committee_name": "Stockholms Handelskammare",
+            "role": "Fullmäktige",
+            "start_year": 1956
+        },
+        {
+            "committee_name": "Publikationsnämnden Svenska Institutet",
+            "role": "Ledamot",
+            "start_year": 1956
+        }
+    ],
+    "community_involvement": null,
+    "current_location": "Stockholm",
+    "education": [
+        {
+            "degree": "Studieexamen",
+            "degree_level": "Schooling",
+            "year": "1919",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulla",
+            "last_name": "Wetterlind",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "00-00-1900",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Josef",
+                    "last_name": "Wetterlind",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Grosshandlare",
+                        "occupation_english": "Wholesaler",
+                        "hisco_code_swedish": "41020.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Fredrique",
+                    "last_name": "Ericsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1923",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Suzanne",
+                "last_name": "Bonnier",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1924"
+            },
+            {
+                "first_name": "Tomas",
+                "last_name": "Bonnier",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1926"
+            },
+            {
+                "first_name": "David",
+                "last_name": "Bonnier",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1933"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1922"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1923"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1923"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1924"
+        }
+    ]
+}

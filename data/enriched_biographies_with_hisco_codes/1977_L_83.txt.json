@@ -1,0 +1,148 @@
+{
+    "career": [
+        {
+            "position": "Laborator",
+            "start_year": 1962,
+            "end_year": 1968,
+            "organization": "Göteborg",
+            "location": "Göteborg",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i fysiologi",
+            "start_year": 1968,
+            "organization": "Umeå",
+            "location": "Umeå",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Landgren",
+        "middle_name": "O E",
+        "gender": "Male",
+        "birth_date": "05-05-1921",
+        "birth_place": "Lund",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Landgren",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Folkskollärare",
+                    "occupation_english": "Public School Teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13990.0",
+                    "hisco_description_english": "Other Teachers"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Olsson",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "Småskollärare",
+                    "occupation_english": "Primary School Teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Veterinärhögskolan",
+            "department": "Fysiologi",
+            "start_year": 1952,
+            "end_year": 1962,
+            "field": "fysiologi"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Umeå",
+            "department": null,
+            "start_year": 1968,
+            "end_year": null,
+            "field": "fysiologi"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Veterinärmedicine doktor",
+            "field": "Veterinärmedicin",
+            "year": "1952"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Barbro",
+            "last_name": "Lind",
+            "gender": "Female",
+            "birth_date": null,
+            "occupation": {
+                "occupation": "Sjuksköterska",
+                "occupation_english": "Nurse",
+                "hisco_code_swedish": "7110.0",
+                "hisco_description_swedish": "Professional Nurse, General",
+                "hisco_code_english": "7110.0",
+                "hisco_description_english": "Professional Nurse, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Ivar",
+                    "last_name": "Lind",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Doktor",
+                        "occupation_english": "Doctor",
+                        "hisco_code_swedish": "6100.0",
+                        "hisco_description_swedish": "Medical Doctor, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Ingeborg",
+                    "last_name": "Pihl",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1950"
+    },
+    "travels": [
+        {
+            "country": "Australia",
+            "country_code": "AUS",
+            "year": "1953"
+        },
+        {
+            "country": "Australia",
+            "country_code": "AUS",
+            "year": "1954"
+        },
+        {
+            "country": "United Kingdom",
+            "country_code": "GBR",
+            "year": "1959"
+        },
+        {
+            "country": "United Kingdom",
+            "country_code": "GBR",
+            "year": "1960"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "career": [
+        {
+            "position": "Laboratorieassistent",
+            "start_year": 1956,
+            "end_year": 1958,
+            "organization": "Lunds Högskola",
+            "location": "Lund",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Docent i organisk kemi",
+            "start_year": 1959,
+            "end_year": 1963,
+            "organization": "Uppsala Universitet",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i kemi",
+            "start_year": 1963,
+            "end_year": 1965,
+            "organization": "Oslo Universitet",
+            "location": "Oslo",
+            "country_code": "NOR"
+        },
+        {
+            "position": "Professor i organisk kemi",
+            "start_year": 1965,
+            "organization": "Lunds Universitet",
+            "location": "Lund",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Salo",
+        "last_name": "Gronowltz",
+        "middle_name": "S",
+        "gender": "Male",
+        "birth_date": "28-02-1912",
+        "birth_place": "Johannesburg",
+        "parents": [
+            {
+                "first_name": "Abraham",
+                "last_name": "Gronowltz",
+                "gender": "Male"
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Marcus",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie licentiat",
+            "institution": "Uppsala Universitet",
+            "start_year": 1955,
+            "field": "filosofi"
+        },
+        {
+            "position": "Filosofie doktor",
+            "institution": "Uppsala Universitet",
+            "start_year": 1959,
+            "field": "filosofi"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter i heterocyklisk kemi",
+            "field": "Kemi"
+        },
+        {
+            "title": "Skrifter i tiofens kemi",
+            "field": "Kemi",
+            "significance": "Specialisering"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Rella",
+            "last_name": "Jacob",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Simon",
+                    "last_name": "Jacob",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Sågverksägare"
+                    }
+                },
+                {
+                    "first_name": "Milly",
+                    "last_name": "Adler",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1949"
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "organization": "Folkets Dagblad",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Utrikesredaktör",
+            "start_year": 1927,
+            "end_year": 1929,
+            "organization": "Folkets Dagblad",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1923,
+            "end_year": 1927,
+            "organization": "Stormklockan",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1930,
+            "organization": "Ny Dag",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Huvudredaktör",
+            "start_year": 1934,
+            "end_year": 1959,
+            "organization": "Ny Dag",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "K",
+        "last_name": "Johansson",
+        "middle_name": "Gustav",
+        "gender": "Male",
+        "birth_date": "13-03-1895",
+        "birth_place": "Ransberg, Skaraborgs Län",
+        "occupation": {
+            "occupation": "Redaktör",
+            "occupation_english": "Editor",
+            "hisco_code_swedish": "15920.0",
+            "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "Alfred",
+                "last_name": "Johansson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            }
+        ]
+    },
+    "political_positions": [
+        {
+            "organization": "Stockholms stadsfullmäktige",
+            "position": "Stadsfullmäktige",
+            "start_year": 1942,
+            "end_year": 1944
+        },
+        {
+            "organization": "Andra Kammaren",
+            "position": "Ledamot av Andra Kammaren",
+            "start_year": 1945,
+            "end_year": 1962,
+            "focus_area": "Kommunistisk politik"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Krigshetsarnas dimbildningsbataljon",
+            "year": "1929",
+            "type": "Bok"
+        },
+        {
+            "title": "Hejda kriget, värna freden",
+            "year": "1935",
+            "type": "Bok"
+        },
+        {
+            "title": "Käck rebell",
+            "year": "1945",
+            "type": "Bok"
+        },
+        {
+            "title": "Politiska knuten",
+            "year": "1952",
+            "type": "Bok"
+        }
+    ],
+    "travels": null
+}

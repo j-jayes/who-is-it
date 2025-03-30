@@ -1,0 +1,199 @@
+{
+    "career": [
+        {
+            "position": "Praktikant",
+            "start_year": 1915,
+            "end_year": 1920,
+            "organization": "Textilmaskinfabrik Rieter, Töss",
+            "location": "Schweiz",
+            "country_code": "CHE"
+        },
+        {
+            "position": "Direktörsassistent",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Bomullsspinn",
+            "location": "Schweiz",
+            "country_code": "CHE"
+        },
+        {
+            "position": "Biträdande spinneriledare",
+            "start_year": 1921,
+            "end_year": 1928,
+            "organization": "MAB",
+            "location": "Malmö",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Teknisk spinnerichef",
+            "start_year": 1929,
+            "end_year": 1937,
+            "organization": "MAB",
+            "location": "Malmö",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1933,
+            "end_year": 1937,
+            "organization": "Malmö stads yrkesskola",
+            "location": "Malmö",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Textilkonsulent",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "AB Esco",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Tschudi & Co, textilkonsultation",
+            "location": "Malmö",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Teknisk ledare",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "AB Svensk Textilvävnad",
+            "location": "Genevad",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "AB Svensk Textilvävnad",
+            "location": "Genevad",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Jean",
+        "last_name": "Tschudi",
+        "middle_name": "Jacques",
+        "gender": "Male",
+        "birth_date": "02-01-1895",
+        "birth_place": "Glarus, Schweiz",
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Fridolin",
+                "last_name": "Tschudi",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fredsdomare",
+                    "occupation_english": "Judge of the peace",
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge",
+                    "hisco_code_english": "12210.0",
+                    "hisco_description_english": "Judge"
+                }
+            },
+            {
+                "first_name": "Katharina",
+                "last_name": "Tschudi",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Höh Stadtschule",
+            "degree_level": "Schooling",
+            "year": "1910",
+            "institution": "Glarus"
+        },
+        {
+            "degree": "Technikum",
+            "degree_level": "Bachelor's",
+            "year": "1915",
+            "institution": "Winterthur Zurich (maskinteknik)"
+        },
+        {
+            "degree": "Diplom",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "Kgl Technikum fur Textilind, Reutlingen, Tyskland"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Astrid",
+            "last_name": "Pålsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        }
+    },
+    "military_service": "Oberleutnant schweiziska armén",
+    "publications": [
+        {
+            "title": "Das Hoch-verzugstreckwerk in Theorie und Praxis",
+            "year": "1930",
+            "type": "Bok",
+            "publisher": "Leipzig"
+        },
+        {
+            "title": "High-Draft in Spinning Cotton Yarns",
+            "year": "1931",
+            "type": "Bok",
+            "publisher": "New York"
+        }
+    ],
+    "travels": [
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1931"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": "1934"
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": "1931"
+        },
+        {
+            "country": "Litauen",
+            "country_code": "LTU",
+            "year": "1933"
+        },
+        {
+            "country": "Tjeckoslovakien",
+            "country_code": "CZE",
+            "year": "1929"
+        },
+        {
+            "country": "Tjeckoslovakien",
+            "country_code": "CZE",
+            "year": "1931"
+        },
+        {
+            "country": "Tjeckoslovakien",
+            "country_code": "CZE",
+            "year": "1937"
+        }
+    ]
+}

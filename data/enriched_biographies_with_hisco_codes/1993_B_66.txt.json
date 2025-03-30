@@ -1,0 +1,76 @@
+{
+    "career": [
+        {
+            "position": "konstnär",
+            "start_year": 1978,
+            "organization": "Handarbetets Vänner",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Åsa",
+        "last_name": "Bengtsson",
+        "middle_name": "E M",
+        "gender": "Female",
+        "birth_date": "27-09-1938",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gösta",
+                "last_name": "Bengtsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ingenjör",
+                    "occupation_english": "engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Tyra",
+                "last_name": "Svensson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Konstfacksk textillinjen",
+            "degree_level": "Schooling",
+            "year": "1957-1963",
+            "institution": "Konstfack"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Torsten",
+            "last_name": "Dahlin",
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "designer",
+                "occupation_english": "designer",
+                "hisco_code_english": "16200.0",
+                "hisco_description_english": "Commercial Artist or Designer, Specialisation Unknown"
+            }
+        },
+        "marriage_year": "1964",
+        "divorce_year": "1974",
+        "children": null
+    },
+    "publications": null,
+    "travels": null
+}

@@ -1,0 +1,94 @@
+{
+    "career": [
+        {
+            "position": "Kemist",
+            "start_year": 1919,
+            "organization": "Marinförvaltningen",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1917,
+            "end_year": 1918,
+            "organization": "Norrköpings stads kemiska undersökningsanstalt",
+            "location": "Norrköping",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1918,
+            "end_year": 1919,
+            "organization": "Kemisk-tekniska byrån",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Thorsten",
+        "last_name": "BAGGE",
+        "middle_name": "Daniel Vilhelm",
+        "gender": "Male",
+        "birth_date": "15-03-1894",
+        "birth_place": "Kvillinge, Östergötlands Län",
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "V",
+                "last_name": "BAGGE",
+                "middle_name": "F I",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": "Manager",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Lisen",
+                "last_name": "Steinmetz",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1912",
+            "institution": "Norrköping"
+        },
+        {
+            "degree": "Kandidatexamen",
+            "degree_level": "Bachelor's",
+            "year": "1916",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Ericson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": null
+}

@@ -1,0 +1,211 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1957,
+            "end_year": 1959,
+            "organization": "kemiska institutionen, Uppsala Universitet",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "assistent",
+            "start_year": 1959,
+            "end_year": null,
+            "organization": "kemiska institutionen, Uppsala Universitet",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "biträdande lärare",
+            "start_year": 1960,
+            "end_year": 1962,
+            "organization": "Uppsala Universitet",
+            "location": "Uppsala",
+            "country_code": "SWE"
+        },
+        {
+            "position": "professor",
+            "start_year": 1965,
+            "end_year": null,
+            "organization": "Umeå Universitet",
+            "location": "Umeå",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "K",
+        "last_name": "BERGSON",
+        "middle_name": "Göran",
+        "gender": "Male",
+        "birth_date": "28-09-1934",
+        "birth_place": "Västerås",
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl-Rudolf",
+                "last_name": "Bergson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bruksdisponent",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21220.0",
+                    "hisco_description_swedish": "Production Manager (except Farm)"
+                }
+            },
+            {
+                "first_name": "Helny",
+                "last_name": "Norgren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1962,
+            "end_year": 1965,
+            "field": null
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Umeå Universitet",
+            "department": null,
+            "start_year": 1965,
+            "end_year": null,
+            "field": "organisk kemi"
+        }
+    ],
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1953",
+            "institution": "Västerås"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1957",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1959",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1962",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulla",
+            "last_name": "Andersson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Sven",
+                    "last_name": "Andersson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "godsägare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Edit",
+                    "last_name": "Borg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1959",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Charlotte",
+                "last_name": "Bergson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1960"
+            },
+            {
+                "first_name": "Peter",
+                "last_name": "Bergson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1965"
+            }
+        ]
+    },
+    "hobbies": [
+        "fjällsport"
+    ],
+    "publications": [
+        {
+            "title": "Some new aspects of organic disulphides, diselenides and related compounds",
+            "year": "1962",
+            "type": "doktorsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1961"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA",
+            "year": "1962"
+        },
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

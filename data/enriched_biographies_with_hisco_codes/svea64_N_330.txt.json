@@ -1,0 +1,119 @@
+{
+    "career": [
+        {
+            "position": "driftsingenjör",
+            "start_year": 1939,
+            "organization": "Stora Kopparbergs bergslags aktiebolag",
+            "location": "Falun",
+            "country_code": "SWE"
+        },
+        {
+            "position": "överingenjör",
+            "start_year": 1962,
+            "organization": "Stora Kopparbergs bergslags aktiebolag",
+            "location": "Falun",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Helmer",
+        "last_name": "Nyström",
+        "middle_name": "G B",
+        "gender": "Male",
+        "birth_date": "25-04-1914",
+        "birth_place": "Linköping",
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Bertil",
+                "last_name": "Nyström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "direktör",
+                    "occupation_english": "director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Marianne",
+                "last_name": "af Ekenstam",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1932",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1939",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märtha",
+            "last_name": "Looström",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Claes",
+                    "last_name": "Looström",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "överstelöjtnant",
+                        "occupation_english": "Lieutenant Colonel",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "58320.0",
+                        "hisco_description_english": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Sia",
+                    "last_name": "Edlund",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1940",
+        "children": [
+            {
+                "first_name": "Eva",
+                "last_name": "Nyström",
+                "gender": "Female",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Héléne",
+                "last_name": "Nyström",
+                "gender": "Female",
+                "birth_year": "1944"
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Nyström",
+                "gender": "Female",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "military_service": "Löjtnant Luftvärnets reserv 1939, Kapten 1946",
+    "political_positions": null,
+    "travels": null
+}

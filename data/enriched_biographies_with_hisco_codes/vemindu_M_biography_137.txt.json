@@ -1,0 +1,138 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1902,
+            "organization": "Firma Jacob Morling",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1910,
+            "end_year": 1919,
+            "organization": "Firma Jacob Morling",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ensam ägare",
+            "start_year": 1919,
+            "end_year": 1936,
+            "organization": "Firma Jacob Morling",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1936,
+            "organization": "Ivan Morling & Son",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1941,
+            "organization": "AB Ivan Morling & Son",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1941,
+            "organization": "AB Ivan Morling & Son",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ivan",
+        "last_name": "Morling",
+        "middle_name": "Jacob",
+        "gender": "Male",
+        "birth_date": "10-05-1887",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Morling",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Gummesson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": "Stockholm",
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Alice",
+            "last_name": "Hultgren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": "Tyskland",
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": "England",
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": "Frankrike",
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": "Belgien",
+            "country_code": "BEL",
+            "year": null
+        }
+    ]
+}

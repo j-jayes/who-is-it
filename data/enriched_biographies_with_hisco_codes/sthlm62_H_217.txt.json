@@ -1,0 +1,195 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Harling",
+        "middle_name": "W",
+        "gender": "Male",
+        "birth_date": "07-06-1920",
+        "birth_place": "Stockholm",
+        "occupation": {
+            "occupation": "forskardocent",
+            "occupation_english": "research docent"
+        },
+        "parents": [
+            {
+                "first_name": "Isak",
+                "last_name": "Harling",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "postmästare",
+                    "occupation_english": "postmaster",
+                    "hisco_code_swedish": "22220.0",
+                    "hisco_description_swedish": "Postmaster",
+                    "hisco_code_english": "22220.0",
+                    "hisco_description_english": "Postmaster"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Engdahl",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Stockholms Högskola",
+            "start_year": 1951,
+            "field": "botanik"
+        },
+        {
+            "position": "tillförordnad professor",
+            "institution": "Stockholms Högskola",
+            "start_year": 1952,
+            "end_year": 1953
+        },
+        {
+            "position": "tillförordnad professor",
+            "institution": "Stockholms Högskola",
+            "start_year": 1961,
+            "field": "botanik"
+        },
+        {
+            "position": "forskardocent",
+            "position_english": "research docent",
+            "institution": "Stockholms Universitet",
+            "start_year": 1959,
+            "end_year": null,
+            "field": "botanik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska botaniska föreningen",
+            "role": "sekreterare",
+            "start_year": 1948,
+            "end_year": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": "Lidingö",
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1940",
+            "institution": "None"
+        },
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1944",
+            "institution": "None"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1946",
+            "institution": "None"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1951",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ånn-Mari",
+            "last_name": "Hummerhielm",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Gösta",
+                    "last_name": "Hummerhielm",
+                    "gender": "Male"
+                },
+                {
+                    "first_name": "Regina",
+                    "last_name": "Fjaestad",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1953",
+        "children": [
+            {
+                "first_name": "Beata",
+                "last_name": "Harling",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1954"
+            },
+            {
+                "first_name": "Christopher",
+                "last_name": "Harling",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1958"
+            }
+        ]
+    },
+    "hobbies": [
+        "Skytte",
+        "ridning"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Embryo-logical Studies in the Compositae",
+            "year": "1951",
+            "type": "doktorsavhandling"
+        },
+        {
+            "title": "Monograph of the Cyclanthaceae",
+            "year": "1958",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Ecuador",
+            "country_code": "ECU",
+            "year": "1946"
+        },
+        {
+            "country": "Peru",
+            "country_code": "PER",
+            "year": "1946"
+        },
+        {
+            "country": "Chile",
+            "country_code": "CHL",
+            "year": "1946"
+        },
+        {
+            "country": "Marocko",
+            "country_code": "MAR",
+            "year": "1952"
+        },
+        {
+            "country": "Ecuador",
+            "country_code": "ECU",
+            "year": "1958"
+        },
+        {
+            "country": "Galapagosöarna",
+            "country_code": "ECU",
+            "year": "1958"
+        }
+    ]
+}

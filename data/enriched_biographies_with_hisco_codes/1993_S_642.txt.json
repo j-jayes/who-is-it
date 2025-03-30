@@ -1,0 +1,91 @@
+{
+    "career": [
+        {
+            "position": "statsåklagare",
+            "start_year": 1985,
+            "organization": "regionåklagmyndigheten i Stockholm",
+            "location": "Stockholm"
+        },
+        {
+            "position": "tf länsåklagare",
+            "start_year": 1984
+        },
+        {
+            "position": "avdelningsdirektör",
+            "start_year": 1975,
+            "end_year": 1977,
+            "organization": "riksåklagaren"
+        },
+        {
+            "position": "distriktsåklagare",
+            "start_year": 1971,
+            "end_year": 1975
+        },
+        {
+            "position": "distriktsåklagare",
+            "start_year": 1977,
+            "end_year": 1984
+        },
+        {
+            "position": "assistentåklagare",
+            "start_year": 1969,
+            "end_year": 1971
+        },
+        {
+            "position": "tingstjänstgöring",
+            "start_year": 1965,
+            "end_year": 1968
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Strömberg",
+        "gender": "Male",
+        "birth_date": "19-05-1935",
+        "birth_place": "Nässjö",
+        "occupation": {
+            "occupation": "statsåklagare"
+        },
+        "parents": [
+            {
+                "first_name": "Ivar",
+                "last_name": "Strömberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "trafikinspektör",
+                    "hisco_code_swedish": "21960.0",
+                    "hisco_description_swedish": "Transport Operations Managers"
+                }
+            },
+            {
+                "first_name": "Ellen",
+                "last_name": "Zeffer",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Juridisk kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1965",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Nyman",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "adjunkt",
+                "hisco_code_swedish": "13030.0",
+                "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education"
+            }
+        },
+        "marriage_year": "1964"
+    },
+    "hobbies": null
+}

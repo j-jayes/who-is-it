@@ -1,0 +1,112 @@
+{
+    "career": [
+        {
+            "position": "Överläkare",
+            "start_year": 1970,
+            "organization": "Radiumhemmet Karolinska Sjukhuset",
+            "location": "Solna",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Expert",
+            "start_year": 1971,
+            "end_year": 1971,
+            "organization": "WHO",
+            "location": "Nepal",
+            "country_code": "NPL"
+        },
+        {
+            "position": "Expert",
+            "start_year": 1974,
+            "end_year": 1974,
+            "organization": "WHO",
+            "location": "Burma",
+            "country_code": "MMR"
+        },
+        {
+            "position": "Expert",
+            "start_year": 1974,
+            "end_year": 1974,
+            "organization": "WHO",
+            "location": "Genève",
+            "country_code": "CHE"
+        },
+        {
+            "position": "Expert",
+            "start_year": 1975,
+            "end_year": 1975,
+            "organization": "WHO",
+            "location": "Indien",
+            "country_code": "IND"
+        },
+        {
+            "position": "Professor",
+            "start_year": 1972,
+            "organization": "Kenyatta National Hospital",
+            "location": "Nairobi",
+            "country_code": "KEN"
+        },
+        {
+            "position": "Klinikchef",
+            "start_year": 1972,
+            "organization": "Kenyatta National Hospital",
+            "location": "Nairobi",
+            "country_code": "KEN"
+        }
+    ],
+    "person": {
+        "first_name": "Folke",
+        "last_name": "Edsmyr",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "26-06-1926",
+        "birth_place": "Örebro",
+        "occupation": {
+            "occupation": "Överläkare",
+            "occupation_english": "Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Henning",
+                "last_name": "Erikson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Trädgårdsmästare",
+                    "occupation_english": "Gardener",
+                    "hisco_code_swedish": "61270.0",
+                    "hisco_description_swedish": "Horticultural Farmer",
+                    "hisco_code_english": "62700.0",
+                    "hisco_description_english": "Nursery Workers and Gardeners"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Erikson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1967,
+            "end_year": null,
+            "field": "Radioterapi"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Vetenskapliga skrifter inom cancersjukdomarnas diagnostik och terapi",
+            "year": "None",
+            "type": "skrift"
+        }
+    ],
+    "travels": null
+}

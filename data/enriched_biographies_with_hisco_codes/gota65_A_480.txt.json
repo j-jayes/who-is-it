@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "e assistent",
+            "start_year": 1945,
+            "end_year": 1947,
+            "organization": "medicinska avdelningen, Södersjukhuset",
+            "location": "Stockholm",
+            "country_code": "SWE"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1948,
+            "end_year": 1949,
+            "organization": "röntgenavdelningen, Örebro lasarett",
+            "location": "Örebro",
+            "country_code": "SWE"
+        },
+        {
+            "position": "röntgendiagnostiska avdelningen",
+            "start_year": 1950,
+            "end_year": 1952,
+            "organization": "Lunds lasarett",
+            "location": "Lund",
+            "country_code": "SWE"
+        },
+        {
+            "position": "röntgenavdelningen",
+            "start_year": 1952,
+            "end_year": 1955,
+            "organization": "Borås lasarett",
+            "location": "Borås",
+            "country_code": "SWE"
+        },
+        {
+            "position": "biträdande lasarettsläkare",
+            "start_year": 1954,
+            "end_year": 1955,
+            "organization": "Borås lasarett",
+            "location": "Borås",
+            "country_code": "SWE"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1955,
+            "end_year": 1956,
+            "organization": "röntgenavdelningen, Eksjö lasarett",
+            "location": "Eksjö",
+            "country_code": "SWE"
+        },
+        {
+            "position": "e läkare",
+            "start_year": 1957,
+            "end_year": null,
+            "organization": "lasarettsläkare ställning, röntgenavdelningen, Nässjö lasarett",
+            "location": "Nässjö",
+            "country_code": "SWE"
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": "Nässjö lasarett",
+            "location": "Nässjö",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Åke",
+        "last_name": "Appelgren",
+        "middle_name": "B",
+        "gender": "Male",
+        "birth_date": "08-05-1912",
+        "birth_place": "Åbo",
+        "occupation": {
+            "occupation": "överläkare",
+            "occupation_english": "chief physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Appelgren",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "juvelerare",
+                    "occupation_english": "jeweler",
+                    "hisco_code_swedish": "88010.0",
+                    "hisco_description_swedish": "Jeweller, General",
+                    "hisco_code_english": "88010.0",
+                    "hisco_description_english": "Jeweller, General"
+                }
+            },
+            {
+                "first_name": "Dagmar",
+                "last_name": "Brunsell",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1930",
+            "institution": "Vasa, Finland"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1943",
+            "institution": "Finland"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1954",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Barbro",
+            "last_name": "Bråhammar",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "Bråhammar",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "inspektör",
+                        "occupation_english": "inspector",
+                        "hisco_code_swedish": "22000.0",
+                        "hisco_description_swedish": "Supervisor, Foreman or Inspector, Specialisation Unknown",
+                        "hisco_code_english": "22000.0",
+                        "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Alma",
+                    "last_name": "Wåhlin",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Henni",
+                "last_name": "Appelgren",
+                "gender": "Female",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Appelgren",
+                "gender": "Female",
+                "birth_year": "1944"
+            },
+            {
+                "first_name": "Amie-Susanne",
+                "last_name": "Appelgren",
+                "gender": "Female",
+                "birth_year": "1950"
+            },
+            {
+                "first_name": "Peter",
+                "last_name": "Appelgren",
+                "gender": "Male",
+                "birth_year": "1952"
+            },
+            {
+                "first_name": "Olle",
+                "last_name": "Appelgren",
+                "gender": "Male",
+                "birth_year": "1954"
+            }
+        ]
+    },
+    "honors": [
+        "FFrK3kl",
+        "FFrK4klmsv"
+    ],
+    "publications": [
+        {
+            "title": "Skrifter i serologi, kirurgi och medicin",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,203 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Torsten",
+        "last_name": "Gustafson",
+        "middle_name": "V",
+        "gender": "Male",
+        "birth_date": "08-05-1904",
+        "birth_place": "Falkenberg",
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Albin",
+                "last_name": "Gustafson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Vaktmästare",
+                    "occupation_english": "Caretaker",
+                    "hisco_code_swedish": "55130.0",
+                    "hisco_description_swedish": "Janitor",
+                    "hisco_code_english": "55130.0",
+                    "hisco_description_english": "Janitor"
+                }
+            },
+            {
+                "first_name": "Hulda",
+                "last_name": "Bramstång",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Lund",
+            "start_year": 1933,
+            "field": "mekanik o matematisk fysik"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Lund",
+            "start_year": 1939,
+            "field": null
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Lund",
+            "start_year": 1961,
+            "end_year": null,
+            "field": "teoretisk fysik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Atomkommitten",
+            "role": "Ledamot",
+            "start_year": 1945,
+            "end_year": 1959
+        },
+        {
+            "committee_name": "Delegation för atomenergifrågor",
+            "role": "Delegat",
+            "start_year": 1956,
+            "end_year": null
+        },
+        {
+            "committee_name": "Statens råd för atomforskning",
+            "role": "Råd",
+            "start_year": 1959,
+            "end_year": 1964
+        },
+        {
+            "committee_name": "Council of CERN Genève",
+            "role": "Ledamot",
+            "start_year": 1953,
+            "end_year": 1964
+        },
+        {
+            "committee_name": "Nordita Köpenhamn",
+            "role": "Styrelseordförande",
+            "start_year": 1957,
+            "end_year": null
+        },
+        {
+            "committee_name": "Forskningsberedningen",
+            "role": "Ledamot",
+            "start_year": 1963,
+            "end_year": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": "Lund",
+    "education": [
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1924",
+            "institution": "Lund"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1929",
+            "institution": "Lund"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1934",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Lindskog",
+            "gender": "Female",
+            "birth_date": null,
+            "occupation": {
+                "occupation": "filosofie kandidat",
+                "occupation_english": "Bachelor of Arts",
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title",
+                "hisco_code_english": "13990.0",
+                "hisco_description_english": "Other Teachers"
+            },
+            "parents": [
+                {
+                    "first_name": "Erik",
+                    "last_name": "Lindskog",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Lektor",
+                        "occupation_english": "Lecturer",
+                        "hisco_code_swedish": "13030.0",
+                        "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+                        "hisco_code_english": "13100.0",
+                        "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Gunhild",
+                    "last_name": "Frigell",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "LFS 1940",
+        "LVS 1951",
+        "LDVS 1956",
+        "LVA 1958",
+        "UL finska vetenskapsakademin 1958"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i aerodynamik, oceanografi o atomteori",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": "Göttingen",
+            "country_code": "DEU"
+        },
+        {
+            "country": "Köpenhamn",
+            "country_code": "DNK"
+        },
+        {
+            "country": "USA",
+            "country_code": "USA"
+        },
+        {
+            "country": "England",
+            "country_code": "GBR"
+        }
+    ]
+}

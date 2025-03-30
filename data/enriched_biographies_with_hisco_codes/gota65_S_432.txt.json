@@ -1,0 +1,126 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1915,
+            "organization": "A/S Kvärner brug",
+            "location": "Oslo",
+            "country_code": "NOR"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1918,
+            "organization": "A/S Hamar jernstöberi & mek verkstad",
+            "country_code": "NOR"
+        },
+        {
+            "position": "Patentingenjör",
+            "start_year": 1920,
+            "organization": "Patentstyret",
+            "location": "Oslo",
+            "country_code": "NOR"
+        },
+        {
+            "position": "Verkställande chef",
+            "start_year": 1926,
+            "organization": "A/S Strömmens verkstad",
+            "location": "Norge",
+            "country_code": "NOR"
+        },
+        {
+            "position": "Avdelningschef",
+            "start_year": 1930,
+            "organization": "Aktiebolaget Järnvägsverkstäder",
+            "location": "Linköping",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överingenjör",
+            "start_year": 1935,
+            "organization": "Aktiebolaget Hägglund & Söner",
+            "location": "Örnsköldsvik",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1950,
+            "organization": "Aktiebolaget Eksjöverken",
+            "location": "Eksjö",
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konsult",
+            "start_year": 1964,
+            "organization": "Aktiebolaget Eksjöverken",
+            "location": "Eksjö",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sverre",
+        "last_name": "Smith",
+        "gender": "Male",
+        "birth_date": "25-12-1894",
+        "birth_place": "Oslo",
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Adolf",
+                "last_name": "Smith",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Statlig inspektör",
+                    "occupation_english": "State Inspector",
+                    "hisco_code_swedish": "22000.0",
+                    "hisco_description_swedish": "Supervisor, Foreman or Inspector, Specialisation Unknown",
+                    "hisco_code_english": "31090.0",
+                    "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                }
+            },
+            {
+                "first_name": "Hjördis",
+                "last_name": "Danielsen",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "achievements": [
+        {
+            "title": "Norsk mästare i löpning",
+            "field": "Sport",
+            "year": "1915",
+            "significance": "800 m",
+            "recognized_by": "Norge"
+        }
+    ],
+    "hobbies": [
+        "sport",
+        "idrott"
+    ],
+    "honorary_titles": [
+        {
+            "title": "LSvTF",
+            "institution": "Landstinget Svenska Teknologföreningen",
+            "year": "None"
+        }
+    ],
+    "languages_spoken": [
+        "Norska",
+        "Svenska"
+    ],
+    "travels": [
+        {
+            "country": "Norge",
+            "country_code": "NOR",
+            "year": "None"
+        }
+    ]
+}
