@@ -1,0 +1,216 @@
+{
+    "career": [
+        {
+            "position": "Kontorschef",
+            "start_year": 1920,
+            "end_year": 1921,
+            "organization": "AB Ad Larsson",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kontorschef",
+            "start_year": 1923,
+            "end_year": 1924,
+            "organization": "AB Ad Larsson",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1925,
+            "end_year": 1927,
+            "organization": "AB Ängelholms Kromläderfabrik",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kontorschef",
+            "start_year": 1927,
+            "end_year": 1928,
+            "organization": "AB H Brunner",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen företagare",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustav",
+        "last_name": "Tibbon",
+        "middle_name": "Adolf",
+        "gender": "Male",
+        "birth_date": "18-04-1897",
+        "birth_place": {
+            "name": "Viby, Örebro Län",
+            "latitude": 59.060593,
+            "longitude": 14.878039,
+            "formatted_address": "694 95 Viby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Grosshandlare",
+            "occupation_english": null,
+            "hisco_code_swedish": "41020.0",
+            "hisco_description_swedish": "Working Proprietor (Wholesale Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "T",
+                "middle_name": "G",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Jansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Örebro",
+        "latitude": 59.2752626,
+        "longitude": 15.2134105,
+        "formatted_address": "Örebro, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1917",
+            "institution": "Studex"
+        },
+        {
+            "degree": "Handelsgymnasium",
+            "degree_level": "Schooling",
+            "year": "1919",
+            "institution": "Hdlsgymn"
+        },
+        {
+            "degree": "Kommerskollegiums stipendium",
+            "degree_level": "Schooling",
+            "year": "1921",
+            "institution": "Komm.koll"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Ahrén",
+            "middle_name": "Fritiofsdotter",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

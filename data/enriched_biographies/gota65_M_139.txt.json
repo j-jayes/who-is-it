@@ -1,0 +1,131 @@
+{
+    "career": [
+        {
+            "position": "läkarexamen",
+            "start_year": 1940,
+            "organization": "Wien",
+            "country_code": "AUT"
+        },
+        {
+            "position": "Kungl Maj:ts tillstånd att i Sverige utöva läkekonsten",
+            "start_year": 1953,
+            "organization": "Sverige",
+            "country_code": "SWE"
+        },
+        {
+            "position": "militärläkare och överordnad",
+            "start_year": 1948,
+            "end_year": 1951,
+            "organization": "sjukhus Wien",
+            "location": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT"
+        },
+        {
+            "position": "underläkare röntgenavdelning",
+            "start_year": 1954,
+            "end_year": 1955,
+            "organization": "Västerviks lasarett",
+            "location": {
+                "name": "Västervik",
+                "latitude": 57.75771559999999,
+                "longitude": 16.6369759,
+                "formatted_address": "Västervik, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1956,
+            "end_year": 1958,
+            "organization": "Vänersborgs lasarett",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1958,
+            "end_year": 1960,
+            "organization": "Vasa sjukhus",
+            "country_code": "SWE"
+        },
+        {
+            "position": "provinsialläkare",
+            "start_year": 1960,
+            "organization": "Ljungbyholms distrikt",
+            "location": {
+                "name": "Ljungbyholm",
+                "latitude": 56.6325386,
+                "longitude": 16.1729081,
+                "formatted_address": "388 30 Ljungbyholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Siegfried",
+        "last_name": "Maresch",
+        "middle_name": "A",
+        "gender": "Male",
+        "birth_date": "28-11-1917",
+        "birth_place": {
+            "name": "München",
+            "latitude": 48.1351253,
+            "longitude": 11.5819806,
+            "formatted_address": "Munich, Germany"
+        },
+        "occupation": {
+            "occupation": "provinsialläkare",
+            "occupation_english": "District Medical Officer",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "31090.0",
+            "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+        }
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Hertha",
+            "last_name": "Gernedel",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Josef",
+                    "last_name": "G",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "disponent",
+                        "occupation_english": "manager",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1942",
+        "children": [
+            {
+                "first_name": "Heinz",
+                "last_name": "Maresch",
+                "gender": "Male",
+                "birth_year": "1944"
+            }
+        ]
+    },
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

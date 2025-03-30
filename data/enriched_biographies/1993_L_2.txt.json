@@ -1,0 +1,66 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Maj",
+        "last_name": "Nilsson",
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Arvid",
+            "last_name": "N",
+            "gender": "Male",
+            "occupation": {
+                "occupation": "elektriker",
+                "occupation_english": "electrician"
+            },
+            "parents": [
+                {
+                    "first_name": "Sally",
+                    "last_name": "Holmlund",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1954"
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Budapest",
+                "latitude": 47.497912,
+                "longitude": 19.040235,
+                "formatted_address": "Budapest, Hungary"
+            },
+            "country_code": "HUN"
+        },
+        {
+            "country": {
+                "name": "Warszawa",
+                "latitude": 52.2296756,
+                "longitude": 21.0122287,
+                "formatted_address": "Warsaw, Poland"
+            },
+            "country_code": "POL"
+        },
+        {
+            "country": {
+                "name": "Antwerpen",
+                "latitude": 51.2199302,
+                "longitude": 4.414990299999999,
+                "formatted_address": "Antwerp, Belgium"
+            },
+            "country_code": "BEL"
+        }
+    ]
+}

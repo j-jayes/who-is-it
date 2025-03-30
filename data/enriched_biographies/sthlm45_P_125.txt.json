@@ -1,0 +1,109 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1936,
+            "end_year": 1937,
+            "organization": "Sparkman & Stephens Inc.",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1937,
+            "end_year": 1938,
+            "organization": "Aktiebolaget Tore Holms Yachtvarv",
+            "location": {
+                "name": "Gamleby",
+                "latitude": 57.89316029999999,
+                "longitude": 16.4060887,
+                "formatted_address": "594 30 Gamleby, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1938,
+            "organization": "Aktiebolaget Neglingevarvet",
+            "location": {
+                "name": "Saltsjöbaden",
+                "latitude": 59.278744,
+                "longitude": 18.3110523,
+                "formatted_address": "Saltsjöbaden, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gustav",
+        "last_name": "Plym",
+        "middle_name": "Adolf",
+        "gender": "Male",
+        "birth_date": "27-01-1911",
+        "birth_place": {
+            "name": "Saltsjöbaden",
+            "latitude": 59.278744,
+            "longitude": 18.3110523,
+            "formatted_address": "Saltsjöbaden, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "A.",
+                "last_name": "Plym",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Ingenjör",
+                    "occupation_english": "Engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Fredrique",
+                "last_name": "Bengtzén",
+                "gender": "Female"
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolaget Neglingevarvet"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Kryssarklubbens båt- och redaktionskommitté"
+        }
+    ],
+    "hobbies": [
+        "Segling",
+        "Skidåkning",
+        "Fiske",
+        "Musik"
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1936-1937"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": "A-B Kalmar chokladfabrik",
+            "location": {
+                "name": "Kalmar",
+                "latitude": 56.6634447,
+                "longitude": 16.356779,
+                "formatted_address": "Kalmar, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "A-B Kalmar chokladfabrik",
+            "location": {
+                "name": "Kalmar",
+                "latitude": 56.6634447,
+                "longitude": 16.356779,
+                "formatted_address": "Kalmar, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Anton",
+        "last_name": "Edgren",
+        "middle_name": "Gösta Gottfrid",
+        "gender": "Male",
+        "birth_date": "12-01-1907",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Anton",
+                "last_name": "Edgren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Konsul",
+                    "occupation_english": "Consul",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator",
+                    "hisco_code_english": "20210.0",
+                    "hisco_description_english": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Lundqvist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Ledamot",
+            "organization": "Styrelsen"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kalmar",
+        "latitude": 56.6634447,
+        "longitude": 16.356779,
+        "formatted_address": "Kalmar, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Realexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Schartaus handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Schartaus handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gertrud",
+            "last_name": "Olson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1931",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Lars",
+                "last_name": "Edgren",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1933"
+            },
+            {
+                "first_name": "Ulf",
+                "last_name": "Edgren",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            }
+        ]
+    },
+    "hobbies": [
+        "idrott"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1946"
+        }
+    ]
+}

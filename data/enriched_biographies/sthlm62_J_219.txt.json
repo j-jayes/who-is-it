@@ -1,0 +1,206 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "LME",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Biträdande lärare",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "KTH",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tjänsteförrättande professor",
+            "start_year": 1957,
+            "end_year": 1960,
+            "organization": "KTH",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "FOA",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Forskningschef",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": "FOA",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Josephson",
+        "middle_name": "A S",
+        "gender": "Male",
+        "birth_date": "28-06-1914",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Forskningschef",
+            "occupation_english": "Head of Research"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf-Adolf",
+                "last_name": "Josephson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpman",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Ester",
+                "last_name": "Dahl",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Internationella Electr Commiss",
+            "role": "Kommittéordförande",
+            "start_year": 1956,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Solna",
+        "latitude": 59.36887909999999,
+        "longitude": 18.0084334,
+        "formatted_address": "Solna, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1934",
+            "institution": "None"
+        },
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1942",
+            "institution": "KTH"
+        },
+        {
+            "degree": "Teknologie licentiat",
+            "degree_level": "Doctorate",
+            "year": "1947",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingegärd",
+            "last_name": "Rittner",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Otto",
+                    "last_name": "R",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Jägmästare",
+                        "occupation_english": "Master of the Hunt",
+                        "hisco_code_swedish": "21230.0",
+                        "hisco_description_swedish": "Farm Manager"
+                    }
+                },
+                {
+                    "first_name": "Herta",
+                    "last_name": "Eldin",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1944",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Josephson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1945"
+            },
+            {
+                "first_name": "Gunilla",
+                "last_name": "Josephson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Artiklar i handböcker och fackpress",
+            "year": "None",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1946"
+        }
+    ]
+}

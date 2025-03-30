@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "Elev och ritare",
+            "start_year": 1892,
+            "end_year": 1896,
+            "organization": "Boxholms AB",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ritningsexpedition",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Stockholm—Västerås—Bergslagens järnväg",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Teknisk ledare",
+            "start_year": 1901,
+            "end_year": 1906,
+            "organization": "Södermalms tvätt- & badinrättning",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1906,
+            "end_year": null,
+            "organization": "Göteborgs tvättanstalt Gloria samt Lundby skönfärgeri & tvättanstalt",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Knut",
+        "last_name": "Martin",
+        "middle_name": "Conrad",
+        "gender": "Male",
+        "birth_date": "11-11-1877",
+        "birth_place": null,
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Carlsson",
+                "middle_name": "Aug",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Mathilda",
+                "last_name": "Stålstjärna",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Förvaltningsaktiebolaget Agal med flera bolag"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Folkskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Privatstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "4-årig Kungliga Vetenskapsakademi Stockholm tekniska skolas maskinavdelning",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Kungliga Vetenskapsakademi Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Astrid",
+            "last_name": "Nilsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": "1939"
+        }
+    ]
+}

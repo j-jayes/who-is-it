@@ -1,0 +1,147 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Emma",
+        "last_name": "Blomberg",
+        "middle_name": "Emilia Sigrid Charlotte",
+        "gender": "Female",
+        "birth_date": "10-07-1863",
+        "birth_place": {
+            "name": "Fliseryd, Kalmar Län",
+            "latitude": 57.1280021,
+            "longitude": 16.2644966,
+            "formatted_address": "384 73 Fliseryd, Sweden"
+        },
+        "occupation": {
+            "occupation": "bildhuggarinna",
+            "occupation_english": "sculptor",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Alfred",
+                "last_name": "Blomberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "possessor",
+                    "occupation_english": "landowner",
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge"
+                }
+            },
+            {
+                "first_name": "Charlotta",
+                "last_name": "Lundquist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "elev",
+            "position_english": "student",
+            "institution": "Konstakademien",
+            "department": null,
+            "start_year": 1890,
+            "end_year": 1899,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Altargrupp i Oskarshamns kyrka",
+            "field": "konst",
+            "year": "1898",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Bebådelsen",
+            "field": "konst",
+            "year": "1899",
+            "significance": "staty i marmor, inköpt av staten",
+            "recognized_by": "staten"
+        },
+        {
+            "title": "Den lilla sjöjungfrun",
+            "field": "konst",
+            "year": "1902",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Sorgen och hoppet",
+            "field": "konst",
+            "year": null,
+            "significance": "figurgrupp",
+            "recognized_by": null
+        },
+        {
+            "title": "Uppståndelsen (August Röhss’ gravkapell i Göteborg)",
+            "field": "konst",
+            "year": "1905",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Dopfunt till Gustav Vasakyrkan i Stockholm",
+            "field": "konst",
+            "year": "1906",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Marmorsarkofag för Viktor Rydberg",
+            "field": "konst",
+            "year": "1908",
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

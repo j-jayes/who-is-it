@@ -1,0 +1,58 @@
+{
+    "career": [
+        {
+            "position": "Innehade järnhandel med plåtslageri och rörläggeri",
+            "start_year": 1909,
+            "organization": "Egen firma",
+            "location": {
+                "name": "Mölndal",
+                "latitude": 57.65,
+                "longitude": 12.016667,
+                "formatted_address": "Mölndal, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Knut",
+        "last_name": "Karlsson",
+        "middle_name": "Reinhold",
+        "gender": "Male",
+        "birth_date": "25-07-1890",
+        "birth_place": {
+            "name": "Gullered, Älvsborgs Län",
+            "latitude": 57.80045519999999,
+            "longitude": 13.5971247,
+            "formatted_address": "523 97 Gullered, Sweden"
+        },
+        "occupation": {
+            "occupation": "Järnhandlare",
+            "occupation_english": null,
+            "hisco_code_swedish": "41030.0",
+            "hisco_description_swedish": "Working Proprietor (Retail Trade)"
+        }
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Frideborg",
+            "last_name": "Johansson",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1926"
+        }
+    ]
+}

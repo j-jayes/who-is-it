@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "Arbetsstudieingenjör",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "Svenska Metallverken",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1939,
+            "end_year": 1940,
+            "organization": "Svenska Petroleum Aktiebolag Standard",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Svenska Stålpressnings Aktiebolag",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Specialvaruinköp",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande chef",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Aktiebolaget Husqvarna Borstfabrik",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Asp",
+        "middle_name": "Wilhelm",
+        "gender": "Male",
+        "birth_date": "22-05-1913",
+        "birth_place": {
+            "name": "Vinnerstad, Östergötlands Län",
+            "latitude": 58.51564140000001,
+            "longitude": 15.0881159,
+            "formatted_address": "591 91 Vinnerstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Ernst",
+                "last_name": "Asp",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ester",
+                "last_name": "Samuelsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Huskvarna",
+        "latitude": 57.7904141,
+        "longitude": 14.2755781,
+        "formatted_address": "Huskvarna, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen (real)",
+            "degree_level": "Schooling",
+            "year": "1932",
+            "institution": "Högre allmänna läroverket i Motala"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1937",
+            "institution": "Kungliga Tekniska Högskolan (mekanik)"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Martha",
+            "last_name": "Cederschiöld",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1939",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Rolf",
+                "last_name": "Asp",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Lilian",
+                "last_name": "Asp",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Björn",
+                "last_name": "Asp",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "hobbies": [
+        "bridge",
+        "golf"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        }
+    ]
+}

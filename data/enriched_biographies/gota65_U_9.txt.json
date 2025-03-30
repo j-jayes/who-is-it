@@ -1,0 +1,231 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1941,
+            "end_year": 1943,
+            "organization": "Ängelholms lasarett",
+            "location": {
+                "name": "Ängelholm",
+                "latitude": 56.245748,
+                "longitude": 12.863881,
+                "formatted_address": "Ängelholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1941,
+            "end_year": 1943,
+            "organization": "Oskarshamns lasarett",
+            "location": {
+                "name": "Oskarshamn",
+                "latitude": 57.26569929999999,
+                "longitude": 16.4473984,
+                "formatted_address": "Oskarshamn, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1943,
+            "end_year": 1944,
+            "organization": "Kristianstads lasarett",
+            "location": {
+                "name": "Kristianstad",
+                "latitude": 56.0293936,
+                "longitude": 14.1566778,
+                "formatted_address": "Kristianstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1943,
+            "end_year": 1944,
+            "organization": "Karlshamns lasarett",
+            "location": {
+                "name": "Karlshamn",
+                "latitude": 56.170303,
+                "longitude": 14.863073,
+                "formatted_address": "Karlshamn, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1944,
+            "end_year": 1948,
+            "organization": "Söderhamns lasarett",
+            "location": {
+                "name": "Söderhamn",
+                "latitude": 61.3055762,
+                "longitude": 17.0628102,
+                "formatted_address": "Söderhamn, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1948,
+            "end_year": 1949,
+            "organization": "Moheds sanatorium",
+            "location": {
+                "name": "Mohed",
+                "latitude": 61.2924711,
+                "longitude": 16.8289108,
+                "formatted_address": "826 92 Mohed, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Provisorialläkare",
+            "start_year": 1950,
+            "end_year": null,
+            "organization": "Ljungby norra distrikt",
+            "location": {
+                "name": "Ljungby",
+                "latitude": 56.8338774,
+                "longitude": 13.9410417,
+                "formatted_address": "Ljungby, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "N",
+        "last_name": "UDDMAN",
+        "middle_name": "TORSTEN",
+        "gender": "Male",
+        "birth_date": "15-08-1908",
+        "birth_place": {
+            "name": "Förslöv, Kristianstads Län",
+            "latitude": 56.3493945,
+            "longitude": 12.8151676,
+            "formatted_address": "269 72 Förslöv, Sweden"
+        },
+        "occupation": {
+            "occupation": "Provinsialläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Hjalmar",
+                "last_name": "Uddman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Gustafsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ljungby",
+        "latitude": 56.8338774,
+        "longitude": 13.9410417,
+        "formatted_address": "Ljungby, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1929",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Medicine Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1933",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine Licentiat",
+            "degree_level": "Master's",
+            "year": "1942",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Greta",
+            "last_name": "Borelius",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Filosofie Magister",
+                "occupation_english": null,
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title"
+            },
+            "parents": [
+                {
+                    "first_name": "Johan",
+                    "last_name": "Borelius",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Lektor",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "13030.0",
+                        "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education"
+                    }
+                },
+                {
+                    "first_name": "Ruth",
+                    "last_name": "Bagge",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Rolf",
+                "last_name": "Uddman",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Uddman",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1944"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

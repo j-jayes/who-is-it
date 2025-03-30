@@ -1,0 +1,124 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Torhamn",
+        "middle_name": "Josef",
+        "gender": "Male",
+        "birth_date": "21-12-1894",
+        "birth_place": {
+            "name": "Torhamn, Blekinge Län",
+            "latitude": 56.0946326,
+            "longitude": 15.832411,
+            "formatted_address": "373 71 Torhamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Elev",
+            "degree_level": "Schooling",
+            "year": "1918-1922",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingegerd",
+            "last_name": "Torhamn",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "skulptris",
+                "occupation_english": "sculptress",
+                "hisco_code_swedish": "16120.0",
+                "hisco_description_swedish": "Sculptor",
+                "hisco_code_english": "16120.0",
+                "hisco_description_english": "Sculptor"
+            },
+            "parents": null
+        },
+        "marriage_year": "1923",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Staffan",
+                "last_name": "Torhamn",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1926"
+            },
+            {
+                "first_name": "Urban",
+                "last_name": "Torhamn",
+                "middle_name": "Gunnar",
+                "gender": "Male",
+                "birth_year": "1930"
+            }
+        ]
+    },
+    "hobbies": [
+        "segling",
+        "fiske"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1923-1928"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1923-1928"
+        },
+        {
+            "country": {
+                "name": "Nordafrika",
+                "latitude": 26.0197776,
+                "longitude": 32.277834,
+                "formatted_address": "North Africa"
+            },
+            "country_code": "NULL",
+            "year": "1923-1928"
+        }
+    ]
+}

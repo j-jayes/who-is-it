@@ -1,0 +1,152 @@
+{
+    "career": [
+        {
+            "position": "Verkstadsingenjör",
+            "start_year": 1940,
+            "organization": "LME"
+        },
+        {
+            "position": "Fabrikschef",
+            "start_year": 1947,
+            "end_year": 1952,
+            "organization": "LME",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            }
+        },
+        {
+            "position": "Verkstadschef",
+            "start_year": 1952,
+            "organization": "LME Huvudfabrik"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1960,
+            "end_year": 1967,
+            "organization": "Aktiebolaget Alpha",
+            "location": {
+                "name": "Sundbyberg",
+                "latitude": 59.369325,
+                "longitude": 17.9609133,
+                "formatted_address": "Sundbyberg, Sweden"
+            }
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1967,
+            "end_year": 1971,
+            "organization": "Sieverts Kabelverk Aktiebolag",
+            "location": {
+                "name": "Sundbyberg",
+                "latitude": 59.369325,
+                "longitude": 17.9609133,
+                "formatted_address": "Sundbyberg, Sweden"
+            }
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1972,
+            "end_year": 1979,
+            "organization": "Kabeldon Aktiebolag",
+            "location": {
+                "name": "Alingsås",
+                "latitude": 57.9300205,
+                "longitude": 12.5362113,
+                "formatted_address": "Alingsås, Sweden"
+            }
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1979,
+            "end_year": 1982,
+            "organization": "Kab-matik Aktiebolag"
+        }
+    ],
+    "person": {
+        "first_name": "Stig",
+        "last_name": "Jacobsson",
+        "middle_name": "F",
+        "gender": "Male",
+        "birth_date": "07-06-1914",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Jacobsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Tecknare",
+                    "occupation_english": "Draftsman",
+                    "hisco_code_english": "3110.0",
+                    "hisco_description_english": "Draughtsman, General"
+                }
+            },
+            {
+                "first_name": "Stina",
+                "last_name": "Johansson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1940",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Vivi",
+            "last_name": "Grensman",
+            "gender": "Female",
+            "birth_date": "1916",
+            "parents": [
+                {
+                    "first_name": "Eric",
+                    "last_name": "Grensman",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Restaurangchef",
+                        "occupation_english": "Restaurant Manager",
+                        "hisco_code_swedish": "21430.0",
+                        "hisco_description_swedish": "Restaurant Manager",
+                        "hisco_code_english": "21340.0",
+                        "hisco_description_english": "Sales Manager (Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Astrid",
+                    "last_name": "Ljungberg",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1940"
+    },
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

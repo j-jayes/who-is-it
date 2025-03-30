@@ -1,0 +1,215 @@
+{
+    "career": [
+        {
+            "position": "Chef",
+            "start_year": 1912,
+            "end_year": 1915,
+            "organization": "Aktiebolaget Förenade Svenska Tobaksfabrikers distriktskontor och fabrik",
+            "location": {
+                "name": "Hudiksvall och Söderhamn",
+                "latitude": 61.7273909,
+                "longitude": 17.107401,
+                "formatted_address": "Hudiksvall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1915,
+            "organization": "Svenska Tobaksmonopolet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1915,
+            "organization": "före detta Ljunglöfska fabriken",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": "Svenska tobaksodlingen",
+            "location": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1941,
+            "organization": "Tobakskontoret",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Edvard",
+        "last_name": "Frisk",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "04-11-1886",
+        "birth_place": {
+            "name": "Hudiksvall",
+            "latitude": 61.7273909,
+            "longitude": 17.107401,
+            "formatted_address": "Hudiksvall, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Edvard",
+                "last_name": "Frisk",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fabrikör",
+                    "occupation_english": "Manufacturer"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Palmborg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1905",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hildur",
+            "last_name": "Björck",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1913",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Carl",
+                "last_name": "Magnus",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1914"
+            },
+            {
+                "first_name": "Ulla",
+                "last_name": "Frisk",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1917"
+            },
+            {
+                "first_name": "Lars",
+                "last_name": "Frisk",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1924"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Pro Patria Medaljen i Guld"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

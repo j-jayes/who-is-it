@@ -1,0 +1,280 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Viking",
+        "last_name": "Björk",
+        "middle_name": "Olov",
+        "gender": "Male",
+        "birth_date": "18-12-1903",
+        "birth_place": {
+            "name": "Sunnansjö, Kopparbergs Län",
+            "latitude": 60.2197089,
+            "longitude": 14.9665089,
+            "formatted_address": "770 12 Sunnansjö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Karl",
+                "last_name": "Björk",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Godsägare",
+                    "occupation_english": "Estate owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Erika",
+                "last_name": "Wikström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1949,
+            "end_year": 1960,
+            "field": "thoraxkirurgi"
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1960,
+            "end_year": 1962,
+            "field": "thoraxkirurgi"
+        },
+        {
+            "position": "Tillförordnad Professor",
+            "position_english": null,
+            "institution": "None",
+            "department": null,
+            "start_year": 1957,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1962,
+            "end_year": 1966,
+            "field": "thoraxkirurgi"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1966,
+            "end_year": null,
+            "field": "thoraxkirurgi"
+        }
+    ],
+    "achievements": [],
+    "awards": [],
+    "board_memberships": [],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Medicine Licentiat",
+            "degree_level": "Doctorate",
+            "year": "1944",
+            "institution": "None"
+        },
+        {
+            "degree": "Medicine Doktor",
+            "degree_level": "Doctorate",
+            "year": "1948",
+            "institution": "None"
+        },
+        {
+            "degree": "Filosofie Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingegerd",
+            "last_name": "Laurell",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Hugo",
+                    "last_name": "Laurell",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Professor",
+                        "occupation_english": "Professor",
+                        "hisco_code_swedish": "13100.0",
+                        "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                        "hisco_code_english": "13100.0",
+                        "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Sigrid",
+                    "last_name": "Olivecrona",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1947",
+        "divorce_year": null,
+        "children": []
+    },
+    "hobbies": [],
+    "honorary_titles": [],
+    "honors": [],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [],
+    "travels": [
+        {
+            "country": {
+                "name": "Buenos Aires",
+                "latitude": -34.6036844,
+                "longitude": -58.3815591,
+                "formatted_address": "Buenos Aires, Argentina"
+            },
+            "country_code": "ARG",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Polen",
+                "latitude": 51.919438,
+                "longitude": 19.145136,
+                "formatted_address": "Poland"
+            },
+            "country_code": "POL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Japan",
+                "latitude": 36.204824,
+                "longitude": 138.252924,
+                "formatted_address": "Japan"
+            },
+            "country_code": "JPN",
+            "year": null
+        }
+    ]
+}

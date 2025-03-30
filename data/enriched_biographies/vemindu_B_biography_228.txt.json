@@ -1,0 +1,176 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1911,
+            "end_year": 1919,
+            "organization": "Massivbau Gesellschaft, Berlin, Huta Hoch- u Tiefbau, Breslau, Mitteldeutsche Baugesellschaft",
+            "location": {
+                "name": "Magdeburg",
+                "latitude": 52.1131758,
+                "longitude": 11.6080863,
+                "formatted_address": "39 Magdeburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1920,
+            "end_year": 1922,
+            "organization": "AB Armerad Betong",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1937,
+            "end_year": 1938,
+            "organization": "byggnadsfirma Edv Andersson o Son",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Byggnadsverksamhet och Konsult Ingenjör",
+            "start_year": 1923,
+            "end_year": 1934,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Isac",
+        "last_name": "Bjurde",
+        "middle_name": "Albert Sigurd",
+        "gender": "Male",
+        "birth_date": "20-10-1887",
+        "birth_place": {
+            "name": "Mollösund, Göteborgs och Bohus Län",
+            "latitude": 58.0733793,
+            "longitude": 11.4734342,
+            "formatted_address": "474 70 Mollösund, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "Sven",
+                "last_name": "O Svensson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapt",
+                    "occupation_english": "Sea Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Isaksson",
+                "middle_name": "Ch",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Skövde",
+        "latitude": 58.3902782,
+        "longitude": 13.8461208,
+        "formatted_address": "Skövde, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Examen från TGG",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "TGG"
+        },
+        {
+            "degree": "Examen från Technicum Strelitz (väg o vatt)",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Technicum Strelitz"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Rut",
+            "last_name": "Hallonqvist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

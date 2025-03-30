@@ -1,0 +1,217 @@
+{
+    "career": [
+        {
+            "position": "Underkirurg",
+            "start_year": 1907,
+            "end_year": 1909,
+            "organization": "Kronprinsessan Lovisas vårdanstalt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1910,
+            "end_year": null,
+            "organization": "S:t Görans avdelning för kirurgisk tuberkulos",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Waldenström",
+        "middle_name": "Henning",
+        "gender": "Male",
+        "birth_date": "14-08-1877",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överläkare",
+            "occupation_english": "Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Waldenström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Professor",
+                    "occupation_english": "Professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Elisabet",
+                "last_name": "Gibson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1910,
+            "end_year": null,
+            "field": "Ortopedisk kirurgi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1901",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1906",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Laurin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gustaf",
+                    "last_name": "Laurin",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Boktryckare",
+                        "occupation_english": "Book printer",
+                        "hisco_code_swedish": "92110.0",
+                        "hisco_description_swedish": "Printer, General"
+                    }
+                },
+                {
+                    "first_name": "Agnes",
+                    "last_name": "Rohtlieb",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1905",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter huvudsakligen inom ben-systemets skador och sjukdomar, medarbetare i Nordisk lärobok i kirurgi",
+            "year": "None",
+            "type": "skrift",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "career": [
+        {
+            "position": "Anställd hos A. Johnson & Co.",
+            "start_year": 1914,
+            "end_year": 1918,
+            "organization": "A. Johnson & Co.",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1918,
+            "end_year": 1923,
+            "organization": "Aktiebolaget Nordsvenska Malmfält",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Vice",
+            "start_year": 1923,
+            "end_year": 1925,
+            "organization": "Grängesbergsbolaget",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Schwedenerz G. m. b. H.",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Arvid",
+        "last_name": "Högbom",
+        "middle_name": "Bertil",
+        "gender": "Male",
+        "birth_date": "31-08-1888",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Arvid",
+                "last_name": "Högbom",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Professor",
+                    "occupation_english": "Professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Henny",
+                "last_name": "Bexelius",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Berlin",
+        "latitude": 52.52000659999999,
+        "longitude": 13.404954,
+        "formatted_address": "Berlin, Germany"
+    },
+    "education": [
+        {
+            "degree": "Filosofie Doktor",
+            "degree_level": "Doctorate",
+            "year": "1914",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gulli",
+            "last_name": "Malmberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Jonas",
+                    "last_name": "Malmberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Elisabeth",
+                    "last_name": "Swärd",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1913",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Huvudsakligen i ekonomiska, geologiska och geografiska ämnen",
+            "year": "Okänt",
+            "type": "Skrift",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Spetsbergen",
+                "latitude": 78.90136,
+                "longitude": 13.4838879,
+                "formatted_address": "Spitsbergen, Svalbard and Jan Mayen"
+            },
+            "country_code": "SJM",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ural",
+                "latitude": 60.2784931,
+                "longitude": 59.1619065,
+                "formatted_address": "Ural Mountains, Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Siam",
+                "latitude": 15.870032,
+                "longitude": 100.992541,
+                "formatted_address": "Thailand"
+            },
+            "country_code": "THA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norra Lappland",
+                "latitude": 68.49027250000002,
+                "longitude": 26.8140625,
+                "formatted_address": "Pohjois-Lappi, Finland"
+            },
+            "country_code": "SWE",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "career": [
+        {
+            "position": "Illustratör",
+            "start_year": 1931,
+            "organization": "Dags- och veckopress",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Reklaminstitutet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1948,
+            "end_year": 1961,
+            "organization": "Södertälje stads skola för yrkesundervisning",
+            "location": {
+                "name": "Södertälje",
+                "latitude": 59.197762,
+                "longitude": 17.6201942,
+                "formatted_address": "Södertälje, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "E",
+        "last_name": "AHLBERG-LINDKVIST",
+        "middle_name": "BIRGITTA",
+        "gender": "Female",
+        "birth_date": "06-04-1908",
+        "birth_place": {
+            "name": "Lund",
+            "latitude": 55.7046601,
+            "longitude": 13.1910073,
+            "formatted_address": "Lund, Sweden"
+        },
+        "occupation": {
+            "occupation": "Konstnärinna",
+            "occupation_english": "Artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Ahlberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Professor",
+                    "occupation_english": "Professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Malm",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Fhsk",
+            "degree_level": "Schooling",
+            "year": "1925",
+            "institution": "Norrköping"
+        },
+        {
+            "degree": "HKS",
+            "degree_level": "Schooling",
+            "year": "1931",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingmar",
+            "last_name": "Lindkvist",
+            "gender": "Male",
+            "occupation": {
+                "occupation": "Teckningslärare",
+                "occupation_english": "Drawing Teacher",
+                "hisco_code_swedish": "13250.0",
+                "hisco_description_swedish": "Fine Arts Teacher (Second Level)"
+            }
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CZE",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1952"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1959"
+        },
+        {
+            "country": {
+                "name": "Grekland",
+                "latitude": 39.074208,
+                "longitude": 21.824312,
+                "formatted_address": "Greece"
+            },
+            "country_code": "GRC",
+            "year": "1960"
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1961"
+        }
+    ]
+}

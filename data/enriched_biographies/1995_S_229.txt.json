@@ -1,0 +1,218 @@
+{
+    "career": [
+        {
+            "position": "museiassistent",
+            "start_year": 1945,
+            "end_year": 1951,
+            "organization": "Riksmuseum",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "professor och föreståndare",
+            "start_year": 1951,
+            "end_year": 1965,
+            "organization": "Riksmuseum",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "professor i paleobotanik och chef",
+            "start_year": 1965,
+            "end_year": 1966,
+            "organization": "Riksmuseum paleobotaniska sektionen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "egen verksamhet",
+            "start_year": 1966,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Olof",
+        "last_name": "Selling",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "17-11-1902",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hugo",
+                "last_name": "Selling",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ämneslärare",
+                    "occupation_english": "Subject teacher",
+                    "hisco_code_swedish": "13200.0",
+                    "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13990.0",
+                    "hisco_description_english": "Other Teachers"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Bergh",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Stockholms Högskola",
+            "department": null,
+            "start_year": 1949,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Stockholms Högskola",
+            "department": null,
+            "start_year": 1948,
+            "end_year": 1951,
+            "field": "botanik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Danderyd",
+        "latitude": 59.4059401,
+        "longitude": 18.0256382,
+        "formatted_address": "Danderyd, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Nina",
+            "last_name": "Nisser",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Ernst",
+                    "last_name": "Nisser",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "godsägare",
+                        "occupation_english": "landowner",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Margret",
+                    "last_name": "Friberger",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1955",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i biografi och kulturhistoria",
+            "year": "None",
+            "type": "None",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Reseskildringar",
+            "year": "None",
+            "type": "None",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Botanik",
+            "year": "None",
+            "type": "None",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Hawaiiöarna",
+                "latitude": 23.6523707476218,
+                "longitude": -166.5471460142073,
+                "formatted_address": "Hawaiian Islands"
+            },
+            "country_code": "None",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Australien",
+                "latitude": -25.274398,
+                "longitude": 133.775136,
+                "formatted_address": "Australia"
+            },
+            "country_code": "AUS",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Stilla havet",
+                "latitude": -8.783195,
+                "longitude": -124.508523,
+                "formatted_address": "Pacific Ocean"
+            },
+            "country_code": "None",
+            "year": "1948-1949"
+        }
+    ]
+}

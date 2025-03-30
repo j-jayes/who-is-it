@@ -1,0 +1,214 @@
+{
+    "career": [
+        {
+            "position": "ingenjör",
+            "start_year": 1902,
+            "organization": "Stockholms stads byggnadskontor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "vid järnvägsbyggnad",
+            "start_year": 1902,
+            "organization": "Ofsa-Sveg",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "distriktschef",
+            "start_year": 1902,
+            "end_year": 1905,
+            "organization": null,
+            "location": {
+                "name": "mellersta och övre norra väg- och vattenbyggnadsdistriktet",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "konstruktör",
+            "start_year": 1905,
+            "end_year": 1908,
+            "organization": "Stockholms gas- och elektricitetsverks nybyggnader",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "arbetschef",
+            "start_year": 1908,
+            "end_year": 1909,
+            "organization": "Stockholms gas- och elektricitetsverk",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "fyringsingenjör",
+            "start_year": 1909,
+            "end_year": 1921,
+            "organization": "lotsstyrelsen",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "överingenjör",
+            "start_year": 1921,
+            "organization": "lotsstyrelsen",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Folke",
+        "last_name": "Lundeberg",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "24-11-1878",
+        "birth_place": {
+            "name": "Forsbacka bruk, Gävleborgs Län",
+            "latitude": 60.61213059999999,
+            "longitude": 16.9040528,
+            "formatted_address": "Forsbacka Bruk, Stentorpsvägen 9, 818 41 Forsbacka, Sweden"
+        },
+        "occupation": {
+            "occupation": "överfyr-ingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Christian",
+                "last_name": "Lundeberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "statsminister, bruksägare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Elfbrink",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1900",
+            "institution": "Tekniska Högskolan"
+        },
+        {
+            "degree": "aspirantkurs",
+            "degree_level": "Schooling",
+            "year": "1901",
+            "institution": "fortifikationen"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

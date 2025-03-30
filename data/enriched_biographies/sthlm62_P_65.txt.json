@@ -1,0 +1,164 @@
+{
+    "career": [
+        {
+            "position": "disponent",
+            "start_year": 1900,
+            "organization": "Sthlm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1917,
+            "organization": "Nord regnkläder fabrik aktiebolag",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1918,
+            "end_year": 1919,
+            "organization": "Aktiebolag Konfektionsdetaljer",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1919,
+            "organization": "Stockholms bageri aktiebolag",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Harry",
+        "last_name": "Pelenius",
+        "middle_name": "R",
+        "gender": "Male",
+        "birth_date": "07-09-1900",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "disponent",
+            "occupation_english": "manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "N",
+                "last_name": "Pettersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "tapetserare",
+                    "occupation_english": "upholsterer",
+                    "hisco_code_swedish": "79620.0",
+                    "hisco_description_swedish": "Furniture Upholsterer",
+                    "hisco_code_english": "79620.0",
+                    "hisco_description_english": "Furniture Upholsterer"
+                }
+            },
+            {
+                "first_name": "Sofia",
+                "last_name": "Granander",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Realexamen",
+            "degree_level": "Schooling",
+            "year": "1917",
+            "institution": "Realex"
+        },
+        {
+            "degree": "Handelsinstitutet",
+            "degree_level": "Schooling",
+            "year": "1918-1919",
+            "institution": "Schartaus Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Dagmar",
+            "last_name": "Fröberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "C",
+                    "last_name": "F",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kapten",
+                        "occupation_english": "captain",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "4215.0",
+                        "hisco_description_english": "Ship's Master (Sea)"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1926",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Arne",
+                "last_name": "Pelenius",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1927"
+            },
+            {
+                "first_name": "Ulf",
+                "last_name": "Pelenius",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1933"
+            }
+        ]
+    },
+    "hobbies": [
+        "bowling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

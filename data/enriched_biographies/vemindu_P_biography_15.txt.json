@@ -1,0 +1,153 @@
+{
+    "career": [
+        {
+            "position": "Assist",
+            "start_year": 1939,
+            "organization": "Jernkontoret",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Hytt- och martiningenjör",
+            "start_year": 1939,
+            "end_year": 1942,
+            "organization": "Boxholms AB",
+            "location": {
+                "name": "Boxholm",
+                "latitude": 58.19709870000001,
+                "longitude": 15.0537794,
+                "formatted_address": "Boxholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Försäljningsingenjör",
+            "start_year": 1942,
+            "organization": "Hellefors Bruks AB",
+            "location": {
+                "name": "Hällefors",
+                "latitude": 59.783688,
+                "longitude": 14.5225692,
+                "formatted_address": "Hällefors, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Paues",
+        "middle_name": "Wilhelm",
+        "gender": "Male",
+        "birth_date": "06-12-1913",
+        "birth_place": {
+            "name": "Oslo, Norge",
+            "latitude": 59.9138688,
+            "longitude": 10.7522454,
+            "formatted_address": "Oslo, Norway"
+        },
+        "occupation": {
+            "occupation": "Bergsingenjör",
+            "occupation_english": "Mining Engineer",
+            "hisco_code_swedish": "2710.0",
+            "hisco_description_swedish": "Mining Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Joh",
+                "last_name": "Th",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "envoyé",
+                    "occupation_english": "Envoy",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Kari",
+                "last_name": "Falster",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hällefors",
+        "latitude": 59.783688,
+        "longitude": 14.5225692,
+        "formatted_address": "Hällefors, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen öReal",
+            "degree_level": "Schooling",
+            "year": "1933",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Avgångsexamen Kungliga Tekniska Högskolan (bergsvetenskap)",
+            "degree_level": "Master's",
+            "year": "1939",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Falkman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Instrumenten driftskontroll vid en svensk sur martinugn",
+            "year": "1939",
+            "type": "article",
+            "editions": null,
+            "publisher": "Jernkontorets Annaler",
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        }
+    ]
+}

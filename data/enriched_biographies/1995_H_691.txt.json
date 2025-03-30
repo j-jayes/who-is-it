@@ -1,0 +1,190 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Jan",
+        "last_name": "Hult",
+        "middle_name": "A",
+        "gender": "Male",
+        "birth_date": "27-12-1909",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Phillips",
+                "last_name": "Hult",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Professor",
+                    "occupation_english": "Professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Ester",
+                "last_name": "Wretman",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Teknologie Licentiat",
+            "position_english": "Licentiate of Engineering",
+            "institution": "KTH",
+            "start_year": 1953
+        },
+        {
+            "position": "Doktor of Science",
+            "institution": "MIT",
+            "department": "Boston USA",
+            "start_year": 1957
+        },
+        {
+            "position": "Teknologie Doktor",
+            "position_english": "Doctor of Technology",
+            "institution": "KTH",
+            "start_year": 1958
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "KTH",
+            "department": "hållfasthetslära",
+            "start_year": 1958
+        },
+        {
+            "position": "Laborator",
+            "position_english": "Lecturer",
+            "institution": "CTH",
+            "department": "hållfasthetslära",
+            "start_year": 1961
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "CTH",
+            "department": "hållfasthetslära",
+            "start_year": 1962,
+            "end_year": 1993
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Kungliga Vetenskaps- och Vitterhetssamhället i Göteborg",
+            "role": "Sekreterare",
+            "start_year": 1985,
+            "end_year": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lerum",
+        "latitude": 57.7694839,
+        "longitude": 12.2688197,
+        "formatted_address": "Lerum, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1950",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunnel",
+            "last_name": "Domar",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Walfrid",
+                    "last_name": "D",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Seminariumlärare",
+                        "occupation_english": "Seminary teacher",
+                        "hisco_code_swedish": "13200.0",
+                        "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+                        "hisco_code_english": "13990.0",
+                        "hisco_description_english": "Other Teachers"
+                    }
+                },
+                {
+                    "first_name": "Lilly",
+                    "last_name": "Andersson",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1951"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Laster o brott",
+            "year": "1969",
+            "type": "book"
+        },
+        {
+            "title": "Cartesiska tensorer",
+            "year": "1972",
+            "type": "book"
+        },
+        {
+            "title": "Bära brista",
+            "year": "1975",
+            "type": "book"
+        },
+        {
+            "title": "Bära brista",
+            "year": "1977",
+            "type": "book"
+        },
+        {
+            "title": "Svensk teknikhistoria",
+            "year": "1989",
+            "type": "book"
+        },
+        {
+            "title": "Spänning och brott",
+            "year": "1990",
+            "type": "book"
+        },
+        {
+            "title": "Styvhet och styrka",
+            "year": "1993",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

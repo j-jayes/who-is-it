@@ -1,0 +1,191 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1927,
+            "organization": "Price & Pierce",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1928,
+            "end_year": 1929,
+            "organization": "SKF-CAM",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "chef",
+            "start_year": 1930,
+            "end_year": 1932,
+            "organization": "Svenska Telegrambyrån aktiebolag",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1933,
+            "organization": "aktiebolag Nordiska Resebureau",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "vice verkställande direktör",
+            "start_year": 1944,
+            "organization": "Svenska Amerika Linien",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Wijk",
+        "middle_name": "Bertilsson",
+        "gender": "Male",
+        "birth_date": "29-06-1906",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "direktör",
+            "occupation_english": "director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Bertil",
+                "last_name": "Wijk",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "jur. dr",
+                    "occupation_english": "Doctor of Law",
+                    "hisco_code_swedish": "12000.0",
+                    "hisco_description_swedish": "Jurist, Specialization Unknown"
+                }
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Carlson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "rederiaktiebolag Svenska Lloyd"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "ångfartygsaktiebolag Tirfing"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "försäkringsaktiebolag Atlantica"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "Europeiska"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "aktiebolag Kristinedals Fabriker"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1925",
+            "institution": "Lundsberg"
+        },
+        {
+            "degree": "Göteborgs Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1927",
+            "institution": "Göteborgs Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Broström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Dan",
+                    "last_name": "Broström",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "skeppsredare",
+                        "occupation_english": "shipowner",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "41040.0",
+                        "hisco_description_english": "Working Proprietor (Hiring Out)"
+                    }
+                },
+                {
+                    "first_name": "Ann",
+                    "last_name": "Mark",
+                    "middle_name": "Ida",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1930",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

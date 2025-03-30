@@ -1,0 +1,175 @@
+{
+    "career": [
+        {
+            "position": "folkskollärarexamen",
+            "start_year": 1869,
+            "organization": "Göteborg",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lärare",
+            "start_year": 1869,
+            "organization": "Stockholms folkskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "assistent",
+            "start_year": 1905,
+            "end_year": 1916,
+            "organization": "naturhistoriska riksmuseets mineralogiska avdelning",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Flink",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "18-01-1849",
+        "birth_place": {
+            "name": "Ås, Skaraborgs Län",
+            "latitude": null,
+            "longitude": null,
+            "formatted_address": null
+        },
+        "occupation": {
+            "occupation": "föredetta assistent",
+            "occupation_english": "Former Assistant"
+        }
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "deltog i A. E. Nordenskiölds Grönlandsexpedition till Island",
+            "field": "mineralogi och botanik",
+            "year": "1883",
+            "significance": "Insamling av mineraler och växtförsten",
+            "recognized_by": null
+        },
+        {
+            "title": "Forskningsresa till Island",
+            "field": "Mineralogi",
+            "year": "1893",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Mineralogisk undersökning i Sydgrönland",
+            "field": "Mineralogi",
+            "year": "1897",
+            "significance": null,
+            "recognized_by": "Danmark"
+        },
+        {
+            "title": "Tillvaratog Långbans enastående tillgångar på nya mineral",
+            "field": "Mineralogi",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "00",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "filosofie hedersdoktor",
+            "institution": "Uppsala Universitet",
+            "year": "00"
+        }
+    ],
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Talrika vetenskapliga tidskriftsuppsatser",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Island",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ISL",
+            "year": "1883"
+        },
+        {
+            "country": {
+                "name": "Island",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ISL",
+            "year": "1893"
+        },
+        {
+            "country": {
+                "name": "Grönland",
+                "latitude": 71.706936,
+                "longitude": -42.604303,
+                "formatted_address": "Greenland"
+            },
+            "country_code": "GRL",
+            "year": "1897"
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        }
+    ]
+}

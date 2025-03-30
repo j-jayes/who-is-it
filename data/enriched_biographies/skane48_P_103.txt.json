@@ -1,0 +1,206 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Bertil",
+        "last_name": "Pfannenstill",
+        "middle_name": "Algot",
+        "gender": "Male",
+        "birth_date": "22-02-1909",
+        "birth_place": {
+            "name": "Toarp, Älvsborgs Län",
+            "latitude": 58.15991589999999,
+            "longitude": 12.1360549,
+            "formatted_address": "Västra Götaland County, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Kurt",
+                "last_name": "Pfannenstill",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "agronom",
+                    "occupation_english": "agronomist",
+                    "hisco_code_swedish": "5320.0",
+                    "hisco_description_swedish": "Agronomist"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Johansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "universitetet i Lund",
+            "department": "praktisk filosofi",
+            "start_year": 1936,
+            "end_year": null,
+            "field": "filosofi"
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "universitetet i Lund",
+            "department": "sociologi",
+            "start_year": 1947,
+            "end_year": null,
+            "field": "sociologi"
+        },
+        {
+            "position": "biträdande lärare",
+            "position_english": "assistant teacher",
+            "institution": "universitetet i Lund",
+            "department": "sociologi",
+            "start_year": 1947,
+            "end_year": null,
+            "field": "sociologi"
+        },
+        {
+            "position": "Tf. professor",
+            "position_english": "Acting professor",
+            "institution": "universitetet i Lund",
+            "department": null,
+            "start_year": 1939,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Tf. professor",
+            "position_english": "Acting professor",
+            "institution": "universitetet i Lund",
+            "department": null,
+            "start_year": 1945,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Filosofiska föreningen",
+            "role": "Ordförande",
+            "start_year": 1938,
+            "end_year": 1941,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1930",
+            "institution": "Lunds universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1934",
+            "institution": "Lunds universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1936",
+            "institution": "Lunds universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "May",
+            "last_name": "Carlsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1941",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Lars-B",
+                "last_name": "ertil",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1944"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Bernard Bosanquet’s phil. of the state",
+            "year": "1936",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Sociologiens grundförutsättningar",
+            "year": "1943",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1947"
+        }
+    ]
+}

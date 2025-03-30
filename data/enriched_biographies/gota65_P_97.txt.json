@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1946,
+            "end_year": 1946,
+            "organization": "Addis Abeba Etiopien",
+            "location": {
+                "name": "Addis Abeba",
+                "latitude": 9.0191936,
+                "longitude": 38.7524635,
+                "formatted_address": "Addis Ababa, Ethiopia"
+            },
+            "country_code": "ETH"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1948,
+            "end_year": 1948,
+            "organization": "Munkfors",
+            "location": {
+                "name": "Munkfors",
+                "latitude": 59.83525160000001,
+                "longitude": 13.5460796,
+                "formatted_address": "Munkfors, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1948,
+            "end_year": 1949,
+            "organization": "Sollefteå",
+            "location": {
+                "name": "Sollefteå",
+                "latitude": 63.1654065,
+                "longitude": 17.277135,
+                "formatted_address": "Sollefteå, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1949,
+            "end_year": 1953,
+            "organization": "Nora",
+            "location": {
+                "name": "Nora",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1953,
+            "end_year": 1955,
+            "organization": "Ystad",
+            "location": {
+                "name": "Ystad",
+                "latitude": 55.4295051,
+                "longitude": 13.8200308,
+                "formatted_address": "Ystad, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Adjunkt i modersmål och engelska",
+            "start_year": 1955,
+            "organization": "Samrealskolan Söderköping",
+            "location": {
+                "name": "Söderköping",
+                "latitude": 58.4759013,
+                "longitude": 16.3234307,
+                "formatted_address": "Söderköping, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "P",
+        "last_name": "Persson",
+        "middle_name": "Torsten",
+        "gender": "Male",
+        "birth_date": "31-01-1918",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Läroverksadjunkt",
+            "occupation_english": "Upper secondary school teacher",
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+            "hisco_code_english": "13020.0",
+            "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+        },
+        "parents": [
+            {
+                "first_name": "Alfred",
+                "last_name": "Persson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Ingenjör",
+                    "occupation_english": "Engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Helga",
+                "last_name": "Svensson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Tryckfrihetsombud",
+            "role": "Tryckfrihetsombud",
+            "start_year": 1958
+        },
+        {
+            "committee_name": "Skolstyrelse",
+            "role": "Lärarrepresentant",
+            "start_year": 1956
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Söderköping",
+        "latitude": 58.4759013,
+        "longitude": 16.3234307,
+        "formatted_address": "Söderköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1937",
+            "institution": "Västerås"
+        },
+        {
+            "degree": "Filosofie magisterexamen",
+            "degree_level": "Master's",
+            "year": "1945",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ruth",
+            "last_name": "Wachsmuth",
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "Kurt",
+                    "last_name": "Wachsmuth",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Polismästare",
+                        "occupation_english": "Chief of Police",
+                        "hisco_code_swedish": "58220.0",
+                        "hisco_description_swedish": "Policeman and other Maintainers of Law and Order (except Military)"
+                    }
+                },
+                {
+                    "first_name": "Grete",
+                    "last_name": "Bornholdt",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1951",
+        "children": [
+            {
+                "first_name": "Helge",
+                "last_name": "Persson",
+                "gender": "Male",
+                "birth_year": "1952"
+            },
+            {
+                "first_name": "Egil",
+                "last_name": "Persson",
+                "gender": "Male",
+                "birth_year": "1956"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

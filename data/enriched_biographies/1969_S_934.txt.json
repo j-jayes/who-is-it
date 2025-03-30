@@ -1,0 +1,129 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "organization": "Svenska generalkonsulatet Hamburg",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": 1929,
+            "organization": "Hambros Bank Ltd",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1929,
+            "end_year": 1936,
+            "organization": "Arbitrageavdelningen Stockholms Enskilda Bank",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktörsassistent",
+            "start_year": 1937,
+            "end_year": 1942,
+            "organization": "Stockholms Enskilda Bank",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1943,
+            "end_year": 1963,
+            "organization": "Stockholms Enskilda Bank",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Emanuel",
+        "last_name": "S",
+        "gender": "Male",
+        "birth_date": "30-08-1898",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "parents": [
+            {
+                "first_name": "Emanuel",
+                "last_name": "S",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Kristina Pettersson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Diplom Handelsskola",
+            "degree_level": "Schooling",
+            "year": "1919",
+            "institution": "Handelshögskolan Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Siv",
+            "last_name": "Holm",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Gunnar",
+                    "last_name": "H",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Fabrikör"
+                    }
+                },
+                {
+                    "first_name": "Hilda",
+                    "last_name": "Johansson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1936"
+    }
+}

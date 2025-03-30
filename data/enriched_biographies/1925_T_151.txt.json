@@ -1,0 +1,178 @@
+{
+    "career": [
+        {
+            "position": "vice Cöln-Miisener Bergwerk",
+            "start_year": 1906,
+            "end_year": 1907,
+            "organization": "Cöln-Miisener Bergwerk",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Nya Förenade Elektriska Aktiebolag",
+            "start_year": 1908,
+            "end_year": null,
+            "organization": "Nya Förenade Elektriska Aktiebolag, Ludvika",
+            "location": {
+                "name": "Ludvika",
+                "latitude": 60.152358,
+                "longitude": 15.191639,
+                "formatted_address": "Ludvika, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överingenjör",
+            "start_year": 1910,
+            "end_year": null,
+            "organization": "Surahammars Bruks Aktiebolag",
+            "location": {
+                "name": "Surahammars",
+                "latitude": 59.70722619999999,
+                "longitude": 16.2268409,
+                "formatted_address": "Surahammar, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Törneman",
+        "middle_name": "Otto Yngve",
+        "gender": "Male",
+        "birth_date": "09-01-1887",
+        "birth_place": {
+            "name": "Persberg, Värmlands Län",
+            "latitude": 59.7506782,
+            "longitude": 14.2497274,
+            "formatted_address": "682 40 Persberg, Sweden"
+        },
+        "occupation": {
+            "occupation": "överingenjör",
+            "occupation_english": "Senior Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "I",
+                "last_name": "Törneman",
+                "middle_name": "A G",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "civilingenjör",
+                    "occupation_english": "civil engineer",
+                    "hisco_code_swedish": "2210.0",
+                    "hisco_description_swedish": "Civil Engineer, General"
+                }
+            },
+            {
+                "first_name": "Marie",
+                "last_name": "Ahlström",
+                "middle_name": "Louise",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Surahammar",
+        "latitude": 59.70722619999999,
+        "longitude": 16.2268409,
+        "formatted_address": "Surahammar, Sweden"
+    },
+    "education": [
+        {
+            "degree": "bergssk.",
+            "degree_level": "Schooling",
+            "year": "1906",
+            "institution": "bergsskolan i Filipstad"
+        },
+        {
+            "degree": "bergshögsk.",
+            "degree_level": "Schooling",
+            "year": "1909",
+            "institution": "bergshögskolan i Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Signe",
+            "last_name": "Rooth",
+            "middle_name": "Vendela",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "T",
+                    "last_name": "Rooth",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "överingenjör",
+                        "occupation_english": "Senior Engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Signe",
+                    "last_name": "Morén",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1914",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1920"
+        }
+    ]
+}

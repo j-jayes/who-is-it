@@ -1,0 +1,182 @@
+{
+    "career": [
+        {
+            "position": "Extra ordinarie lärare",
+            "start_year": 1914,
+            "end_year": 1922,
+            "organization": "Hälsingborg",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie lärare",
+            "start_year": 1922,
+            "end_year": 1926,
+            "organization": "Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt",
+            "start_year": 1926,
+            "end_year": 1937,
+            "organization": "Uddevalla",
+            "location": {
+                "name": "Uddevalla",
+                "latitude": 58.3498003,
+                "longitude": 11.935649,
+                "formatted_address": "Uddevalla, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt i tyska och engelska",
+            "start_year": 1937,
+            "organization": "Hvitfeldtska högre allmänna läroverket",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustav",
+        "last_name": "Ekeroth",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "16-05-1885",
+        "birth_place": {
+            "name": "Fjärås, Hallands Län",
+            "latitude": 57.4541279,
+            "longitude": 12.1847347,
+            "formatted_address": "439 72 Fjärås, Sweden"
+        },
+        "occupation": {
+            "occupation": "Läroverksadjunkt",
+            "occupation_english": null,
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Ekeroth",
+                "middle_name": "Gust.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kyrkoherde",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Svea",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Riddare av Vasaorden 1946"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1904",
+            "institution": "Skara"
+        },
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1912",
+            "institution": "None"
+        },
+        {
+            "degree": "Provår",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Göteborgs högre latinläroverk"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Wåhlin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1915",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Siv",
+                "last_name": "Ekeroth",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1917"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

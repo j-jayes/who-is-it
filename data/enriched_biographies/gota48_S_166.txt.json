@@ -1,0 +1,188 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1903,
+            "end_year": 1921,
+            "organization": "Hjelms Bil Aktiebolag",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkmästare",
+            "start_year": 1921,
+            "end_year": 1927,
+            "organization": "Salén & Co.",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Aktiebolaget Elit",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Svenska Handelsbanken Boråskontor",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Byggnadsföreningen Veritas utan personligt ansvar",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Oscar",
+        "last_name": "Segelmark",
+        "middle_name": "Josef",
+        "gender": "Male",
+        "birth_date": "08-05-1890",
+        "birth_place": {
+            "name": "Borås",
+            "latitude": 57.72103500000001,
+            "longitude": 12.939819,
+            "formatted_address": "Borås, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "Medlem",
+            "organization": "Tempelriddarorden"
+        },
+        {
+            "role": "Medlem",
+            "organization": "Odd Fellow"
+        },
+        {
+            "role": "Medlem",
+            "organization": "Internationella orden av Godtemplare"
+        }
+    ],
+    "current_location": {
+        "name": "Borås",
+        "latitude": 57.72103500000001,
+        "longitude": 12.939819,
+        "formatted_address": "Borås, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Frida",
+            "last_name": "Thomasson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1917",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Eva",
+                "last_name": "Segelmark",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1918"
+            },
+            {
+                "first_name": "Rolf",
+                "last_name": "Segelmark",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1923"
+            },
+            {
+                "first_name": "Stig",
+                "last_name": "Segelmark",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1928"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1947"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1947"
+        }
+    ]
+}

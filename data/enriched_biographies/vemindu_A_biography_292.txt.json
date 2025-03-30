@@ -1,0 +1,169 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1932,
+            "end_year": 1934,
+            "organization": "Jacob Versteegh Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1934,
+            "end_year": 1937,
+            "organization": "Statens Arbetslöshetskommission",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Carl Lamm Adressmaskiner AB",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Liss",
+        "last_name": "AXDOBPH",
+        "middle_name": "Bune Waldemar",
+        "gender": "Male",
+        "birth_date": "13-08-1909",
+        "birth_place": {
+            "name": "Ludvika",
+            "latitude": 60.152358,
+            "longitude": 15.191639,
+            "formatted_address": "Ludvika, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kapten",
+            "occupation_english": "Captain",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "4215.0",
+            "hisco_description_english": "Ship's Master (Sea)"
+        },
+        "parents": [
+            {
+                "first_name": "W",
+                "last_name": "A",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ebba",
+                "last_name": "Lundén",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Bergslag Tegel- och Kalkbr AB Ludvika"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1928",
+            "institution": "Djursholms samskola"
+        },
+        {
+            "degree": "Diplom",
+            "degree_level": "Bachelor's",
+            "year": "1932",
+            "institution": "DHS"
+        },
+        {
+            "degree": "Reservofficersexamen",
+            "degree_level": "Bachelor's",
+            "year": "1930",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Bolin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1925,
+            "end_year": 1925,
+            "organization": "Åkerby skyddshem",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lärare",
+            "start_year": 1927,
+            "end_year": 1939,
+            "organization": "Skövde folk- och yrkesskola",
+            "location": {
+                "name": "Skövde",
+                "latitude": 58.3902782,
+                "longitude": 13.8461208,
+                "formatted_address": "Skövde, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överlärare",
+            "start_year": 1939,
+            "end_year": 1944,
+            "organization": "Vänersborg",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överlärare",
+            "start_year": 1944,
+            "end_year": 1949,
+            "organization": "Uddevalla",
+            "location": {
+                "name": "Uddevalla",
+                "latitude": 58.3498003,
+                "longitude": 11.935649,
+                "formatted_address": "Uddevalla, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Statens folkskolinspektör",
+            "start_year": 1949,
+            "end_year": 1958,
+            "organization": "Göteborgs och Bohus läns inspektionsområde",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "skolinspektör",
+            "start_year": 1958,
+            "end_year": 1960,
+            "organization": "Göteborgs och Bohus Län",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "länsskolinspektör",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": "Hallands Län",
+            "location": {
+                "name": "Halmstad",
+                "latitude": 56.6743748,
+                "longitude": 12.8577884,
+                "formatted_address": "Halmstad, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl-Erik",
+        "last_name": "Bergström",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "15-02-1902",
+        "birth_place": {
+            "name": "Örebro",
+            "latitude": 59.2752626,
+            "longitude": 15.2134105,
+            "formatted_address": "Örebro, Sweden"
+        },
+        "occupation": {
+            "occupation": "länsskolinspektör",
+            "occupation_english": null,
+            "hisco_code_swedish": "31090.0",
+            "hisco_description_swedish": "Government Executive Officials Not Elsewhere Classified"
+        },
+        "parents": [
+            {
+                "first_name": "Carl-Johan",
+                "last_name": "Bergström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "postexpeditör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "33170.0",
+                    "hisco_description_swedish": "Post Office Counter Clerk"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Palmqvist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Riddare av Nordstjärneorden"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Halmstad",
+        "latitude": 56.6743748,
+        "longitude": 12.8577884,
+        "formatted_address": "Halmstad, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1921",
+            "institution": "HTL Örebro"
+        },
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1924",
+            "institution": "okänd"
+        },
+        {
+            "degree": "folkskollärarexamen",
+            "degree_level": "Bachelor's",
+            "year": "1925",
+            "institution": "Strängnäs"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Jenny",
+            "last_name": "Högsten",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Henning",
+                    "last_name": "Högsten",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": null
+                },
+                {
+                    "first_name": "Marianne",
+                    "last_name": "Andersson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1927",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Per-Erik",
+                "last_name": "Bergström",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1927"
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Bergström",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1930"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "artiklar i fackpress",
+            "year": "okänt",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

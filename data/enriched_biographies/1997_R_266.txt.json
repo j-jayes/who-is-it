@@ -1,0 +1,234 @@
+{
+    "career": [
+        {
+            "position": "Tjänstgörande läkare",
+            "start_year": 1957,
+            "end_year": 1961,
+            "organization": "Lasarettet Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tjänstgörande läkare",
+            "start_year": 1961,
+            "end_year": 1970,
+            "organization": "Lasarettet Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1970,
+            "end_year": 1973,
+            "organization": "Lidköping",
+            "location": {
+                "name": "Lidköping",
+                "latitude": 58.5035047,
+                "longitude": 13.1570768,
+                "formatted_address": "Lidköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chefs läkare öronkliniken",
+            "start_year": 1973,
+            "end_year": 1994,
+            "organization": "Kärnsjukhuset Skövde",
+            "location": {
+                "name": "Skövde",
+                "latitude": 58.3902782,
+                "longitude": 13.8461208,
+                "formatted_address": "Skövde, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Rundcrantz",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "29-12-1904",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent",
+            "occupation_english": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Rundcrantz",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Civilingenjör",
+                    "occupation_english": "Civil Engineer",
+                    "hisco_code_swedish": "2210.0",
+                    "hisco_description_swedish": "Civil Engineer, General"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Johansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Lunds Universitet",
+            "department": "Öron-, näs- o halssjukdomar",
+            "start_year": 1969,
+            "end_year": null,
+            "field": "Oto-rhino-laryngologi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Sveriges läkarförbund",
+            "role": "Ledamot centralstyrelsen",
+            "start_year": 1976,
+            "end_year": 1984,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Sveriges läkarförbund",
+            "role": "Förbundsordförande",
+            "start_year": 1980,
+            "end_year": 1984,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Axvall",
+        "latitude": 58.3889151,
+        "longitude": 13.57335,
+        "formatted_address": "532 72 Axvall, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1953",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1957",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1969",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Britte",
+            "last_name": "Carleson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Legitimerad sjuksköterska",
+                "occupation_english": "Licensed Nurse",
+                "hisco_code_swedish": "7110.0",
+                "hisco_description_swedish": "Professional Nurse, General",
+                "hisco_code_english": "7110.0",
+                "hisco_description_english": "Professional Nurse, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Edvin",
+                    "last_name": "Carleson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Hovraktuarie",
+                        "occupation_english": "Court Registrar",
+                        "hisco_code_swedish": "8250.0",
+                        "hisco_description_swedish": "Actuary"
+                    }
+                },
+                {
+                    "first_name": "Dagmar",
+                    "last_name": "Lindblom",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "Gymnastikdirektör",
+                        "occupation_english": "Director of Gymnastics",
+                        "hisco_code_swedish": "13290.0",
+                        "hisco_description_swedish": "Other Secondary Education Teachers"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1953",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i oto-rhino-laryngologi",
+            "year": "None",
+            "type": "Vetenskapliga artiklar",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Läroböcker i öron-, näs- o halssjukdomar",
+            "year": "None",
+            "type": "Läroböcker",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

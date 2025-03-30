@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "Tandläkarkandidat",
+            "start_year": 1905,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tandläkare",
+            "start_year": 1908,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tjänstgöring",
+            "start_year": 1907,
+            "end_year": 1907,
+            "organization": "Garnisonssjukhuset i Stockholm tandpoliklinik",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Praktik",
+            "start_year": 1908,
+            "end_year": 1916,
+            "organization": null,
+            "location": {
+                "name": "Ystad",
+                "latitude": 55.4295051,
+                "longitude": 13.8200308,
+                "formatted_address": "Ystad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Praktik",
+            "start_year": 1916,
+            "organization": null,
+            "location": {
+                "name": "Norrköping",
+                "latitude": 58.587745,
+                "longitude": 16.192421,
+                "formatted_address": "Norrköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tandläkare",
+            "start_year": 1917,
+            "end_year": 1919,
+            "organization": "Folkskolans tandpoliklinik",
+            "location": {
+                "name": "Norrköping",
+                "latitude": 58.587745,
+                "longitude": 16.192421,
+                "formatted_address": "Norrköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tandläkare",
+            "start_year": 1921,
+            "end_year": 1922,
+            "organization": "Militärskolan",
+            "location": {
+                "name": "Norrköping",
+                "latitude": 58.587745,
+                "longitude": 16.192421,
+                "formatted_address": "Norrköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tandläkare",
+            "start_year": 1922,
+            "organization": "Bergs kommuns folkskola",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Leopold",
+        "last_name": "Abrahamson",
+        "middle_name": "Adolf",
+        "gender": "Male",
+        "birth_date": "17-03-1886",
+        "birth_place": {
+            "name": "Linköping",
+            "latitude": 58.41080700000001,
+            "longitude": 15.6213727,
+            "formatted_address": "Linköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Tandläkare",
+            "occupation_english": "Dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Leon",
+                "last_name": "Abrahamson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Rosa",
+                "last_name": "Levin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Norrköping",
+        "latitude": 58.587745,
+        "longitude": 16.192421,
+        "formatted_address": "Norrköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Moghetsexamen",
+            "degree_level": "Schooling",
+            "year": "1904",
+            "institution": "Linköping"
+        },
+        {
+            "degree": "Tandläkarekandidatexamen",
+            "degree_level": "Bachelor's",
+            "year": "1905",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Marburg an der Lahn",
+                "latitude": 50.8018843,
+                "longitude": 8.7657677,
+                "formatted_address": "35 Marburg, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1915"
+        },
+        {
+            "country": {
+                "name": "Düsseldorf",
+                "latitude": 51.2230411,
+                "longitude": 6.7824545,
+                "formatted_address": "40 Düsseldorf, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1915"
+        },
+        {
+            "country": {
+                "name": "Altona",
+                "latitude": -37.8645245,
+                "longitude": 144.8309509,
+                "formatted_address": "Altona VIC 3018, Australia"
+            },
+            "country_code": "DEU",
+            "year": "1915"
+        }
+    ]
+}

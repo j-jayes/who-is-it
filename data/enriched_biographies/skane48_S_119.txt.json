@@ -1,0 +1,276 @@
+{
+    "career": [
+        {
+            "position": "Vikarierande adjunkt",
+            "start_year": 1919,
+            "end_year": 1920,
+            "organization": "Jönköping",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Extra ordinarie ämneslärare",
+            "start_year": 1921,
+            "end_year": 1925,
+            "organization": "Malmö kommunala mellanskola",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ordinarie ämneslärare",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Malmö kommunala mellanskola",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Adjunkt i biologi och kemi",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": "Malmö realskola",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Silverberg",
+        "middle_name": "Johan",
+        "gender": "Male",
+        "birth_date": "21-04-1890",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "läroverksadjunkt",
+            "occupation_english": "lower secondary school teacher",
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+            "hisco_code_english": "13020.0",
+            "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+        },
+        "parents": [
+            {
+                "first_name": "Mårten",
+                "last_name": "Silverberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "överlärare",
+                    "occupation_english": "Senior Teacher",
+                    "hisco_code_swedish": "13000.0",
+                    "hisco_description_swedish": "Teacher, Level and Subject Unknown",
+                    "hisco_code_english": "13990.0",
+                    "hisco_description_english": "Other Teachers"
+                }
+            },
+            {
+                "first_name": "Okänd",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1910",
+            "institution": "Malmö"
+        },
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1917",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Carin",
+            "last_name": "Larsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1921",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Barbro",
+                "last_name": "Silverberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1925"
+            },
+            {
+                "first_name": "Lars",
+                "last_name": "Silverberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1928"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CSK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Portugal",
+                "latitude": 39.39987199999999,
+                "longitude": -8.224454,
+                "formatted_address": "Portugal"
+            },
+            "country_code": "PRT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Nordafrika",
+                "latitude": 26.0197776,
+                "longitude": 32.277834,
+                "formatted_address": "North Africa"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Skottland",
+                "latitude": 56.49067119999999,
+                "longitude": -4.2026458,
+                "formatted_address": "Scotland, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Irland",
+                "latitude": 53.77975540000001,
+                "longitude": -7.3055309,
+                "formatted_address": "Ireland"
+            },
+            "country_code": "IRL",
+            "year": null
+        }
+    ]
+}

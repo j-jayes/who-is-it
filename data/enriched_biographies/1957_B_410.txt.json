@@ -1,0 +1,147 @@
+{
+    "career": [
+        {
+            "position": "Lärare i meteorologi",
+            "start_year": 1949,
+            "end_year": 1955,
+            "organization": "Stockholms Högskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande chef",
+            "start_year": 1955,
+            "end_year": null,
+            "organization": "Internationella meteorologiska institutet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Bert",
+        "last_name": "Bolin",
+        "middle_name": "Richard Johannes",
+        "gender": "Male",
+        "birth_date": "15-05-1925",
+        "birth_place": {
+            "name": "Nyköping",
+            "latitude": 58.75284389999999,
+            "longitude": 17.0091593,
+            "formatted_address": "Nyköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent",
+            "occupation_english": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1956,
+            "end_year": null,
+            "field": "meteorologi"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter inom den teoretiska meteorologien",
+            "field": "Meteorologi",
+            "year": null,
+            "significance": "Berör numeriska metoder för väderleksprognoser",
+            "recognized_by": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulla",
+            "last_name": "Frykstrand",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gösta",
+                    "last_name": "F",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Kerstin",
+                    "last_name": "Westling",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "Konstnär",
+                        "occupation_english": "Artist",
+                        "hisco_code_swedish": "16000.0",
+                        "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+                        "hisco_code_english": "17000.0",
+                        "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1952",
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1950"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1951"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1953"
+        }
+    ]
+}

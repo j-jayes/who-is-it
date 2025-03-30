@@ -1,0 +1,142 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Link",
+        "middle_name": "G",
+        "gender": "Male",
+        "birth_date": "14-01-1935",
+        "birth_place": {
+            "name": "Tallinn, Estland",
+            "latitude": 59.43696079999999,
+            "longitude": 24.7535746,
+            "formatted_address": "Tallinn, Estonia"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Link",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Mara",
+                "last_name": "Feldman",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1968,
+            "end_year": null,
+            "field": "neurologi"
+        },
+        {
+            "position": "klinisk lärare",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1970,
+            "end_year": 1972,
+            "field": "neurologi"
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "Linköpings universitet",
+            "department": null,
+            "start_year": 1973,
+            "end_year": null,
+            "field": "neurologi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1962",
+            "institution": "None"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1967",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Agneta",
+            "last_name": "Paulson",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Svante",
+                    "last_name": "Paulson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "stadsarkivarie",
+                        "occupation_english": "city archivist",
+                        "hisco_code_swedish": "19130.0",
+                        "hisco_description_swedish": "Archivist"
+                    }
+                },
+                {
+                    "first_name": "Ann-Marie",
+                    "last_name": "Ohlson",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1959"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i neurologi",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": null
+}

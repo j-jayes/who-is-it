@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1947,
+            "end_year": 1956,
+            "organization": "Södersjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Förste underläkare",
+            "start_year": 1956,
+            "end_year": 1962,
+            "organization": "Eftervårdskliniken Södersjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1962,
+            "organization": "Klinik för långvarigt kroppssjuka Växjö",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Björn",
+        "last_name": "Lindahl",
+        "middle_name": "R",
+        "gender": "Male",
+        "birth_date": "11-03-1910",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överläkare",
+            "occupation_english": "Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Lindahl",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmän",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Cecilia",
+                "last_name": "Dinell",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Illustratör",
+            "field": "Medicin",
+            "year": "1934",
+            "significance": "Illustratör till medicinska doktorsavhandlingar samt till dagspress och förlag",
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Växjö",
+        "latitude": 56.8790044,
+        "longitude": 14.8058522,
+        "formatted_address": "Växjö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1930",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1939",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1949",
+            "institution": "Stockholms Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inger",
+            "last_name": "Kär-vinge",
+            "middle_name": "Elisabet",
+            "gender": "Female",
+            "birth_date": "1931",
+            "occupation": {
+                "occupation": "Sjuksköterska",
+                "occupation_english": "Nurse",
+                "hisco_code_swedish": "7110.0",
+                "hisco_description_swedish": "Professional Nurse, General",
+                "hisco_code_english": "7110.0",
+                "hisco_description_english": "Professional Nurse, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Hugo",
+                    "last_name": "Kär-vinge",
+                    "gender": "Male"
+                },
+                {
+                    "first_name": "Dagmar",
+                    "last_name": "Wahl",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1955",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ann",
+                "last_name": "Lindahl",
+                "gender": "Female",
+                "birth_year": "1956"
+            },
+            {
+                "first_name": "Inger",
+                "last_name": "Lindahl",
+                "gender": "Female",
+                "birth_year": "1957"
+            },
+            {
+                "first_name": "Johan",
+                "last_name": "Lindahl",
+                "gender": "Male",
+                "birth_year": "1959"
+            },
+            {
+                "first_name": "Cecilia",
+                "last_name": "Lindahl",
+                "gender": "Female",
+                "birth_year": "1963"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Inom internmedicin",
+            "year": "None",
+            "type": "Skrift",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

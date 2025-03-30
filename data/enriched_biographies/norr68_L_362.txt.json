@@ -1,0 +1,213 @@
+{
+    "career": [
+        {
+            "position": "Vikarierande stadsläkare",
+            "start_year": 1947,
+            "end_year": 1948,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Vikarierande underläkare",
+            "start_year": 1948,
+            "end_year": 1950,
+            "organization": "Sundsvalls lasarett",
+            "location": {
+                "name": "Sundsvall",
+                "latitude": 62.390811,
+                "longitude": 17.306927,
+                "formatted_address": "Sundsvall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1950,
+            "end_year": 1954,
+            "organization": "Linköpings lasarett, barnavdelningen",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1954,
+            "end_year": 1957,
+            "organization": "Örnsköldsviks lasarett, medicinska avdelningen",
+            "location": {
+                "name": "Örnsköldsvik",
+                "latitude": 63.29004740000001,
+                "longitude": 18.7166166,
+                "formatted_address": "Örnsköldsvik, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1957,
+            "end_year": 1960,
+            "organization": "Sundsvalls lasarett, medicinska avdelningen",
+            "location": {
+                "name": "Sundsvall",
+                "latitude": 62.390811,
+                "longitude": 17.306927,
+                "formatted_address": "Sundsvall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": "Sidsjöns sjukhus, internmedicin och personalsjukvård",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Löfvenberg",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "21-09-1911",
+        "birth_place": {
+            "name": "Hemse, Gotlands Län",
+            "latitude": 57.23730819999999,
+            "longitude": 18.3767003,
+            "formatted_address": "623 50 Hemse, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Richard",
+                "last_name": "Löfvenberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Rektor",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher"
+                }
+            },
+            {
+                "first_name": "Brita",
+                "last_name": "Stengård",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Sundsvall",
+        "latitude": 62.390811,
+        "longitude": 17.306927,
+        "formatted_address": "Sundsvall, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1931",
+            "institution": "Visby"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1940",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1948",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Simone",
+            "last_name": "Bellander",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Överläkare",
+                "occupation_english": null,
+                "hisco_code_swedish": "6105.0",
+                "hisco_description_swedish": "General Physician"
+            },
+            "parents": [
+                {
+                    "first_name": "Sixten",
+                    "last_name": "Bellander",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Jägmästare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "21230.0",
+                        "hisco_description_swedish": "Farm Manager"
+                    }
+                },
+                {
+                    "first_name": "Synnöve",
+                    "last_name": "Carlbom",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "Filosofie kandidat",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1950",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Beate",
+                "last_name": "Löfvenberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1952"
+            },
+            {
+                "first_name": "Jacques",
+                "last_name": "Löfvenberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1954"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

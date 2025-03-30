@@ -1,0 +1,138 @@
+{
+    "career": [
+        {
+            "position": "Anställd hos A-B J. Bruun i Kalmar",
+            "start_year": 1939,
+            "end_year": 1940,
+            "organization": "A-B J. Bruun",
+            "location": {
+                "name": "Kalmar",
+                "latitude": 56.6634447,
+                "longitude": 16.356779,
+                "formatted_address": "Kalmar, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd hos A-B J. Bruun i Kalmar",
+            "start_year": 1945,
+            "organization": "A-B J. Bruun",
+            "location": {
+                "name": "Kalmar",
+                "latitude": 56.6634447,
+                "longitude": 16.356779,
+                "formatted_address": "Kalmar, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Rolf",
+        "last_name": "Bruun",
+        "middle_name": "Tage",
+        "gender": "Male",
+        "birth_date": "13-05-1920",
+        "birth_place": {
+            "name": "Kalmar",
+            "latitude": 56.6634447,
+            "longitude": 16.356779,
+            "formatted_address": "Kalmar, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilekonom",
+            "occupation_english": null,
+            "hisco_code_swedish": "9010.0",
+            "hisco_description_swedish": "Economist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Tage",
+                "last_name": "Bruun",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "konsul",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Gille",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kalmar",
+        "latitude": 56.6634447,
+        "longitude": 16.356779,
+        "formatted_address": "Kalmar, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1939",
+            "institution": "None"
+        },
+        {
+            "degree": "HHS ekonomisk examen",
+            "degree_level": "Master's",
+            "year": "1945",
+            "institution": "Handelshögskolan"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "tennis"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Okänt",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "UNK",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Okänt",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "UNK",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Okänt",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "UNK",
+            "year": "1939"
+        }
+    ]
+}

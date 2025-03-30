@@ -1,0 +1,153 @@
+{
+    "career": [
+        {
+            "position": "gruvingenjör",
+            "start_year": 1930,
+            "end_year": 1944,
+            "organization": "LKAB Malmberget",
+            "location": {
+                "name": "Malmberget",
+                "latitude": 67.1736529,
+                "longitude": 20.6545165,
+                "formatted_address": "Malmberget, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "överingenjör",
+            "start_year": 1944,
+            "end_year": 1955,
+            "organization": "TGO Grängesberg",
+            "location": {
+                "name": "Grängesberg",
+                "latitude": 60.0785553,
+                "longitude": 15.0110618,
+                "formatted_address": "772 31 Grängesberg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "disponent",
+            "start_year": 1955,
+            "end_year": null,
+            "organization": "LKAB Malmberget",
+            "location": {
+                "name": "Malmberget",
+                "latitude": 67.1736529,
+                "longitude": 20.6545165,
+                "formatted_address": "Malmberget, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "K G Ragnar",
+        "last_name": "Alin",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "14-10-1905",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "disponent",
+            "occupation_english": "manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Fridolf",
+                "last_name": "Alin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "vaktmästare",
+                    "occupation_english": "caretaker",
+                    "hisco_code_swedish": "55130.0",
+                    "hisco_description_swedish": "Janitor",
+                    "hisco_code_english": "55130.0",
+                    "hisco_description_english": "Janitor"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Jonsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmberget",
+        "latitude": 67.1736529,
+        "longitude": 20.6545165,
+        "formatted_address": "Malmberget, Sweden"
+    },
+    "education": [
+        {
+            "degree": "bergsingenjör",
+            "degree_level": "Master's",
+            "year": "1930",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Jansson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "August",
+                    "last_name": "Jansson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "ingenjör",
+                        "occupation_english": "engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Isabella",
+                    "last_name": "Svensson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1934",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

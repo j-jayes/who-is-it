@@ -1,0 +1,200 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Olle",
+        "last_name": "Olsson",
+        "middle_name": "Gunnar Anton",
+        "gender": "Male",
+        "birth_date": "09-01-1911",
+        "birth_place": {
+            "name": "Landskrona",
+            "latitude": 55.8703477,
+            "longitude": 12.8300802,
+            "formatted_address": "Landskrona, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Tage",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Inez",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1943,
+            "end_year": null,
+            "field": "röntgen-diagnostik"
+        },
+        {
+            "position": "öv :-läk.",
+            "position_english": null,
+            "institution": "Lunds lasarett",
+            "department": "röntgendiagnostiska avdelningen",
+            "start_year": 1943,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1935",
+            "institution": "Lunds universitet"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1943",
+            "institution": "Lunds universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Wally",
+            "last_name": "Person",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Christer",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Torben",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Görel",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Bodil",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1944"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "ett flertal arbeten i röntgendiagnostik",
+            "year": "None",
+            "type": "arbete",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "sikand",
+                "latitude": 34.1714134,
+                "longitude": -118.4648102,
+                "formatted_address": "15230 Burbank Blvd # 100, Sherman Oaks, CA 91411, USA"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Portugal",
+                "latitude": 39.39987199999999,
+                "longitude": -8.224454,
+                "formatted_address": "Portugal"
+            },
+            "country_code": "PRT",
+            "year": null
+        }
+    ]
+}

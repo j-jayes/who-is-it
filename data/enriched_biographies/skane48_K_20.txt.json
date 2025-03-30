@@ -1,0 +1,120 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Arwid",
+        "last_name": "Karlson",
+        "middle_name": "Sigfrid",
+        "gender": "Male",
+        "birth_date": "23-04-1907",
+        "birth_place": {
+            "name": "Asarum, Blekinge Län",
+            "latitude": 56.2,
+            "longitude": 14.833333,
+            "formatted_address": "Asarum, Karlshamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär (målare, skulptör)",
+            "occupation_english": "artist (painter, sculptor)",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Algot",
+                "last_name": "K.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "None",
+                    "occupation_english": "None",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "-1.0",
+                    "hisco_description_english": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Arvidsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "None",
+                    "occupation_english": "None",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "-1.0",
+                    "hisco_description_english": "Missing, no title"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Britt",
+            "last_name": "Berne",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Bruno",
+                "last_name": "Karlson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1929"
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Norrman",
+        "middle_name": "Arvid",
+        "gender": "Male",
+        "birth_date": "13-11-1915",
+        "birth_place": {
+            "name": "Helsingborg",
+            "latitude": 56.0464674,
+            "longitude": 12.6945121,
+            "formatted_address": "Helsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Lars",
+                "last_name": "Norrman",
+                "middle_name": "O",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "sjökapt",
+                    "occupation_english": "sea captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Bergman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Hjärnoperation med docent O Sjöqvist",
+            "field": "måleri",
+            "year": "1944"
+        },
+        {
+            "title": "monumentalmåln i MAB Malmö",
+            "field": "måleri",
+            "year": "1946"
+        },
+        {
+            "title": "färglitografiportfölj för Stora Kopparbergs aktiebolag",
+            "field": "grafik",
+            "year": "1955"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Sigtuna humanistiska läroverk"
+        },
+        {
+            "degree": "Målarskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Otte Skölds målarskola"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Fernand Léger, Paris"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Inok",
+            "year": "1949",
+            "type": "bok",
+            "publisher": null
+        },
+        {
+            "title": "Tubab",
+            "year": "1950",
+            "type": "bok",
+            "publisher": null
+        },
+        {
+            "title": "Det okända Holland",
+            "year": "1955",
+            "type": "bok",
+            "publisher": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Sovjetunionen",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "SUN",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Nordvästgrönland",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "GRL",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Nordvästgrönland",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "GRL",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Senegal",
+                "latitude": 14.497401,
+                "longitude": -14.452362,
+                "formatted_address": "Senegal"
+            },
+            "country_code": "SEN",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Mauretanien",
+                "latitude": 21.00789,
+                "longitude": -10.940835,
+                "formatted_address": "Mauritania"
+            },
+            "country_code": "MRT",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Franska Sudan",
+                "latitude": 12.862807,
+                "longitude": 30.217636,
+                "formatted_address": "Sudan"
+            },
+            "country_code": "None",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Marocko",
+                "latitude": 31.791702,
+                "longitude": -7.092619999999999,
+                "formatted_address": "Morocco"
+            },
+            "country_code": "MAR",
+            "year": "1947"
+        }
+    ]
+}

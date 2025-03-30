@@ -1,0 +1,213 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": "Lunds Universitetsbibliotek",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Andre Bibliotekskonsulent",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": "Skolöverstyrelsen",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": "Stockholms stadsbibliotekskommitté",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Redaktionssekreterare",
+            "start_year": 1911,
+            "end_year": 1913,
+            "organization": "Statsvetenskaplig tidskrift",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medutgivare",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": "Biblioteksbladet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": "Stockholms stadsbiblioteksstyrelse",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Tryde",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "18-06-1887",
+        "birth_place": {
+            "name": "Kristianstads Län",
+            "latitude": null,
+            "longitude": null,
+            "formatted_address": null
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Lars",
+                "last_name": "Tryde",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kyrkoherde",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Karna",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": [
+        {
+            "degree": "Filosofie Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1908",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Filosofie Licentiat",
+            "degree_level": "Master's",
+            "year": "1912",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Filosofie Doktor",
+            "degree_level": "Doctorate",
+            "year": "1918",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lizzie",
+            "last_name": "Moll",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Victor",
+                    "last_name": "Moll",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Riksbankschef",
+                        "hisco_code_swedish": "20210.0",
+                        "hisco_description_swedish": "Government Administrator"
+                    }
+                },
+                {
+                    "first_name": "Louise",
+                    "last_name": "Klingström",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1918",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Studier angående det svenska statsrådets politiska ansvarighet",
+            "year": "1918",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1921"
+        }
+    ]
+}

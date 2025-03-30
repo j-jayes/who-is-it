@@ -1,0 +1,258 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1898,
+            "end_year": 1902,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1901,
+            "end_year": 1903,
+            "organization": "Karolinska Institutets rättsmedicinska avdelning",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1903,
+            "end_year": 1903,
+            "organization": "Stockholms epidemisjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "stadsläkare",
+            "start_year": 1903,
+            "end_year": 1906,
+            "organization": "Lindesberg",
+            "location": {
+                "name": "Lindesberg",
+                "latitude": 59.5976983,
+                "longitude": 15.2229108,
+                "formatted_address": "Lindesberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "extra provinsialläkare",
+            "start_year": 1906,
+            "end_year": 1909,
+            "organization": "Unnaryds distrikt i Jönköpings Län",
+            "location": {
+                "name": "Unnaryd",
+                "latitude": 56.9546882,
+                "longitude": 13.5283356,
+                "formatted_address": "314 51 Unnaryd, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "läkare",
+            "start_year": 1906,
+            "end_year": 1909,
+            "organization": "Unnaryds sjukstuga",
+            "location": {
+                "name": "Unnaryd",
+                "latitude": 56.9546882,
+                "longitude": 13.5283356,
+                "formatted_address": "314 51 Unnaryd, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "förste provinsialläkare",
+            "start_year": 1909,
+            "end_year": 1912,
+            "organization": "Västernorrlands Län",
+            "location": {
+                "name": "Härnösand",
+                "latitude": 62.6322698,
+                "longitude": 17.9408714,
+                "formatted_address": "Härnösand, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "provinsialläkare",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": "Härnösands distrikt",
+            "location": {
+                "name": "Härnösand",
+                "latitude": 62.6322698,
+                "longitude": 17.9408714,
+                "formatted_address": "Härnösand, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "förste provinsialläkare",
+            "start_year": 1912,
+            "end_year": 1936,
+            "organization": "Västernorrlands Län",
+            "location": {
+                "name": "Härnösand",
+                "latitude": 62.6322698,
+                "longitude": 17.9408714,
+                "formatted_address": "Härnösand, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "skolläkare",
+            "start_year": 1914,
+            "end_year": 1937,
+            "organization": "Härnösands högre allmänna läroverk",
+            "location": {
+                "name": "Härnösand",
+                "latitude": 62.6322698,
+                "longitude": 17.9408714,
+                "formatted_address": "Härnösand, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Lundgren",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "18-11-1871",
+        "birth_place": {
+            "name": "Ljungby, Kronobergs Län",
+            "latitude": 56.8338774,
+            "longitude": 13.9410417,
+            "formatted_address": "Ljungby, Sweden"
+        },
+        "occupation": {
+            "occupation": "före detta förste provinsialläkare",
+            "occupation_english": null
+        },
+        "parents": [
+            {
+                "first_name": "Alfr",
+                "last_name": "Lundgren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "apotekare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "6710.0",
+                    "hisco_description_swedish": "Pharmacist"
+                }
+            },
+            {
+                "first_name": "Amanda",
+                "last_name": "Klintberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "ledamot av direktionen",
+            "organization": "Härnösands hospital"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Härnösand",
+        "latitude": 62.6322698,
+        "longitude": 17.9408714,
+        "formatted_address": "Härnösand, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1898",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1902",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Jeanna",
+            "last_name": "Sandberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Vict",
+                    "last_name": "Sandberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kapten",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Mina",
+                    "last_name": "Hasselgren",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1904",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Om nyttan av vaccinationen, särskilt tvångsvaccinationen",
+            "year": "1911",
+            "type": "uppsats",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

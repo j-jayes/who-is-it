@@ -1,0 +1,211 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1885,
+            "end_year": 1889,
+            "organization": "C E Larsson",
+            "location": {
+                "name": "Gnesta",
+                "latitude": 59.04834830000001,
+                "longitude": 17.3072276,
+                "formatted_address": "Gnesta, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1889,
+            "end_year": 1894,
+            "organization": "Carl H Johansson",
+            "location": {
+                "name": "Nyköping",
+                "latitude": 58.75284389999999,
+                "longitude": 17.0091593,
+                "formatted_address": "Nyköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen företagare",
+            "start_year": 1894,
+            "end_year": 1914,
+            "organization": "Manufakturaffär",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen företagare",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": "Axel Eklunds Kappmagasin, sedan Aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "EKLUND",
+        "middle_name": "Axel",
+        "gender": "Male",
+        "birth_date": "12-08-1871",
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "E",
+                "middle_name": "W",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Skohandlare",
+                    "occupation_english": "Shoe Trader",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Nordström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Damkonfektionsföreningen",
+            "role": "Vice ordförande",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": "Stockholm",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Sofia",
+            "last_name": "Tankred",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Bowling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1939"
+        }
+    ]
+}

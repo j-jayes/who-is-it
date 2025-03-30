@@ -1,0 +1,46 @@
+{
+    "career": [
+        {
+            "position": "dekorationsmålare",
+            "start_year": 0,
+            "organization": "Helsingborg"
+        },
+        {
+            "position": "dekorationsmålare",
+            "start_year": 0,
+            "organization": "Stora teatern",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "teaterchef",
+            "start_year": 1948,
+            "organization": "Stora teatern",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Unknown",
+        "last_name": "Unknown",
+        "gender": "Male",
+        "occupation": {
+            "occupation": "dekorationsmålare, teaterchef",
+            "occupation_english": "decoration painter, theatre manager",
+            "hisco_code_swedish": "93920.0",
+            "hisco_description_swedish": "BrushPainter (except Construction)",
+            "hisco_code_english": "93120.0",
+            "hisco_description_english": "Building Painter"
+        }
+    }
+}

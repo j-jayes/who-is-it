@@ -1,0 +1,202 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Pålsson",
+        "middle_name": "I",
+        "gender": "Male",
+        "birth_date": "01-10-1949",
+        "birth_place": {
+            "name": "Helsingborg",
+            "latitude": 56.0464674,
+            "longitude": 12.6945121,
+            "formatted_address": "Helsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor, konsertpianist",
+            "occupation_english": "professor, concert pianist",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustav",
+                "last_name": "Pålsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Ilse",
+                "last_name": "Holstrii",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "prof",
+            "position_english": "professor",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1987,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "konserter, TV- o radioframträdanden",
+            "field": "musik",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "grammofoninsp",
+            "field": "musik",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1968",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Andersson",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Jarl",
+                    "last_name": "Andersson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "försäljningschef",
+                        "occupation_english": "sales manager",
+                        "hisco_code_swedish": "21300.0",
+                        "hisco_description_swedish": "Sales Manager, Specialisation Unknown",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Ethel",
+                    "last_name": "Crona",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1980",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Skandinavien",
+                "latitude": 62.27864750000001,
+                "longitude": 12.3401708,
+                "formatted_address": "Scandinavia"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Island",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ISL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Västeuropa",
+                "latitude": 46.2021848,
+                "longitude": 1.2643875,
+                "formatted_address": "Western Europe"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Sydeuropa",
+                "latitude": 41.2745004,
+                "longitude": -1.2121322,
+                "formatted_address": "Southern Europe"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österuropa",
+                "latitude": 52.0055148,
+                "longitude": 37.95874939999999,
+                "formatted_address": "Eastern Europe"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Japan",
+                "latitude": 36.204824,
+                "longitude": 138.252924,
+                "formatted_address": "Japan"
+            },
+            "country_code": "JPN",
+            "year": null
+        }
+    ]
+}

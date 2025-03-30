@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "Disponent",
+            "start_year": 1900,
+            "organization": "Cederquists grafiska aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1921,
+            "organization": "Aktiebolaget Grohmann & Eichelberg",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Styrelsemedlem",
+            "start_year": 1920,
+            "end_year": 1927,
+            "organization": "Sveriges litografiska tryckeriägares förbund",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Styrelsemedlem",
+            "start_year": 1931,
+            "end_year": 1934,
+            "organization": "Sveriges litografiska tryckeriägares förbund",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Cederquist",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "12-11-1889",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Justus",
+                "last_name": "Cederquist",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Anne-Marie",
+                "last_name": "Lindström",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Allmänt läroverk",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Allmänt läroverk"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Tekla",
+            "last_name": "Hæger",
+            "gender": "Female",
+            "birth_date": "None",
+            "parents": [
+                {
+                    "first_name": "Adolf",
+                    "last_name": "Hæger",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Fyrbyggmästare",
+                        "occupation_english": "Lighthouse construction manager",
+                        "hisco_code_english": "22000.0",
+                        "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Christina",
+                    "last_name": "Christiansson",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1915"
+    },
+    "publications": [
+        {
+            "title": "Artiklar i reproduktionstekniska ämnen",
+            "year": "None",
+            "type": "Artikel",
+            "publisher": "Fackpressen"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        }
+    ]
+}

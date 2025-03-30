@@ -1,0 +1,496 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1930,
+            "end_year": 1931,
+            "organization": "Uppsala högre folkskola",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lärare",
+            "start_year": 1930,
+            "end_year": 1933,
+            "organization": "Wiks folkhögskola",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lärare",
+            "start_year": 1930,
+            "end_year": 1943,
+            "organization": "Tekniska skolan Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "adjunkt",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "Försvarets läroverk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "rektor",
+            "start_year": 1945,
+            "end_year": 1958,
+            "organization": "Uppsala stads folkskola",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "skoldirektör",
+            "start_year": 1958,
+            "end_year": 1969,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Söderberg",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "06-01-1903",
+        "birth_place": {
+            "name": "Norrbärke, Kopparbergs Län",
+            "latitude": 61.0917012,
+            "longitude": 14.6663653,
+            "formatted_address": "Dalarna County, Sweden"
+        },
+        "occupation": {
+            "occupation": "fd skoldirektör",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Ludvig",
+                "last_name": "Söderberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "förman",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "22610.0",
+                    "hisco_description_swedish": "Production Supervisor or Foreman, General"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Möller",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Illis quorum meruere labores (12 storleken)",
+        "Hedersledamot Sveriges allmänna biblioteksförening",
+        "Hedersledamot Upplands konstförening",
+        "Hedersledamot Västmanland-Dala nation",
+        "Hedersledamot Teaterfrämjandet i Uppsala",
+        "Hedersledamot Svenska esperantoförbundet",
+        "Hedersledamot Studenthistoriska sällskapet i Uppsala",
+        "Hedersledamot Stadsbibliotekets vänner i Uppsala",
+        "Hedersledamot Universala esperanto-asocio"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Laboremus",
+            "role": "Ordförande",
+            "start_year": 1930,
+            "end_year": 1933,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Sveriges socialdemokratiska studentförbund",
+            "role": "Ordförande",
+            "start_year": 1931,
+            "end_year": 1933,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Uppsala studentkår",
+            "role": "Ordförande",
+            "start_year": 1935,
+            "end_year": 1936,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Svenska esperantoinstitut direktion",
+            "role": "Ordförande",
+            "start_year": 1939,
+            "end_year": 1972,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Uppsala ungdomsråd",
+            "role": "Ordförande",
+            "start_year": 1942,
+            "end_year": 1945,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Uppsala städs bibistyrelse",
+            "role": "Ordförande",
+            "start_year": 1942,
+            "end_year": 1966,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Konstrådet",
+            "role": "Ordförande",
+            "start_year": 1948,
+            "end_year": 1962,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Barnavårdsnämnden",
+            "role": "Ordförande",
+            "start_year": 1950,
+            "end_year": 1957,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Uplands konstförening",
+            "role": "Ordförande",
+            "start_year": 1951,
+            "end_year": 1973,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Studiemedelsnämnden Uppsala",
+            "role": "Ordförande",
+            "start_year": 1952,
+            "end_year": 1966,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Upsala sparbank",
+            "role": "Ordförande",
+            "start_year": 1953,
+            "end_year": 1971,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Uppsala arbetsinstitut",
+            "role": "Ordförande",
+            "start_year": 1958,
+            "end_year": 1962,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Sveriges skoldirektörsförening",
+            "role": "Ordförande",
+            "start_year": 1959,
+            "end_year": 1963,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Uppsala läns landstings utbildningsnämnd",
+            "role": "Ordförande",
+            "start_year": 1971,
+            "end_year": 1973,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Barnens Dag-föreningen Uppsala",
+            "role": "Ordförande",
+            "start_year": 1971,
+            "end_year": 1986,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Konstfrämjandet i Uppsala",
+            "role": "Ordförande",
+            "start_year": 1972,
+            "end_year": 1976,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Societas Intellectualis Seniorii Upsaliensis",
+            "role": "Ordförande",
+            "start_year": 1975,
+            "end_year": 1976,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Uppsala läns PRO-distrikt",
+            "role": "Ordförande",
+            "start_year": 1970,
+            "end_year": 1983,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Sveriges förenade studentkårer",
+            "role": "Vice ordförande",
+            "start_year": 1935,
+            "end_year": 1936,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Wiks folkhögskolas styrelse",
+            "role": "Vice ordförande",
+            "start_year": 1943,
+            "end_year": 1953,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Uppsala läns barnavårdsförbund",
+            "role": "Vice ordförande",
+            "start_year": 1951,
+            "end_year": 1958,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Uppsala läns bildningsförbund",
+            "role": "Vice ordförande",
+            "start_year": 1951,
+            "end_year": 1957,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Sveriges allmänna biblioteksförening",
+            "role": "Vice ordförande",
+            "start_year": 1951,
+            "end_year": 1968,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Uppsala sjuksköterskeskola",
+            "role": "Vice ordförande",
+            "start_year": 1959,
+            "end_year": 1971,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Ortnamnsällskapet i Uppsala",
+            "role": "Vice ordförande",
+            "start_year": 1972,
+            "end_year": 1987,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "Ordförande",
+            "start_year": 1963,
+            "end_year": 1966,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "ledamot",
+            "start_year": 1939,
+            "end_year": 1970,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "1:e vice ordförande",
+            "start_year": 1955,
+            "end_year": 1962,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "1:e vice ordförande",
+            "start_year": 1967,
+            "end_year": 1970,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Westmani-Dala gille",
+            "role": "ålderman",
+            "start_year": 1960,
+            "end_year": 1983,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Westmani-Dala nation",
+            "role": "1:e kurator",
+            "start_year": 1933,
+            "end_year": 1934,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Västmanland-Dala nation",
+            "role": "skattmästare",
+            "start_year": 1961,
+            "end_year": 1979,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1929",
+            "institution": "None"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Doctorate",
+            "year": "1941",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maj",
+            "last_name": "Hörngren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Ernst",
+                    "last_name": "Hörngren",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "sekreterare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "30000.0",
+                        "hisco_description_swedish": "Clerical or Related Worker, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Hilda",
+                    "last_name": "Halling",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "Hedersålderman",
+            "institution": "Westmani-Dala gille",
+            "year": "1983"
+        },
+        {
+            "title": "Filosofie hedersdoktor",
+            "institution": "Uppsala Universitet",
+            "year": "1988"
+        }
+    ],
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Uppsala kommuns skolor under några decennier av 1900-talet",
+            "year": "1983",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Uppsala kommun och kulturlivet under några decennier av 1900-talet",
+            "year": "1984",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Barnens Dags Förening i Uppsala 1934-1986",
+            "year": "1988",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Sextiofem år som Västmanland-Daling",
+            "year": "1990",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

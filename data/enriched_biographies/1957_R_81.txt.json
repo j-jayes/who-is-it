@@ -1,0 +1,216 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1925,
+            "end_year": 1927,
+            "organization": "Hagfors Järnverk",
+            "location": {
+                "name": "Hagfors",
+                "latitude": 60.03437,
+                "longitude": 13.694508,
+                "formatted_address": "Hagfors, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "I USA",
+            "start_year": 1927,
+            "end_year": 1928,
+            "organization": null,
+            "location": null,
+            "country_code": "USA"
+        },
+        {
+            "position": "Försäljningsingenjör",
+            "start_year": 1929,
+            "end_year": 1930,
+            "organization": "A. Johnson & Co",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Försäljningsingenjör",
+            "start_year": 1929,
+            "organization": "Avesta Jernverk",
+            "location": {
+                "name": "Avesta",
+                "latitude": 60.14532999999999,
+                "longitude": 16.1738399,
+                "formatted_address": "Avesta, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Chef för Englandskontoret",
+            "start_year": 1930,
+            "end_year": 1933,
+            "organization": "A. Johnson & Co",
+            "location": null,
+            "country_code": "GBR"
+        },
+        {
+            "position": "Chef för kontoret",
+            "start_year": 1934,
+            "end_year": 1936,
+            "organization": "A. Johnson & Co",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chef för kontoret",
+            "start_year": 1937,
+            "end_year": 1940,
+            "organization": "A. Johnson & Co",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Teknisk direktör",
+            "start_year": 1940,
+            "end_year": 1945,
+            "organization": "A. Johnson & Co",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Försäljningsdirektör",
+            "start_year": 1954,
+            "organization": "A. Johnson & Co",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1946,
+            "end_year": 1953,
+            "organization": "A. Karlson Met- o. maskin aktiebolag",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Reuterskiöld",
+        "middle_name": "Gustaf Bernhard Ludvig",
+        "gender": "Male",
+        "birth_date": "18-01-1901",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Bergsingenjör",
+            "occupation_english": "Mining Engineer",
+            "hisco_code_swedish": "2710.0",
+            "hisco_description_swedish": "Mining Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Reuterskiöld",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Major",
+                    "occupation_english": "Major",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Lisa",
+                "last_name": "Boström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1918",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1925",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ebba",
+            "last_name": "von Rosen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "von Rosen",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Major",
+                        "occupation_english": "Major",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "58320.0",
+                        "hisco_description_english": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Elisabeth",
+                    "last_name": "de Geer",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

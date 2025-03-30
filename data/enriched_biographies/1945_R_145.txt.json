@@ -1,0 +1,359 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1915,
+            "end_year": 1916,
+            "organization": "högskola i Hamburg",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lärare",
+            "start_year": 1919,
+            "end_year": 1921,
+            "organization": "Uppsala privatgymnasium",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1919,
+            "end_year": 1926,
+            "organization": "universitetsbiblioteket i Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "docent",
+            "start_year": 1920,
+            "end_year": 1926,
+            "organization": "Uppsala universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "docent",
+            "start_year": 1926,
+            "end_year": 1926,
+            "organization": "Lunds universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "professor",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Lunds universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "censor",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "studentexamen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Rooth",
+        "middle_name": "Gustaf Teodor",
+        "gender": "Male",
+        "birth_date": "22-04-1889",
+        "birth_place": {
+            "name": "Degerfors, Örebro Län",
+            "latitude": 59.2353962,
+            "longitude": 14.4299301,
+            "formatted_address": "Degerfors, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Theodor",
+                "last_name": "Rooth",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Övningsingenjör",
+                    "occupation_english": "Training engineer"
+                }
+            },
+            {
+                "first_name": "Signe",
+                "last_name": "Morén",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Va Henrik Steffens-priset för år 1940"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1912",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1912",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1918",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1919",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märta",
+            "last_name": "Wizén",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "null",
+            "birth_place": null,
+            "occupation": {
+                "occupation": "tandläkare",
+                "occupation_english": "dentist",
+                "hisco_code_swedish": "6310.0",
+                "hisco_description_swedish": "Dentist, General",
+                "hisco_code_english": "6310.0",
+                "hisco_description_english": "Dentist, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Theodor",
+                    "last_name": "Wizén",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "tandtekniker",
+                        "occupation_english": "dental technician",
+                        "hisco_code_swedish": "5430.0",
+                        "hisco_description_swedish": "Medical Science Technician",
+                        "hisco_code_english": "1400.0",
+                        "hisco_description_english": "Physical Science Technician, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Amanda",
+                    "last_name": "Carlsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1919",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Ledamot av Deutsche Akademie",
+        "Ledamot av Kungliga Humanistiska Vetenskapssamfundet i Lund",
+        "Ledamot av Vetenskapssocieteten i Lund"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Eine westfälische Psalmenübersetzung",
+            "year": "1919",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Die mittelalterlichen deutschen Handschriften der Universitätsbibliotek zu Uppsala",
+            "year": "1921",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Studien zu den altniederfränkischen und altwestfälischen Psalterversionen",
+            "year": "1924",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Altgermanische Wortstudien",
+            "year": "1925",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ein neuentdeckter niederländischer Minnesänger",
+            "year": "1928",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Nordfriesische Streifzüge",
+            "year": "1929",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Die Sprachform der Merseburger Quellen",
+            "year": "1932",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Det primära z-omljudet",
+            "year": "1936",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Vrastmunt",
+            "year": "1939",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        }
+    ]
+}

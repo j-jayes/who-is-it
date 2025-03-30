@@ -1,0 +1,112 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Svante",
+        "last_name": "Fagerström",
+        "middle_name": "Albert",
+        "gender": "Male",
+        "birth_date": "05-09-1876",
+        "birth_place": {
+            "name": "Köpenhamn",
+            "latitude": 55.6760968,
+            "longitude": 12.5683371,
+            "formatted_address": "Copenhagen, Denmark"
+        },
+        "occupation": {
+            "occupation": "grosshandlare",
+            "occupation_english": "Wholesaler",
+            "hisco_code_swedish": "41020.0",
+            "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+            "hisco_code_english": "41025.0",
+            "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Sven",
+                "last_name": "Fagerström",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Persson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "5-klassigt läroverk",
+            "degree_level": "Schooling",
+            "year": "1885-1891",
+            "institution": "Hälsingborg och Karlshamn"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maja",
+            "last_name": "Lilja",
+            "gender": "Female",
+            "occupation": null
+        },
+        "marriage_year": "1902",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ingrid",
+                "last_name": "Fagerström",
+                "gender": "Female",
+                "birth_year": "1903"
+            },
+            {
+                "first_name": "Gunnel",
+                "last_name": "Fagerström",
+                "gender": "Female",
+                "birth_year": "1907"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        }
+    ]
+}

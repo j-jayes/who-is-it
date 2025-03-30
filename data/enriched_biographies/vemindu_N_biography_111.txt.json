@@ -1,0 +1,216 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1918,
+            "organization": "AB Transmarina Kompani",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1921,
+            "organization": "AB P Jörgensen & Co",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1925,
+            "organization": "AB Nilsson & Blide",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Conrad",
+        "last_name": "Nilsson",
+        "middle_name": "Wilhelm",
+        "gender": "Male",
+        "birth_date": "06-04-1892",
+        "birth_place": {
+            "name": "Ottarp, Malmöhus Län",
+            "latitude": 55.94454899999999,
+            "longitude": 12.9191197,
+            "formatted_address": "268 75 Ottarp, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "N",
+                "last_name": "Nilsson",
+                "middle_name": "P",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kantor",
+                    "occupation_english": "Cantor",
+                    "hisco_code_swedish": "17150.0",
+                    "hisco_description_swedish": "Vocal Group Conductor"
+                }
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Real Skola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Landskrona Realskola"
+        },
+        {
+            "degree": "Handelsgymnasium",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Hälsingborgs högre handelsgymnasium"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Svea",
+            "last_name": "Sjölund",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Sport",
+        "Resor"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Mexico",
+                "latitude": 23.634501,
+                "longitude": -102.552784,
+                "formatted_address": "Mexico"
+            },
+            "country_code": "MEX",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "San Salvador",
+                "latitude": 13.6929403,
+                "longitude": -89.2181911,
+                "formatted_address": "San Salvador, El Salvador"
+            },
+            "country_code": "SLV",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Guatemala",
+                "latitude": 15.783471,
+                "longitude": -90.23075899999999,
+                "formatted_address": "Guatemala"
+            },
+            "country_code": "GTM",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Brasilien",
+                "latitude": -14.235004,
+                "longitude": -51.92528,
+                "formatted_address": "Brazil"
+            },
+            "country_code": "BRA",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Argentina",
+                "latitude": -38.416097,
+                "longitude": -63.61667199999999,
+                "formatted_address": "Argentina"
+            },
+            "country_code": "ARG",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": "None"
+        }
+    ]
+}

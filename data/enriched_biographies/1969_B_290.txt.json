@@ -1,0 +1,192 @@
+{
+    "career": [
+        {
+            "position": "apotekare",
+            "start_year": 1935,
+            "organization": "apot Sveg",
+            "location": {
+                "name": "Sveg",
+                "latitude": 62.0346245,
+                "longitude": 14.3590366,
+                "formatted_address": "Sveg, Sweden"
+            }
+        },
+        {
+            "position": "apotekare",
+            "start_year": 1937,
+            "end_year": 1950,
+            "organization": "apotHjorten",
+            "location": {
+                "name": "Östersund",
+                "latitude": 63.1766832,
+                "longitude": 14.6360681,
+                "formatted_address": "Östersund, Sweden"
+            }
+        },
+        {
+            "position": "innehavare",
+            "start_year": 1950,
+            "end_year": 1956,
+            "organization": "apot Säter",
+            "location": {
+                "name": "Säter",
+                "latitude": 60.34665,
+                "longitude": 15.7479,
+                "formatted_address": "Säter, Sweden"
+            }
+        },
+        {
+            "position": "apotekare",
+            "start_year": 1956,
+            "organization": "apot Lokatten",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            }
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Björge",
+        "middle_name": "J",
+        "gender": "Male",
+        "birth_date": "25-07-1906",
+        "birth_place": {
+            "name": "Hörnefors, Västerbottens Län",
+            "latitude": 63.6235916,
+            "longitude": 19.9083586,
+            "formatted_address": "905 31 Hörnefors, Sweden"
+        },
+        "occupation": {
+            "occupation": "apotekare",
+            "occupation_english": "pharmacist",
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist",
+            "hisco_code_english": "41030.0",
+            "hisco_description_english": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Johansson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "byggmästare",
+                    "occupation_english": "builder",
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor",
+                    "hisco_code_english": "95910.0",
+                    "hisco_description_english": "Housebuilder, General"
+                }
+            },
+            {
+                "first_name": "Amanda",
+                "last_name": "Löfqvist",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Apotekarsocietetets planeringsnämnd",
+            "role": "ledamot",
+            "start_year": 1958,
+            "end_year": 1963
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "ledamot",
+            "organization": "byggnadsnämnden Säter"
+        },
+        {
+            "role": "stadsfullmäktige",
+            "organization": "Säter"
+        }
+    ],
+    "current_location": {
+        "name": "Danderyd",
+        "latitude": 59.4059401,
+        "longitude": 18.0256382,
+        "formatted_address": "Danderyd, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Apotekarexamen",
+            "degree_level": "Master's",
+            "year": "1935",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Birgitta",
+            "last_name": "Bergström",
+            "gender": "Female",
+            "birth_date": "1908",
+            "occupation": {
+                "occupation": "farmacie kandidat",
+                "occupation_english": "pharmacy candidate",
+                "hisco_code_swedish": "6710.0",
+                "hisco_description_swedish": "Pharmacist",
+                "hisco_code_english": "41030.0",
+                "hisco_description_english": "Working Proprietor (Retail Trade)"
+            },
+            "parents": [
+                {
+                    "first_name": "Jacob",
+                    "last_name": "Bergström",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "apotekare",
+                        "occupation_english": "pharmacist",
+                        "hisco_code_swedish": "6710.0",
+                        "hisco_description_swedish": "Pharmacist",
+                        "hisco_code_english": "41030.0",
+                        "hisco_description_english": "Working Proprietor (Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Ellen",
+                    "last_name": "Hwarfner",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1938"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "Frösön",
+            "position": "kommunala uppdrag",
+            "start_year": 1943,
+            "end_year": 1950
+        },
+        {
+            "organization": "Säter",
+            "position": "ledamot byggnadsnämnden",
+            "start_year": 1954,
+            "end_year": 1956
+        },
+        {
+            "organization": "Säter",
+            "position": "stadsfullmäktige",
+            "start_year": 1955,
+            "end_year": 1956
+        }
+    ],
+    "publications": null,
+    "travels": null
+}

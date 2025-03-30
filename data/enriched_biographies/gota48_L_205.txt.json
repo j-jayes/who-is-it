@@ -1,0 +1,181 @@
+{
+    "career": [
+        {
+            "position": "Underingenjör",
+            "start_year": 1908,
+            "end_year": 1910,
+            "organization": "Hellefors Bruks Aktiebolag",
+            "location": {
+                "name": "Hällefors",
+                "latitude": 59.783688,
+                "longitude": 14.5225692,
+                "formatted_address": "Hällefors, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Förste Ingenjör",
+            "start_year": 1912,
+            "end_year": 1917,
+            "organization": "Hellefors Bruks Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": "Christiania Spigerverk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1919,
+            "end_year": 1924,
+            "organization": "Björneborgs Järnverks Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1924,
+            "end_year": null,
+            "organization": "Aktiebolaget Elektrolux kylavdelning",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Liberg",
+        "middle_name": "Herman Bernhard",
+        "gender": "Male",
+        "birth_date": "03-07-1886",
+        "birth_place": {
+            "name": "Husby-Rekarne, Södermanlands Län",
+            "latitude": 59.256164,
+            "longitude": 16.436965,
+            "formatted_address": "Husby-Rekarne, 635 18 Husby-rekarne, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Liberg",
+                "middle_name": "Bernhard",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Anneli",
+                "middle_name": "Katarina Maria",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Mogenhetsexamen",
+            "degree_level": "Schooling",
+            "year": "1903",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Elev",
+            "degree_level": "Schooling",
+            "year": "1904-1905",
+            "institution": "Falu bergsskola"
+        },
+        {
+            "degree": "Elev",
+            "degree_level": "Schooling",
+            "year": "1906-1907",
+            "institution": "Bergshögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Holmberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1926",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Urban",
+                "last_name": "Liberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1928"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1910-1912"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1910-1912"
+        }
+    ]
+}

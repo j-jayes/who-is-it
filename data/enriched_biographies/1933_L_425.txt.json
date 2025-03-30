@@ -1,0 +1,185 @@
+{
+    "career": [
+        {
+            "position": "Innehavare",
+            "start_year": 1889,
+            "organization": "Lund o. Ekholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Stadsfullmäktige",
+            "start_year": 1905,
+            "end_year": 1929,
+            "organization": "Stockholms stad",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vice Ordförande",
+            "start_year": 1905,
+            "end_year": 1929,
+            "organization": "Hantverksföreningen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1924,
+            "end_year": 1926,
+            "organization": "Svensk skrädderitidning",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Lund",
+        "middle_name": "Josef",
+        "gender": "Male",
+        "birth_date": "16-05-1864",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Skrädderiidkare",
+            "occupation_english": "Tailor",
+            "hisco_code_swedish": "79100.0",
+            "hisco_description_swedish": "Tailor, Specialisation Unknown",
+            "hisco_code_english": "79100.0",
+            "hisco_description_english": "Tailor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Lund",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Skräddarmästare",
+                    "occupation_english": "Master Tailor",
+                    "hisco_code_swedish": "79100.0",
+                    "hisco_description_swedish": "Tailor, Specialisation Unknown",
+                    "hisco_code_english": "79100.0",
+                    "hisco_description_english": "Tailor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Emilie",
+                "last_name": "Roos",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1884",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Minnie",
+            "last_name": "Holmberg",
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "P",
+                    "last_name": "Holmberg",
+                    "gender": "Male"
+                },
+                {
+                    "first_name": "Kristina",
+                    "last_name": "Holmberg",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1890",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "Hedersledamot",
+            "institution": "Stockholms skrädderiidkarförening",
+            "year": "None"
+        }
+    ],
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1886"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1887"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1889"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "organization": "Henrik Gahns AB",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            }
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "SVAXSTRÖM",
+        "gender": "Male",
+        "birth_date": "09-10-1901",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "S",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Helga",
+                "last_name": "Halvorsen",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Real- och Handelsskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Aina",
+            "last_name": "Abel",
+            "gender": "Female"
+        }
+    },
+    "hobbies": [
+        "Ridning",
+        "Jakt",
+        "Fiske"
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        }
+    ]
+}

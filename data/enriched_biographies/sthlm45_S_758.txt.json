@@ -1,0 +1,190 @@
+{
+    "career": [
+        {
+            "position": "Souschef",
+            "start_year": 1914,
+            "end_year": 1918,
+            "organization": "Restaurang Metropol",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Studerande",
+            "start_year": 1918,
+            "end_year": 1920,
+            "organization": "Lantbruk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Övertog",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Högsta Igård, Drottningholm",
+            "location": {
+                "name": "Drottningholm",
+                "latitude": 59.3216878,
+                "longitude": 17.8868298,
+                "formatted_address": "Drottningholms slott, 178 93 Drottningholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Etablerade",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": "Firman Windrup & Co",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ensam innehare",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Firman Windrup & Co",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Wille",
+        "last_name": "Windrup",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "10-05-1891",
+        "birth_place": {
+            "name": "Djursholm",
+            "latitude": 59.39707249999999,
+            "longitude": 18.0903005,
+            "formatted_address": "Djursholm, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Wilhelm",
+                "last_name": "Windrup",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Nyström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1909",
+            "institution": "Norra Realläroverket"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margareta",
+            "last_name": "Söderlund",
+            "middle_name": "Eleonora",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1920",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Wille",
+                "last_name": "Windrup",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1921"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Windrup",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1921"
+            },
+            {
+                "first_name": "Olle",
+                "last_name": "Windrup",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1926"
+            }
+        ]
+    },
+    "hobbies": [
+        "Målning (konststudier för bland annat Caleb Althin i Sverige och Gari Gander i Frankfurt am Main, Tyskland)"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

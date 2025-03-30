@@ -1,0 +1,206 @@
+{
+    "career": [
+        {
+            "position": "Biträdande Ingenjör",
+            "start_year": 1933,
+            "end_year": 1937,
+            "organization": "Väg- och vattenbyggnadsstyrelsen (hamnbyrån)",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Avdelningsingenjör",
+            "start_year": 1937,
+            "end_year": 1939,
+            "organization": "Väg- och vattenbyggnadsstyrelsen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Arbetschef",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Väg- och vattenbyggnadsstyrelsen",
+            "location": {
+                "name": "nedre norra distriktet",
+                "latitude": 32.8972246,
+                "longitude": 35.3027226,
+                "formatted_address": "North District, Israel"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Kari",
+        "last_name": "JANZON",
+        "middle_name": "Gunnar",
+        "gender": "Male",
+        "birth_date": "28-12-1909",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "K",
+                "last_name": "A",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Ingenjör",
+                    "occupation_english": "Engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Signe",
+                "last_name": "Karlsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Sundsvall",
+        "latitude": 62.390811,
+        "longitude": 17.306927,
+        "formatted_address": "Sundsvall, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1928",
+            "institution": "Djursholms samskola"
+        },
+        {
+            "degree": "Examen från Kungliga Tekniska Högskolan",
+            "degree_level": "Master's",
+            "year": "1933",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ruth",
+            "last_name": "Lawaetz",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1939"
+        }
+    ]
+}

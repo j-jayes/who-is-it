@@ -1,0 +1,169 @@
+{
+    "career": [
+        {
+            "position": "fiskal",
+            "start_year": 1965,
+            "organization": "Skånska hovrätten",
+            "location": {
+                "name": "Skåne",
+                "latitude": 55.99025719999999,
+                "longitude": 13.5957692,
+                "formatted_address": "Skåne County, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "avdelningsdirektör",
+            "start_year": 1967,
+            "organization": "Rikspolisstyrelsen",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "byråchef",
+            "start_year": 1970,
+            "organization": "Rikspolisstyrelsen",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "polisöverintendent",
+            "start_year": 1981,
+            "organization": "Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "länspolismästare",
+            "start_year": 1988,
+            "end_year": 1996,
+            "organization": "Malmöhus Län",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "länspolismästare",
+            "start_year": 1997,
+            "organization": "Skåne",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Wranghult",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "10-08-1937",
+        "birth_place": {
+            "name": "Finja, Kristianstads Län",
+            "latitude": 56.1681562,
+            "longitude": 13.694527,
+            "formatted_address": "281 53 Finja, Sweden"
+        },
+        "occupation": {
+            "occupation": "länspolismästare",
+            "occupation_english": "chief of police",
+            "hisco_code_swedish": "58220.0",
+            "hisco_description_swedish": "Policeman and other Maintainers of Law and Order (except Military)"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Persson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "folkskollärare",
+                    "occupation_english": "primary school teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Elsa",
+                "last_name": "Dahlberg",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "juridisk kandidat",
+            "degree_level": "Master's",
+            "year": "1962",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Siv",
+            "last_name": "Bodekull",
+            "gender": "Female",
+            "birth_date": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Stig",
+                    "last_name": "Bodekull",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "stadskamrer",
+                        "occupation_english": "city treasurer",
+                        "hisco_code_swedish": "31090.0",
+                        "hisco_description_swedish": "Government Executive Officials Not Elsewhere Classified",
+                        "hisco_code_english": "31090.0",
+                        "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                    }
+                },
+                {
+                    "first_name": "Elin",
+                    "last_name": "Lundblad",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1961"
+    },
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1987"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1988"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1900,
+            "end_year": 1902,
+            "organization": "Brown-Boveri",
+            "location": {
+                "name": "Baden, Schweiz",
+                "latitude": 47.47288,
+                "longitude": 8.30809,
+                "formatted_address": "Baden, Switzerland"
+            },
+            "country_code": "CHE"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1904,
+            "end_year": 1912,
+            "organization": "Asea",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Försäljningschef",
+            "start_year": 1912,
+            "end_year": 1921,
+            "organization": "Asea",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "A-B Liljeholm, kabelfabrik",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Elektriska A-B Helios",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Elektriska A-B Chr. Berg & Co.",
+            "location": {
+                "name": "Svalöv",
+                "latitude": 55.9129296,
+                "longitude": 13.1018168,
+                "formatted_address": "Svalöv, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Albert",
+        "last_name": "Elfström",
+        "middle_name": "Mikael",
+        "gender": "Male",
+        "birth_date": "29-10-1877",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör, Ingenjör",
+            "occupation_english": "Director, Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan Alfred",
+                "last_name": "Elfström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Övningslärare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "13000.0",
+                    "hisco_description_swedish": "Teacher, Level and Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Oscara",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Apotekarnes kemiska fabrik Astra"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Ingenjörsfirman Teknik"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "A-B Radiotjänst"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1898",
+            "institution": "Chalmers"
+        },
+        {
+            "degree": "Polytechnikum",
+            "degree_level": "Master's",
+            "year": "1900",
+            "institution": "Zürich"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sigrid",
+            "last_name": "Svenson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1903",
+        "divorce_year": "1936"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "RVO"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

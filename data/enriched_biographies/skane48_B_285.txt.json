@@ -1,0 +1,222 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Bank Aktiebolag Södra Sverige",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Svenska Handelsbanken",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "end_year": 1925,
+            "organization": "Försäkrings Aktiebolag Malmö",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kassör",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Brand- & Livförsäkrings Aktiebolag Skåne",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Huvudkassör",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Brand- & Livförsäkrings Aktiebolag Skåne",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Valvskamrer",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "Brand- & Livförsäkrings Aktiebolag Skåne",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kassadirektör",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Brand- & Livförsäkrings Aktiebolag Skåne",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Aktiebolag Sam",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Borg",
+        "middle_name": "Emil Gösta",
+        "gender": "Male",
+        "birth_date": "09-01-1896",
+        "birth_place": {
+            "name": "Ystad",
+            "latitude": 55.4295051,
+            "longitude": 13.8200308,
+            "formatted_address": "Ystad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kassadirektör",
+            "occupation_english": "Bank Director",
+            "hisco_code_swedish": "21300.0",
+            "hisco_description_swedish": "Sales Manager, Specialisation Unknown",
+            "hisco_code_english": "44140.0",
+            "hisco_description_english": "Stock Broker"
+        },
+        "parents": [
+            {
+                "first_name": "Emil",
+                "last_name": "Borg",
+                "middle_name": "A.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Konsul",
+                    "occupation_english": "Consul",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator",
+                    "hisco_code_english": "20210.0",
+                    "hisco_description_english": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Ingeborg",
+                "last_name": "Schultz",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "Ordförande i styrelsen",
+            "organization": "Aktiebolag Ubbe"
+        },
+        {
+            "position": "Ordförande i styrelsen",
+            "organization": "Aktiebolag Johan Ekelund"
+        },
+        {
+            "position": "Styrelsesuppleant",
+            "organization": "Ang. Schultz Handel Aktiebolag"
+        },
+        {
+            "position": "Styrelsesuppleant",
+            "organization": "Försäkrings Aktiebolag Malmö"
+        }
+    ],
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Amelie",
+            "last_name": "Queckfeldt",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "marriage_year": "1921",
+        "divorce_year": "1938",
+        "children": [
+            {
+                "first_name": "Marianne",
+                "last_name": "Borg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1924"
+            },
+            {
+                "first_name": "Eskil",
+                "last_name": "Borg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1928"
+            }
+        ]
+    },
+    "hobbies": [
+        "ystadiana",
+        "silver"
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CZE"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE"
+        }
+    ]
+}

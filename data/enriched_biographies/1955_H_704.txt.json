@@ -1,0 +1,208 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Hägg",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "14-12-1903",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Hägg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Generallotsdirektör",
+                    "occupation_english": "Director General of Pilotage"
+                }
+            },
+            {
+                "first_name": "Hertha",
+                "last_name": "Trägårdh",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Stockholms Högskola",
+            "department": null,
+            "start_year": 1927,
+            "end_year": null,
+            "field": "Kemi"
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Stockholms Högskola",
+            "department": null,
+            "start_year": 1929,
+            "end_year": null,
+            "field": "Kemi"
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Stockholms Högskola",
+            "department": null,
+            "start_year": 1929,
+            "end_year": null,
+            "field": "Kemi"
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1936,
+            "end_year": null,
+            "field": "Kemi"
+        }
+    ],
+    "achievements": [],
+    "awards": [],
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "Lantbrukshögskolan"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "Försvarets forskningsanstalt"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Statens naturvetenskapliga forskningsråd",
+            "role": "ledamot",
+            "start_year": 1951,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1927",
+            "institution": "Stockholms Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunnel",
+            "last_name": "Silfwerbrand",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Petrus",
+                    "last_name": "Silfwerbrand",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Byrådirektör, överstelöjtnant i VVK",
+                        "occupation_english": "Director of the Bureau, Lieutenant Colonel in VVK",
+                        "hisco_code_swedish": "21000.0",
+                        "hisco_description_swedish": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Ruth",
+                    "last_name": "Lind",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1934",
+        "divorce_year": null,
+        "children": []
+    },
+    "hobbies": [],
+    "honorary_titles": [],
+    "honors": [
+        "LVS (Ledamot av Vetenskapssamhället i Uppsala) 1940",
+        "LVA (Ledamot av Vetenskapsakademien) 1942",
+        "LFS (Ledamot av Fysiografiska Sällskapet i Lund) 1943"
+    ],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Kemisk reaktionslära",
+            "year": "1940",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Die theoretischen Grundlagen der analytischen Chemie",
+            "year": "1950",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Jena",
+                "latitude": 50.927054,
+                "longitude": 11.5892372,
+                "formatted_address": "07 Jena, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1930"
+        }
+    ]
+}

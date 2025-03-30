@@ -1,0 +1,182 @@
+{
+    "career": [
+        {
+            "position": "ritare",
+            "start_year": 1910,
+            "end_year": 1912,
+            "organization": "Carnegie Steel Co.",
+            "location": {
+                "name": "Duquesne",
+                "latitude": 40.4369485,
+                "longitude": -79.99025759999999,
+                "formatted_address": "600 Forbes Ave, Pittsburgh, PA 15282, USA"
+            },
+            "country_code": null
+        },
+        {
+            "position": "ritare",
+            "start_year": 1910,
+            "end_year": 1912,
+            "organization": "Wellamite Iron & Steel Co.",
+            "location": {
+                "name": "Portland",
+                "latitude": 45.515232,
+                "longitude": -122.6783853,
+                "formatted_address": "Portland, OR, USA"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1912,
+            "organization": "Sandvikens Jernverks aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "chefsingenjör",
+            "start_year": 1912,
+            "organization": "Sandvikens Jernverks aktiebolag",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Samuel",
+        "last_name": "Lindblom",
+        "middle_name": "Teofil",
+        "gender": "Male",
+        "birth_date": "14-05-1884",
+        "birth_place": {
+            "name": "Oppeby, Östergötlands Län",
+            "latitude": 58.03508290000001,
+            "longitude": 15.8071142,
+            "formatted_address": "590 46 Oppeby, Sweden"
+        },
+        "occupation": {
+            "occupation": "bergsingenjör",
+            "occupation_english": "mining engineer",
+            "hisco_code_swedish": "2710.0",
+            "hisco_description_swedish": "Mining Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Christian",
+                "last_name": "Lindblom",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "prost",
+                    "occupation_english": "provost",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Sehmann",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Sandviken",
+        "latitude": 60.621607,
+        "longitude": 16.775918,
+        "formatted_address": "Sandviken, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1903",
+            "institution": "Linköping"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1907",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Emmy",
+            "last_name": "Dehne",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": {
+                "name": "Essen",
+                "latitude": 51.4575573,
+                "longitude": 7.0224632,
+                "formatted_address": "45 Essen, Germany"
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Heinr.",
+                    "last_name": "Dehne",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "förvaltare",
+                        "occupation_english": "manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Emma",
+                    "last_name": "Wiese",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1912",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "LIVA 1944"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1909"
+        }
+    ]
+}

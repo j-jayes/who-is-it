@@ -1,0 +1,212 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1909,
+            "end_year": 1910,
+            "organization": "AB Stockholms Patentbyrå",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1910,
+            "end_year": 1912,
+            "organization": "Ingenjörsfirman Fritz Egnell",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör vid AB Vattenbyggnadsbyråns mekaniska avdelning",
+            "start_year": 1912,
+            "end_year": null,
+            "organization": "AB Vattenbyggnadsbyrå",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Konsult",
+            "start_year": 1924,
+            "end_year": null,
+            "organization": "AB Vattenbyggnadsbyrå",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Laurentius",
+        "last_name": "Pettersson",
+        "middle_name": "Hugo",
+        "gender": "Male",
+        "birth_date": "29-08-1883",
+        "birth_place": {
+            "name": "Skövde",
+            "latitude": 58.3902782,
+            "longitude": 13.8461208,
+            "formatted_address": "Skövde, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "P",
+                "last_name": "Pettersson",
+                "middle_name": "J",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "byggmästare",
+                    "occupation_english": "Building contractor",
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor",
+                    "hisco_code_english": "21240.0",
+                    "hisco_description_english": "Contractor"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stocksund",
+        "latitude": 59.3841662,
+        "longitude": 18.0478685,
+        "formatted_address": "Stocksund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Mogenhetsexamen",
+            "degree_level": "Schooling",
+            "year": "1904",
+            "institution": "Kristianstad"
+        },
+        {
+            "degree": "Examen från Kungliga Tekniska Högskolan",
+            "degree_level": "Master's",
+            "year": "1908",
+            "institution": "KTH"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1908-1909",
+            "institution": "Polytechnikum Zurich"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Selma",
+            "last_name": "Högström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "RVO"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1908-1909"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1909"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1936"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "career": [
+        {
+            "position": "Biträdande Ingenjör",
+            "start_year": 1897,
+            "end_year": 1898,
+            "organization": "Nykroppa jernväg",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1899,
+            "end_year": 1900,
+            "organization": "Ankarsrums bruk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1900,
+            "end_year": 1906,
+            "organization": "Dalsbruk",
+            "location": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1907,
+            "end_year": null,
+            "organization": "Morgårdshammars mekaniska verkstad",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Disponentassistent",
+            "start_year": 1907,
+            "end_year": null,
+            "organization": "Morgårdshammars mekaniska verkstad",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1912,
+            "end_year": 1939,
+            "organization": "Morgårdshammars mekaniska verkstad",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Victor",
+        "last_name": "Jansson",
+        "middle_name": "Emanuel",
+        "gender": "Male",
+        "birth_date": "02-06-1872",
+        "birth_place": {
+            "name": "Saxån, Värmlands Län",
+            "latitude": 59.7860867,
+            "longitude": 14.3643714,
+            "formatted_address": "682 92 Saxån, Sweden"
+        },
+        "occupation": {
+            "occupation": "föredetta disponent",
+            "occupation_english": "Former Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Jansson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bruksägare",
+                    "occupation_english": "mill owner"
+                }
+            },
+            {
+                "first_name": "Sofia",
+                "last_name": "Carlsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "RVO"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1891",
+            "institution": "Karlstad"
+        },
+        {
+            "degree": "Teknisk högskola",
+            "degree_level": "Bachelor's",
+            "year": "1892-1895",
+            "institution": "Tekniska högskolan"
+        },
+        {
+            "degree": "Bergsskola",
+            "degree_level": "Schooling",
+            "year": "1895-1896",
+            "institution": "Bergsskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hildur",
+            "last_name": "Löfström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1905",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1899"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1899"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1899"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Ragnar",
+        "last_name": "Sandberg",
+        "middle_name": "Gösta Leopold",
+        "gender": "Male",
+        "birth_date": "16-02-1902",
+        "birth_place": {
+            "name": "Sanne, Göteborgs och Bohus Län",
+            "latitude": 57.68229609999999,
+            "longitude": 11.9066539,
+            "formatted_address": "Sandarna, Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor, konstnär",
+            "occupation_english": "professor, artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "professor i teckning",
+            "institution": "KKH",
+            "start_year": 1947
+        },
+        {
+            "position": "professor i målning",
+            "institution": "KKH",
+            "start_year": 1949
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Separatutställningar",
+            "field": "konst",
+            "significance": "Stockholm, Göteborg, London, representerad i Nationalmuseum, Göteborgs och Gävle museum"
+        }
+    ],
+    "awards": [
+        "LFrKA 1947"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Bachelor's",
+            "year": "1920-1923",
+            "institution": "Valand"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Karlsson",
+            "gender": "Female",
+            "birth_date": "1904",
+            "parents": [
+                {
+                    "first_name": "Hilmer",
+                    "last_name": "K.",
+                    "gender": "Male"
+                },
+                {
+                    "first_name": "Stina",
+                    "last_name": "Olsson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1938"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Ostasien",
+                "latitude": 38.7945952,
+                "longitude": 106.5348379,
+                "formatted_address": "East Asia"
+            },
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1926"
+        }
+    ]
+}

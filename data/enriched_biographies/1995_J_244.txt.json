@@ -1,0 +1,206 @@
+{
+    "career": [
+        {
+            "position": "Fänrik",
+            "start_year": 1919,
+            "organization": "A 6",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kapten",
+            "start_year": 1933,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Major",
+            "start_year": 1940,
+            "organization": "Ivart",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överstelöjtnant",
+            "start_year": 1943,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överste",
+            "start_year": 1947,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Lv 7",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1948,
+            "end_year": 1956,
+            "organization": "Lv 6",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Nämndeman",
+            "start_year": 1959,
+            "end_year": 1966,
+            "organization": "rådhusr",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Niels",
+        "last_name": "Juel",
+        "middle_name": "J",
+        "gender": "Male",
+        "birth_date": "05-09-1896",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "fd överste",
+            "occupation_english": null,
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Bernhard",
+                "last_name": "Juel",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "konteramiral",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer"
+                }
+            },
+            {
+                "first_name": "Rosalie",
+                "last_name": "Björkman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Anna-Marie",
+            "last_name": "Holm",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Hans",
+                    "last_name": "H",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "direktör",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager"
+                    }
+                },
+                {
+                    "first_name": "Augusta",
+                    "last_name": "Mathiesen",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "Gstasp 1930-1933, kadettoff KS 1933-1934, språkstudier och tjänstgöring Finland 1933-1934 och 1936, Frankrike 1948, tjänstgöring generalstaben och försvarsstaben 1933-1936, 1939-1940, Ivoff som militärattaché 1940-1941.",
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1948"
+        }
+    ]
+}

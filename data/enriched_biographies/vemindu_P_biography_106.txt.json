@@ -1,0 +1,198 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1913,
+            "organization": "Ingenjörsfirman Sven Carlson",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1919,
+            "organization": "Aktiebolaget Atlas Diesels avdelning för tillverkning av transportanläggningar",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1925,
+            "organization": "Ingenjörsfirman Edward Larsson & Co",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Pettersson",
+        "middle_name": "Bernhard",
+        "gender": "Male",
+        "birth_date": "03-10-1893",
+        "birth_place": {
+            "name": "Falun",
+            "latitude": 60.60646000000001,
+            "longitude": 15.6355,
+            "formatted_address": "Falun, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "Pettersson",
+                "middle_name": "A",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Skräddarmästare",
+                    "occupation_english": "Master Tailor",
+                    "hisco_code_swedish": "79100.0",
+                    "hisco_description_swedish": "Tailor, Specialisation Unknown",
+                    "hisco_code_english": "79100.0",
+                    "hisco_description_english": "Tailor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Hedberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Nockeby",
+        "latitude": 59.3273899,
+        "longitude": 17.9260272,
+        "formatted_address": "Nockeby, Bromma, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Examen",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Falu bergsskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ruth",
+            "last_name": "Granath",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Bilkörning",
+        "Musik",
+        "Fiske"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Norden",
+                "latitude": 53.59878519999999,
+                "longitude": 7.196716,
+                "formatted_address": "26506 Norden, Germany"
+            },
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Skottland",
+                "latitude": 56.49067119999999,
+                "longitude": -4.2026458,
+                "formatted_address": "Scotland, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Färöarna",
+                "latitude": 61.89263500000001,
+                "longitude": -6.911805999999999,
+                "formatted_address": "Faroe Islands"
+            },
+            "country_code": "FRO",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Island",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ISL",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "career": [
+        {
+            "position": "Debut",
+            "start_year": 1922,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Operettgästspel",
+            "start_year": 1926,
+            "organization": "Oslo",
+            "location": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        }
+    ],
+    "person": {
+        "first_name": "Okänd",
+        "last_name": "Okänd",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": null,
+        "birth_place": null,
+        "occupation": {
+            "occupation": "Operasångerska",
+            "occupation_english": "Opera singer",
+            "hisco_code_swedish": "17145.0",
+            "hisco_description_swedish": "Singer",
+            "hisco_code_english": "17145.0",
+            "hisco_description_english": "Singer"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Storbritannien",
+                "latitude": 55.378051,
+                "longitude": -3.435973,
+                "formatted_address": "United Kingdom"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

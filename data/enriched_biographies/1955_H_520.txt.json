@@ -1,0 +1,196 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Hoflund",
+        "middle_name": "Axel",
+        "gender": "Male",
+        "birth_date": "11-08-1906",
+        "birth_place": {
+            "name": "Högby, Kalmar Län",
+            "latitude": 57.17260400000001,
+            "longitude": 16.020619,
+            "formatted_address": "Högsby, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Rudolf",
+                "last_name": "Hoflund",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kontraktsprost",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Blenda",
+                "last_name": "Ringberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "laborator",
+            "position_english": "laboratory technician",
+            "institution": "Veterinärhögskolan",
+            "department": "obstetrisk-bujatriska institutionen",
+            "start_year": 1935,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Veterinärhögskolan",
+            "department": null,
+            "start_year": 1949,
+            "end_year": null,
+            "field": "medicin för idisslare"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Experimentalfältet",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "veterinärexamen",
+            "degree_level": "Doctorate",
+            "year": "1930",
+            "institution": "None"
+        },
+        {
+            "degree": "veterinärmedicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1940",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingeborg",
+            "last_name": "Modig",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "07-00-1907",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Johannes",
+                    "last_name": "Modig",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "länsveterinär",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "6510.0",
+                        "hisco_description_swedish": "Veterinarian, General"
+                    }
+                },
+                {
+                    "first_name": "Alma",
+                    "last_name": "Ericsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1933",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "reservofficer 1932",
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Untersuchungen über Störungen in den Funktionen der Wiederkäuermagen etc.",
+            "year": "None",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "ett flertal uppsatser angående nötkreaturens och fårens sjukdomar",
+            "year": "None",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Estland",
+                "latitude": 58.595272,
+                "longitude": 25.013607,
+                "formatted_address": "Estonia"
+            },
+            "country_code": "EST",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Sydafrika",
+                "latitude": -30.559482,
+                "longitude": 22.937506,
+                "formatted_address": "South Africa"
+            },
+            "country_code": "ZAF",
+            "year": "1947"
+        }
+    ]
+}

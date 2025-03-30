@@ -1,0 +1,175 @@
+{
+    "career": [
+        {
+            "position": "Balettskoleelev",
+            "start_year": 1921,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Premiärelev",
+            "start_year": 1931,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Premiärdansös",
+            "start_year": 1934,
+            "end_year": 1955,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Filmroller",
+            "start_year": 1934,
+            "organization": "Sverige och Tyskland",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Brita",
+        "last_name": "Appeigren",
+        "middle_name": "D",
+        "gender": "Female",
+        "birth_date": "21-12-1912",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Premiärdansös",
+            "occupation_english": "Principal Dancer",
+            "hisco_code_swedish": "17230.0",
+            "hisco_description_swedish": "Dancer"
+        },
+        "parents": [
+            {
+                "first_name": "Patrik",
+                "last_name": "Appeigren",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Okänt",
+                    "occupation_english": "Unknown",
+                    "hisco_code_english": "-1.0",
+                    "hisco_description_english": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Beda",
+                "last_name": "Hult",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "Okänt",
+                    "occupation_english": "Unknown",
+                    "hisco_code_english": "-1.0",
+                    "hisco_description_english": "Missing, no title"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Sten",
+            "last_name": "Hermansson",
+            "gender": "Male",
+            "birth_date": null,
+            "occupation": {
+                "occupation": "Juridik kandidat",
+                "occupation_english": "Candidate of Law",
+                "hisco_code_swedish": "12000.0",
+                "hisco_description_swedish": "Jurist, Specialization Unknown",
+                "hisco_code_english": "12110.0",
+                "hisco_description_english": "Lawyer"
+            }
+        },
+        "marriage_year": "1961"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN"
+        },
+        {
+            "country": {
+                "name": "Lettland",
+                "latitude": 56.879635,
+                "longitude": 24.603189,
+                "formatted_address": "Latvia"
+            },
+            "country_code": "LVA"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1912,
+            "end_year": 1914,
+            "organization": "Norsk Elektrisk & Brown Boveri",
+            "location": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1915,
+            "organization": "Norske Liv",
+            "location": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1915,
+            "end_year": 1921,
+            "organization": "E & N Chr Evensen",
+            "location": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": 1923,
+            "organization": "A Jul Larsen",
+            "location": {
+                "name": "Strömstad",
+                "latitude": 58.9383459,
+                "longitude": 11.1791871,
+                "formatted_address": "Strömstad, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1924,
+            "organization": "A Jul Larsen & Son",
+            "location": {
+                "name": "Strömstad",
+                "latitude": 58.9383459,
+                "longitude": 11.1791871,
+                "formatted_address": "Strömstad, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ensam ägare",
+            "start_year": 1942,
+            "organization": "A Jul Larsen & Son",
+            "location": {
+                "name": "Strömstad",
+                "latitude": 58.9383459,
+                "longitude": 11.1791871,
+                "formatted_address": "Strömstad, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "organization": "AB Lysekils Stenindustri",
+            "location": {
+                "name": "Strömstad",
+                "latitude": 58.9383459,
+                "longitude": 11.1791871,
+                "formatted_address": "Strömstad, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1934,
+            "organization": "AB Lysekils Stenindustri",
+            "location": {
+                "name": "Strömstad",
+                "latitude": 58.9383459,
+                "longitude": 11.1791871,
+                "formatted_address": "Strömstad, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Yngvar",
+        "last_name": "Septus-Larsen",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "17-11-1894",
+        "birth_place": {
+            "name": "Sarpsborg, Norge",
+            "latitude": 59.28407290000001,
+            "longitude": 11.1094028,
+            "formatted_address": "Sarpsborg, Norway"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Larsen",
+                "middle_name": "J",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": "Manager",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Andersen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "Styrelseordförande",
+            "organization": "AB Lysekils Stenindustri"
+        },
+        {
+            "position": "Styrelsesuppleant",
+            "organization": "Strömstads Sjömanshus"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Granitindustriförbund"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Strömstads Turistförening"
+        },
+        {
+            "position": "Styrelseordförande",
+            "organization": "Skidfrämjandets Strömstadskommitté"
+        }
+    ],
+    "hobbies": [
+        "Friluftsliv",
+        "Skidåkning",
+        "Bridge",
+        "Filateli"
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Danzig",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "POL",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1923"
+        }
+    ]
+}

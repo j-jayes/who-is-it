@@ -1,0 +1,159 @@
+{
+    "career": [
+        {
+            "position": "Medarbetare",
+            "start_year": 1900,
+            "organization": "Dagens Nyheter",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ingrid",
+        "last_name": "Sjöstrand",
+        "middle_name": "H M",
+        "gender": "Female",
+        "birth_date": "08-11-1922",
+        "birth_place": {
+            "name": "Rödön, Jämtlands Län",
+            "latitude": 63.24955489999999,
+            "longitude": 14.4196938,
+            "formatted_address": "835 91 Rödön, Sweden"
+        },
+        "occupation": {
+            "occupation": "författare",
+            "occupation_english": "author",
+            "hisco_code_swedish": "15120.0",
+            "hisco_description_swedish": "Author",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Flemström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "byggnadsingenjör",
+                    "occupation_english": "civil engineer",
+                    "hisco_code_swedish": "2220.0",
+                    "hisco_description_swedish": "Building Construction Engineer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "sjuksköterska",
+                    "occupation_english": "nurse",
+                    "hisco_code_swedish": "7110.0",
+                    "hisco_description_swedish": "Professional Nurse, General",
+                    "hisco_code_english": "7110.0",
+                    "hisco_description_english": "Professional Nurse, General"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Åkersberga",
+        "latitude": 59.4802773,
+        "longitude": 18.310783,
+        "formatted_address": "Åkersberga, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Kända nästet",
+            "year": "1969",
+            "type": "book"
+        },
+        {
+            "title": "Nattbok",
+            "year": "1970",
+            "type": "book"
+        },
+        {
+            "title": "Samhem",
+            "year": "1972",
+            "type": "book"
+        },
+        {
+            "title": "Familjen C",
+            "year": "1973",
+            "type": "book"
+        },
+        {
+            "title": "En tropisk orm på Karlaplan [befjädrad, 4 meter lång]",
+            "year": "1973",
+            "type": "book"
+        },
+        {
+            "title": "Blommande sköna dalar",
+            "year": "1974",
+            "type": "book"
+        },
+        {
+            "title": "Humlan vingad-Sångbok för brummare",
+            "year": "1976",
+            "type": "book"
+        },
+        {
+            "title": "Kalle Vrånglebäck",
+            "year": "1968",
+            "type": "book"
+        },
+        {
+            "title": "Loppas liv",
+            "year": "1969",
+            "type": "book"
+        },
+        {
+            "title": "Angår det dej kanske?",
+            "year": "1969",
+            "type": "book"
+        },
+        {
+            "title": "Vanjopp, Nya fundror för alla som kan läsa",
+            "year": "1970",
+            "type": "book"
+        },
+        {
+            "title": "Kalle och Loppa",
+            "year": "1970",
+            "type": "book"
+        },
+        {
+            "title": "En dag i vilda världen",
+            "year": "1971",
+            "type": "book"
+        },
+        {
+            "title": "Är du rädd för Uffe? Han är också rädd",
+            "year": "1971",
+            "type": "book"
+        },
+        {
+            "title": "Världen är full av vänner",
+            "year": "],[instruction]Fix the bug where the same publication type is listed multiple times instead of using separate keys for different publication types. Ensure that publications are divided into 'books', 'articles', and 'texts for media'. All other information should stay the same and must fit the schema provided. Make sure all required fields are filled in. If there is missing information, fill it with null. Only give a single valid JSON string. Do not add any other text outside of the string. Make sure the publications are separated into books, articles and texts. Put all articles under 'articles' and all 'texts for media' under texts. Remove the publication type as it is already separated by key. Create three keys, books, articles, texts. Each should hold the publications associated with them. Ensure each publications are under its respective key and the publication type is removed as it will already be designated by key. Each publications title and year should still be included. 1900, null, ",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,115 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Olle",
+        "last_name": "Nordberg",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "09-06-1905",
+        "birth_place": {
+            "name": "Munsö, Stockholms Län",
+            "latitude": 59.3757512,
+            "longitude": 17.5987563,
+            "formatted_address": "178 91 Munsö, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Nordberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Malmqvist",
+                "middle_name": "Maria",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Munsö",
+        "latitude": 59.3833333,
+        "longitude": 17.5833333,
+        "formatted_address": "Munsö, 178 91 Munsö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Konsthögskolan",
+            "degree_level": "Schooling",
+            "year": "1919-1925",
+            "institution": "Konsthögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märta",
+            "last_name": "Andersson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1927"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "career": [
+        {
+            "position": "tingsnotarie",
+            "start_year": 1907,
+            "end_year": 1911,
+            "organization": "Luleå och Gällivare domsaga",
+            "location": {
+                "name": "Luleå",
+                "latitude": 65.584819,
+                "longitude": 22.1567026,
+                "formatted_address": "Luleå, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "2. länsnotarie",
+            "start_year": 1912,
+            "end_year": null,
+            "organization": "Norrbottens Län",
+            "location": {
+                "name": "Luleå",
+                "latitude": 65.584819,
+                "longitude": 22.1567026,
+                "formatted_address": "Luleå, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "länsassessor",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Norrbottens Län",
+            "location": {
+                "name": "Luleå",
+                "latitude": 65.584819,
+                "longitude": 22.1567026,
+                "formatted_address": "Luleå, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "landssekreterare",
+            "start_year": 1933,
+            "end_year": null,
+            "organization": "Norrbottens Län",
+            "location": {
+                "name": "Luleå",
+                "latitude": 65.584819,
+                "longitude": 22.1567026,
+                "formatted_address": "Luleå, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ragnar",
+        "last_name": "Sundberg",
+        "middle_name": "August",
+        "gender": "Male",
+        "birth_date": "04-10-1883",
+        "birth_place": {
+            "name": "Haparanda",
+            "latitude": 65.8417085,
+            "longitude": 24.1276643,
+            "formatted_address": "Haparanda, Sweden"
+        },
+        "occupation": {
+            "occupation": "landssekreterare",
+            "occupation_english": null,
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Sundberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "hhövd",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Blenda",
+                "last_name": "Pi-pon",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "achievements": [
+        {
+            "title": "ledamot av svensk-finska delegationen",
+            "field": "laxfiske",
+            "year": null,
+            "significance": "för ordnande av laxfisket i Torne älv",
+            "recognized_by": null
+        },
+        {
+            "title": "föredrag i lappärenden",
+            "field": "lappärenden",
+            "year": "sedan 1918",
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Nord-Norge",
+                "latitude": 69.3281409,
+                "longitude": 18.6939617,
+                "formatted_address": "Northern Norway, Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        }
+    ]
+}

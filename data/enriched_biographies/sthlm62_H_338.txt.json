@@ -1,0 +1,222 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1932,
+            "end_year": 1932,
+            "organization": "Frankrike",
+            "location": null,
+            "country_code": "FRA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1933,
+            "end_year": 1933,
+            "organization": "Iranska regeringen",
+            "location": null,
+            "country_code": "IRN"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1933,
+            "end_year": 1933,
+            "organization": "Consortium Kampsax Teheran",
+            "location": {
+                "name": "Teheran",
+                "latitude": 35.7218583,
+                "longitude": 51.3346954,
+                "formatted_address": "Tehran, Tehran Province, Iran"
+            },
+            "country_code": "IRN"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1934,
+            "end_year": 1936,
+            "organization": "Aktiebolaget Hamnbyggnadsbyrån",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1936,
+            "end_year": 1939,
+            "organization": "Sentab",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Representant",
+            "start_year": 1939,
+            "end_year": 1950,
+            "organization": "Sentab",
+            "location": {
+                "name": "Argentina",
+                "latitude": -38.416097,
+                "longitude": -63.61667199999999,
+                "formatted_address": "Argentina"
+            },
+            "country_code": "ARG"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1950,
+            "end_year": 1956,
+            "organization": "Sentab Ltda",
+            "location": {
+                "name": "Rio de Janeiro",
+                "latitude": -22.9068467,
+                "longitude": -43.1728965,
+                "formatted_address": "Rio de Janeiro, State of Rio de Janeiro, Brazil"
+            },
+            "country_code": "BRA"
+        },
+        {
+            "position": "Egen verksamhet",
+            "start_year": 1956,
+            "end_year": 1960,
+            "organization": "Sydamerika",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": "Atepama aktiebolag (Agencia Tecnica Sueca para America Latina)",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Tore",
+        "last_name": "Hegert",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "17-04-1909",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Oscar",
+                "last_name": "Hegert",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byggning",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Ottilia",
+                "last_name": "Söderman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1927",
+            "institution": "None"
+        },
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1932",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Britta",
+            "last_name": "Blomdahl",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Sven",
+                    "last_name": "Blomdahl",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Fondkommissarie",
+                        "occupation_english": null
+                    }
+                },
+                {
+                    "first_name": "Adéle",
+                    "last_name": "Borg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1933",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Anders",
+                "last_name": "Hegert",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Krister",
+                "last_name": "Hegert",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1944"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

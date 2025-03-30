@@ -1,0 +1,191 @@
+{
+    "career": [
+        {
+            "position": "adjunkt",
+            "start_year": 1881,
+            "end_year": 1894,
+            "organization": "Jönköping",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lektor",
+            "start_year": 1881,
+            "end_year": 1894,
+            "organization": "Jönköping",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lektor",
+            "start_year": 1894,
+            "end_year": 1901,
+            "organization": "Gävle",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lektor",
+            "start_year": 1901,
+            "end_year": 1913,
+            "organization": "Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Hampus",
+        "last_name": "Arnell",
+        "middle_name": "Vilhelm",
+        "gender": "Male",
+        "birth_date": "02-08-1848",
+        "birth_place": {
+            "name": "Härnösand",
+            "latitude": 62.6322698,
+            "longitude": 17.9408714,
+            "formatted_address": "Härnösand, Sweden"
+        },
+        "occupation": {
+            "occupation": "föredetta lektor",
+            "occupation_english": "former lecturer",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hampus",
+                "last_name": "Arnell",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bankdirektör",
+                    "occupation_english": "bank director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "44140.0",
+                    "hisco_description_english": "Stock Broker"
+                }
+            },
+            {
+                "first_name": "Erika",
+                "last_name": "Forsséen",
+                "middle_name": "Johanna",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1872,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1875,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1875,
+            "end_year": null,
+            "field": "botanik"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "botaniska skrifter",
+            "field": "botanik",
+            "year": null,
+            "significance": "angående fenologi, fenomen och om mossor",
+            "recognized_by": null
+        },
+        {
+            "title": "forskningsresor",
+            "field": "botanik",
+            "year": null,
+            "significance": "i Sverige, Norge och Sibirien",
+            "recognized_by": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Helga",
+            "last_name": "None",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1880",
+        "divorce_year": null,
+        "children": null
+    },
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Sibirien",
+                "latitude": 61.01370970000001,
+                "longitude": 99.1966559,
+                "formatted_address": "Siberia, Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        }
+    ]
+}

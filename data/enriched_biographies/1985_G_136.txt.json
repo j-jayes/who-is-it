@@ -1,0 +1,174 @@
+{
+    "career": [
+        {
+            "position": "Överläkare",
+            "start_year": 1975,
+            "organization": "ortoped-kirurgiska kliniken, Sahlgrenska sjukhuset",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor",
+            "start_year": 1982,
+            "organization": "Karolinska Institutet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ian",
+        "last_name": "Goldie",
+        "middle_name": "R V F",
+        "gender": "Male",
+        "birth_date": "30-08-1914",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor i ortopedisk kirurgi",
+            "occupation_english": "Professor of Orthopedic Surgery",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "William",
+                "last_name": "Goldie",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmann",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Estella",
+                "last_name": "Currie",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Göteborgs Universitet",
+            "department": "experimentell ortopedi",
+            "start_year": 1965
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Göteborgs Universitet",
+            "department": "ortopedisk kirurgi",
+            "start_year": 1966
+        },
+        {
+            "position": "klinisk lärare",
+            "institution": "Göteborgs Universitet",
+            "start_year": 1970
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "Karolinska Institutet",
+            "start_year": 1982,
+            "field": "ortopedisk kirurgi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elisabeth",
+            "last_name": "Waidele",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Heimer",
+                    "last_name": "Waidele",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Svea",
+                    "last_name": "Wincrantz",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1959"
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR"
+        }
+    ]
+}

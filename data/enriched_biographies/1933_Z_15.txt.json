@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1918,
+            "end_year": 1920,
+            "organization": "Serafimerlasarettet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1920,
+            "end_year": 1921,
+            "organization": "Sabbatsbergs Sjukhus",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "Falu lasaretts ögonavdelning",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "chefsläkare",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": "Svenska brigaden i Finland",
+            "location": null,
+            "country_code": "FIN"
+        }
+    ],
+    "person": {
+        "first_name": "Ludvig",
+        "last_name": "Zethelius",
+        "middle_name": "Magnus",
+        "gender": "Male",
+        "birth_date": "10-07-1892",
+        "birth_place": {
+            "name": "Stora Tuna, Kopparbergs Län",
+            "latitude": 60.4470971,
+            "longitude": 15.4793016,
+            "formatted_address": "784 63 Stora Tuna, Sweden"
+        },
+        "occupation": {
+            "occupation": "lasarettsläkare",
+            "occupation_english": "hospital doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Ludvig",
+                "last_name": "Zethelius",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ingenjör",
+                    "occupation_english": "engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Jenny",
+                "last_name": "Melkerson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Falun",
+        "latitude": 60.60646000000001,
+        "longitude": 15.6355,
+        "formatted_address": "Falun, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1913",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1917",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1919",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Stina",
+            "last_name": "Källström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Arvid",
+                    "last_name": "Källström",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kontraktsprost",
+                        "occupation_english": "rural dean",
+                        "hisco_code_swedish": "14120.0",
+                        "hisco_description_swedish": "Minister of Religion",
+                        "hisco_code_english": "37030.0",
+                        "hisco_description_english": "Postman"
+                    }
+                },
+                {
+                    "first_name": "Ingeborg",
+                    "last_name": "Udden",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1917",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Om avslöjande av simulerad synnedsättning",
+            "year": "1919",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Om behandling av metylalkoholförgiftning",
+            "year": "1920",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

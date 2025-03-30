@@ -1,0 +1,225 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1922,
+            "end_year": 1930,
+            "organization": "olika skolor",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "adjunkt",
+            "start_year": 1931,
+            "organization": "Göteborgs högre latinläroverk",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lektor",
+            "start_year": 1932,
+            "organization": "Djursholms samskola",
+            "location": {
+                "name": "Djursholm",
+                "latitude": 59.39707249999999,
+                "longitude": 18.0903005,
+                "formatted_address": "Djursholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Hedfors",
+        "middle_name": "Josef Hjalmar",
+        "gender": "Male",
+        "birth_date": "24-12-1895",
+        "birth_place": {
+            "name": "Bolmsö, Jönköpings Län",
+            "latitude": 56.9455807,
+            "longitude": 13.7314549,
+            "formatted_address": "341 93 Bolmsö, Sweden"
+        },
+        "occupation": {
+            "occupation": "lektor",
+            "occupation_english": "lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Josef",
+                "last_name": "Petersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "godsägare",
+                    "occupation_english": "landowner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1932,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Stockholms Högskola",
+            "department": null,
+            "start_year": 1936,
+            "end_year": null,
+            "field": "latin språk och litteratur"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gurli",
+            "last_name": "Hedberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Elof",
+                    "last_name": "H.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "grosshandlare",
+                        "occupation_english": "wholesaler",
+                        "hisco_code_swedish": "41020.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Hilma",
+                    "last_name": "Petersson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1930",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Compositiones ad tingenda musiva",
+            "year": "1932",
+            "type": "gradavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "div artiklar",
+            "year": "None",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1933"
+        }
+    ]
+}

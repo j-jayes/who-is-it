@@ -1,0 +1,103 @@
+{
+    "career": [
+        {
+            "position": "förordnad",
+            "start_year": 1924,
+            "organization": "Sala lasarett"
+        },
+        {
+            "position": "förordnad",
+            "start_year": 1924,
+            "organization": "Norrköpings lasarett"
+        },
+        {
+            "position": "förordnad",
+            "start_year": 1924,
+            "organization": "Sabbatsbergs sjukhus",
+            "country_code": "SWE"
+        },
+        {
+            "position": "biträdande överläkare",
+            "start_year": 1934,
+            "end_year": 1936,
+            "organization": "Sabbatsbergs sjukhus",
+            "country_code": "SWE"
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1937,
+            "end_year": 1949,
+            "location": {
+                "name": "Gällivare",
+                "latitude": 67.1379,
+                "longitude": 20.6593618,
+                "formatted_address": "Gällivare, Sweden"
+            }
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1949,
+            "organization": "kirurgiska avdelningen",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            }
+        },
+        {
+            "position": "tillförordnad byråchef",
+            "start_year": 1948,
+            "end_year": 1949,
+            "organization": "Medicinalstyrelsen"
+        }
+    ],
+    "person": {
+        "first_name": "Torsten",
+        "last_name": "Beckman",
+        "middle_name": "Magnus",
+        "gender": "Male",
+        "birth_date": "16-06-1896",
+        "birth_place": {
+            "name": "Skövde",
+            "latitude": 58.3902782,
+            "longitude": 13.8461208,
+            "formatted_address": "Skövde, Sweden"
+        },
+        "occupation": {
+            "occupation": "lasarettsläkare",
+            "occupation_english": "hospital doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Magnus",
+                "last_name": "Beckman",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "civilingenjör",
+                    "occupation_english": "civil engineer",
+                    "hisco_code_swedish": "2210.0",
+                    "hisco_description_swedish": "Civil Engineer, General"
+                }
+            },
+            {
+                "first_name": "Frideborg",
+                "last_name": "Danell",
+                "gender": "Female"
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "ett 20-tal uppsatser i kirurgiska ämnen",
+            "year": "None",
+            "type": "uppsats",
+            "publisher": "None",
+            "reception": "None",
+            "signature": "None"
+        }
+    ],
+    "travels": null
+}

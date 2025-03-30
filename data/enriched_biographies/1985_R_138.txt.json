@@ -1,0 +1,208 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "B",
+        "last_name": "Ribbing",
+        "middle_name": "C Stig",
+        "gender": "Male",
+        "birth_date": "05-01-1904",
+        "birth_place": {
+            "name": "Jönköping",
+            "latitude": 57.78261370000001,
+            "longitude": 14.1617876,
+            "formatted_address": "Jönköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Bo",
+                "last_name": "Ribbing",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "överstelöjtnant",
+                    "occupation_english": "Lieutenant Colonel",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Silverstolpe",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "lärare i pianospel",
+            "position_english": "teacher in piano playing",
+            "institution": "Musikhögskolan",
+            "department": null,
+            "start_year": 1958,
+            "end_year": 1970,
+            "field": null
+        },
+        {
+            "position": "eo",
+            "position_english": "associate",
+            "institution": "Musikhögskolan",
+            "department": null,
+            "start_year": 1951,
+            "end_year": 1958,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "debut",
+            "field": "musik",
+            "year": "1927",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "medverkan i radio",
+            "field": "musik",
+            "year": "1925",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "solist i utländsk radio",
+            "field": "musik",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "grammofoninspelningar",
+            "field": "musik",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studieexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maria",
+            "last_name": "Edenhofer",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1940",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "Professor namn",
+            "institution": "None",
+            "year": "1968"
+        }
+    ],
+    "honors": [
+        "LMA"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Genève",
+                "latitude": 46.2043907,
+                "longitude": 6.1431577,
+                "formatted_address": "Geneva, Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        }
+    ]
+}

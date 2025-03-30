@@ -1,0 +1,161 @@
+{
+    "career": [
+        {
+            "position": "Sekreterare",
+            "start_year": 1941,
+            "end_year": 1944,
+            "organization": "Daco (De anställdas centralorg.)",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "TCO (Tjänstemännens Centralorg.)",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Nordenskiöld",
+        "middle_name": "Otto Edvard",
+        "gender": "Male",
+        "birth_date": "25-07-1914",
+        "birth_place": {
+            "name": "Hausjärvi, Finland",
+            "latitude": 60.7864735,
+            "longitude": 25.0270946,
+            "formatted_address": "12100 Hausjärvi, Finland"
+        },
+        "occupation": {
+            "occupation": "Sekreterare",
+            "occupation_english": "Secretary",
+            "hisco_code_swedish": "30000.0",
+            "hisco_description_swedish": "Clerical or Related Worker, Specialisation Unknown",
+            "hisco_code_english": "32120.0",
+            "hisco_description_english": "Stenographic Secretary"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Nordenskiöld",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Docent",
+                    "occupation_english": "Docent",
+                    "hisco_code_swedish": "99999.0",
+                    "hisco_description_swedish": "Unspecified worktitle or several titles",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Henriette",
+                "last_name": "Sederholm",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1932",
+            "institution": "None"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1936",
+            "institution": "None"
+        },
+        {
+            "degree": "Juris kandidat",
+            "degree_level": "Master's",
+            "year": "1941",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gerd",
+            "last_name": "Lodin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1938"
+        }
+    ]
+}

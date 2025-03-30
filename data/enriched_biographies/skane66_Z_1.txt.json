@@ -1,0 +1,128 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1960,
+            "end_year": 1962,
+            "organization": "Allmänna ingenjörbyrån aktiebolag",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1962,
+            "organization": "Vattenbyggnadsbyrån aktiebolag",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "STEFAN",
+        "last_name": "ZABLOCKI",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": null,
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Abram",
+                "last_name": "Zablocki",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Hela",
+                "last_name": "Resnik",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "ingenjörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1953",
+            "institution": "HTL Malmö"
+        },
+        {
+            "degree": "civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1960",
+            "institution": "Israel Institute of Technology Haifa"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Miram",
+            "last_name": "Alhanaty",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Merdehaj",
+                    "last_name": "A",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "möbelsnickare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "81120.0",
+                        "hisco_description_swedish": "Cabinetmaker"
+                    }
+                },
+                {
+                    "first_name": "Rosa",
+                    "last_name": "A",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1960",
+        "children": [
+            {
+                "first_name": "Irit",
+                "last_name": "Zablocki",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1961"
+            },
+            {
+                "first_name": "Dahlia",
+                "last_name": "Zablocki",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1963"
+            }
+        ]
+    },
+    "political_positions": null
+}

@@ -1,0 +1,167 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1905,
+            "end_year": 1907,
+            "organization": "Luth & Rosén El AB",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1907,
+            "end_year": 1929,
+            "organization": "Vilén & Johansson",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1937,
+            "organization": "AB Vilén & Johansson",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Frans",
+        "last_name": "Algot",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": null,
+        "birth_place": {
+            "name": "Viared, Borås",
+            "latitude": 57.70954099999999,
+            "longitude": 12.8421679,
+            "formatted_address": "Viared and Lund, 518 40 Borås, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Magnusson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Gabrielsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Borås",
+        "latitude": 57.72103500000001,
+        "longitude": 12.939819,
+        "formatted_address": "Borås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Borås tekniska elementarskola",
+            "degree_level": "Schooling",
+            "year": "1904",
+            "institution": "Borås tekniska elementarskola"
+        },
+        {
+            "degree": "Handelsskola",
+            "degree_level": "Schooling",
+            "year": "1907",
+            "institution": "Göteborgs handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Else",
+            "last_name": "Fitzke",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "career": [
+        {
+            "position": "Tjänstgörande",
+            "start_year": 1917,
+            "end_year": 1928,
+            "organization": "Statens Järnvägsbyggnad",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Egen verksamhet",
+            "start_year": 1928,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Värderingsman",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "SPP",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Fastighetsförvaltare",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "SPP",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Värderingsman",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Veritas-Göta",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Mauritz",
+        "last_name": "Dahlberg",
+        "middle_name": "Magnus",
+        "gender": "Male",
+        "birth_date": "04-03-1892",
+        "birth_place": null,
+        "occupation": {
+            "occupation": "Arkitekt",
+            "occupation_english": "Architect",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": null
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1900",
+            "institution": "KTH (Arkitekturfackskolan)"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Sterner",
+            "middle_name": "Elisabeth",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1923",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Hans",
+                "last_name": "Dahlberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1930"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

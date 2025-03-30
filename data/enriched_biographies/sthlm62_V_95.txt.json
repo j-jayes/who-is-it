@@ -1,0 +1,150 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Edvard",
+        "last_name": "Wallenqvist",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "27-07-1894",
+        "birth_place": {
+            "name": "Ulricehamn",
+            "latitude": 57.7947889,
+            "longitude": 13.4205162,
+            "formatted_address": "Ulricehamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Wallenqvist",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "borgmästare",
+                    "occupation_english": "mayor",
+                    "hisco_code_swedish": "20110.0",
+                    "hisco_description_swedish": "Legislative Official",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Wästfelt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Ester Lindahlsstip",
+            "field": "konst",
+            "year": "1934-1935",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Sthlms stads stip",
+            "field": "konst",
+            "year": "1960",
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Medlem",
+            "organization": "KRO"
+        },
+        {
+            "position": "Medlem",
+            "organization": "Konstnärsklubben"
+        },
+        {
+            "position": "Medlem",
+            "organization": "Svenska konstnärföreningen"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1914",
+            "institution": "Skara"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "skönlitteratur",
+        "historia"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "medarb dagspress o fack-tidskr i konstn frågor",
+            "year": "None",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": "- qvist",
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1918"
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": "1919"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1920-1923"
+        }
+    ]
+}

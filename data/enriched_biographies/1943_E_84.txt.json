@@ -1,0 +1,219 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1906,
+            "end_year": 1907,
+            "organization": "patologisk-anatomiska och bakteriologiska institutionen i Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1909,
+            "end_year": 1911,
+            "organization": "patologisk-anatomiska och bakteriologiska institutionen i Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1911,
+            "end_year": 1912,
+            "organization": "lasarettet i Kristianstad",
+            "location": {
+                "name": "Kristianstad",
+                "latitude": 56.0293936,
+                "longitude": 14.1566778,
+                "formatted_address": "Kristianstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1912,
+            "end_year": 1916,
+            "organization": "kirurgiska avdelningen vid Malmö allmänna sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1916,
+            "organization": "Kullbergska sjukhuset i Katrineholm",
+            "location": {
+                "name": "Katrineholm",
+                "latitude": 58.99555109999999,
+                "longitude": 16.2054756,
+                "formatted_address": "Katrineholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Ellwyn",
+        "middle_name": "Magnus",
+        "gender": "Male",
+        "birth_date": "26-12-1881",
+        "birth_place": {
+            "name": "Finja, Kristianstads Län",
+            "latitude": 56.1681562,
+            "longitude": 13.694527,
+            "formatted_address": "281 53 Finja, Sweden"
+        },
+        "occupation": {
+            "occupation": "lasarettsläkare",
+            "occupation_english": "Hospital Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Olsson",
+                "middle_name": "B.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kvarnmästare",
+                    "occupation_english": "miller",
+                    "hisco_code_swedish": "77120.0",
+                    "hisco_description_swedish": "Grain Miller",
+                    "hisco_code_english": "99910.0",
+                    "hisco_description_english": "Labourer"
+                }
+            },
+            {
+                "first_name": "Christina",
+                "last_name": "Persson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1907",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1911",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ellen",
+            "last_name": "Rietz",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "E.",
+                    "last_name": "Rietz",
+                    "middle_name": "O.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "konsulent",
+                        "occupation_english": "consultant",
+                        "hisco_code_swedish": "19990.0",
+                        "hisco_description_swedish": "Other Professional, Technical and Related Workers Not Elsewhere Classified"
+                    }
+                },
+                {
+                    "first_name": "Hanna",
+                    "last_name": "Kockum",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1912",
+        "divorce_year": null,
+        "children": null
+    },
+    "political_positions": [
+        {
+            "organization": "Stadsfullmäktige",
+            "position": "ledamot",
+            "start_year": 1918,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "Stadsfullmäktige beredningsutskott",
+            "position": "ledamot",
+            "start_year": 1920,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "Stadsfullmäktige",
+            "position": "ordförande",
+            "start_year": 1931,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "drätselkammaren i Katrineholm",
+            "position": "ledamot",
+            "start_year": 1923,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "landstinget",
+            "position": "ledamot",
+            "start_year": 1934,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "folkpartiets valkretsförbund i Södermanland",
+            "position": "ordförande",
+            "start_year": 1934,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "folkpartiets förtroenderåd",
+            "position": "ledamot",
+            "start_year": 1934,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": null,
+    "travels": null
+}

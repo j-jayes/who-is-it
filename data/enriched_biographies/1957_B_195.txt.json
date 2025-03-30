@@ -1,0 +1,180 @@
+{
+    "career": [
+        {
+            "position": "Lektor",
+            "start_year": 1945,
+            "end_year": 1949,
+            "organization": "Försvarets Läroverk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Professor",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Professor (Tf.)",
+            "start_year": 1946,
+            "end_year": 1949,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bror",
+        "last_name": "Bergström",
+        "middle_name": "Evert Harald",
+        "gender": "Male",
+        "birth_date": "01-04-1908",
+        "birth_place": {
+            "name": "Mölltorp, Skaraborgs Län",
+            "latitude": 58.4963375,
+            "longitude": 14.4140754,
+            "formatted_address": "546 72 Mölltorp, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ludvig",
+                "last_name": "Bergström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Skräddarmästare",
+                    "occupation_english": "Master tailor",
+                    "hisco_code_swedish": "79100.0",
+                    "hisco_description_swedish": "Tailor, Specialisation Unknown",
+                    "hisco_code_english": "79100.0",
+                    "hisco_description_english": "Tailor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Rosell",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie Doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1937,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1938,
+            "end_year": null,
+            "field": "Matematik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1931",
+            "institution": "None"
+        },
+        {
+            "degree": "Filosofie Licentiat",
+            "degree_level": "Master's",
+            "year": "1935",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ann-Marie",
+            "last_name": "None",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Legitimerad Läkare",
+                "occupation_english": "Licensed Physician",
+                "hisco_code_swedish": "6105.0",
+                "hisco_description_swedish": "General Physician",
+                "hisco_code_english": "6100.0",
+                "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+            },
+            "parents": null
+        },
+        "marriage_year": "1940",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i algebra, talteori, analys och matematisk statistik",
+            "year": "None",
+            "type": "None",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937-1939"
+        }
+    ]
+}

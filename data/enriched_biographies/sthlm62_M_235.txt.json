@@ -1,0 +1,100 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1946,
+            "organization": "Örliogsvarvet marinverkstäderna",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Mikaelsson",
+        "middle_name": "F",
+        "gender": "Male",
+        "birth_date": "06-12-1913",
+        "birth_place": {
+            "name": "Kristinehamn",
+            "latitude": 59.3100677,
+            "longitude": 14.1089192,
+            "formatted_address": "Kristinehamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "Transportarbetare, gångare",
+            "occupation_english": null,
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles"
+        }
+    },
+    "achievements": [
+        {
+            "title": "Europamästerskap",
+            "field": "gång",
+            "year": "1946"
+        },
+        {
+            "title": "Guldmedalj",
+            "field": "10 km OS",
+            "year": "1948"
+        },
+        {
+            "title": "Guldmedalj",
+            "field": "10 km OS",
+            "year": "1952"
+        },
+        {
+            "title": "Världsrekord",
+            "field": "gång",
+            "significance": "har noterats för 16 världsrekord"
+        }
+    ],
+    "awards": [
+        "Prins Gustav Adolfs medalj",
+        "Svenska Gångförbundets plakett med medalj"
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Svea",
+            "last_name": "Thelin",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Hädar",
+                    "last_name": "T",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Verkstadsarbetare",
+                        "occupation_english": null
+                    }
+                },
+                {
+                    "first_name": "Hulda",
+                    "last_name": "Schönning",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1942",
+        "children": [
+            {
+                "first_name": "Gun",
+                "last_name": "Mikaelsson",
+                "gender": "Female",
+                "birth_year": "1944"
+            }
+        ]
+    },
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

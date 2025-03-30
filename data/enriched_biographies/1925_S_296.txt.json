@@ -1,0 +1,121 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Otte",
+        "last_name": "Sköld",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "14-07-1894",
+        "birth_place": {
+            "name": "Wuchang, Kina",
+            "latitude": 30.5538599,
+            "longitude": 114.31599,
+            "formatted_address": "Wuchang District, Wuhan, Hubei, China"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "S",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "missionär",
+                    "occupation_english": "missionary",
+                    "hisco_code_swedish": "14130.0",
+                    "hisco_description_swedish": "Missionary",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Eva",
+                "last_name": "Eriksdotter",
+                "middle_name": "Charlotta",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Paris",
+        "latitude": 48.8575475,
+        "longitude": 2.3513765,
+        "formatted_address": "Paris, France"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Ärna",
+            "last_name": "Arntz",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1917",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Asien",
+                "latitude": 34.047863,
+                "longitude": 100.6196553,
+                "formatted_address": "Asia"
+            },
+            "country_code": "None"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA"
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP"
+        }
+    ]
+}

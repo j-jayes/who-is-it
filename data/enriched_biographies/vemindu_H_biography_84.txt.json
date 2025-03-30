@@ -1,0 +1,165 @@
+{
+    "career": [
+        {
+            "position": "Bryggmästare",
+            "start_year": 1891,
+            "end_year": 1900,
+            "organization": "Bjersjö bryggeri Aktiebolag",
+            "location": {
+                "name": "Simrishamn",
+                "latitude": 55.5573959,
+                "longitude": 14.3489651,
+                "formatted_address": "Simrishamn, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Teknisk ledare",
+            "start_year": 1900,
+            "end_year": 1911,
+            "organization": "Carlstens porterbryggeri",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1911,
+            "end_year": 1918,
+            "organization": "Vännersborgs förenade bryggeri",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Disponent och verkställande direktör",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Sala ångbryggeri",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Hammar",
+        "middle_name": "Frithiof",
+        "gender": "Male",
+        "birth_date": "27-04-1867",
+        "birth_place": {
+            "name": "Repplinge, Kalmar Län",
+            "latitude": 56.8273719,
+            "longitude": 16.6605946,
+            "formatted_address": "387 94 Räpplinge, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "Hammar",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Hhövd",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Charlotta",
+                "last_name": "Björklund",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Uplands enskilda banks Salakontor"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "Stadsfullmäktige",
+            "organization": "Vänersborg"
+        }
+    ],
+    "current_location": {
+        "name": "Sala",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "Kalmar storskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Kalmar storskola"
+        },
+        {
+            "degree": "Bryggarakademin",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Worms"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Greta",
+            "last_name": "Lindwall",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "None",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1933"
+        }
+    ]
+}

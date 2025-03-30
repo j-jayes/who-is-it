@@ -1,0 +1,149 @@
+{
+    "career": [
+        {
+            "position": "Elevkurs",
+            "start_year": 1926,
+            "end_year": 1927,
+            "organization": "Allmänna Svenska Elektriska Aktiebolaget",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd hos lektor",
+            "start_year": 1927,
+            "end_year": 1928,
+            "organization": "Einar Zachrisson",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Chef för Skoghallsverkens elektriska och ångtekniska avdelningar",
+            "start_year": 1928,
+            "end_year": null,
+            "organization": "Uddeholms Aktiebolag, Skoghallsverken",
+            "location": {
+                "name": "Skoghall",
+                "latitude": 59.32462750000001,
+                "longitude": 13.4693947,
+                "formatted_address": "Skoghall, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Nilsson",
+        "middle_name": "Einar Bernhard",
+        "gender": "Male",
+        "birth_date": "26-09-1902",
+        "birth_place": {
+            "name": "Torslunda, Kalmar Län",
+            "latitude": 56.6313075,
+            "longitude": 16.5167661,
+            "formatted_address": "386 92 Torslunda, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Edv",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Hemmansägare",
+                    "occupation_english": "Homeowner",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Jenny",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Skoghall",
+        "latitude": 59.32462750000001,
+        "longitude": 13.4693947,
+        "formatted_address": "Skoghall, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "Kalmar"
+        },
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1925",
+            "institution": "Kungliga Tekniska Högskolan (E)"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Bodil",
+            "last_name": "Malmström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1934"
+        }
+    ]
+}

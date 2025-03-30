@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1930,
+            "organization": "Aktiebolaget Vattenbyggnadsbyrån Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande Ingenjör",
+            "start_year": 1931,
+            "end_year": 1932,
+            "organization": "Vattenkraftanläggning",
+            "location": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS"
+        },
+        {
+            "position": "Avdelningschef",
+            "start_year": 1934,
+            "organization": "Aktiebolaget Vattenbyggnadsbyrån Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Assistent i geodesi",
+            "start_year": 1931,
+            "end_year": 1934,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vikarierande Assistent",
+            "start_year": 1934,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare i planmätning och avvägning",
+            "start_year": 1934,
+            "organization": "Vasa Realskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "A:LM",
+        "middle_name": "Theodor",
+        "gender": "Male",
+        "birth_date": "03-04-1905",
+        "birth_place": {
+            "name": "Karlstad",
+            "latitude": 59.4021806,
+            "longitude": 13.5114977,
+            "formatted_address": "Karlstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "O",
+                "last_name": "A:LM",
+                "middle_name": "H T",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Stationsskrivare",
+                    "occupation_english": "Station Clerk",
+                    "hisco_code_swedish": "39390.0",
+                    "hisco_description_swedish": "Other Correspondence and Reporting Clerks",
+                    "hisco_code_english": "30000.0",
+                    "hisco_description_english": "Clerical or Related Worker, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ingeborg",
+                "last_name": "Wallinder",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stocksund",
+        "latitude": 59.3841662,
+        "longitude": 18.0478685,
+        "formatted_address": "Stocksund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1925",
+            "institution": "Karlstad"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Kungliga Tekniska Högskolan (Väg- och vattenbyggnad)",
+            "degree_level": "Master's",
+            "year": "1926-1930",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Dagmar",
+            "last_name": "Liljedal",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "None"
+        }
+    ]
+}

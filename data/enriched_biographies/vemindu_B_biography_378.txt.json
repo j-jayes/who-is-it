@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1933,
+            "end_year": 1939,
+            "organization": "Skånska Cement AB samt firma dotterbolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Platschef",
+            "start_year": 1939,
+            "end_year": 1941,
+            "organization": "Orijärvi Gruvor",
+            "location": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN"
+        },
+        {
+            "position": "Övering",
+            "start_year": 1941,
+            "end_year": 1942,
+            "organization": "Suomen Malmi OY",
+            "location": {
+                "name": "Helsingfors",
+                "latitude": 60.16985569999999,
+                "longitude": 24.938379,
+                "formatted_address": "Helsinki, Finland"
+            },
+            "country_code": "FIN"
+        },
+        {
+            "position": "Anrikningsingenjör",
+            "start_year": 1942,
+            "end_year": 1943,
+            "organization": "Vieille Montagne Åmmeberg",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Arbetsstudiechef",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Svenska Skifferolje AB",
+            "location": {
+                "name": "Närkes Kvarntorp",
+                "latitude": 59.14209,
+                "longitude": 15.28943,
+                "formatted_address": "697 94 Kvarntorp, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Arvid",
+        "last_name": "Brandberg",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "21-01-1909",
+        "birth_place": {
+            "name": "Lindesberg",
+            "latitude": 59.5976983,
+            "longitude": 15.2229108,
+            "formatted_address": "Lindesberg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Bergsingenjör",
+            "occupation_english": "Mining Engineer",
+            "hisco_code_swedish": "2710.0",
+            "hisco_description_swedish": "Mining Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Brandberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bergsingenjör",
+                    "occupation_english": "Mining Engineer",
+                    "hisco_code_swedish": "2710.0",
+                    "hisco_description_swedish": "Mining Engineer, General"
+                }
+            },
+            {
+                "first_name": "Vendela",
+                "last_name": "Hammarskiöld",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Örebro",
+        "latitude": 59.2752626,
+        "longitude": 15.2134105,
+        "formatted_address": "Örebro, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1927",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1933",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Wivan",
+            "last_name": "Johansson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Estland",
+                "latitude": 58.595272,
+                "longitude": 25.013607,
+                "formatted_address": "Estonia"
+            },
+            "country_code": "EST",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1938"
+        }
+    ]
+}

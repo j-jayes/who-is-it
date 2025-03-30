@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1922,
+            "organization": "Aktiebolaget A. F. Carlssons skofabrik",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "disponent",
+            "start_year": 1924,
+            "end_year": 1927,
+            "organization": "Aktiebolaget A. F. Carlssons skofabrik",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "disponent",
+            "start_year": 1928,
+            "end_year": 1932,
+            "organization": "A/S Den Norske Skofabrik",
+            "location": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": null
+        },
+        {
+            "position": "direktör",
+            "start_year": 1932,
+            "organization": "Aktiebolaget A. F. Carlssons skofabrik",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1932,
+            "organization": "Aktiebolaget Svenska Handelsbankens avdelningskontor",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1932,
+            "organization": "Svenska Skofabrikantföreningen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Carlsson",
+        "middle_name": "Anders Fredrik",
+        "gender": "Male",
+        "birth_date": "19-09-1897",
+        "birth_place": {
+            "name": "Vänersborg",
+            "latitude": 58.3797283,
+            "longitude": 12.3248032,
+            "formatted_address": "Vänersborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "direktör",
+            "occupation_english": "director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Carlsson",
+                "middle_name": "Otto",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fabrikör",
+                    "occupation_english": "manufacturer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Arvidson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Vänersborg",
+        "latitude": 58.3797283,
+        "longitude": 12.3248032,
+        "formatted_address": "Vänersborg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1915",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ruth",
+            "last_name": "Smedmark",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "00-00-1900",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Smedmark",
+                    "middle_name": "Oscar",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "disponent",
+                        "occupation_english": "manager",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Mary",
+                    "last_name": "C:son Channing",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1923",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "reservofficer 1917",
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1921"
+        }
+    ]
+}

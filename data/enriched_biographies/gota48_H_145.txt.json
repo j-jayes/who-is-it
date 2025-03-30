@@ -1,0 +1,231 @@
+{
+    "career": [
+        {
+            "position": "Vikarierande adjunkt",
+            "start_year": 1905,
+            "end_year": 1906,
+            "organization": "Västervik",
+            "location": {
+                "name": "Västervik",
+                "latitude": 57.75771559999999,
+                "longitude": 16.6369759,
+                "formatted_address": "Västervik, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra lärare",
+            "start_year": 1907,
+            "end_year": 1909,
+            "organization": "Västerås",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Timlärare",
+            "start_year": 1909,
+            "end_year": 1910,
+            "organization": "Ahlinska skolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1909,
+            "end_year": 1918,
+            "organization": "Hudiksvalls tekniska aftonskola",
+            "location": {
+                "name": "Hudiksvall",
+                "latitude": 61.7273909,
+                "longitude": 17.107401,
+                "formatted_address": "Hudiksvall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1914,
+            "end_year": 1918,
+            "organization": "Hudiksvalls tekniska aftonskola",
+            "location": {
+                "name": "Hudiksvall",
+                "latitude": 61.7273909,
+                "longitude": 17.107401,
+                "formatted_address": "Hudiksvall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt",
+            "start_year": 1909,
+            "end_year": 1918,
+            "organization": "Hudiksvalls högre allmänna läroverk",
+            "location": {
+                "name": "Hudiksvall",
+                "latitude": 61.7273909,
+                "longitude": 17.107401,
+                "formatted_address": "Hudiksvall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Bibliotekarie",
+            "start_year": 1911,
+            "end_year": 1918,
+            "organization": "Hudiksvalls högre allmänna läroverk",
+            "location": {
+                "name": "Hudiksvall",
+                "latitude": 61.7273909,
+                "longitude": 17.107401,
+                "formatted_address": "Hudiksvall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt i kristendomskunskap och modersmål",
+            "start_year": 1919,
+            "end_year": 1932,
+            "organization": "Linköpings flickgymnasium",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Hammar",
+        "middle_name": "Arnold",
+        "gender": "Male",
+        "birth_date": "16-12-1878",
+        "birth_place": {
+            "name": "Karls-Ivrona",
+            "latitude": 40.7745065,
+            "longitude": -78.55335699999999,
+            "formatted_address": "Irvona, PA 16656, USA"
+        },
+        "occupation": {
+            "occupation": "Läroverksadjunkt",
+            "occupation_english": null,
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Arnold",
+                "last_name": "Hammar",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kontraktsprost",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Ritter",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Linköping",
+        "latitude": 58.41080700000001,
+        "longitude": 15.6213727,
+        "formatted_address": "Linköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Moghetsexamen",
+            "degree_level": "Schooling",
+            "year": "1897",
+            "institution": "Hälsingborg"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1901",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Alfhild",
+            "last_name": "Ljungkvist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1919",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Hans-Erik",
+                "last_name": "Hammar",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1920"
+            },
+            {
+                "first_name": "Louise",
+                "last_name": "Hammar",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1922"
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Hammar",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1928"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1905"
+        }
+    ]
+}

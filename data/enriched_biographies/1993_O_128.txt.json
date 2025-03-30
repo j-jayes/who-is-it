@@ -1,0 +1,136 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1950,
+            "organization": "Asea aktiebolag"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1953,
+            "organization": "Statens Järnvägar"
+        },
+        {
+            "position": "laboratoriechef",
+            "start_year": 1955,
+            "organization": "Statens Järnvägar"
+        },
+        {
+            "position": "direktörsassistent",
+            "start_year": 1961,
+            "organization": "Jungner aktiebolag"
+        },
+        {
+            "position": "marknadsdirektör",
+            "start_year": 1969,
+            "organization": "AEG-Telefunken"
+        },
+        {
+            "position": "chef för transportsektorn",
+            "start_year": 1974,
+            "organization": "Asea New York",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1979,
+            "organization": "CF/STF"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1981,
+            "end_year": 1991,
+            "organization": "Swederail"
+        },
+        {
+            "position": "konsult",
+            "start_year": 1991,
+            "organization": "Tran-rail consult"
+        }
+    ],
+    "person": {
+        "first_name": "Per-Erik",
+        "last_name": "Olson",
+        "gender": "Male",
+        "birth_date": "26-06-1915",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "direktör",
+            "occupation_english": "director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Olson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "överingenjör",
+                    "occupation_english": "chief engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Agda",
+                "last_name": "Olson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1950",
+            "institution": "Chalmers Tekniska Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Barbro",
+            "last_name": "Bergman",
+            "gender": "Female",
+            "birth_date": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Rolf",
+                    "last_name": "Bergman",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "köpman",
+                        "occupation_english": "merchant",
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1952"
+    },
+    "publications": [
+        {
+            "title": "ang transport, energi o miljö",
+            "year": "None",
+            "type": "skrift"
+        }
+    ]
+}

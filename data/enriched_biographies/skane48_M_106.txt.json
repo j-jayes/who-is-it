@@ -1,0 +1,240 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1938,
+            "end_year": 1939,
+            "organization": "Aktiebolaget Wadström & Indebetou",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Aktiebolaget Wadström & Indebetou",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Uddeholmsbolaget",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1943,
+            "end_year": 1946,
+            "organization": "Lennings Textiltekniska Institut",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Fabrikschef",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "Aktiebolaget Skånska Yllefabrik",
+            "location": {
+                "name": "Kristianstad",
+                "latitude": 56.0293936,
+                "longitude": 14.1566778,
+                "formatted_address": "Kristianstad, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bertil",
+        "last_name": "Melin",
+        "middle_name": "Ragnar",
+        "gender": "Male",
+        "birth_date": "07-10-1915",
+        "birth_place": {
+            "name": "Vislanda",
+            "latitude": 56.7858694,
+            "longitude": 14.4650634,
+            "formatted_address": "342 52 Vislanda, Sweden"
+        },
+        "occupation": {
+            "occupation": "Fabrikschef",
+            "occupation_english": "Factory Manager",
+            "hisco_code_swedish": "21220.0",
+            "hisco_description_swedish": "Production Manager (except Farm)",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ragnar",
+                "last_name": "Melin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Länsjägmästare",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Ulla",
+                "last_name": "Malmström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kristianstad",
+        "latitude": 56.0293936,
+        "longitude": 14.1566778,
+        "formatted_address": "Kristianstad, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Examen",
+            "degree_level": "Schooling",
+            "year": "1938",
+            "institution": "Norrköpings Tekniska Gymnasium"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunhild",
+            "last_name": "Storm",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Melin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1944"
+            },
+            {
+                "first_name": "Magnus",
+                "last_name": "Melin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Bidrag i facktidskrifter, utlandskorrespondent i textila ämnen",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1941"
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CZE",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1946"
+        }
+    ]
+}

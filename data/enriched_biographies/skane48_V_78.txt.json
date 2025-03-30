@@ -1,0 +1,115 @@
+{
+    "career": [
+        {
+            "position": "Förste museiintendent",
+            "start_year": 1947,
+            "organization": "Botaniska institutionen",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "August",
+        "last_name": "Weimarck",
+        "middle_name": "Henning",
+        "gender": "Male",
+        "birth_date": "22-05-1903",
+        "birth_place": {
+            "name": "Hammar, Örebro Län",
+            "latitude": 58.81200819999999,
+            "longitude": 14.9631045,
+            "formatted_address": "696 74 Hammar, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent, förste museiintendent",
+            "occupation_english": "Docent, first museum curator"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Lunds Universitet",
+            "department": "Botanik",
+            "start_year": 1935,
+            "end_year": null,
+            "field": "Botanik"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1933",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1934",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunhild",
+            "last_name": "Rudmark",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Weimarck",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1936"
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Monograph of the genus Cliffortia",
+            "year": "1934",
+            "type": "avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Sydafrika",
+                "latitude": -30.559482,
+                "longitude": 22.937506,
+                "formatted_address": "South Africa"
+            },
+            "country_code": "ZAF",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Syd-Rhodesia",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ZWE",
+            "year": "1931"
+        }
+    ]
+}

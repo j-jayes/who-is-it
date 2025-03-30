@@ -1,0 +1,147 @@
+{
+    "career": [
+        {
+            "position": "Praktikant",
+            "start_year": 1895,
+            "end_year": 1900,
+            "organization": "Okänd",
+            "location": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Inspektör",
+            "start_year": 1895,
+            "end_year": 1900,
+            "organization": "Gymnastik vid folkskolor",
+            "location": {
+                "name": "Chicago",
+                "latitude": 41.8781136,
+                "longitude": -87.6297982,
+                "formatted_address": "Chicago, IL, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Verksam",
+            "start_year": 1900,
+            "end_year": 1907,
+            "organization": "Kapstaden",
+            "location": {
+                "name": "Kapstaden",
+                "latitude": -33.922087,
+                "longitude": 18.4231418,
+                "formatted_address": "Cape Town, South Africa"
+            },
+            "country_code": "ZAF"
+        },
+        {
+            "position": "Superintendent",
+            "start_year": 1900,
+            "end_year": 1907,
+            "organization": "Carlton Hotel",
+            "location": {
+                "name": "Johannesburg",
+                "latitude": -26.205647,
+                "longitude": 28.0337185,
+                "formatted_address": "Johannesburg, South Africa"
+            },
+            "country_code": "ZAF"
+        },
+        {
+            "position": "Instruktör",
+            "start_year": 1907,
+            "organization": "Sverige och Finland",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Viking",
+        "last_name": "Cronholm",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "27-08-1874",
+        "birth_place": {
+            "name": "Jönköping",
+            "latitude": 57.78261370000001,
+            "longitude": 14.1617876,
+            "formatted_address": "Jönköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Gymnastikdirektör",
+            "occupation_english": "Director of Gymnastics",
+            "hisco_code_swedish": "13290.0",
+            "hisco_description_swedish": "Other Secondary Education Teachers"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Cronholm",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Vice Häradshövding",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Bratt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Bromsten",
+        "latitude": 59.3810411,
+        "longitude": 17.9170255,
+        "formatted_address": "Bromsten, Spånga-Tensta, Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1895-1900"
+        },
+        {
+            "country": {
+                "name": "Sydafrika",
+                "latitude": -30.559482,
+                "longitude": 22.937506,
+                "formatted_address": "South Africa"
+            },
+            "country_code": "ZAF",
+            "year": "1900-1907"
+        }
+    ]
+}

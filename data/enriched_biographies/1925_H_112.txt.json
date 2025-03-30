@@ -1,0 +1,211 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Hede",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "16-10-1888",
+        "birth_place": {
+            "name": "Idingstad, Östergötlands Län",
+            "latitude": 58.5634492,
+            "longitude": 16.3381386,
+            "formatted_address": "605 93 Idingstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "författare",
+            "occupation_english": "author",
+            "hisco_code_swedish": "15120.0",
+            "hisco_description_swedish": "Author",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "C.",
+                "last_name": "Nilsson",
+                "middle_name": "J.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Carolina",
+                "last_name": "Schelin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Jönköping",
+        "latitude": 57.78261370000001,
+        "longitude": 14.1617876,
+        "formatted_address": "Jönköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1905-1909",
+            "institution": "Linköping"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1911",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Dagmar",
+            "last_name": "Lindberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gust.",
+                    "last_name": "Lindberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "handlare",
+                        "occupation_english": "merchant",
+                        "hisco_code_swedish": "41030.0",
+                        "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Hilda",
+                    "last_name": "Petersson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1917",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "På solstigar och mörka vägar",
+            "year": "1912",
+            "type": "diktsamling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Skörd",
+            "year": "1916",
+            "type": "diktsamling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Dröm och vaka",
+            "year": "1920",
+            "type": "diktsamling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Gården",
+            "year": "1918",
+            "type": "novellsamling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Arrende",
+            "year": "1922",
+            "type": "novellsamling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1912-1922"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1912-1922"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1912-1922"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1912-1922"
+        }
+    ]
+}

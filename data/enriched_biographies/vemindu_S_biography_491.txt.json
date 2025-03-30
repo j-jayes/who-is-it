@@ -1,0 +1,181 @@
+{
+    "career": [
+        {
+            "position": "Direktör",
+            "start_year": 1911,
+            "organization": "Egen firma",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1923,
+            "organization": "Aktiebolag Yngve Swenson",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Knut",
+        "last_name": "Swenson",
+        "middle_name": "Yngve",
+        "gender": "Male",
+        "birth_date": "16-09-1889",
+        "birth_place": {
+            "name": "Irsta, Västmanlands Län",
+            "latitude": 59.60569,
+            "longitude": 16.6885504,
+            "formatted_address": "723 55 Irsta, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "Swenson",
+                "middle_name": "A",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kyrkoherde",
+                    "occupation_english": "Vicar",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Hildegard",
+                "last_name": "af Sillen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Riddare av Vasaorden",
+        "Mannerheim Medalj",
+        "Västerås skytteförenings GM",
+        "Västmanlands läns skytteförbunds SM",
+        "Försäkringsbolaget Fylgias förtjänst SM"
+    ],
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Upländska Enskilda Banks avdelningskontor"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Redovisningstekniska Byrån i Västerås Aktiebolag"
+        },
+        {
+            "position": "Vice ordförande",
+            "organization": "Västerås flygklubb"
+        },
+        {
+            "position": "Vice ordförande",
+            "organization": "Västmanlands regementes kamratförening"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Västerås",
+        "latitude": 59.60990049999999,
+        "longitude": 16.5448091,
+        "formatted_address": "Västerås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "5 klasser",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Västerås Högre Allmänna Läroverk"
+        },
+        {
+            "degree": "Rackows Handelsakademi",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Hamburg"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ännu",
+            "last_name": "Block",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Jakt",
+        "Fiske",
+        "Resor"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "En turisttripp till Amerika just nu",
+            "year": "1932",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Kanada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1932"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1895,
+            "organization": "affärskontor",
+            "location": {
+                "name": "Vasa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1897,
+            "organization": "affärskontor",
+            "location": {
+                "name": "Lübeck",
+                "latitude": 53.8654673,
+                "longitude": 10.6865593,
+                "formatted_address": "23 Lübeck, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1899,
+            "organization": "affärskontor",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1900,
+            "organization": "Ph.U. Strengberg & k.",
+            "location": {
+                "name": "Jakobstad",
+                "latitude": 63.6744036,
+                "longitude": 22.6966088,
+                "formatted_address": "Jakobstad, Finland"
+            },
+            "country_code": null
+        },
+        {
+            "position": "ordförande och verkställande direktör",
+            "start_year": 1903,
+            "organization": "Ph.U.Strengberg & k. aktiebolag",
+            "location": {
+                "name": "Härnösand",
+                "latitude": 62.6322698,
+                "longitude": 17.9408714,
+                "formatted_address": "Härnösand, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "ordförande och verkställande direktör",
+            "start_year": 1903,
+            "organization": "aktiebolag Westerlund & k.",
+            "location": {
+                "name": "Härnösand",
+                "latitude": 62.6322698,
+                "longitude": 17.9408714,
+                "formatted_address": "Härnösand, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Viktor",
+        "last_name": "Schauman",
+        "middle_name": "Torsten",
+        "gender": "Male",
+        "birth_date": "22-01-1877",
+        "birth_place": {
+            "name": "Vasa, Finland",
+            "latitude": 63.09503309999999,
+            "longitude": 21.6163866,
+            "formatted_address": "Vaasa, Finland"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Vikt.",
+                "last_name": "Schauman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bankdirektör",
+                    "occupation_english": "Bank Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "44140.0",
+                    "hisco_description_english": "Stock Broker"
+                }
+            },
+            {
+                "first_name": "Julia",
+                "last_name": "Malm",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Rö sågverks nya aktiebolag"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Ströms trä-varubolag"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Carl I. Isaksons aktiebolag"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "Ledamot",
+            "start_year": 1910
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Nasta",
+            "last_name": "Bülow",
+            "middle_name": null,
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "O.",
+                    "last_name": "Bülow",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Konsul",
+                        "occupation_english": "Consul",
+                        "hisco_code_swedish": "20210.0",
+                        "hisco_description_swedish": "Government Administrator",
+                        "hisco_code_english": "20210.0",
+                        "hisco_description_english": "Government Administrator"
+                    }
+                }
+            ]
+        }
+    },
+    "honorary_titles": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

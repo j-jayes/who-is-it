@@ -1,0 +1,135 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1927,
+            "end_year": 1944,
+            "organization": "SKF Tyskland",
+            "location": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1944,
+            "organization": "SKF",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Arne",
+        "last_name": "Alexson",
+        "middle_name": "A C",
+        "gender": "Male",
+        "birth_date": "20-11-1902",
+        "birth_place": {
+            "name": "Berg, Västmanlands Län",
+            "latitude": 59.4315265,
+            "longitude": 15.9538249,
+            "formatted_address": "731 97 Berg, Sweden"
+        },
+        "occupation": {
+            "occupation": "ingenjör",
+            "occupation_english": "engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "Alex",
+                "last_name": "Pettersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kyrkoherde",
+                    "occupation_english": "vicar",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Englund",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Patriotiska Sällskapets Guldmedalj"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "Örebro"
+        },
+        {
+            "degree": "Teknisk Högskola",
+            "degree_level": "Bachelor's",
+            "year": "1925",
+            "institution": "Berlin"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Olga",
+            "last_name": "Karpe",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1930",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        }
+    ]
+}

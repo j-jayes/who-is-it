@@ -1,0 +1,193 @@
+{
+    "career": [
+        {
+            "position": "extra",
+            "start_year": 1905,
+            "end_year": 1910,
+            "organization": "statens järnvägar",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "tjänsteman",
+            "start_year": 1910,
+            "end_year": null,
+            "organization": "svenska turistföreningen",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Anders",
+        "last_name": "Pallin",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "14-05-1881",
+        "birth_place": {
+            "name": "Gävle",
+            "latitude": 60.6748796,
+            "longitude": 17.1412726,
+            "formatted_address": "Gävle, Sweden"
+        },
+        "occupation": {
+            "occupation": "tjänsteman, författare",
+            "occupation_english": "official, author",
+            "hisco_code_swedish": "30000.0",
+            "hisco_description_swedish": "Clerical or Related Worker, Specialisation Unknown",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Pallin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "grosshandlare",
+                    "occupation_english": "wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Julia",
+                "last_name": "Pettersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "svenska turistföreningens SM 1924"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "realläroverk",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Norra realläroverket i Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "alpinist",
+        "bergbestigare"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Med isyxa, gletscherrep och skidor",
+            "year": "1908",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "ett 15-tal resehandböcker av turistföreningen",
+            "year": "None",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Värmland och Dalarna",
+            "year": "None",
+            "type": "book",
+            "editions": [
+                {
+                    "edition_number": "4:e",
+                    "year": "1936",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Lappland",
+            "year": "1921",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Jämtland och Härjedalen",
+            "year": "1925",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "talrika tidskrifts- och tidningsuppsatser",
+            "year": "None",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

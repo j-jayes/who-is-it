@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "Bokhållare",
+            "start_year": 1899,
+            "end_year": 1902,
+            "organization": "Kramfors AB",
+            "location": {
+                "name": "Kramfors",
+                "latitude": 62.9284332,
+                "longitude": 17.7862947,
+                "formatted_address": "Kramfors, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1902,
+            "end_year": 1912,
+            "organization": "Färjenäs AB",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Färjenäs AB",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ägare",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Aktiemajoritet",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bror",
+        "last_name": "Colliander",
+        "middle_name": "Josua",
+        "gender": "Male",
+        "birth_date": "14-03-1881",
+        "birth_place": {
+            "name": "Kulltorp, Jönköpings Län",
+            "latitude": 57.2639556,
+            "longitude": 13.7937279,
+            "formatted_address": "335 96 Kulltorp, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "G",
+                "last_name": "Colliander",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kyrkoherde",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "af Petersens",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Kyrkoråd",
+            "role": "Ledamot",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Kyrkoråd",
+            "role": "Kassaförvaltare",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Kommunala nämnder",
+            "role": "Revisor",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Burchardt",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Jakt",
+        "Fiske"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Sydafrika",
+                "latitude": -30.559482,
+                "longitude": 22.937506,
+                "formatted_address": "South Africa"
+            },
+            "country_code": "ZAF",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Kontinenten",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

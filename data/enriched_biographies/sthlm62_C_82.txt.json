@@ -1,0 +1,163 @@
+{
+    "career": [
+        {
+            "position": "extra jägmästare",
+            "start_year": 1908,
+            "organization": "Mo och Domsjö aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1908,
+            "end_year": 1913,
+            "organization": "Mo och Domsjö aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1909,
+            "end_year": 1909,
+            "organization": null,
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1909,
+            "end_year": 1910,
+            "organization": null,
+            "location": {
+                "name": "Düsseldorf",
+                "latitude": 51.2230411,
+                "longitude": 6.7824545,
+                "formatted_address": "40 Düsseldorf, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1915,
+            "end_year": 1922,
+            "organization": "aktiebolag Emissionsinstitut",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "egen verksamhet",
+            "start_year": 1922,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Carlsson",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "24-10-1884",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "jägmästare",
+            "occupation_english": "Master of Forestry",
+            "hisco_code_swedish": "21230.0",
+            "hisco_description_swedish": "Farm Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Bengt",
+                "last_name": "Helin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "källarmästare",
+                    "occupation_english": "restaurant manager",
+                    "hisco_code_swedish": "51030.0",
+                    "hisco_description_swedish": "Working Proprietor (Restaurant)",
+                    "hisco_code_english": "21340.0",
+                    "hisco_description_english": "Sales Manager (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Sofia",
+                "last_name": "Arfvin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "jägmästarexamen",
+            "degree_level": "Master's",
+            "year": "1907",
+            "institution": "Skogsinstitutet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "AFR",
+            "year": "1913"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Stockholms stads stadsplanekontor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 0,
+            "end_year": 1937,
+            "organization": "Stockholms stads gatukontor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Larsson",
+        "middle_name": "Olle",
+        "gender": "Male",
+        "birth_date": "26-04-1907",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Norra realläroverket i Stockholm"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "None",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT"
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CZE"
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN"
+        }
+    ]
+}

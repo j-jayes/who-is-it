@@ -1,0 +1,91 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Bertil",
+        "last_name": "Lybeck",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "08-08-1887",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär, tecknare, grafiker",
+            "occupation_english": "artist, draftsman, graphic artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "16130.0",
+            "hisco_description_english": "Painter, Artist"
+        },
+        "parents": [
+            {
+                "first_name": "A. F.",
+                "last_name": "Lybeck",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "direktör",
+                    "occupation_english": "director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Eriksson",
+                "last_name": "Eriksson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Knut",
+        "last_name": "Scherman",
+        "middle_name": "Georg Achates",
+        "gender": "Male",
+        "birth_date": "09-02-1899",
+        "occupation": {
+            "occupation": "arkitekt",
+            "occupation_english": "architect",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Schildknecht",
+                "last_name": "S",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "sjökapt.",
+                    "occupation_english": "captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Olga",
+                "last_name": "Stormbom",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [],
+    "achievements": [],
+    "awards": [],
+    "board_memberships": [],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1925",
+            "institution": "KTH"
+        },
+        {
+            "degree": "konsthögsk.",
+            "degree_level": "Master's",
+            "year": "1929",
+            "institution": "konsthögskolan"
+        }
+    ],
+    "family": null,
+    "hobbies": [],
+    "honorary_titles": [],
+    "honors": [],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [],
+    "travels": [
+        {
+            "country": {
+                "name": "Skandinavien",
+                "latitude": 62.27864750000001,
+                "longitude": 12.3401708,
+                "formatted_address": "Scandinavia"
+            },
+            "country_code": "None"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        }
+    ]
+}

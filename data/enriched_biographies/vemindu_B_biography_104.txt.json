@@ -1,0 +1,250 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1929,
+            "end_year": 1930,
+            "organization": "AB Hans Österman",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1931,
+            "end_year": 1935,
+            "organization": "Lindblads Motor AB",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Auktoriserad Ford-försäljare med egen firma",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "AB Ingvar Bergengren",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Grosshandlare",
+            "start_year": 1927,
+            "end_year": 1932,
+            "organization": "AB Västgötakompaniet",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Varuhuset Göta",
+            "location": {
+                "name": "Kristianstad",
+                "latitude": 56.0293936,
+                "longitude": 14.1566778,
+                "formatted_address": "Kristianstad, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ingvar",
+        "last_name": "Bergengren",
+        "middle_name": "Arnold",
+        "gender": "Male",
+        "birth_date": "10-04-1905",
+        "birth_place": null,
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "T",
+                "last_name": "Bergengren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Jenny",
+                "last_name": "Gustafson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Handelsinstituts högre avdelning",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Holmquists"
+        },
+        {
+            "degree": "Realexamen",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sickan",
+            "last_name": "Johnson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Ridning",
+        "Jakt",
+        "Segling"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "SMK:s förtjänstplakett i guld"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CSK",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        }
+    ]
+}

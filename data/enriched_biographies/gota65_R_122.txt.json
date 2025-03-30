@@ -1,0 +1,234 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1927,
+            "end_year": 1931,
+            "organization": "London",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "redaktör",
+            "start_year": 1932,
+            "end_year": 1939,
+            "organization": "Morgontidningen Göteborg",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "redaktör",
+            "start_year": 1940,
+            "end_year": 1945,
+            "organization": "Göteborgs Handels- och Sjöfartstidning",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "redaktör",
+            "start_year": 1946,
+            "organization": "Svensk Sjöfarts Tidning Göteborg",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medarbetare",
+            "start_year": 1935,
+            "end_year": 1940,
+            "organization": "Segel och Motor",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Medarbetare",
+            "start_year": 1941,
+            "end_year": 1945,
+            "organization": "Till rors",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "redaktör",
+            "start_year": 1950,
+            "end_year": 1955,
+            "organization": "Seglarbladet",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ture",
+        "last_name": "Rinman",
+        "middle_name": "F",
+        "gender": "Male",
+        "birth_date": "04-12-1906",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "redaktör",
+            "occupation_english": "editor",
+            "hisco_code_swedish": "15920.0",
+            "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "Thorsten",
+                "last_name": "Rinman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapten",
+                    "occupation_english": "Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Ulla",
+                "last_name": "Kylberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Göteborgs Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Göteborgs Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margareta",
+            "last_name": "Svensson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "P",
+                    "last_name": "E",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Ingenjör",
+                        "occupation_english": "Engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Elin",
+                    "last_name": "Liljedahl",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1956",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Jan",
+                "last_name": "Thorsten",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1934"
+            },
+            {
+                "first_name": "Ingela",
+                "last_name": "Rinman",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1938"
+            },
+            {
+                "first_name": "Rolf",
+                "last_name": "Rinman",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "hobbies": [
+        "segling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Handelsflotta o sjöfart",
+            "year": "1956",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "The story of an engine",
+            "year": "1965",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

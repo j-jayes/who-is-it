@@ -1,0 +1,170 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1925,
+            "end_year": 1928,
+            "organization": "statens provningsanstalt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lärare",
+            "start_year": 1926,
+            "end_year": 1928,
+            "organization": "Stockholms läro- och yrkesskolor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "forskningsingenjör",
+            "start_year": 1929,
+            "end_year": 1933,
+            "organization": "arméförvaltningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "laboratoriechef",
+            "start_year": 1934,
+            "end_year": 1942,
+            "organization": "ammunitionsfabriken Marieberg",
+            "location": {
+                "name": "Marieberg",
+                "latitude": 59.2260077,
+                "longitude": 15.159245,
+                "formatted_address": "702 31 Marieberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "laborator",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "försvarsväsendets kemiska anstalt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "laborator",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "försvarets forskningsanstalt",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl-Ivar",
+        "last_name": "Skärblom",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "08-08-1899",
+        "birth_place": {
+            "name": "Savoyen, Frankrike",
+            "latitude": 45.4932045,
+            "longitude": 6.472399999999999,
+            "formatted_address": "Savoie, France"
+        },
+        "occupation": {
+            "occupation": "laborator",
+            "occupation_english": "laboratory technician",
+            "hisco_code_swedish": "1400.0",
+            "hisco_description_swedish": "Physical Science Technician, Specialisation Unknown",
+            "hisco_code_english": "1400.0",
+            "hisco_description_english": "Physical Science Technician, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Karl",
+                "last_name": "Skärblom",
+                "middle_name": "Emil",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "civilingenjör",
+                    "occupation_english": "civil engineer",
+                    "hisco_code_swedish": "2210.0",
+                    "hisco_description_swedish": "Civil Engineer, General"
+                }
+            },
+            {
+                "first_name": "Greta",
+                "last_name": "Lampe",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Sundbyberg",
+        "latitude": 59.369325,
+        "longitude": 17.9609133,
+        "formatted_address": "Sundbyberg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1924",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Josepha",
+            "last_name": "Lang",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Joseph",
+                    "last_name": "Lang",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kammarmusiker",
+                        "occupation_english": "chamber musician",
+                        "hisco_code_swedish": "17140.0",
+                        "hisco_description_swedish": "Instrumentalist",
+                        "hisco_code_english": "17140.0",
+                        "hisco_description_english": "Instrumentalist"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Nordqvist",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1928",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

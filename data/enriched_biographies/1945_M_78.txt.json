@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "byggnadsråd",
+            "start_year": 1938,
+            "end_year": 1944,
+            "organization": "byggnadsstyrelsen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "stadsplanedirektör",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Markelius",
+        "middle_name": "Gottfrid",
+        "gender": "Male",
+        "birth_date": "25-10-1889",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "stadsplanedirektör, arkitekt",
+            "occupation_english": "city planning director, architect",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Oscar",
+                "last_name": "Jonsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "målarmästare",
+                    "occupation_english": "master painter",
+                    "hisco_code_swedish": "93120.0",
+                    "hisco_description_swedish": "Building Painter",
+                    "hisco_code_english": "93120.0",
+                    "hisco_description_english": "Building Painter"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Lundin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Stockholms byggnadsförening",
+            "role": "sekreterare",
+            "start_year": 1928,
+            "end_year": 1930,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Stockholms byggnadsförening",
+            "role": "ordförande",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Svenska arkitektföreningen",
+            "role": "ordförande",
+            "start_year": 1938,
+            "end_year": 1941,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Statens byggnadsforskningskommitté",
+            "role": "ledamot",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "utexaminerad",
+            "degree_level": "Master's",
+            "year": "1913",
+            "institution": "Tekniska Högskolan"
+        },
+        {
+            "degree": "utexaminerad",
+            "degree_level": "Master's",
+            "year": "1915",
+            "institution": "Konsthögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Viola",
+            "last_name": "Wahlstedt",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1927",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "Honorary Corresponding Member",
+            "institution": "Royal Institute of British Architects",
+            "year": "1937"
+        },
+        {
+            "title": "Korresponderande medlem",
+            "institution": "Akademisk Arkitektforening Kjöbenhavn",
+            "year": "1941"
+        }
+    ],
+    "honors": [
+        "Ledamot av FrKA (Fria Konsternas Akademi)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Acceptera",
+            "year": "None",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "career": [
+        {
+            "position": "lektor",
+            "start_year": 1941,
+            "end_year": 1945,
+            "organization": "Solbacka läroverk"
+        },
+        {
+            "position": "lektor",
+            "start_year": 1945,
+            "end_year": 1949,
+            "organization": "hal Vänersborg"
+        },
+        {
+            "position": "lektor",
+            "start_year": 1949,
+            "end_year": 1973,
+            "organization": "högre realläroverk å Norrmalm"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1947,
+            "end_year": 1954,
+            "organization": "hal Kristianstad"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1954,
+            "end_year": 1973,
+            "organization": "Bromma"
+        }
+    ],
+    "person": {
+        "first_name": "Åke",
+        "last_name": "Lennerstrand",
+        "middle_name": "H O",
+        "gender": "Male",
+        "birth_date": "12-10-1907",
+        "birth_place": {
+            "name": "Södertälje",
+            "latitude": 59.197762,
+            "longitude": 17.6201942,
+            "formatted_address": "Södertälje, Sweden"
+        },
+        "occupation": {
+            "occupation": "fd rektor",
+            "occupation_english": "former headmaster",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Olsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "sjökapt",
+                    "occupation_english": "sea captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Elsa",
+                "last_name": "Andersson-Hägg",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Stockholms Högskola",
+            "start_year": 1942,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Stockholms Högskola",
+            "department": "allmän fysiologi",
+            "start_year": 1941,
+            "end_year": 1945,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Avhandlingar och uppsatser",
+            "field": "vetenskap eller pedagogik",
+            "year": null,
+            "significance": null,
+            "recognized_by": "facktidskrifter"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Enzymologia",
+            "year": "1939",
+            "type": "medutgåva"
+        }
+    ],
+    "travels": null
+}

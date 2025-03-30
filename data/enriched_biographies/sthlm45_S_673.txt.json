@@ -1,0 +1,208 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Albert",
+        "last_name": "Stenbock",
+        "middle_name": "Gustaf Hugo",
+        "gender": "Male",
+        "birth_date": "07-09-1899",
+        "birth_place": {
+            "name": "Ornö, Stockholms Län",
+            "latitude": 59.04295219999999,
+            "longitude": 18.419442,
+            "formatted_address": "130 55 Ornö, Sweden"
+        },
+        "occupation": {
+            "occupation": "hovjägmästare",
+            "occupation_english": null,
+            "hisco_code_swedish": "21230.0",
+            "hisco_description_swedish": "Farm Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Albert",
+                "last_name": "Stenbock",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "godsägare, greve",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Rose",
+                "last_name": "Watters",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "RNO",
+        "RVO",
+        "RJohO",
+        "ArmSkytteM"
+    ],
+    "board_memberships": [],
+    "committee_memberships": [
+        {
+            "committee_name": "Kommunalstämmans",
+            "role": "ordförande",
+            "start_year": 1900
+        },
+        {
+            "committee_name": "kommunalnämnd",
+            "role": "vice ordförande",
+            "start_year": 1900
+        },
+        {
+            "committee_name": "fattigvårdsstyrelsen",
+            "role": "vice ordförande",
+            "start_year": 1900
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "kronoombud",
+            "organization": "taxering"
+        },
+        {
+            "role": "god man",
+            "organization": "lantmäteriförrättning"
+        },
+        {
+            "role": "brandfogde",
+            "organization": "None"
+        },
+        {
+            "role": "hemvärnsområdesbefälhavare",
+            "organization": "None"
+        },
+        {
+            "role": "vice ordförande",
+            "organization": "Ornö Röda Korskrets"
+        }
+    ],
+    "current_location": {
+        "name": "Ornö",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "Läroväxstudie",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Lantbrukselev",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Kelmcott, Oxfordshire"
+        },
+        {
+            "degree": "Lantbrukselev",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Newton, Northumberland"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Carin",
+            "last_name": "Pettersson",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "marriage_year": "1924",
+        "children": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Otto",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1925"
+            },
+            {
+                "first_name": "Albert",
+                "last_name": "Otto",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1926"
+            }
+        ]
+    },
+    "hobbies": [
+        "Jakt"
+    ],
+    "honorary_titles": [],
+    "honors": [],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [],
+    "travels": [
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE"
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        }
+    ]
+}

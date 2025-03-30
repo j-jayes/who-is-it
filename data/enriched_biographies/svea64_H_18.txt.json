@@ -1,0 +1,222 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1928,
+            "end_year": null,
+            "organization": "Statens Järnvägar",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1928,
+            "end_year": null,
+            "organization": "Uddevalla stad",
+            "location": {
+                "name": "Uddevalla",
+                "latitude": 58.3498003,
+                "longitude": 11.935649,
+                "formatted_address": "Uddevalla, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "assistent",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Statens lantbruksingenjör",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "arbetschef",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Karlstads stad",
+            "location": {
+                "name": "Karlstad",
+                "latitude": 59.4021806,
+                "longitude": 13.5114977,
+                "formatted_address": "Karlstad, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "överingenjörsassistent",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": "Västerås stad",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "byggnadschef",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Falun",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Eskil",
+        "last_name": "Hagland",
+        "middle_name": "A L",
+        "gender": "Male",
+        "birth_date": "20-05-1902",
+        "birth_place": {
+            "name": "Berg, Skaraborgs Län",
+            "latitude": 58.1089937,
+            "longitude": 11.8668524,
+            "formatted_address": "444 95 Berg, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör, byggnadschef",
+            "occupation_english": "civil engineer, construction manager",
+            "hisco_code_swedish": "21240.0",
+            "hisco_description_swedish": "Contractor"
+        },
+        "parents": [
+            {
+                "first_name": "Claes",
+                "last_name": "Karlsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "handlare",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Hedvig",
+                "last_name": "Zackrisdotter-Faxe",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "efindn",
+            "role": "Ordförande",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "trafikkomm",
+            "role": "Ordförande",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Falun",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "education": [
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1924",
+            "institution": "HTL"
+        },
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1928",
+            "institution": "CTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Greta",
+            "last_name": "Carlman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "postassistent",
+                "occupation_english": "postal clerk",
+                "hisco_code_swedish": "33170.0",
+                "hisco_description_swedish": "Post Office Counter Clerk",
+                "hisco_code_english": "30000.0",
+                "hisco_description_english": "Clerical or Related Worker, Specialisation Unknown"
+            },
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "C",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "postassistent",
+                        "occupation_english": "postal clerk",
+                        "hisco_code_swedish": "33170.0",
+                        "hisco_description_swedish": "Post Office Counter Clerk",
+                        "hisco_code_english": "30000.0",
+                        "hisco_description_english": "Clerical or Related Worker, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Sofia",
+                    "last_name": "Bergfelt",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Anders",
+                "last_name": "Hagland",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1936"
+            },
+            {
+                "first_name": "Birger",
+                "last_name": "Hagland",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Hagland",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "hobbies": [
+        "jakt",
+        "vira",
+        "svampplockning"
+    ],
+    "languages_spoken": null,
+    "political_positions": null,
+    "publications": null
+}

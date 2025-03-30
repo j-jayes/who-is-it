@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1894,
+            "end_year": 1897,
+            "organization": "Göthes Bokhandel",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1897,
+            "end_year": 1899,
+            "organization": "Göteborgs Litografiska Aktiebolags avdelningskontor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1899,
+            "organization": "Aktiebolaget Herzog & Söner",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Försäljningschef",
+            "start_year": 1921,
+            "end_year": 1940,
+            "organization": "Aktiebolaget Herzog & Söner (under senare år uppgånget i Esselte Aktiebolag)",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Speceriaffär och fabrik för isoleringsmaterial, packningar och andra maskinförnödenheter",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Aktiebolaget Wiro",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tillverkning av Wiro-kopplingar, rörsmide, eldverktyg med mera",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Adrianverken",
+            "location": {
+                "name": "Motala",
+                "latitude": 58.5380335,
+                "longitude": 15.0470936,
+                "formatted_address": "Motala, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Valfrid",
+        "last_name": "Berggren",
+        "middle_name": "Gabriel",
+        "gender": "Male",
+        "birth_date": "25-03-1874",
+        "birth_place": {
+            "name": "Hagebyhöga, Östergötlands Län",
+            "latitude": 58.4671288,
+            "longitude": 14.9753508,
+            "formatted_address": "592 94 Hagebyhöga, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Handelsreseföreningen"
+        },
+        {
+            "position": "Sekreterare",
+            "organization": "Svenska Handelsreseföreningen"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Allmänna Läroverket",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Vadstena Högre Allmänna Läroverk"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingeborg",
+            "last_name": "Krokström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1905",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "jakt",
+        "fiske"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Skandinavien",
+                "latitude": 62.27864750000001,
+                "longitude": 12.3401708,
+                "formatted_address": "Scandinavia"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Theander",
+        "middle_name": "Eijlert Olof",
+        "gender": "Male",
+        "birth_date": "10-02-1878",
+        "birth_place": {
+            "name": "Hälsingborg",
+            "latitude": 64.1386294,
+            "longitude": 19.5225599,
+            "formatted_address": "922 93 Hälsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "lektor",
+            "occupation_english": "lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Theander",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kassör",
+                    "occupation_english": "treasurer",
+                    "hisco_code_swedish": "33135.0",
+                    "hisco_description_swedish": "Cashier, Office or Cash Desk"
+                }
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Troili",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Sthlms Högskola",
+            "department": null,
+            "start_year": 1907,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Sthlms Högskola",
+            "department": null,
+            "start_year": 1931,
+            "end_year": null,
+            "field": "klassiska språk"
+        },
+        {
+            "position": "professorskompetens",
+            "position_english": "Professor competence",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1933,
+            "end_year": null,
+            "field": "grekiska"
+        }
+    ],
+    "achievements": [],
+    "awards": [
+        "Riddare av Nordstjärneorden",
+        "Ledamot av Vitterhets-, Historie- och Antikvitetsakademien"
+    ],
+    "board_memberships": [],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1900",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1907",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1907",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sigrid",
+            "last_name": "Åhgren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1910",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [],
+    "honorary_titles": [],
+    "honors": [],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Ia und ololygé I-H",
+            "year": "1915",
+            "type": "vetenskaplig publikation",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": "I-H"
+        },
+        {
+            "title": "Ia und ololygé I-H",
+            "year": "1922",
+            "type": "vetenskaplig publikation",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": "I-H"
+        },
+        {
+            "title": "A. a glos-sarium",
+            "year": "1931",
+            "type": "vetenskaplig publikation",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Studia Sapphica I",
+            "year": "1934",
+            "type": "vetenskaplig publikation",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Studia Sapphica II",
+            "year": "1936",
+            "type": "vetenskaplig publikation",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Studia Lesbiaca",
+            "year": "1943",
+            "type": "vetenskaplig publikation",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        }
+    ]
+}

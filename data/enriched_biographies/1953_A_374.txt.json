@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "Repetitör",
+            "start_year": 1933,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande kapellmästare",
+            "start_year": 1934,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ordinarie kapellmästare",
+            "start_year": 1939,
+            "end_year": 1947,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Förste kapellmästare",
+            "start_year": 1947,
+            "organization": "Stadsteatern och Konserthusstiftelsen",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Musikaliska Akademins inspektör",
+            "start_year": 1948,
+            "organization": "Statsunderstödda orkestern",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sten-Åke",
+        "last_name": "Axelson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "13-06-1906",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Förste kapellmästare",
+            "occupation_english": "First Conductor",
+            "hisco_code_swedish": "17135.0",
+            "hisco_description_swedish": "Orchestra and Band Conductor"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Trafikchef",
+                    "occupation_english": "Traffic Manager",
+                    "hisco_code_swedish": "21960.0",
+                    "hisco_description_swedish": "Transport Operations Managers",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Möller",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Musikstudier",
+            "degree_level": "Schooling",
+            "year": "1923-1924",
+            "institution": "Friedrich Koch i Berlin"
+        },
+        {
+            "degree": "Musikstudier",
+            "degree_level": "Schooling",
+            "year": "1924-1925",
+            "institution": "Paris"
+        },
+        {
+            "degree": "Musikstudier",
+            "degree_level": "Schooling",
+            "year": "1928-1932",
+            "institution": "Amsterdams musikkonservatorium"
+        },
+        {
+            "degree": "Musikstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Musikkonservatoriet i Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Birgit",
+            "last_name": "Ekendahl",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1950",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Skandinavien",
+                "latitude": 62.27864750000001,
+                "longitude": 12.3401708,
+                "formatted_address": "Scandinavia"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "career": [
+        {
+            "position": "Disponent",
+            "start_year": 1928,
+            "end_year": null,
+            "organization": "Gustafsson & Görtz AB",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Görtz",
+        "middle_name": "Walter",
+        "gender": "Male",
+        "birth_date": "18-01-1907",
+        "birth_place": {
+            "name": "Örebro",
+            "latitude": 59.2752626,
+            "longitude": 15.2134105,
+            "formatted_address": "Örebro, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "L",
+                "last_name": "Gustafsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Agnes",
+                "last_name": "Gustafsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Örebro",
+        "latitude": 59.2752626,
+        "longitude": 15.2134105,
+        "formatted_address": "Örebro, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Handelsgymnasium",
+            "degree_level": "Schooling",
+            "year": "1926",
+            "institution": "Handelsgymnasium"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Behm",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Polen",
+                "latitude": 51.919438,
+                "longitude": 19.145136,
+                "formatted_address": "Poland"
+            },
+            "country_code": "POL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Slovakien",
+                "latitude": 48.669026,
+                "longitude": 19.699024,
+                "formatted_address": "Slovakia"
+            },
+            "country_code": "SVK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Jugoslavien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "YUG",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

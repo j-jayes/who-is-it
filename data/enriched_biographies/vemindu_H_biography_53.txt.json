@@ -1,0 +1,186 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1929,
+            "end_year": 1932,
+            "organization": "ASEA",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1932,
+            "organization": "Telefonaktiebolaget L M Ericsson samt dotterbolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Suppleant i styrelsen",
+            "start_year": 1932,
+            "organization": "L M Ericssons Driftkontroll Aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Torsten",
+        "last_name": "Hallberg",
+        "middle_name": "Herman",
+        "gender": "Male",
+        "birth_date": "11-04-1909",
+        "birth_place": {
+            "name": "S:t Petersburg",
+            "latitude": 59.9310584,
+            "longitude": 30.3609097,
+            "formatted_address": "St Petersburg, Russia"
+        },
+        "occupation": {
+            "occupation": "Kamrer",
+            "occupation_english": null,
+            "hisco_code_swedish": "11010.0",
+            "hisco_description_swedish": "Accountant, General"
+        },
+        "parents": [
+            {
+                "first_name": "G",
+                "last_name": "H",
+                "middle_name": "V",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Övering",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Nygren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ålsten",
+        "latitude": 59.32339140000001,
+        "longitude": 17.9490937,
+        "formatted_address": "Ålsten, Bromma, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "S:t Petri-skolan",
+            "degree_level": "Schooling",
+            "year": "1926",
+            "institution": "Leningrad"
+        },
+        {
+            "degree": "ekonomisk examen",
+            "degree_level": "Bachelor's",
+            "year": "1929",
+            "institution": "Lyngbygaard"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna-Lisa",
+            "last_name": "Nylander",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Sportfiske",
+        "tennis",
+        "mm"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1941"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

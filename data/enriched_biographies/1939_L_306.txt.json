@@ -1,0 +1,299 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1907,
+            "end_year": 1914,
+            "organization": "Uppsala privatgymnasium",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1914,
+            "end_year": 1929,
+            "organization": "Högre allmänna läroverket",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": "Högre allmänna läroverket för flickor",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1919,
+            "end_year": 1919,
+            "organization": "Skolöverstyrelsens sommarkurs",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1921,
+            "end_year": 1921,
+            "organization": "Skolöverstyrelsens sommarkurs",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Lindkvist",
+        "middle_name": "Harald",
+        "gender": "Male",
+        "birth_date": "14-10-1881",
+        "birth_place": {
+            "name": "Ulricehamn",
+            "latitude": 57.7947889,
+            "longitude": 13.4205162,
+            "formatted_address": "Ulricehamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "Rektor",
+            "occupation_english": "Principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "37040.0",
+            "hisco_description_english": "Messenger"
+        },
+        "parents": [
+            {
+                "first_name": "Oskar",
+                "last_name": "Lindkvist",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Läroverkskollega",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "13200.0",
+                    "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Hedvig",
+                "last_name": "Blomberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala universitet",
+            "department": null,
+            "start_year": 1912,
+            "end_year": 1914,
+            "field": "Engelska språket"
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "Svenska Livräddningsinstitutet för Frivilliga Befäls Silvermedalj 1922",
+        "Ledamot av Vetenskapssamhället i Lund 1920",
+        "Hon. Memb. of Engl. Place-Name Soc."
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Examensnämnd",
+            "role": "Ledamot",
+            "start_year": 1917,
+            "end_year": 1929,
+            "organization": "Privatister i studentexamen",
+            "significance": null
+        },
+        {
+            "committee_name": "Realskolexamen",
+            "role": "Ombudsman",
+            "start_year": 1919,
+            "end_year": 1928,
+            "organization": "Skolöverstyrelsen",
+            "significance": null
+        },
+        {
+            "committee_name": "Drätselkammaren",
+            "role": "Ledamot",
+            "start_year": 1920,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Brandstyrelsen",
+            "role": "Ledamot",
+            "start_year": 1920,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Lasarettsdirektionen",
+            "role": "Ledamot",
+            "start_year": 1926,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "Ledamot",
+            "start_year": 1927,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Arbetslöshetskommittén",
+            "role": "Ordförande",
+            "start_year": 1923,
+            "end_year": 1924,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hälsingborg",
+        "latitude": 64.1386294,
+        "longitude": 19.5225599,
+        "formatted_address": "922 93 Hälsingborg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1903",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1908",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1912",
+            "institution": "Uppsala universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Astrid",
+            "last_name": "Sederblad",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Sederblad",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Stadsdistriktsläkare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "6105.0",
+                        "hisco_description_swedish": "General Physician"
+                    }
+                },
+                {
+                    "first_name": "Marie-Louise",
+                    "last_name": "Fagerlin",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1918",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Middle-English Place Names of Scand. Origin",
+            "year": "1912",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Old Scand. Deposits in Middle Engl. Records",
+            "year": "1913",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Richard Rolle’s Meditatio de Passione Domini",
+            "year": "1917",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Origin and Hist. of the Pronoun She",
+            "year": "1921",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "A Study ön Early Medieval York",
+            "year": "1926",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,203 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1924,
+            "end_year": 1934,
+            "organization": "Svenska Aktiebolaget Bromsregulator",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Aktiebolaget Rosenblads Patenter",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Preses",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "American Heat Reclaiming Corp.",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Folke",
+        "last_name": "Setterwall",
+        "middle_name": "Nils Henrik",
+        "gender": "Male",
+        "birth_date": "23-08-1899",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "N.",
+                "last_name": "Setterwall",
+                "middle_name": "F. Ph.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Vice Häradshövding",
+                    "occupation_english": "Vice District Governor",
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge"
+                }
+            },
+            {
+                "first_name": "Jane",
+                "last_name": "Magnet",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1918",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1924",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ebba",
+            "last_name": "Hermelin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1928",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Nils",
+                "last_name": "Setterwall",
+                "middle_name": "Henrik",
+                "gender": "Male",
+                "birth_year": "1928"
+            },
+            {
+                "first_name": "Lucie",
+                "last_name": "Setterwall",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1932"
+            },
+            {
+                "first_name": "Fredrik",
+                "last_name": "Setterwall",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1934"
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Setterwall",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Flesta europeiska länder",
+                "latitude": 54.5259614,
+                "longitude": 15.2551187,
+                "formatted_address": "Europe"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": null
+        }
+    ]
+}

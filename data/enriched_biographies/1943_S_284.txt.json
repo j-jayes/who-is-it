@@ -1,0 +1,177 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1925,
+            "end_year": 1927,
+            "organization": "Académie Montparnasse",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1925,
+            "end_year": 1927,
+            "organization": "Académie Scandinave Maison Watteau",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen målarskola",
+            "start_year": 1928,
+            "end_year": null,
+            "organization": "Stockholm",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tillförordnad professor",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Konstakademien",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ordinarie professor",
+            "start_year": 1938,
+            "end_year": 1942,
+            "organization": "Konstakademien",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Konstakademien",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Erixson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": null,
+        "birth_place": null,
+        "occupation": null
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Stockholms Skönhetsråd",
+            "role": "Ledamot",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Statens Konstråd",
+            "role": "Ledamot",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": null,
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Ärna",
+            "last_name": "Arntz",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Georg",
+                    "last_name": "A.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager"
+                    }
+                },
+                {
+                    "first_name": "Johanne",
+                    "last_name": "Marié",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "Rohde",
+                        "occupation_english": null
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1917",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Ester Lindahls stipendium 1921-1922",
+        "Ledamot av Franska Konstakademin"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Nordafrika",
+                "latitude": 26.0197776,
+                "longitude": 32.277834,
+                "formatted_address": "North Africa"
+            },
+            "country_code": "DZA",
+            "year": null
+        }
+    ]
+}

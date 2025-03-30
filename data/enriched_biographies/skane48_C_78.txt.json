@@ -1,0 +1,223 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1921,
+            "end_year": 1929,
+            "organization": "Lunds observatorium",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Docent",
+            "start_year": 1936,
+            "end_year": 1940,
+            "organization": "Lunds universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor i matematik och fysik",
+            "start_year": 1941,
+            "end_year": 1947,
+            "organization": "Kristinehamns högre allmänna läroverk",
+            "location": {
+                "name": "Kristinehamn",
+                "latitude": 59.3100677,
+                "longitude": 14.1089192,
+                "formatted_address": "Kristinehamn, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor i matematik och fysik",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "Landskrona högre allmänna läroverk",
+            "location": {
+                "name": "Landskrona",
+                "latitude": 55.8703477,
+                "longitude": 12.8300802,
+                "formatted_address": "Landskrona, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Carlin",
+        "middle_name": "Gustav Johan",
+        "gender": "Male",
+        "birth_date": "02-09-1896",
+        "birth_place": {
+            "name": "Linköping",
+            "latitude": 58.41080700000001,
+            "longitude": 15.6213727,
+            "formatted_address": "Linköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lektor",
+            "occupation_english": "Lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustav",
+                "last_name": "Carlin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Civilingenjör",
+                    "occupation_english": "Civil Engineer",
+                    "hisco_code_swedish": "2210.0",
+                    "hisco_description_swedish": "Civil Engineer, General"
+                }
+            },
+            {
+                "first_name": "Gerda",
+                "last_name": "Sjöstedt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Vitterhetsakademiens Guldmedalj 1920"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Landskrona",
+        "latitude": 55.8703477,
+        "longitude": 12.8300802,
+        "formatted_address": "Landskrona, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1925",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1929",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1934",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Anderson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1932",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ann",
+                "last_name": "Marie",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1934"
+            },
+            {
+                "first_name": "Claes",
+                "last_name": "Carlin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1944"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Ett 30-tal vetenskapliga arbeten",
+            "year": "None",
+            "type": "Vetenskapliga arbeten",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Östern",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

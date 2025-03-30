@@ -1,0 +1,206 @@
+{
+    "career": [
+        {
+            "position": "Provar",
+            "start_year": 1913,
+            "organization": "Södra Latin",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ämneslärarinna (vikarierande)",
+            "start_year": 1913,
+            "end_year": 1913,
+            "organization": "Varberg",
+            "location": {
+                "name": "Varberg",
+                "latitude": 57.107118,
+                "longitude": 12.2520907,
+                "formatted_address": "Varberg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ämneslärarinna",
+            "start_year": 1914,
+            "end_year": 1918,
+            "organization": "Falkenberg",
+            "location": {
+                "name": "Falkenberg",
+                "latitude": 56.90273329999999,
+                "longitude": 12.4888013,
+                "formatted_address": "Falkenberg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärarinna",
+            "start_year": 1918,
+            "end_year": 1928,
+            "organization": "Tekla Åbergs högre läroverk för flickor",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1929,
+            "end_year": 1937,
+            "organization": "Tekla Åbergs högre läroverk för flickor",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1937,
+            "organization": "Kommunala flickskolan",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Märta",
+        "last_name": "Jung",
+        "middle_name": "Christina Wilhelmina",
+        "gender": "Female",
+        "birth_date": "29-10-1889",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Rektor",
+            "occupation_english": "Principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "37040.0",
+            "hisco_description_english": "Messenger"
+        },
+        "parents": [
+            {
+                "first_name": "Victor",
+                "last_name": "Jung",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Rektor",
+                    "occupation_english": "Principal",
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher",
+                    "hisco_code_english": "37040.0",
+                    "hisco_description_english": "Messenger"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Levan",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1911",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Efterprövning till filosofie ämbets-examen",
+            "degree_level": "Master's",
+            "year": "1912",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Efterprövning till filosofie ämbets-examen",
+            "degree_level": "Master's",
+            "year": "1913",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "Stadsfullmäktige",
+            "position": "Ledamot",
+            "start_year": 1936,
+            "end_year": 1946,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

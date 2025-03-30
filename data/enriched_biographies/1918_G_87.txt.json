@@ -1,0 +1,154 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1901,
+            "organization": "Sandvikens Järnverk",
+            "location": {
+                "name": "Sandviken",
+                "latitude": 60.621607,
+                "longitude": 16.775918,
+                "formatted_address": "Sandviken, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1901,
+            "organization": "Krylbo-Norbergs, Kärrgruvan-Klacksbergs Järnvägsaktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1901,
+            "organization": "Sandvikens Järnverksaktiebolag",
+            "location": {
+                "name": "Sandviken",
+                "latitude": 60.621607,
+                "longitude": 16.775918,
+                "formatted_address": "Sandviken, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Göransson",
+        "middle_name": "Anders Fredrik",
+        "gender": "Male",
+        "birth_date": "12-06-1879",
+        "birth_place": {
+            "name": "Sandviken",
+            "latitude": 60.621607,
+            "longitude": 16.775918,
+            "formatted_address": "Sandviken, Sweden"
+        },
+        "occupation": {
+            "occupation": "direktör",
+            "occupation_english": "director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": null
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Sandviken",
+        "latitude": 60.621607,
+        "longitude": 16.775918,
+        "formatted_address": "Sandviken, Sweden"
+    },
+    "education": [
+        {
+            "degree": "realstudier",
+            "degree_level": "Schooling",
+            "year": "1897",
+            "institution": "Gävle"
+        },
+        {
+            "degree": "universitet",
+            "degree_level": "Bachelor's",
+            "year": "1898",
+            "institution": "Lausanne tekniska fakultet"
+        },
+        {
+            "degree": "Master of Arts",
+            "degree_level": "Master's",
+            "year": "1901",
+            "institution": "Columbia Universitet, New York"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Solveig",
+            "last_name": "Magn-Göranson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Ludvig",
+                    "last_name": "Spörck",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "fabriksägare",
+                        "occupation_english": "factory owner",
+                        "hisco_code_swedish": "21220.0",
+                        "hisco_description_swedish": "Production Manager (except Farm)"
+                    }
+                },
+                {
+                    "first_name": "Okänd",
+                    "last_name": "Duus",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1905",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1926,
+            "end_year": 1927,
+            "organization": "skolor i Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1939,
+            "end_year": 1942,
+            "organization": "ortnamnssällskapet i Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lärare",
+            "start_year": 1930,
+            "end_year": 1935,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Professor",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Tengstrand",
+        "middle_name": "Harald Richard",
+        "gender": "Male",
+        "birth_date": "08-06-1898",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Tengstrand",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "praktiserande läkare",
+                    "occupation_english": "Practicing doctor",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician"
+                }
+            },
+            {
+                "first_name": "Ulrika",
+                "last_name": "Ehrenborg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1940,
+            "end_year": null,
+            "field": "Engelska språket"
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1940,
+            "end_year": null,
+            "field": "Engelska språket"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1948,
+            "end_year": null,
+            "field": "Engelska språket"
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "Ledamot av Humanistiska Vetenskapssamfundet i Uppsala (LHVS) 1952"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1922",
+            "institution": "None"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1931",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "A contribution to the study of genitival composition in Old English place-names",
+            "year": "1940",
+            "type": "gradualavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Three Middle English Bahuvrihi adjectives",
+            "year": "1949",
+            "type": "None",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

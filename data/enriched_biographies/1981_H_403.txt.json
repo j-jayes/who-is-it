@@ -1,0 +1,233 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1950,
+            "end_year": 1953,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "laboratorieingenjör",
+            "start_year": 1953,
+            "end_year": 1955,
+            "organization": "Magnetic aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "projektingenjör",
+            "start_year": 1955,
+            "end_year": 1961,
+            "organization": "SAAB",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "platschef",
+            "start_year": 1961,
+            "end_year": 1965,
+            "organization": "SAAB elektroniklab",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "överingenjör",
+            "start_year": 1963,
+            "end_year": 1965,
+            "organization": "SAAB elektroniklab",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "professor",
+            "start_year": 1965,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "P",
+        "last_name": "Hellgren",
+        "middle_name": "Gösta",
+        "gender": "Male",
+        "birth_date": "23-08-1925",
+        "birth_place": {
+            "name": "Ljuder, Kronobergs Län",
+            "latitude": 56.6810848,
+            "longitude": 15.3152861,
+            "formatted_address": "365 94 Ljuder, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Helge",
+                "last_name": "Hellgren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "skomakaremästare",
+                    "occupation_english": "master shoemaker",
+                    "hisco_code_swedish": "80110.0",
+                    "hisco_description_swedish": "Shoemaker, General",
+                    "hisco_code_english": "80110.0",
+                    "hisco_description_english": "Shoemaker, General"
+                }
+            },
+            {
+                "first_name": "Tora",
+                "last_name": "Karlsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "teknologie licentiat",
+            "position_english": "licentiate of technology",
+            "institution": "Chalmers Tekniska Högskola",
+            "department": null,
+            "start_year": 1953,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "teknologie doktor",
+            "position_english": "Doctor of Technology",
+            "institution": "Chalmers Tekniska Högskola",
+            "department": null,
+            "start_year": 1960,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Chalmers Tekniska Högskola",
+            "department": null,
+            "start_year": 1961,
+            "end_year": null,
+            "field": "allmän teleteknik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ekerö",
+        "latitude": 59.2798338,
+        "longitude": 17.7902246,
+        "formatted_address": "Ekerö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1950",
+            "institution": "Chalmers Tekniska Högskola"
+        },
+        {
+            "degree": "teknologie licentiat",
+            "degree_level": "Doctorate",
+            "year": "1953",
+            "institution": "Chalmers Tekniska Högskola"
+        },
+        {
+            "degree": "teknologie doktor",
+            "degree_level": "Doctorate",
+            "year": "1960",
+            "institution": "Chalmers Tekniska Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingegerd",
+            "last_name": "Medin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "apotekskandidat",
+                "occupation_english": "pharmacy candidate",
+                "hisco_code_swedish": "6710.0",
+                "hisco_description_swedish": "Pharmacist",
+                "hisco_code_english": "41030.0",
+                "hisco_description_english": "Working Proprietor (Retail Trade)"
+            },
+            "parents": [
+                {
+                    "first_name": "Erik",
+                    "last_name": "Medin",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "köpman",
+                        "occupation_english": "merchant",
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Bertha",
+                    "last_name": "Lind",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1952",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

@@ -1,0 +1,151 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Brita",
+        "last_name": "Brilioth",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "12-12-1896",
+        "birth_place": {
+            "name": "Paris",
+            "latitude": 48.8575475,
+            "longitude": 2.3513765,
+            "formatted_address": "Paris, France"
+        },
+        "occupation": {
+            "occupation": "Biskopinna",
+            "occupation_english": "Bishop's wife",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Nathan",
+                "last_name": "Söderblom",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Ärkebiskop",
+                    "occupation_english": "Archbishop",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Forsell",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Kronobergs länsdistrikts",
+            "role": "Vice ordförande",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Röda korset",
+            "significance": null
+        },
+        {
+            "committee_name": "Dövstums Skola",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Styrelsen",
+            "significance": null
+        },
+        {
+            "committee_name": "Växjö stifts kvinnoråd",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Växjö",
+        "latitude": 56.8790044,
+        "longitude": 14.8058522,
+        "formatted_address": "Växjö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "Paris"
+        },
+        {
+            "degree": "Büttnersche höhere Mädchenschule",
+            "degree_level": "Schooling",
+            "year": "1912-1914",
+            "institution": "Leipzig"
+        },
+        {
+            "degree": "Privatgymnasium",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "Uppsala enskilda läroverk"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Yngve",
+            "last_name": "Brilioth",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1919",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Finsk medalj",
+        "Dansk medalj",
+        "Holländsk medalj"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        }
+    ]
+}

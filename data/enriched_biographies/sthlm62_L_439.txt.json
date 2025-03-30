@@ -1,0 +1,153 @@
+{
+    "career": [
+        {
+            "position": "Officierexamen",
+            "start_year": 1937,
+            "organization": "Linköping",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Kapten",
+            "start_year": 1945
+        },
+        {
+            "position": "Major",
+            "start_year": 1952
+        },
+        {
+            "position": "Tjänstgöring",
+            "start_year": 1947,
+            "end_year": 1953,
+            "organization": "Marinförvaltningen"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1951,
+            "end_year": 1954,
+            "organization": "Krigshögskolan"
+        },
+        {
+            "position": "Souschef",
+            "start_year": 1954,
+            "organization": "Kungliga Sjökrigsskolan"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1959,
+            "organization": "Marinförvaltningen"
+        }
+    ],
+    "person": {
+        "first_name": "Sten",
+        "last_name": "Lindblad",
+        "middle_name": "A S",
+        "gender": "Male",
+        "birth_date": "27-10-1914",
+        "birth_place": {
+            "name": "Frinnaryd, Jönköpings Län",
+            "latitude": 57.9337032,
+            "longitude": 14.8202189,
+            "formatted_address": "578 74 Frinnaryd, Sweden"
+        },
+        "occupation": {
+            "occupation": "Major",
+            "occupation_english": "Major",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "58320.0",
+            "hisco_description_english": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Sixten",
+                "last_name": "Lindblad",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Godsägare",
+                    "occupation_english": "Estate Owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Grek",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1934",
+            "institution": "Linköping"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Helena",
+            "last_name": "Schullström",
+            "gender": "Female",
+            "birth_date": "null",
+            "birth_place": {
+                "name": "null",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "parents": [
+                {
+                    "first_name": "Harald",
+                    "last_name": "Schullström",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Köpman",
+                        "occupation_english": "Merchant",
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "null",
+                    "last_name": "null",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1917",
+        "children": [
+            {
+                "first_name": "Sten-Olof",
+                "last_name": "Lindblad",
+                "gender": "Male",
+                "birth_year": "1947"
+            },
+            {
+                "first_name": "Björn",
+                "last_name": "Lindblad",
+                "gender": "Male",
+                "birth_year": "1948"
+            },
+            {
+                "first_name": "Bo",
+                "last_name": "Lindblad",
+                "gender": "Male",
+                "birth_year": "1953"
+            }
+        ]
+    },
+    "honors": [
+        "RSO",
+        "Ryttare Oljetjänst Medalj"
+    ],
+    "military_service": "Krigshögskolan 1947"
+}

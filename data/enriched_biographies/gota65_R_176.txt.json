@@ -1,0 +1,225 @@
+{
+    "career": [
+        {
+            "position": "konstruktör",
+            "start_year": 1938,
+            "organization": "Verkstadsaktiebolag Meka-no",
+            "location": {
+                "name": "Helsingborg",
+                "latitude": 56.0464674,
+                "longitude": 12.6945121,
+                "formatted_address": "Helsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "servicechef",
+            "start_year": 1940,
+            "organization": "Aktiebolag Original-Odhner",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "servicechef",
+            "start_year": 1945,
+            "end_year": 1950,
+            "organization": "Aktiebolag Original-Odhner",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "verkstadsingenjör",
+            "start_year": 1950,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "platschef",
+            "start_year": 1955,
+            "organization": "Aktiebolag Original-Odhners fabriker",
+            "location": {
+                "name": "Strömstad",
+                "latitude": 58.9383459,
+                "longitude": 11.1791871,
+                "formatted_address": "Strömstad, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Arne",
+        "last_name": "Rosell",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "06-10-1916",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "ingenjör",
+            "occupation_english": "engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "Herbert",
+                "last_name": "Rosell",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Greta",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "Företagsföreningen i Göteborgs och Bohus Län"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "Göteborgs Bank Strömstad"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "ledamot",
+            "start_year": 1959
+        },
+        {
+            "committee_name": "Byggnadsnämnden",
+            "role": "ledamot",
+            "start_year": 1959
+        },
+        {
+            "committee_name": "Drätselkammaren",
+            "role": "ledamot",
+            "start_year": 1961
+        },
+        {
+            "committee_name": "Aktiebolag Strömstadsbyggen",
+            "role": "vice ordförande",
+            "start_year": 1962
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Medlem",
+            "organization": "Odd Fellow"
+        },
+        {
+            "role": "Medlem",
+            "organization": "Rotary"
+        },
+        {
+            "role": "presid",
+            "organization": "Rotary"
+        }
+    ],
+    "current_location": {
+        "name": "Strömstad",
+        "latitude": 58.9383459,
+        "longitude": 11.1791871,
+        "formatted_address": "Strömstad, Sweden"
+    },
+    "education": [
+        {
+            "degree": "ingenjörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1937",
+            "institution": "Göteborgs Tekniska Institut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Käthy",
+            "last_name": "Åström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "P",
+                    "last_name": "Å",
+                    "middle_name": "E",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "driftschef",
+                        "occupation_english": "chief operating officer",
+                        "hisco_code_swedish": "22610.0",
+                        "hisco_description_swedish": "Production Supervisor or Foreman, General",
+                        "hisco_code_english": "31090.0",
+                        "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                    }
+                },
+                {
+                    "first_name": "Ester",
+                    "last_name": "Ottosson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1942",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Per",
+                "last_name": "Arne",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1948"
+            }
+        ]
+    },
+    "hobbies": [
+        "sport",
+        "bridge",
+        "musik"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

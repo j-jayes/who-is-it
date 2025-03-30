@@ -1,0 +1,214 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1957,
+            "end_year": 1960,
+            "organization": "Mölndals lasarett, röntgenavdelning",
+            "location": {
+                "name": "Mölndal",
+                "latitude": 57.65,
+                "longitude": 12.016667,
+                "formatted_address": "Mölndal, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Röntgendiagnostisk avdelning II",
+            "start_year": 1960,
+            "end_year": 1962,
+            "organization": "Sahlgrenska sjukhuset",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Gustaf V:s jubileumsklinik",
+            "start_year": 1962,
+            "end_year": 1963,
+            "organization": "Gustaf V:s jubileumsklinik",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Röntgendiagnostisk avdelning II",
+            "start_year": 1963,
+            "end_year": null,
+            "organization": "Sahlgrenska sjukhuset",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Stig",
+        "last_name": "Olsson",
+        "middle_name": "B",
+        "gender": "Male",
+        "birth_date": "28-09-1925",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Legitimerad läkare",
+            "occupation_english": "Licensed physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmann",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Cecilia",
+                "last_name": "Wennerholm",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Skrifter",
+            "field": "Röntgendiagnostik",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Askim",
+        "latitude": 59.5834589,
+        "longitude": 11.1629005,
+        "formatted_address": "Askim, Norway"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1945",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Farmacie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1950",
+            "institution": "None"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1952",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1957",
+            "institution": "Göteborg"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingeborg",
+            "last_name": "Henning",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Richard",
+                    "last_name": "Henning",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Apotekare",
+                        "occupation_english": "Pharmacist",
+                        "hisco_code_swedish": "6710.0",
+                        "hisco_description_swedish": "Pharmacist",
+                        "hisco_code_english": "41030.0",
+                        "hisco_description_english": "Working Proprietor (Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Sofie",
+                    "last_name": "Häuserer",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1953",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Annika",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1957"
+            },
+            {
+                "first_name": "Nina",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1959"
+            },
+            {
+                "first_name": "Mette",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1961"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

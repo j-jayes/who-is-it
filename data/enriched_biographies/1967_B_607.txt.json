@@ -1,0 +1,124 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1924,
+            "end_year": 1929,
+            "organization": "Bonniers konversationslexikon",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Amanuens",
+            "start_year": 1933,
+            "end_year": 1945,
+            "organization": "Kungliga Biblioteket",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Bibliotekarie",
+            "start_year": 1945,
+            "end_year": 1960,
+            "organization": "Kungliga Biblioteket",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Förste bibliotekarie",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": "Kungliga Biblioteket",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Harald",
+        "last_name": "Bohrn",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "14-12-1904",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Förste bibliotekarie",
+            "occupation_english": null,
+            "hisco_code_swedish": "19120.0",
+            "hisco_description_swedish": "Librarian"
+        },
+        "parents": [
+            {
+                "first_name": "Oscar",
+                "last_name": "Bohrn",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Tandläkare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "6310.0",
+                    "hisco_description_swedish": "Dentist, General"
+                }
+            },
+            {
+                "first_name": "Thérèse",
+                "last_name": "Widström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "None",
+            "department": null,
+            "start_year": 1933,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Accessionskatalog över utländsk litteratur i svenska forskningsbibliotek",
+            "field": "Bibliografi",
+            "year": "1936-1944, 1947-1949, 1952-1963",
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Sverige, Danmark och Frankrike från avslutandet av Sveriges förbund med Frankrike i april 1672 till utbrottet av Sveriges krig med Brandenburg i december 1674",
+            "year": "1933",
+            "type": "Doktorsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Svensk historisk bibliografi 1936-1950",
+            "year": "1964",
+            "type": "Bibliografi",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

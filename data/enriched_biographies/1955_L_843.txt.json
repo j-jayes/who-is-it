@@ -1,0 +1,100 @@
+{
+    "career": [
+        {
+            "position": "rådman",
+            "start_year": 1925,
+            "organization": "Visby"
+        },
+        {
+            "position": "borgmästare",
+            "start_year": 1937,
+            "organization": "Visby"
+        },
+        {
+            "position": "Krigsdomare",
+            "start_year": 1929,
+            "end_year": 1948
+        }
+    ],
+    "person": {
+        "first_name": "Harald",
+        "last_name": "Löwenberg",
+        "middle_name": "Johan Oscar",
+        "gender": "Male",
+        "birth_date": "25-11-1895",
+        "birth_place": {
+            "name": "Visby",
+            "latitude": 57.6348,
+            "longitude": 18.29484,
+            "formatted_address": "Visby, Sweden"
+        },
+        "occupation": {
+            "occupation": "borgmästare",
+            "occupation_english": "mayor",
+            "hisco_code_swedish": "20110.0",
+            "hisco_description_swedish": "Legislative Official",
+            "hisco_code_english": "58320.0",
+            "hisco_description_english": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Emil",
+                "last_name": "Löwenberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "major",
+                    "occupation_english": "major",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Agnes",
+                "last_name": "Jansson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "juridisk kandidat",
+            "degree_level": "Master's",
+            "year": "1918",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "de Jounge",
+            "gender": "Female",
+            "birth_date": "01-01-1903",
+            "parents": [
+                {
+                    "first_name": "Ållon",
+                    "last_name": "de T",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "direktör",
+                        "occupation_english": "director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Wedin",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1931"
+    },
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

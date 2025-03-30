@@ -1,0 +1,166 @@
+{
+    "career": [
+        {
+            "position": "skulptris",
+            "start_year": 1911,
+            "end_year": 1914,
+            "organization": "Akademin i Köpenhamn",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Vilgga",
+        "last_name": "Ullman",
+        "middle_name": "Nanna",
+        "gender": "Female",
+        "birth_date": "02-05-1888",
+        "birth_place": {
+            "name": "Köpenhamn",
+            "latitude": 55.6760968,
+            "longitude": 12.5683371,
+            "formatted_address": "Copenhagen, Denmark"
+        },
+        "occupation": {
+            "occupation": "skulptris",
+            "occupation_english": "sculptor",
+            "hisco_code_swedish": "16120.0",
+            "hisco_description_swedish": "Sculptor",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Viggo",
+                "last_name": "Joihansen",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "professor",
+                    "occupation_english": "professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Martha",
+                "last_name": "Möller",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Sigfrid",
+            "last_name": "Ullman",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "konstnär",
+                "occupation_english": "artist",
+                "hisco_code_swedish": "16000.0",
+                "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+                "hisco_code_english": "17000.0",
+                "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+            },
+            "parents": null
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Rom",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ITA",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Rom",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ITA",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1929"
+        }
+    ]
+}

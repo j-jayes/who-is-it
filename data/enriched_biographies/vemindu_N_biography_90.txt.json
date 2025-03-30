@@ -1,0 +1,162 @@
+{
+    "career": [
+        {
+            "position": "Byggmästare",
+            "start_year": 1897,
+            "end_year": 1917,
+            "organization": null,
+            "location": {
+                "name": "Billesholm",
+                "latitude": 56.0597658,
+                "longitude": 12.9748334,
+                "formatted_address": "267 71 Billesholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Åstorps Järnhandel",
+            "location": {
+                "name": "Åstorp",
+                "latitude": 56.134262,
+                "longitude": 12.945908,
+                "formatted_address": "Åstorp, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Paulus",
+        "last_name": "Nilsson",
+        "middle_name": "Nathanael",
+        "gender": "Male",
+        "birth_date": "24-08-1874",
+        "birth_place": {
+            "name": "Kivik, Kristianstads Län",
+            "latitude": 55.685039,
+            "longitude": 14.2265929,
+            "formatted_address": "277 30 Kivik, Sweden"
+        },
+        "occupation": {
+            "occupation": "Byggmästare",
+            "occupation_english": "Builder",
+            "hisco_code_swedish": "21240.0",
+            "hisco_description_swedish": "Contractor",
+            "hisco_code_english": "95910.0",
+            "hisco_description_english": "Housebuilder, General"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Snickare",
+                    "occupation_english": "Carpenter",
+                    "hisco_code_swedish": "95410.0",
+                    "hisco_description_swedish": "Carpenter, General",
+                    "hisco_code_english": "95410.0",
+                    "hisco_description_english": "Carpenter, General"
+                }
+            },
+            {
+                "first_name": "Elna",
+                "last_name": "Hansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Skandinaviska Bankens avdelningskontor i Åstorp"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Billesholms Kristliga Missionsförening",
+            "role": "Ordförande",
+            "start_year": 1910,
+            "end_year": 1926,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Ängelholms Betaniaförening",
+            "role": "Ordförande",
+            "start_year": 1931,
+            "end_year": 1935,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Åstorp",
+        "latitude": 56.134262,
+        "longitude": 12.945908,
+        "formatted_address": "Åstorp, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Elna",
+            "last_name": "Fajersson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Rickard",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": null
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1924"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1928,
+            "end_year": 1929,
+            "organization": "Jonsereds Fabrikers Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkstadsingenjör",
+            "start_year": 1929,
+            "organization": "Svenska Stålpressnings Aktiebolag Olofström",
+            "location": {
+                "name": "Olofström",
+                "latitude": 56.277708,
+                "longitude": 14.530938,
+                "formatted_address": "Olofström, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Svante",
+        "last_name": "Holm",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "07-02-1903",
+        "birth_place": {
+            "name": "Kristiania",
+            "latitude": 59.9138688,
+            "longitude": 10.7522454,
+            "formatted_address": "Oslo, Norway"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Holm",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Målaremästare",
+                    "occupation_english": "Master Painter",
+                    "hisco_code_swedish": "93120.0",
+                    "hisco_description_swedish": "Building Painter",
+                    "hisco_code_english": "93120.0",
+                    "hisco_description_english": "Building Painter"
+                }
+            },
+            {
+                "first_name": "Sofia",
+                "last_name": "Söderholm",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "Ordförande",
+            "organization": "Luftskyddsnämnden"
+        },
+        {
+            "role": "Ordförande",
+            "organization": "Olofströms Fiskevårdsförening"
+        },
+        {
+            "role": "Ordförande",
+            "organization": "Föreningen Olofströms Idrottsplats"
+        }
+    ],
+    "current_location": {
+        "name": "Olofström",
+        "latitude": 56.277708,
+        "longitude": 14.530938,
+        "formatted_address": "Olofström, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1923",
+            "institution": "Norrmalms Realskola Stockholm"
+        },
+        {
+            "degree": "Kandidatexamen",
+            "degree_level": "Bachelor's",
+            "year": "1928",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Birgit",
+            "last_name": "Runnquist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Fiske"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1946,
+            "end_year": 1951,
+            "organization": "Sjukhus",
+            "location": {
+                "name": "Tyskland och Österrike",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kirurgisk avdelning",
+            "start_year": 1952,
+            "end_year": 1952,
+            "organization": "Västerviks lasarett",
+            "location": {
+                "name": "Västervik",
+                "latitude": 57.75771559999999,
+                "longitude": 16.6369759,
+                "formatted_address": "Västervik, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kirurgisk avdelning",
+            "start_year": 1952,
+            "end_year": 1953,
+            "organization": "Söderköpings lasarett",
+            "location": {
+                "name": "Söderköping",
+                "latitude": 58.4759013,
+                "longitude": 16.3234307,
+                "formatted_address": "Söderköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra läkare och tillförordnad sjukstugeläkare",
+            "start_year": 1953,
+            "end_year": 1957,
+            "organization": "Sjukstugan",
+            "location": {
+                "name": "Vimmerby",
+                "latitude": 57.6690339,
+                "longitude": 15.858857,
+                "formatted_address": "Vimmerby, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Förste underläkare",
+            "start_year": 1957,
+            "end_year": 1961,
+            "organization": "Falkenbergs lasarett",
+            "location": {
+                "name": "Falkenberg",
+                "latitude": 56.90273329999999,
+                "longitude": 12.4888013,
+                "formatted_address": "Falkenberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Andre stadsläkare",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": "Trelleborgs stad",
+            "location": {
+                "name": "Trelleborg",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Falkenberg",
+                "latitude": 56.90273329999999,
+                "longitude": 12.4888013,
+                "formatted_address": "Falkenberg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Luis",
+        "last_name": "Hackl",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "27-04-1920",
+        "birth_place": {
+            "name": "Sautens, Österrike",
+            "latitude": 47.20823,
+            "longitude": 10.861875,
+            "formatted_address": "Sautens, Austria"
+        },
+        "occupation": {
+            "occupation": "Praktiserande läkare",
+            "occupation_english": "Practicing physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johann",
+                "last_name": "Hackl",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Agnes",
+                "last_name": "Pohl",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Falkenberg",
+        "latitude": 56.90273329999999,
+        "longitude": 12.4888013,
+        "formatted_address": "Falkenberg, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Wera",
+            "last_name": "Schuffelhauer",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Erich",
+                    "last_name": "Schuffelhauer",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Civilingenjör",
+                        "occupation_english": "Civil Engineer",
+                        "hisco_code_swedish": "2210.0",
+                        "hisco_description_swedish": "Civil Engineer, General"
+                    }
+                },
+                {
+                    "first_name": "Erika",
+                    "last_name": "Fritz",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1947",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Beatrix",
+                "last_name": "Hackl",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1950"
+            },
+            {
+                "first_name": "Alexander",
+                "last_name": "Hackl",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1956"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

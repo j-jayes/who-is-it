@@ -1,0 +1,125 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Bjurulf",
+        "middle_name": "M",
+        "gender": "Male",
+        "birth_date": "29-03-1932",
+        "birth_place": {
+            "name": "Jönköping",
+            "latitude": 57.78261370000001,
+            "longitude": 14.1617876,
+            "formatted_address": "Jönköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hjalmar",
+                "last_name": "Bjurulf",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "överlärare",
+                    "occupation_english": "senior teacher",
+                    "hisco_code_swedish": "13000.0",
+                    "hisco_description_swedish": "Teacher, Level and Subject Unknown",
+                    "hisco_code_english": "13990.0",
+                    "hisco_description_english": "Other Teachers"
+                }
+            },
+            {
+                "first_name": "Valborg",
+                "last_name": "Sandberg",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "medicin licentiat",
+            "position_english": "Medical Licentiate",
+            "institution": "None",
+            "start_year": 1957
+        },
+        {
+            "position": "medicine doktor",
+            "position_english": "Doctor of Medicine",
+            "institution": "None",
+            "start_year": 1960
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lund",
+            "start_year": 1960,
+            "end_year": 1963,
+            "field": "anatomi"
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lund",
+            "start_year": 1963,
+            "end_year": 1966,
+            "field": "socialmedicin"
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Umeå",
+            "start_year": 1966,
+            "field": "socialmedicin"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter i anatomi, internmedicin och socialmedicin",
+            "field": "medicin"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Carin",
+            "last_name": "Lindström",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Harald",
+                    "last_name": "Lindström",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "polismästare",
+                        "occupation_english": "police chief",
+                        "hisco_code_swedish": "58220.0",
+                        "hisco_description_swedish": "Policeman and other Maintainers of Law and Order (except Military)",
+                        "hisco_code_english": "58220.0",
+                        "hisco_description_english": "Policeman and other Maintainers of Law and Order (except Military)"
+                    }
+                },
+                {
+                    "first_name": "Greta",
+                    "last_name": "Meding",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1957"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

@@ -1,0 +1,137 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1917,
+            "end_year": 1924,
+            "organization": "Statens järnvägsbyggnader",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "AB Superior",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "HÖGLUND",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "01-01-1899",
+        "birth_place": {
+            "name": "Norrköping",
+            "latitude": 58.587745,
+            "longitude": 16.192421,
+            "formatted_address": "Norrköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kamrer",
+            "occupation_english": "Comptroller",
+            "hisco_code_swedish": "11010.0",
+            "hisco_description_swedish": "Accountant, General"
+        },
+        "parents": [
+            {
+                "first_name": "E",
+                "last_name": "H",
+                "middle_name": "G",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "maskinmästare",
+                    "occupation_english": "Marine Engineer",
+                    "hisco_code_english": "2410.0",
+                    "hisco_description_english": "Mechanical Engineer, General"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Jansdotter",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Wahlström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Bridge",
+        "Skidor",
+        "Tennis"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Skandinaviska länderna",
+                "latitude": 62.27864750000001,
+                "longitude": 12.3401708,
+                "formatted_address": "Scandinavia"
+            },
+            "country_code": "SWE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Baltikum",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "LVA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

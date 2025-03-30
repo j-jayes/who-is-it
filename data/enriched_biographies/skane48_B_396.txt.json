@@ -1,0 +1,189 @@
+{
+    "career": [
+        {
+            "position": "Assist",
+            "start_year": 1930,
+            "end_year": 1931,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Ingenjörsvetenskapsakademien",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Uddeholms Aktiebolag elektrokemiska fabrik",
+            "location": {
+                "name": "Skoghall",
+                "latitude": 59.32462750000001,
+                "longitude": 13.4693947,
+                "formatted_address": "Skoghall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Svenska Sockerfabriks Aktiebolag",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Allan",
+        "last_name": "Bäckman",
+        "middle_name": "Waldemar",
+        "gender": "Male",
+        "birth_date": "29-09-1908",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "K. G.",
+                "last_name": "Bäckman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Maskinmästare",
+                    "occupation_english": "Chief Engineer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Andreasson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1926",
+            "institution": "Karlskrona"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1930",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Birgit",
+            "last_name": "Enholm",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Anita",
+                "last_name": "Bäckman",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1937"
+            },
+            {
+                "first_name": "Ulla",
+                "last_name": "Bäckman",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Erik",
+                "last_name": "Bäckman",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Rolf",
+                "last_name": "Bäckman",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Västeuropa",
+                "latitude": 46.2021848,
+                "longitude": 1.2643875,
+                "formatted_address": "Western Europe"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

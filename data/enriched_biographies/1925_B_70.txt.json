@@ -1,0 +1,159 @@
+{
+    "career": [
+        {
+            "position": "Legitimerad läkare",
+            "start_year": 1882,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1896,
+            "end_year": null,
+            "organization": "Göteborgs barnsjukhus",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Bergendal",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "12-05-1851",
+        "birth_place": {
+            "name": "Färjelanda, Älvsborgs Län",
+            "latitude": 58.567559,
+            "longitude": 11.994926,
+            "formatted_address": "Färgelanda, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överläkare",
+            "occupation_english": "Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "S.",
+                "last_name": "Bergendal",
+                "middle_name": "J.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kyrkoherde",
+                    "occupation_english": "Vicar",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "von Proschwitz",
+                "middle_name": "Helena",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Ingeborg",
+            "last_name": "Lundquist",
+            "middle_name": "Elise",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Ferd.",
+                    "last_name": "Lundquist",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Grosshandlare",
+                        "occupation_english": "Wholesaler",
+                        "hisco_code_swedish": "41020.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Hilda",
+                    "last_name": "Lindquist",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1893",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1889"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": "1891"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1896"
+        }
+    ]
+}

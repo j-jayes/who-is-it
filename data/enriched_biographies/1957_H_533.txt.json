@@ -1,0 +1,231 @@
+{
+    "career": [
+        {
+            "position": "Laborator",
+            "start_year": 1953,
+            "organization": "Karolinska Institutet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1953,
+            "organization": "Karolinska Sjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Marinläkare i reserven",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Öronskolläkare",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Holmgren",
+        "middle_name": "Lennart Albert",
+        "gender": "Male",
+        "birth_date": "31-07-1904",
+        "birth_place": {
+            "name": "Forshaga, Värmlands Län",
+            "latitude": 59.52976049999999,
+            "longitude": 13.4860836,
+            "formatted_address": "Forshaga, Sweden"
+        },
+        "occupation": {
+            "occupation": "Laborator, överläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Albert",
+                "last_name": "Holmgren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Civilingenjör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "2210.0",
+                    "hisco_description_swedish": "Civil Engineer, General"
+                }
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Stiernstedt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1940,
+            "end_year": null,
+            "field": "Öron-, näs- och halssjukdomar"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Sjukvårdsförvaltningens vetenskapliga råd",
+            "role": "Ledamot",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1932",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1939",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eugenia",
+            "last_name": "Ekman",
+            "middle_name": "Gen",
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Axel",
+                    "last_name": "Ekman",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Krigsråd",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "20210.0",
+                        "hisco_description_swedish": "Government Administrator"
+                    }
+                },
+                {
+                    "first_name": "Augusta",
+                    "last_name": "Hasselblad",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1932",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Avhandlingar i otologi, speciellt om audiologi",
+            "year": "None",
+            "type": "avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1935-1954"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1950"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "career": [
+        {
+            "position": "maskinarbetare",
+            "start_year": 1910,
+            "organization": null,
+            "location": {
+                "name": "N. Y.",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "verkmästare",
+            "start_year": 1910,
+            "organization": null,
+            "location": {
+                "name": "Conn.",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "botanist och trädgårdsmästare",
+            "start_year": 1932,
+            "organization": "Connecticut College for Women",
+            "location": {
+                "name": "New London, Conn.",
+                "latitude": 41.3556539,
+                "longitude": -72.0995209,
+                "formatted_address": "New London, CT, USA"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Kaleb",
+        "last_name": "Jansson",
+        "middle_name": "Paulinus",
+        "gender": "Male",
+        "birth_date": "22-06-1878",
+        "birth_place": {
+            "name": "Örebro",
+            "latitude": 59.2752626,
+            "longitude": 15.2134105,
+            "formatted_address": "Örebro, Sweden"
+        },
+        "occupation": {
+            "occupation": "botanist",
+            "occupation_english": "botanist"
+        },
+        "parents": [
+            {
+                "first_name": "Karl",
+                "last_name": "Fredrik",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "snickare",
+                    "occupation_english": "carpenter",
+                    "hisco_code_swedish": "95410.0",
+                    "hisco_description_swedish": "Carpenter, General",
+                    "hisco_code_english": "95410.0",
+                    "hisco_description_english": "Carpenter, General"
+                }
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Olson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "insamling av växter",
+            "field": "botanik",
+            "year": "1926",
+            "significance": null,
+            "recognized_by": "riksmuseum"
+        },
+        {
+            "title": "botanisk forskningsfärd",
+            "field": "botanik",
+            "year": "1930",
+            "significance": null,
+            "recognized_by": "riksmuseum och Connecticut College"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "New London, Conn., U. S. A.",
+        "latitude": 41.3556539,
+        "longitude": -72.0995209,
+        "formatted_address": "New London, CT, USA"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Signe",
+            "last_name": "Hjorth",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gustav",
+                    "last_name": "Alfred",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Olson H",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Albertina",
+                    "last_name": "Hedin",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1910",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Newfoundland",
+                "latitude": 54.2730918,
+                "longitude": -61.7387586,
+                "formatted_address": "Newfoundland and Labrador, Canada"
+            },
+            "country_code": "CAN",
+            "year": "1930"
+        }
+    ]
+}

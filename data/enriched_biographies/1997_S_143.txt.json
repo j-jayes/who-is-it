@@ -1,0 +1,146 @@
+{
+    "career": [
+        {
+            "position": "wissenschaftliche Mitarbeiterin",
+            "start_year": 1977,
+            "end_year": 1981,
+            "organization": "Universität Konstanz",
+            "location": {
+                "name": "Konstanz, Tyskland",
+                "latitude": 47.6779808,
+                "longitude": 9.1736741,
+                "formatted_address": "78 Konstanz, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "universitetslektor",
+            "start_year": 1981,
+            "end_year": 1991,
+            "organization": "Stockholms Universitet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "wissenschaftliche Mitarbeiterin",
+            "start_year": 1986,
+            "end_year": 1989,
+            "organization": "Universität Hamburg",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "professor",
+            "start_year": 1991,
+            "end_year": null,
+            "organization": "Lunds Universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "M",
+        "last_name": "Schlyter",
+        "middle_name": "Suzanne",
+        "gender": "Female",
+        "birth_date": "01-02-1944",
+        "birth_place": {
+            "name": "Gävle",
+            "latitude": 60.6748796,
+            "longitude": 17.1412726,
+            "formatted_address": "Gävle, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Börje",
+                "last_name": "Schlyter",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "filosofie doktor",
+                    "occupation_english": "Doctor of Philosophy",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Schlyter",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "filosofie doktor",
+                    "occupation_english": "Doctor of Philosophy",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "prof",
+            "position_english": "professor",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1991,
+            "end_year": null,
+            "field": "romanska språk"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Språklig utredning av ett jämställdhetsmål",
+            "field": "Språk",
+            "year": "1985",
+            "significance": null,
+            "recognized_by": "Arbetslivscentrum"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Forskning i fransk språkvetenskap samt barns och vuxnas språkinlärning",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1970-1973"
+        }
+    ]
+}

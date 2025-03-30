@@ -1,0 +1,186 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Ebbe",
+        "middle_name": "Emil",
+        "gender": "Male",
+        "birth_date": "27-03-1868",
+        "birth_place": {
+            "name": "Hököpinge, Malmöhus Län",
+            "latitude": 55.4963545,
+            "longitude": 13.005217,
+            "formatted_address": "235 43 Hököpinge, Sweden"
+        },
+        "occupation": {
+            "occupation": "bildhuggare",
+            "occupation_english": "sculptor",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Andersson",
+                "middle_name": "Johan",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Mathiasson",
+                "middle_name": "Benedikta",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Atlas’ dotter",
+            "field": "skulptur",
+            "year": "1892"
+        },
+        {
+            "title": "Solrosen",
+            "field": "skulptur",
+            "year": "1893"
+        },
+        {
+            "title": "Venus consolatrix",
+            "field": "skulptur",
+            "year": "1894"
+        },
+        {
+            "title": "Martyrium humanum",
+            "field": "skulptur",
+            "year": "1895"
+        },
+        {
+            "title": "Relieferna, ödet, Orfea, Immaculata",
+            "field": "skulptur"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Paris",
+        "latitude": 48.8575475,
+        "longitude": 2.3513765,
+        "formatted_address": "Paris, France"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1888",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Menga",
+            "last_name": "Schjelderup",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": {
+                "name": "Kristiania",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "occupation": {
+                "occupation": "skulptris",
+                "occupation_english": "sculptress",
+                "hisco_code_swedish": "16120.0",
+                "hisco_description_swedish": "Sculptor",
+                "hisco_code_english": "16120.0",
+                "hisco_description_english": "Sculptor"
+            },
+            "parents": [
+                {
+                    "first_name": "konsul",
+                    "last_name": "S.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "konsul",
+                        "occupation_english": "consul",
+                        "hisco_code_swedish": "20210.0",
+                        "hisco_description_swedish": "Government Administrator",
+                        "hisco_code_english": "20210.0",
+                        "hisco_description_english": "Government Administrator"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1892",
+        "divorce_year": "1898"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        }
+    ]
+}

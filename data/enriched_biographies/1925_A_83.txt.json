@@ -1,0 +1,113 @@
+{
+    "career": [
+        {
+            "position": "civilingenjör",
+            "start_year": 1948,
+            "organization": null,
+            "location": {
+                "name": "San Diego, California",
+                "latitude": 32.715738,
+                "longitude": -117.1610838,
+                "formatted_address": "San Diego, CA, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "vice generalkonsul",
+            "start_year": 1915,
+            "organization": "amerikansk generalkonsulat",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Anderson",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "30-12-1848",
+        "birth_place": {
+            "name": "Jämshög, Blekinge Län",
+            "latitude": 56.2403103,
+            "longitude": 14.5308835,
+            "formatted_address": "293 72 Jämshög, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör, vice generalkonsul",
+            "occupation_english": null,
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "And.",
+                "last_name": "Thore A.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "torpare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "61115.0",
+                    "hisco_description_swedish": "Small Subsistence Farmer (Husbandman)"
+                }
+            },
+            {
+                "first_name": "Inga",
+                "last_name": "Sunesson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Cecilia",
+            "last_name": "Andersson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1880"
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1869"
+        },
+        {
+            "country": {
+                "name": "Cuba",
+                "latitude": 21.521757,
+                "longitude": -77.781167,
+                "formatted_address": "Cuba"
+            },
+            "country_code": "CUB",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Australien",
+                "latitude": -25.274398,
+                "longitude": 133.775136,
+                "formatted_address": "Australia"
+            },
+            "country_code": "AUS",
+            "year": null
+        }
+    ]
+}

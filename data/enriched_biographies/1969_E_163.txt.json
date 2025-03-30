@@ -1,0 +1,211 @@
+{
+    "career": [
+        {
+            "position": "Musikhögskolan",
+            "start_year": 1958,
+            "end_year": 1962,
+            "organization": "Musikhögskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Engagemang",
+            "start_year": 1955,
+            "end_year": 1959,
+            "organization": "Oscarsteatern",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Engagemang",
+            "start_year": 1961,
+            "end_year": 1965,
+            "organization": "Den Norske Opera",
+            "location": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "position": "Kungliga Teatern",
+            "start_year": 1965,
+            "end_year": null,
+            "organization": "Kungliga Teatern",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Eliasson",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "04-04-1933",
+        "birth_place": {
+            "name": "Skellefteå",
+            "latitude": 64.750244,
+            "longitude": 20.950917,
+            "formatted_address": "Skellefteå, Sweden"
+        },
+        "occupation": {
+            "occupation": "operasångare",
+            "occupation_english": "opera singer",
+            "hisco_code_swedish": "17145.0",
+            "hisco_description_swedish": "Singer",
+            "hisco_code_english": "17145.0",
+            "hisco_description_english": "Singer"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Eliasson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "hemmansägare",
+                    "occupation_english": "smallholder",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61115.0",
+                    "hisco_description_english": "Small Subsistence Farmer (Husbandman)"
+                }
+            },
+            {
+                "first_name": "Linnea",
+                "last_name": "Nordin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Viggbyholm",
+        "latitude": 59.4405337,
+        "longitude": 18.1190099,
+        "formatted_address": "Viggbyholm, Täby, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Ulla-Britt",
+            "last_name": "Eberhardt",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Bertil",
+                    "last_name": "Eberhardt",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "statsmästare",
+                        "occupation_english": null
+                    }
+                },
+                {
+                    "first_name": "Sigrid",
+                    "last_name": "Vesterlund",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1956",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Kiel",
+                "latitude": 54.3232927,
+                "longitude": 10.1227652,
+                "formatted_address": "Kiel, Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Chicago",
+                "latitude": 41.8781136,
+                "longitude": -87.6297982,
+                "formatted_address": "Chicago, IL, USA"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Glyndebourne",
+                "latitude": 50.8782885,
+                "longitude": 0.0641727,
+                "formatted_address": "New Rd, Lewes BN8 5UU, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Montreal",
+                "latitude": 45.5018869,
+                "longitude": -73.56739189999999,
+                "formatted_address": "Montreal, QC, Canada"
+            },
+            "country_code": "CAN",
+            "year": null
+        }
+    ]
+}

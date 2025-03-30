@@ -1,0 +1,191 @@
+{
+    "career": [
+        {
+            "position": "tingstjänstgöring",
+            "start_year": 1923
+        },
+        {
+            "position": "anställd",
+            "start_year": 1923,
+            "organization": "advokatbyrå"
+        },
+        {
+            "position": "i Bonde",
+            "start_year": 1928,
+            "end_year": 1935,
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            }
+        },
+        {
+            "position": "speciallärare",
+            "start_year": 1938,
+            "end_year": 1942,
+            "organization": "Handelshögskolan",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            }
+        },
+        {
+            "position": "delägare",
+            "start_year": 1946,
+            "end_year": 1955,
+            "organization": "Philip Lemans advokatbyrå",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            }
+        },
+        {
+            "position": "justitieråd",
+            "start_year": 1955
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Bomgren",
+        "middle_name": "Gunnar",
+        "gender": "Male",
+        "birth_date": "04-09-1902",
+        "birth_place": {
+            "name": "Nora",
+            "latitude": null,
+            "longitude": null,
+            "formatted_address": null
+        },
+        "occupation": {
+            "occupation": "justitieråd",
+            "occupation_english": "Justice of the Supreme Court",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator",
+            "hisco_code_english": "12210.0",
+            "hisco_description_english": "Judge"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Bomgren",
+                "middle_name": "Erik",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "tandläkare",
+                    "occupation_english": "dentist",
+                    "hisco_code_swedish": "6310.0",
+                    "hisco_description_swedish": "Dentist, General",
+                    "hisco_code_english": "6310.0",
+                    "hisco_description_english": "Dentist, General"
+                }
+            },
+            {
+                "first_name": "Elsa",
+                "last_name": "Fernholm",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Sveriges Advokatsamfund",
+            "role": "sekreterare och redaktionssekreterare",
+            "start_year": 1935,
+            "end_year": 1942
+        },
+        {
+            "committee_name": "Sveriges Advokatsamfund",
+            "role": "styrelseledamot",
+            "start_year": 1946
+        },
+        {
+            "committee_name": "Sveriges Advokatsamfund",
+            "role": "vice ordförande",
+            "start_year": 1949
+        },
+        {
+            "committee_name": "Sveriges Advokatsamfund",
+            "role": "ordförande",
+            "start_year": 1951,
+            "end_year": 1955
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "juridik kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1923",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ruth",
+            "last_name": "Westberg",
+            "gender": "Female",
+            "birth_date": "None",
+            "parents": [
+                {
+                    "first_name": "Orla",
+                    "last_name": "Westberg",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "revisor",
+                        "occupation_english": "auditor",
+                        "hisco_code_swedish": "11020.0",
+                        "hisco_description_swedish": "Auditor",
+                        "hisco_code_english": "33110.0",
+                        "hisco_description_english": "Bookkeeper, General"
+                    }
+                },
+                {
+                    "first_name": "Louise",
+                    "last_name": "Lindberg",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1930"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Sekreta utskottet 1723-1756",
+            "year": "1928",
+            "type": "bok"
+        },
+        {
+            "title": "Det svenska advokatväsendet före bildandet av SA",
+            "year": "1937",
+            "type": "bok"
+        },
+        {
+            "title": "tidskriftsuppsatser",
+            "year": "None",
+            "type": "uppsats"
+        }
+    ],
+    "travels": null
+}

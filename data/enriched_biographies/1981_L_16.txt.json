@@ -1,0 +1,93 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Sture",
+        "last_name": "Lagercrantz",
+        "middle_name": "R",
+        "gender": "Male",
+        "birth_date": "13-06-1910",
+        "birth_place": {
+            "name": "Sillerud, Värmlands Län",
+            "latitude": 59.30634019999999,
+            "longitude": 12.307761,
+            "formatted_address": "672 95 Sillerud, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor emeritus",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Lagercrantz",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "apotekare",
+                    "hisco_code_swedish": "6710.0",
+                    "hisco_description_swedish": "Pharmacist"
+                }
+            },
+            {
+                "first_name": "Thora",
+                "last_name": "Nilsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "institution": "Stockholm",
+            "start_year": 1938
+        },
+        {
+            "position": "docent",
+            "institution": "Uppsala",
+            "department": "allmän och jämförande etnografi",
+            "start_year": 1944,
+            "end_year": 1962,
+            "field": "etnografi"
+        },
+        {
+            "position": "professor",
+            "institution": "Uppsala",
+            "start_year": 1962,
+            "end_year": 1976
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter",
+            "field": "Negerafrikas etnografi",
+            "significance": "ang Negerafrikas etnografi med mera"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingår",
+            "last_name": "Fredricsson",
+            "gender": "Female",
+            "birth_date": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "F",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "rektor",
+                        "hisco_code_swedish": "13940.0",
+                        "hisco_description_swedish": "Head Teacher"
+                    }
+                },
+                {
+                    "first_name": "Julia",
+                    "last_name": "Larsson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1948"
+    }
+}

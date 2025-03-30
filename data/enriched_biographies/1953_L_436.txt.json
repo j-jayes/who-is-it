@@ -1,0 +1,211 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1917,
+            "organization": "Aktiebolaget Nordströms linbanor",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1917,
+            "organization": "Einar Eriksson & Co",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1918,
+            "organization": "Bältinge trävaru aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1919,
+            "end_year": 1924,
+            "organization": "Forss aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1925,
+            "end_year": 1934,
+            "organization": "Sulfit aktiebolag Ljusnan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överingenjör",
+            "start_year": 1935,
+            "end_year": 1944,
+            "organization": "Sulfit aktiebolag Ljusnan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Vice Verkställande direktör",
+            "start_year": 1944,
+            "end_year": 1946,
+            "organization": "Marma-Långrörs aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Teknisk direktör",
+            "start_year": 1946,
+            "organization": "Marma-Långrörs aktiebolag",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Lindoff",
+        "middle_name": "Henrik",
+        "gender": "Male",
+        "birth_date": "15-09-1894",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Fredrik",
+                "last_name": "Lindoff",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": "Manager",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Agda",
+                "last_name": "Asserlind",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Vallvik",
+        "latitude": 61.1847212,
+        "longitude": 17.1791565,
+        "formatted_address": "826 79 Vallvik, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1917",
+            "institution": "Chalmers Tekniska Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märta",
+            "last_name": "Åslund",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Zacharias",
+                    "last_name": "Åslund",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Skogsförvaltare",
+                        "occupation_english": "Forest Manager",
+                        "hisco_code_swedish": "21230.0",
+                        "hisco_description_swedish": "Farm Manager"
+                    }
+                },
+                {
+                    "first_name": "Magdalena",
+                    "last_name": "Åslund",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1920",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

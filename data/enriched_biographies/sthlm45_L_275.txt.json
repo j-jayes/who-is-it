@@ -1,0 +1,212 @@
+{
+    "career": [
+        {
+            "position": "officer",
+            "start_year": 1910,
+            "end_year": 1912,
+            "organization": "Kungliga Skånska husarregementet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "ingenjör och chef",
+            "start_year": 1917,
+            "end_year": 1918,
+            "organization": "Nordiske Skrivemaskinefabriker",
+            "location": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": null
+        },
+        {
+            "position": "ägare",
+            "start_year": 1918,
+            "end_year": 1919,
+            "organization": "ingenjörsbyrå",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": null
+        },
+        {
+            "position": "ägare",
+            "start_year": 1919,
+            "end_year": 1922,
+            "organization": "ingenjörsbyrå",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": null
+        },
+        {
+            "position": "franskt statligt handelsuppdrag",
+            "start_year": 1920,
+            "end_year": 1921,
+            "organization": null,
+            "location": {
+                "name": "Tyskland, Polen, Tjeckoslovakien, Ungern och Österrike",
+                "latitude": 51.919438,
+                "longitude": 19.145136,
+                "formatted_address": "Poland"
+            },
+            "country_code": null
+        },
+        {
+            "position": "ägare",
+            "start_year": 1922,
+            "end_year": 1934,
+            "organization": "ingenjörsbyrå",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "tyskt statligt uppdrag",
+            "start_year": 1922,
+            "end_year": 1934,
+            "organization": null,
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "ägare",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "ingenjörsbyrå",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Lindequist",
+        "middle_name": "Gustaf",
+        "gender": "Male",
+        "birth_date": "01-01-1888",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "överingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Lindequist",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "major, filosofie doktor",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "h. m.",
+                "last_name": "Tydén",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "ställbara flygplanspropellrar",
+            "field": "flygteknik",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ängby",
+        "latitude": 59.3514061,
+        "longitude": 17.9007135,
+        "formatted_address": "Norra Ängby, Bromma, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1908",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1914-1915"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1915-1916"
+        }
+    ]
+}

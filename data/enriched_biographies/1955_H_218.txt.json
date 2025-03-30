@@ -1,0 +1,99 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Kari",
+        "last_name": "Hedberg",
+        "middle_name": "Villiam",
+        "gender": "Male",
+        "birth_date": "20-09-1894",
+        "birth_place": {
+            "name": "Sundsvall",
+            "latitude": 62.390811,
+            "longitude": 17.306927,
+            "formatted_address": "Sundsvall, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "K.A.",
+                "last_name": "Hedberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "målare",
+                    "occupation_english": "painter",
+                    "hisco_code_swedish": "93120.0",
+                    "hisco_description_swedish": "Building Painter",
+                    "hisco_code_english": "93120.0",
+                    "hisco_description_english": "Building Painter"
+                }
+            },
+            {
+                "first_name": "Josefina",
+                "last_name": "Lundberg",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Florens",
+                "latitude": 43.7699685,
+                "longitude": 11.2576706,
+                "formatted_address": "Florence, Metropolitan City of Florence, Italy"
+            },
+            "country_code": "ITA",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Florens",
+                "latitude": 43.7699685,
+                "longitude": 11.2576706,
+                "formatted_address": "Florence, Metropolitan City of Florence, Italy"
+            },
+            "country_code": "ITA",
+            "year": "1923"
+        }
+    ]
+}

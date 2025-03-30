@@ -1,0 +1,165 @@
+{
+    "career": [
+        {
+            "position": "Landskanslist",
+            "start_year": 1919,
+            "end_year": 1923,
+            "organization": "Västernorrlands Län",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Landsfiskal",
+            "start_year": 1923,
+            "end_year": 1926,
+            "organization": "Undenäs distrikt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Landsfiskal",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": "Tidans distrikt",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Nyman",
+        "middle_name": "Emil",
+        "gender": "Male",
+        "birth_date": "10-10-1889",
+        "birth_place": {
+            "name": "Skön, Västernorrlands Län",
+            "latitude": 62.449003,
+            "longitude": 17.3527932,
+            "formatted_address": "863 36 Skön, Sweden"
+        },
+        "occupation": {
+            "occupation": "Landsfiskal",
+            "occupation_english": null,
+            "hisco_code_swedish": "12110.0",
+            "hisco_description_swedish": "Lawyer"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "N.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Handlande",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Lindeström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Ordförande",
+            "organization": "Tingshusstyrelsen i södra Vadsbo tingslag"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Taxeringsnämnd",
+            "role": "Ordförande",
+            "start_year": 1909,
+            "end_year": 1929,
+            "organization": "Olika distrikt",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Skövde",
+        "latitude": 58.3902782,
+        "longitude": 13.8461208,
+        "formatted_address": "Skövde, Sweden"
+    },
+    "education": [
+        {
+            "degree": "3 kl. v. h. a. 1.",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Sundsvall"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna-Stina",
+            "last_name": "Olsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1919",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Håkan",
+                "last_name": "Nyman",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1927"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1938"
+        }
+    ]
+}

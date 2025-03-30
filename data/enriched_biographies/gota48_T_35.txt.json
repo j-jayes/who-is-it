@@ -1,0 +1,188 @@
+{
+    "career": [
+        {
+            "position": "Civilingenjör",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Hällekis",
+                "latitude": 58.6322458,
+                "longitude": 13.4378399,
+                "formatted_address": "533 74 Hällekis, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Harry",
+        "last_name": "Tham",
+        "middle_name": "Sebastian",
+        "gender": "Male",
+        "birth_date": "12-10-1900",
+        "birth_place": {
+            "name": "Skövde",
+            "latitude": 58.3902782,
+            "longitude": 13.8461208,
+            "formatted_address": "Skövde, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör, Disponent",
+            "occupation_english": "Civil Engineer, Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Harry",
+                "last_name": "Tham",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överstelöjtnant",
+                    "occupation_english": "Lieutenant Colonel",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Amelie",
+                "last_name": "Blom",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hällekis",
+        "latitude": 58.6322458,
+        "longitude": 13.4378399,
+        "formatted_address": "533 74 Hällekis, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1918",
+            "institution": "Skövde"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1922",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märta",
+            "last_name": "Tise",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Helena",
+                "last_name": "Tham",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1931"
+            },
+            {
+                "first_name": "Christer",
+                "last_name": "Tham",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1932"
+            },
+            {
+                "first_name": "Carl-Johan",
+                "last_name": "Tham",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1940"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Burma",
+                "latitude": 21.916221,
+                "longitude": 95.955974,
+                "formatted_address": "Myanmar (Burma)"
+            },
+            "country_code": "MMR",
+            "year": "1926-1928"
+        },
+        {
+            "country": {
+                "name": "Jugoslavien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1930-1937"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Lindahl",
+        "middle_name": "Robert",
+        "gender": "Male",
+        "birth_date": "21-11-1891",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Lindahl",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fängelsedirektör",
+                    "occupation_english": "prison director",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Carolina",
+                "last_name": "Arfwedson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "institution": "Uppsala",
+            "start_year": 1920,
+            "field": "Finansvetenskap"
+        },
+        {
+            "position": "docent",
+            "institution": "Uppsala",
+            "start_year": 1924,
+            "field": "Nationalekonomi och Finansrätt"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1912",
+            "institution": "Lund"
+        },
+        {
+            "degree": "juridik kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1914",
+            "institution": "Lund"
+        },
+        {
+            "degree": "juridik licentiat",
+            "degree_level": "Master's",
+            "year": "1919",
+            "institution": "Lund"
+        },
+        {
+            "degree": "juris doktor",
+            "degree_level": "Doctorate",
+            "year": "1919",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ida",
+            "last_name": "None",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "marriage_year": "1921",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Die Gerechligkeit der Besteuerung",
+            "year": "1919",
+            "type": "book"
+        },
+        {
+            "title": "Arbrdagens förkortning",
+            "year": "1924",
+            "type": "book"
+        },
+        {
+            "title": "Penningpolitikens mål o. medel",
+            "year": "1925",
+            "type": "book"
+        },
+        {
+            "title": "uppsatser i Ekonomisk tidskrift",
+            "year": "None",
+            "type": "article"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

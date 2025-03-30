@@ -1,0 +1,174 @@
+{
+    "career": [
+        {
+            "position": "Debut",
+            "start_year": 1907,
+            "organization": "Strindbergs Intima Teater",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Elev",
+            "start_year": 1909,
+            "end_year": 1911,
+            "organization": "Dramatiska Teaterns elevskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1911,
+            "organization": "Dramatiska Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Socialfullmäktige",
+            "start_year": 1921,
+            "end_year": 1923,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Socialfullmäktige",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ledamot",
+            "start_year": 1916,
+            "organization": "Arbetsrådet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Registudier",
+            "start_year": 1917,
+            "organization": null,
+            "location": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Regissör",
+            "start_year": 1918,
+            "end_year": 1920,
+            "organization": "Vasateatern",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Regissör",
+            "start_year": 1920,
+            "end_year": 1926,
+            "organization": "Oscarsteatern",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Iscensättningar",
+            "start_year": 1932,
+            "organization": "Skådebanan och Skansen",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Johannisson",
+        "middle_name": "Adolf",
+        "gender": "Male",
+        "birth_date": "27-10-1886",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Regissör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "17330.0",
+            "hisco_description_swedish": "Stage Director",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        }
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Ida",
+            "last_name": "Gustafsson",
+            "middle_name": "Mathilda",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        }
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        }
+    ]
+}

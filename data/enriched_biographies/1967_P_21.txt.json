@@ -1,0 +1,105 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Palme",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "14-None-None",
+        "birth_place": {
+            "name": "Oslo",
+            "latitude": 59.9138688,
+            "longitude": 10.7522454,
+            "formatted_address": "Oslo, Norway"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala",
+            "start_year": 1956,
+            "field": "None"
+        },
+        {
+            "position": "docent",
+            "position_english": "Reader",
+            "institution": "Göteborg",
+            "department": "konsthistoria med konstteori",
+            "start_year": 1957,
+            "field": "konsthistoria"
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Oslo",
+            "department": "konsthistoria",
+            "start_year": 1962,
+            "end_year": null,
+            "field": "konsthistoria"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Suzanne",
+            "last_name": "Blanck",
+            "gender": "Female",
+            "birth_date": "None-None-1927",
+            "parents": [
+                {
+                    "first_name": "Anton",
+                    "last_name": "B",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "professor",
+                        "occupation_english": "professor",
+                        "hisco_code_swedish": "13100.0",
+                        "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                        "hisco_code_english": "13100.0",
+                        "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Ebba",
+                    "last_name": "Rydin",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        }
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Triumph of Peace. A study of the White Hall Banqueting House",
+            "year": "1956",
+            "type": "doktorsavhandling",
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

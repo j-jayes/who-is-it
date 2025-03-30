@@ -1,0 +1,114 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Anna",
+        "last_name": "Gerell",
+        "middle_name": "Margareta Ulrika",
+        "gender": "Female",
+        "birth_date": "02-06-1898",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "målarinna",
+            "occupation_english": "painter",
+            "hisco_code_swedish": "93120.0",
+            "hisco_description_swedish": "Building Painter",
+            "hisco_code_english": "93120.0",
+            "hisco_description_english": "Building Painter"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Gerell",
+                "middle_name": "Peter",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "generalkonsul",
+                    "occupation_english": "Consul General",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "20210.0",
+                    "hisco_description_english": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Sellman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "kurser",
+            "degree_level": "Schooling",
+            "year": "1913-1914",
+            "institution": "Althins målarskola"
+        },
+        {
+            "degree": "konstakademin",
+            "degree_level": "Schooling",
+            "year": "1915-1919",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1920-1921"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1924"
+        }
+    ]
+}

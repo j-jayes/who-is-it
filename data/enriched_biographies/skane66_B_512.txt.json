@@ -1,0 +1,231 @@
+{
+    "career": [
+        {
+            "position": "biträdande läkare",
+            "start_year": 1939,
+            "end_year": 1941,
+            "organization": "Helsingfors allmänna sjukhus",
+            "location": {
+                "name": "Helsingfors",
+                "latitude": 60.16985569999999,
+                "longitude": 24.938379,
+                "formatted_address": "Helsinki, Finland"
+            },
+            "country_code": "FIN"
+        },
+        {
+            "position": "vikarierande provinsialläkare",
+            "start_year": 1941,
+            "end_year": 1942,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "biträdande läkare",
+            "start_year": 1942,
+            "end_year": 1942,
+            "organization": "Sviris fältlasarett",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "biträdande läkare",
+            "start_year": 1942,
+            "end_year": 1942,
+            "organization": "Salmi krigssjukhus",
+            "location": {
+                "name": "Salmi",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "extra läkare",
+            "start_year": 1951,
+            "end_year": 1951,
+            "organization": "Södersjukhuset",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "extra läkare",
+            "start_year": 1951,
+            "end_year": 1951,
+            "organization": "S:t Görans sjukhus",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "läkare",
+            "start_year": 1956,
+            "end_year": 1956,
+            "organization": "Riksförbundet för sexuell upplysning",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "vikarierande underläkare",
+            "start_year": 1959,
+            "end_year": null,
+            "organization": "Malmö allmänna sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Kirsti",
+        "last_name": "Borgkvist",
+        "middle_name": "C E",
+        "gender": "Female",
+        "birth_date": "20-04-1916",
+        "birth_place": {
+            "name": "Helsingfors",
+            "latitude": 60.16985569999999,
+            "longitude": 24.938379,
+            "formatted_address": "Helsinki, Finland"
+        },
+        "occupation": {
+            "occupation": "legitimerad läkare",
+            "occupation_english": "licensed physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Eero",
+                "last_name": "Airila",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "diplomingenjör",
+                    "occupation_english": "certified engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Siiri",
+                "last_name": "Roschier",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "lektor",
+                    "occupation_english": "lecturer",
+                    "hisco_code_swedish": "13030.0",
+                    "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1934",
+            "institution": "Varkaus, Finland"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1937",
+            "institution": "Helsingfors"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1951",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Olle",
+            "last_name": "Borgkvist",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "ingenjör",
+                "occupation_english": "engineer",
+                "hisco_code_swedish": "2000.0",
+                "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                "hisco_code_english": "84100.0",
+                "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+            },
+            "parents": null
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Marja",
+                "last_name": "Borgkvist",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1945"
+            },
+            {
+                "first_name": "Lena",
+                "last_name": "Borgkvist",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1947"
+            },
+            {
+                "first_name": "Elisa",
+                "last_name": "Borgkvist",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1949"
+            },
+            {
+                "first_name": "Mats",
+                "last_name": "Borgkvist",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1952"
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Borgkvist",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1954"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

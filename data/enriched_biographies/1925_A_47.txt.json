@@ -1,0 +1,171 @@
+{
+    "career": [
+        {
+            "position": "läkare",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": "S:t Eriks sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1919,
+            "end_year": 1920,
+            "organization": "sjukhus S:t Göran",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "praktiserande läkare",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sune",
+        "last_name": "Almkvist",
+        "middle_name": "L:son",
+        "gender": "Male",
+        "birth_date": "04-02-1886",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "läkare",
+            "occupation_english": "physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Herman",
+                "last_name": "Å.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "professor",
+                    "occupation_english": "professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Emeli",
+                "last_name": "Axelson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "svensk mästare",
+            "field": "bandy",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "svensk mästare",
+            "field": "tennis",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "svensk mästare",
+            "field": "dubbelspel",
+            "year": "1918-1919",
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Master's",
+            "year": "1912",
+            "institution": "None"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1917",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Greta",
+            "last_name": "Ålander",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "K.",
+                    "last_name": "Å.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "grosshandlare",
+                        "occupation_english": "Wholesaler",
+                        "hisco_code_swedish": "41020.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Mandis",
+                    "last_name": "Widergren",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1917",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

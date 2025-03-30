@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "disponent",
+            "start_year": 1885,
+            "end_year": null,
+            "organization": "Barnängens tekniska fabrik",
+            "location": {
+                "name": "Djursholm",
+                "latitude": 59.39707249999999,
+                "longitude": 18.0903005,
+                "formatted_address": "Djursholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "vid Liljedals med flera glasbruk",
+            "start_year": 1869,
+            "end_year": 1882,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Elsa",
+        "last_name": "Backlund-Celsing",
+        "middle_name": "Carolina",
+        "gender": "Female",
+        "birth_date": "25-03-1880",
+        "birth_place": {
+            "name": "Pulkova, Ryssland",
+            "latitude": 59.975589,
+            "longitude": 29.190503,
+            "formatted_address": "Pulkovo, Leningrad Oblast, Russia, 188535"
+        },
+        "occupation": {
+            "occupation": "konstnärinna",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Osc.",
+                "last_name": "Backlund",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "filosofie doktor",
+                    "occupation_english": "Doctor of Philosophy",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Ulrika",
+                "last_name": "Widebeck",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Silvermedalj",
+            "field": "Konst",
+            "year": "1905",
+            "significance": null,
+            "recognized_by": "S:t Louis"
+        },
+        {
+            "title": "1:a Couindschipriset",
+            "field": "Konst",
+            "year": "1909",
+            "significance": null,
+            "recognized_by": "S:t Petersb."
+        },
+        {
+            "title": "Guldmedalj",
+            "field": "Konst",
+            "year": "1915",
+            "significance": null,
+            "recognized_by": "San Francisco"
+        }
+    ],
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "Stockholms Handelsbank"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Västerås",
+        "latitude": 59.60990049999999,
+        "longitude": 16.5448091,
+        "formatted_address": "Västerås, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Ulr.",
+            "last_name": "Celsing",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "direktör",
+                "occupation_english": "Director",
+                "hisco_code_swedish": "21110.0",
+                "hisco_description_swedish": "General Manager",
+                "hisco_code_english": "21000.0",
+                "hisco_description_english": "Manager, Specialisation Unknown"
+            },
+            "parents": null
+        },
+        "marriage_year": "1912",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "kommunfullmäktige",
+            "position": "ledamot",
+            "start_year": 1902,
+            "end_year": 1910,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

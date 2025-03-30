@@ -1,0 +1,194 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1931,
+            "organization": "zoofysiologiska laboratoriet, Köpenhamns universitet",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": null
+        },
+        {
+            "position": "professor i kroppsövnings fysiologi och hygien",
+            "start_year": 1941,
+            "organization": "Gymnastik- och idrottshögskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1946,
+            "end_year": 1956,
+            "organization": "Gymnastik- och idrottshögskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "fysiolog",
+            "start_year": 1941,
+            "organization": "institutionen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Christensen",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "25-09-1904",
+        "birth_place": {
+            "name": "Smöl, Danmark",
+            "latitude": 54.899524,
+            "longitude": 9.677104,
+            "formatted_address": "6310 Smøl, Denmark"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Jens",
+                "last_name": "C",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbruk",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "99999.0",
+                    "hisco_description_swedish": "Unspecified worktitle or several titles",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Mathilde",
+                "last_name": "Hohwü",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Danderyd",
+        "latitude": 59.4059401,
+        "longitude": 18.0256382,
+        "formatted_address": "Danderyd, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1931",
+            "institution": "Köpenhamns Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gudrun",
+            "last_name": "Hanssen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Hans",
+                    "last_name": "Wilhelm",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "ingenjör",
+                        "occupation_english": "engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Inger",
+                    "last_name": "Michaelsen",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "medicine hedersdoktor",
+            "institution": "Stockholm",
+            "year": "1948"
+        }
+    ],
+    "honors": [
+        "Ledamot av De Danske Videnskabers Selskab (LDVS) 1940",
+        "Ledamot av Ingenjörsvetenskapsakademien (LIVA) 1959"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "arbeten om respirationens och cirkulationens fysiologi, speciellt vid svårt muskelarbete och under uppehåll på stora höjder",
+            "year": "None",
+            "type": "skrift",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Chile",
+                "latitude": -35.675147,
+                "longitude": -71.542969,
+                "formatted_address": "Chile"
+            },
+            "country_code": "CHL",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Bolivia",
+                "latitude": -16.290154,
+                "longitude": -63.58865299999999,
+                "formatted_address": "Bolivia"
+            },
+            "country_code": "BOL",
+            "year": "1935"
+        }
+    ]
+}

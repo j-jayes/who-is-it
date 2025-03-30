@@ -1,0 +1,189 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1925,
+            "end_year": 1927,
+            "organization": "ASEA",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1927,
+            "end_year": 1931,
+            "organization": "ASEA",
+            "location": {
+                "name": "Milano",
+                "latitude": 45.468503,
+                "longitude": 9.182402699999999,
+                "formatted_address": "Milan, Metropolitan City of Milan, Italy"
+            },
+            "country_code": "ITA"
+        },
+        {
+            "position": "Finansen",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": "Electro-Invest",
+            "location": {
+                "name": "Belgrad",
+                "latitude": 44.8125449,
+                "longitude": 20.46123,
+                "formatted_address": "Belgrade, Serbia"
+            },
+            "country_code": "SRB"
+        },
+        {
+            "position": "Ekononmichef",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Holkens koks & kol aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ekonomidirektör",
+            "start_year": 1952,
+            "end_year": null,
+            "organization": "ESAB",
+            "location": {
+                "name": "Solingen",
+                "latitude": 51.1748808,
+                "longitude": 7.0847931,
+                "formatted_address": "42 Solingen, Germany"
+            },
+            "country_code": "DEU"
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Hedin",
+        "middle_name": "August",
+        "gender": "Male",
+        "birth_date": "15-12-1899",
+        "birth_place": {
+            "name": "Laxå, Örebro Län",
+            "latitude": 58.9819967,
+            "longitude": 14.6238408,
+            "formatted_address": "Laxå, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "August",
+                "last_name": "Hedin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmann",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1918",
+            "institution": "Örebro"
+        },
+        {
+            "degree": "Diplom Handelshögskolan",
+            "degree_level": "Bachelor's",
+            "year": "1920",
+            "institution": "DHS"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märta",
+            "last_name": "Ericson",
+            "middle_name": null,
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "Oscar",
+                    "last_name": "Ericson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Boktryckare",
+                        "occupation_english": "Printer",
+                        "hisco_code_swedish": "92110.0",
+                        "hisco_description_swedish": "Printer, General",
+                        "hisco_code_english": "92950.0",
+                        "hisco_description_english": "Textile Printer"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Andersson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1934",
+        "children": [
+            {
+                "first_name": "Ann-Sofi",
+                "last_name": "Hedin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1936"
+            },
+            {
+                "first_name": "Monica",
+                "last_name": "Hedin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            }
+        ]
+    },
+    "hobbies": [
+        "fiske",
+        "schack",
+        "bridge",
+        "snickeri"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

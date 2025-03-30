@@ -1,0 +1,174 @@
+{
+    "career": [
+        {
+            "position": "Föreståndare kemiska avdelningen",
+            "start_year": 1971,
+            "organization": "Uppsala universitets ekologiska station på Öland",
+            "location": {
+                "name": "Öland",
+                "latitude": 54.6786487,
+                "longitude": 8.705097,
+                "formatted_address": "Oland, Germany"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Föreståndare avdelningen för ekologisk kemi",
+            "start_year": 1973,
+            "organization": "Göteborgs universitet",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Särskild forskare i ekologisk kemi",
+            "start_year": 1976,
+            "organization": "Statens naturvetenskapliga forskningsråd",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Bergström",
+        "middle_name": "L W",
+        "gender": "Male",
+        "birth_date": "06-07-1935",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent",
+            "occupation_english": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Bergström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Avdelningschef",
+                    "occupation_english": "Department Manager",
+                    "hisco_code_swedish": "22110.0",
+                    "hisco_description_swedish": "Clerical Supervisor, General",
+                    "hisco_code_english": "22000.0",
+                    "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Leila",
+                "last_name": "Willig",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "Affärsinnehavare",
+                    "occupation_english": "Business Owner",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Göteborgs universitet",
+            "start_year": 1968,
+            "field": "Biokemi"
+        },
+        {
+            "position": "Filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Göteborgs universitet",
+            "start_year": 1973,
+            "field": "Biokemi"
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Göteborgs universitet",
+            "start_year": 1973,
+            "end_year": null,
+            "field": "Biokemi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i ekologisk kemi",
+            "year": "None",
+            "type": "Övrigt"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1976"
+        }
+    ]
+}

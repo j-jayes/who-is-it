@@ -1,0 +1,206 @@
+{
+    "career": [
+        {
+            "position": "Arkitekt i Byggnadsstyrelsen",
+            "start_year": 1918,
+            "organization": "Byggnadsstyrelsen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Stipendiat",
+            "start_year": 1923,
+            "organization": "Byggnadsstyrelsen",
+            "location": {
+                "name": "Nordamerika",
+                "latitude": 54.5259614,
+                "longitude": -105.2551187,
+                "formatted_address": "North America"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Arkitekt i Fångvårdsstyrelsen",
+            "start_year": 1931,
+            "organization": "Fångvårdsstyrelsen",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Sakkunnig",
+            "start_year": 1926,
+            "organization": "Kungliga Majestät",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Lindgren",
+        "middle_name": "Malcolm Birch",
+        "gender": "Male",
+        "birth_date": "01-10-1892",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Arkitekt, Teknologie Doktor",
+            "occupation_english": "Architect, Doctor of Technology",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Lindgren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Hovintendent",
+                    "occupation_english": "Court Intendant",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator",
+                    "hisco_code_english": "31090.0",
+                    "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Birch",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Medlem",
+            "organization": "Statens Hemslöjdsråd"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Teknisk Högskola",
+            "degree_level": "Bachelor's",
+            "year": "1915",
+            "institution": "Tekniska Högskolan"
+        },
+        {
+            "degree": "Konsthögskolan",
+            "degree_level": "Master's",
+            "year": "1917",
+            "institution": "Konsthögskolan"
+        },
+        {
+            "degree": "Teknologie Doktor",
+            "degree_level": "Doctorate",
+            "year": "1934",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunborg",
+            "last_name": "Melin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Peder",
+                    "last_name": "Melin",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Köpmannen",
+                        "occupation_english": "The Merchant",
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Signe",
+                    "last_name": "Hagberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1900-talet",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Skidlöpning",
+        "Vinteridrott"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Kanslersmedalj"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Svenska Lasarettsbyggnader",
+            "year": "None",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Nordamerika",
+                "latitude": 54.5259614,
+                "longitude": -105.2551187,
+                "formatted_address": "North America"
+            },
+            "country_code": "USA",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1926"
+        }
+    ]
+}

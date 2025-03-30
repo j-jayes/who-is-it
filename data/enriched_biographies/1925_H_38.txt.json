@@ -1,0 +1,183 @@
+{
+    "career": [
+        {
+            "position": "arbetare, ritare och verkmästare",
+            "start_year": 1880,
+            "end_year": 1889,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1889,
+            "end_year": null,
+            "organization": "Skånska Cement Aktiebolag, vid Limhamns cementfabrik",
+            "location": {
+                "name": "Limhamn",
+                "latitude": 55.5757084,
+                "longitude": 12.9199368,
+                "formatted_address": "Limhamn, Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "kommunal uppdrag",
+            "start_year": 1889,
+            "end_year": null,
+            "organization": "Limhamn",
+            "location": {
+                "name": "Limhamn",
+                "latitude": 55.5757084,
+                "longitude": 12.9199368,
+                "formatted_address": "Limhamn, Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Hallgren",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "23-01-1858",
+        "birth_place": {
+            "name": "Lossa, Uppsala Län",
+            "latitude": 60.2724233,
+            "longitude": 18.1396124,
+            "formatted_address": "Uppsala County, Sweden"
+        },
+        "occupation": {
+            "occupation": "ingenjör, disponent",
+            "occupation_english": null,
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "J.",
+                "last_name": "H.",
+                "middle_name": "M.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kontraktsprost",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Andriette",
+                "last_name": "Widmark",
+                "middle_name": "Margareta",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Limhamn",
+        "latitude": 55.5757084,
+        "longitude": 12.9199368,
+        "formatted_address": "Limhamn, Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "avgångsexamen",
+            "degree_level": "Schooling",
+            "year": "1880",
+            "institution": "tekniska högskolan (mekaniska avdelningen)"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Mathilde",
+            "last_name": "Berner",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "H.",
+                    "last_name": "Berner",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "doktor",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "6100.0",
+                        "hisco_description_swedish": "Medical Doctor, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Emma",
+                    "last_name": "Marsching",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1864",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

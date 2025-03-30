@@ -1,0 +1,220 @@
+{
+    "career": [
+        {
+            "position": "Direktör",
+            "start_year": 1937,
+            "organization": "Bröder Ivarsson, AB",
+            "location": {
+                "name": "Osby",
+                "latitude": 56.3815355,
+                "longitude": 13.9929413,
+                "formatted_address": "Osby, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Övertog faderns fabrik- och handelsrörelse",
+            "start_year": 1909,
+            "organization": "Ivar Bengtsson fabrik",
+            "location": {
+                "name": "Osby",
+                "latitude": 56.3815355,
+                "longitude": 13.9929413,
+                "formatted_address": "Osby, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Emil",
+        "last_name": "Ivarsson",
+        "middle_name": "Arvid",
+        "gender": "Male",
+        "birth_date": "20-11-1894",
+        "birth_place": {
+            "name": "Osby",
+            "latitude": 56.3815355,
+            "longitude": 13.9929413,
+            "formatted_address": "Osby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ivar",
+                "last_name": "Bengtsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fabrikör",
+                    "occupation_english": "Manufacturer"
+                }
+            },
+            {
+                "first_name": "Persson",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "Okänd",
+                    "occupation_english": "Unknown",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "-1.0",
+                    "hisco_description_english": "Missing, no title"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Kommunalfullmäktige",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "organization": "Osby kommun",
+            "significance": null
+        },
+        {
+            "committee_name": "Kommunalnämnd",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "organization": "Osby kommun",
+            "significance": null
+        },
+        {
+            "committee_name": "Fattigvårdsstyrelse",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "organization": "Osby kommun",
+            "significance": null
+        },
+        {
+            "committee_name": "Osby Handels- och Industriförening",
+            "role": "Ordförande",
+            "start_year": 1900,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Skånska Bankens Osbykontor",
+            "role": "Ordförande",
+            "start_year": 1900,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Osby Planteringsförening",
+            "role": "Ordförande",
+            "start_year": 1900,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Barnens Dags bestyr",
+            "role": "Ordförande",
+            "start_year": 1900,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Huvudman",
+            "organization": "Osby sparbank"
+        }
+    ],
+    "current_location": {
+        "name": "Osby",
+        "latitude": 56.3815355,
+        "longitude": 13.9929413,
+        "formatted_address": "Osby, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Maja",
+            "last_name": "Ehnberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Sportfiske"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        }
+    ]
+}

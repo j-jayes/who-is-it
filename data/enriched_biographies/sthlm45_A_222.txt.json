@@ -1,0 +1,235 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1902,
+            "end_year": null,
+            "organization": "Statens historiska museum",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Antikvarie",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": "Statens historiska museum",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ture",
+        "last_name": "Arne",
+        "middle_name": "Algot",
+        "gender": "Male",
+        "birth_date": "07-05-1879",
+        "birth_place": {
+            "name": "Drothem, Östergötlands Län",
+            "latitude": 58.48086049999999,
+            "longitude": 16.315855,
+            "formatted_address": "Drothemsgatan 8, 614 34 Söderköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor, Antikvarie",
+            "occupation_english": "Professor, Antiquarian",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Namn",
+            "department": null,
+            "start_year": 1938,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Anders Retzius’ medalj",
+            "field": "Antropologi och geografi",
+            "year": "1916",
+            "significance": null,
+            "recognized_by": "Sällskapet för Antropologi och Geografi"
+        }
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Orientsällskapet",
+            "role": "Medgrundare och sekreterare",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1900",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1909",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1914",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ida",
+            "last_name": "Meyersberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1906",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Ledamot av Vetenskapssamhället i Uppsala (LVSL, 1920)",
+        "Ledamot av Humanistiska Vetenskapssamfundet i Uppsala (LHA, 1921)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Mindre Asien",
+                "latitude": 39.0003722,
+                "longitude": 32.0000366,
+                "formatted_address": "Փոքր Ասիա, Yüzükbaşı, 06900 Polatlı/Ankara, Türkiye"
+            },
+            "country_code": "TUR",
+            "year": "1906-1907"
+        },
+        {
+            "country": {
+                "name": "Syrien",
+                "latitude": 34.80207499999999,
+                "longitude": 38.996815,
+                "formatted_address": "Syria"
+            },
+            "country_code": "SYR",
+            "year": "1906-1907"
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1912-1913"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1916"
+        },
+        {
+            "country": {
+                "name": "Österrike-Ungern",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "AUT",
+            "year": "1916"
+        },
+        {
+            "country": {
+                "name": "Ryska Turkestan",
+                "latitude": 43.30501659999999,
+                "longitude": 68.2486078,
+                "formatted_address": "Turkistan, Kazakhstan"
+            },
+            "country_code": "RUS",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Persien",
+                "latitude": 32.427908,
+                "longitude": 53.688046,
+                "formatted_address": "Iran"
+            },
+            "country_code": "IRN",
+            "year": "1932-1933"
+        },
+        {
+            "country": {
+                "name": "Balkanhalvön",
+                "latitude": 41.8101472,
+                "longitude": 21.0937311,
+                "formatted_address": "Balkans"
+            },
+            "country_code": "None",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Turkiet",
+                "latitude": 38.963745,
+                "longitude": 35.243322,
+                "formatted_address": "Türkiye"
+            },
+            "country_code": "TUR",
+            "year": "1937"
+        }
+    ]
+}

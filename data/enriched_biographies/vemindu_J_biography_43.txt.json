@@ -1,0 +1,126 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1900,
+            "end_year": 1932,
+            "organization": "STAB",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör och styrelseledamot",
+            "start_year": 1932,
+            "organization": "AB Stockholms Strumpfabrik",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1932,
+            "organization": "Fastighets AB Delta",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Jansson",
+        "middle_name": "Algot",
+        "gender": "Male",
+        "birth_date": "18-12-1883",
+        "birth_place": {
+            "name": "Kungsbacka",
+            "latitude": 57.48749189999999,
+            "longitude": 12.0761927,
+            "formatted_address": "Kungsbacka, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Tumba",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "None",
+            "institution": "Chalmers Tekniska Högskola (mekanik)"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Mignon",
+            "last_name": "Jansson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "career": [
+        {
+            "position": "e.o. kammarskrivare",
+            "start_year": 1862,
+            "organization": "sjöförvaltningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "kanslist",
+            "start_year": 1863,
+            "end_year": 1866,
+            "organization": "expeditions- och konstitutionsutskottet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "sångare",
+            "start_year": 1866,
+            "organization": "operans kör",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "sångare",
+            "start_year": 1869,
+            "end_year": 1904,
+            "organization": "operan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "konsertsångare",
+            "start_year": 1890,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Lundqvist",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "24-01-1841",
+        "birth_place": {
+            "name": "Yllinge, Hallands Län",
+            "latitude": 56.7957699,
+            "longitude": 12.893493,
+            "formatted_address": "Halland County, Sweden"
+        },
+        "occupation": {
+            "occupation": "f.d. operasångare",
+            "occupation_english": null,
+            "hisco_code_swedish": "17145.0",
+            "hisco_description_swedish": "Singer"
+        },
+        "parents": [
+            {
+                "first_name": "Jöns",
+                "last_name": "Lundqvist",
+                "middle_name": "Peter",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "folkskollärare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher"
+                }
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Jönsdotter",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Bidrag till att göra 'Du gamla, du fria' till nationalsång",
+            "field": "musik",
+            "year": null,
+            "significance": "Genom sitt föredrag av 'Du gamla, du fria' verksamt bidragit att göra den till en nationalsång.",
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Köpenhamn",
+        "latitude": 55.6760968,
+        "longitude": 12.5683371,
+        "formatted_address": "Copenhagen, Denmark"
+    },
+    "education": [
+        {
+            "degree": "kandidatexamen i filosofi",
+            "degree_level": "Bachelor's",
+            "year": "1862",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hilma",
+            "last_name": "Åberg",
+            "middle_name": "Anna Maria",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1883",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "Ledamot",
+            "institution": "Musikaliska Akademien",
+            "year": "1890"
+        }
+    ],
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Minnen och anteckningar I-II",
+            "year": "1908-1909",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": "I-II"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1893"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1894"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1878"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1900"
+        }
+    ]
+}

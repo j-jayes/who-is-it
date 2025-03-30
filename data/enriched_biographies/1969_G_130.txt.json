@@ -1,0 +1,190 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1931,
+            "end_year": 1936,
+            "organization": "Telestyrelsen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Internationella Telefonkommitten",
+            "start_year": 1937,
+            "end_year": 1939,
+            "organization": "Paris",
+            "location": null,
+            "country_code": "FRA"
+        },
+        {
+            "position": "Linjeingenjör",
+            "start_year": 1940,
+            "end_year": 1942,
+            "organization": "Televerket",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Distriktsingenjör",
+            "start_year": 1942,
+            "end_year": 1949,
+            "organization": "Televerket",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Distriktschef",
+            "start_year": 1949,
+            "end_year": 1965,
+            "organization": "Televerkets 6:e distrikt",
+            "location": {
+                "name": "Sundsvall",
+                "latitude": 62.390811,
+                "longitude": 17.306927,
+                "formatted_address": "Sundsvall, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1965,
+            "end_year": null,
+            "organization": "Aktiebolaget Autokemi",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Gottberg",
+        "middle_name": "J R",
+        "gender": "Male",
+        "birth_date": "02-12-1907",
+        "birth_place": {
+            "name": "Stenkumla, Gotlands Län",
+            "latitude": 57.54723430000001,
+            "longitude": 18.264963,
+            "formatted_address": "621 95 Stenkumla, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Gottberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Godsägare",
+                    "occupation_english": "Estate Owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Engelke",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Speciallärare",
+            "position_english": "Special Teacher",
+            "institution": "Chalmers Tekniska Högskola",
+            "department": null,
+            "start_year": 1946,
+            "end_year": 1949,
+            "field": "Teleteknik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Täby",
+        "latitude": 59.4419,
+        "longitude": 18.0703299,
+        "formatted_address": "Täby, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Kandidatexamen i filosofi",
+            "degree_level": "Bachelor's",
+            "year": "1930",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Valborg",
+            "last_name": "Backlund",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Leonard",
+                    "last_name": "Backlund",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Disponent",
+                        "occupation_english": "Manager",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Hilda",
+                    "last_name": "Lindvall",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1933",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

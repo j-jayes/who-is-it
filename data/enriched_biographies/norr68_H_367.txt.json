@@ -1,0 +1,242 @@
+{
+    "career": [
+        {
+            "position": "läkareförordnande",
+            "start_year": 1943,
+            "end_year": 1945,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "extra läkare",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "Karlskoga lasarett",
+            "location": {
+                "name": "Karlskoga",
+                "latitude": 59.32863399999999,
+                "longitude": 14.536414,
+                "formatted_address": "Karlskoga, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare kirurgiska och medicinska avdelningen",
+            "start_year": 1945,
+            "end_year": 1949,
+            "organization": "Karlskoga lasarett",
+            "location": {
+                "name": "Karlskoga",
+                "latitude": 59.32863399999999,
+                "longitude": 14.536414,
+                "formatted_address": "Karlskoga, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "förste underläkare kirurgiska avdelningen",
+            "start_year": 1949,
+            "end_year": 1953,
+            "organization": "Örnsköldsviks lasarett",
+            "location": {
+                "name": "Örnsköldsvik",
+                "latitude": 63.29004740000001,
+                "longitude": 18.7166166,
+                "formatted_address": "Örnsköldsvik, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare kirurgiska avdelningen barnkliniken",
+            "start_year": 1953,
+            "end_year": 1954,
+            "organization": "Karolinska sjukhuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1954,
+            "end_year": 1957,
+            "organization": "Norrbackainstitutet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överläkare och styresman",
+            "start_year": 1957,
+            "end_year": 1963,
+            "organization": "Haparanda lasarett",
+            "location": {
+                "name": "Haparanda",
+                "latitude": 65.8417085,
+                "longitude": 24.1276643,
+                "formatted_address": "Haparanda, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överläkare kirurgiska kliniken",
+            "start_year": 1963,
+            "end_year": null,
+            "organization": "Kiruna lasarett",
+            "location": {
+                "name": "Kiruna",
+                "latitude": 67.8557995,
+                "longitude": 20.2252821,
+                "formatted_address": "Kiruna, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Högberg",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "23-11-1916",
+        "birth_place": {
+            "name": "Hammar, Örebro Län",
+            "latitude": 58.81200819999999,
+            "longitude": 14.9631045,
+            "formatted_address": "696 74 Hammar, Sweden"
+        },
+        "occupation": {
+            "occupation": "överläkare",
+            "occupation_english": "Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Sven",
+                "last_name": "Högberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "provinsialläkare",
+                    "occupation_english": "District medical officer",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician",
+                    "hisco_code_english": "31090.0",
+                    "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                }
+            },
+            {
+                "first_name": "Elsa",
+                "last_name": "Höjer",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kiruna",
+        "latitude": 67.8557995,
+        "longitude": 20.2252821,
+        "formatted_address": "Kiruna, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1935",
+            "institution": "Motala"
+        },
+        {
+            "degree": "Medicine kandidatexamen",
+            "degree_level": "Bachelor's",
+            "year": "1938",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine licentiatexamen",
+            "degree_level": "Master's",
+            "year": "1943",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulla",
+            "last_name": "Bergelin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Harald",
+                    "last_name": "Bergelin",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "landssekreterare",
+                        "occupation_english": "county secretary",
+                        "hisco_code_swedish": "20210.0",
+                        "hisco_description_swedish": "Government Administrator"
+                    }
+                },
+                {
+                    "first_name": "Elsa",
+                    "last_name": "Eriksson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1945",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Göran",
+                "last_name": "Högberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1947"
+            },
+            {
+                "first_name": "Ulf",
+                "last_name": "Högberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1949"
+            },
+            {
+                "first_name": "Evalisa",
+                "last_name": "Högberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1954"
+            },
+            {
+                "first_name": "Nils",
+                "last_name": "Högberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1960"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

@@ -1,0 +1,214 @@
+{
+    "career": [
+        {
+            "position": "Praktikant inom skeppsbyggnad",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Techn Hochschule Bremen",
+            "location": {
+                "name": "Bremen",
+                "latitude": 53.07929619999999,
+                "longitude": 8.8016937,
+                "formatted_address": "28 Bremen, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen yacht-konstruktionsbyrå",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Konsult inom skeppsbyggnad",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Yacht- och skeppsmäklare",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Varvschef",
+            "start_year": 1939,
+            "end_year": 1947,
+            "organization": "Aktiebolaget Hästholmsvarvet Lidingö",
+            "location": {
+                "name": "Lidingö",
+                "latitude": 59.36295999999999,
+                "longitude": 18.1468,
+                "formatted_address": "Lidingö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Aktiebolaget Motorreimers",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Aktiebolaget K H Reimers & Söner",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Magistratsbesiktningsman",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Knud",
+        "last_name": "Reimers",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "20-05-1906",
+        "birth_place": {
+            "name": "Aarhus, Danmark",
+            "latitude": 56.162939,
+            "longitude": 10.203921,
+            "formatted_address": "Aarhus, Denmark"
+        },
+        "occupation": {
+            "occupation": "Skeppsbyggnadsingenjör",
+            "occupation_english": "Naval Architect",
+            "hisco_code_swedish": "2450.0",
+            "hisco_description_swedish": "Ship Construction Engineer",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "R",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fastighetsägare",
+                    "occupation_english": "Real Estate Owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "44130.0",
+                    "hisco_description_english": "Estate Agent"
+                }
+            },
+            {
+                "first_name": "Christina",
+                "last_name": "Christensen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Effi",
+            "last_name": "Liechtenstein",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Rolf",
+                "last_name": "Reimers",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1938"
+            },
+            {
+                "first_name": "Per",
+                "last_name": "Reimers",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Klas",
+                "last_name": "Reimers",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1952"
+            }
+        ]
+    },
+    "hobbies": [
+        "segling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "hela Europa",
+                "latitude": 54.5259614,
+                "longitude": 15.2551187,
+                "formatted_address": "Europe"
+            },
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": null
+        }
+    ]
+}

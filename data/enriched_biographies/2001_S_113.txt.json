@@ -1,0 +1,155 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Staffan",
+        "last_name": "Scheja",
+        "middle_name": "B",
+        "gender": "Male",
+        "birth_date": "25-04-1950",
+        "birth_place": {
+            "name": "Danderyd, Stockholms Län",
+            "latitude": 59.40131,
+            "longitude": 18.04851,
+            "formatted_address": "182 54 Danderyd, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Harry",
+                "last_name": "Scheja",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "direktör",
+                    "occupation_english": "director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Magnuson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Kungliga Musikhögskolan",
+            "start_year": 1997
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "Litteris et Artibus 1995"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Gotland Chamber Music Festival",
+            "role": "grundare",
+            "start_year": 1986
+        },
+        {
+            "committee_name": "Svenska tonkonstnärsförbundet",
+            "role": "ordförande",
+            "start_year": 1988,
+            "end_year": 1990
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Pianostudier",
+            "degree_level": "Schooling",
+            "year": "1959-1968",
+            "institution": "Professor Gunnar Hallhagen"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1964-1969",
+            "institution": "Kungliga Musikhögskolan"
+        },
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1968",
+            "institution": "None"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1969-1973",
+            "institution": "Juilliard School New York"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1972"
+        },
+        {
+            "country": {
+                "name": "Storbritannien",
+                "latitude": 55.378051,
+                "longitude": -3.435973,
+                "formatted_address": "United Kingdom"
+            },
+            "country_code": "GBR",
+            "year": "1975"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1975"
+        },
+        {
+            "country": {
+                "name": "Japan",
+                "latitude": 36.204824,
+                "longitude": 138.252924,
+                "formatted_address": "Japan"
+            },
+            "country_code": "JPN",
+            "year": "1975"
+        }
+    ]
+}

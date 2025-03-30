@@ -1,0 +1,155 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1923,
+            "end_year": 1923,
+            "organization": "jubileumsutställningen Göteborg",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "hantverksundersökare",
+            "start_year": 1925,
+            "end_year": 1929,
+            "organization": "Nordiska museet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1925,
+            "end_year": 1929,
+            "organization": "Göteborgs museums etnografiska avdelning",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1929,
+            "end_year": 1933,
+            "organization": "etnografiska avdelningen av Hedin-expeditionen Mongoliet och Kina",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "medlem",
+            "start_year": 1934,
+            "end_year": 1935,
+            "organization": "statliga etnografiska museets expedition till Mexico",
+            "location": null,
+            "country_code": "MEX"
+        },
+        {
+            "position": "intendent",
+            "start_year": 1954,
+            "end_year": null,
+            "organization": "statliga etnografiska museet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1953,
+            "end_year": null,
+            "organization": "Sven Hedins stiftelse",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "K",
+        "last_name": "Montell",
+        "middle_name": "Gösta",
+        "gender": "Male",
+        "birth_date": "07-11-1899",
+        "birth_place": {
+            "name": "Pajala, Norrbottens Län",
+            "latitude": 67.21278199999999,
+            "longitude": 23.367392,
+            "formatted_address": "Pajala, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Arvid",
+                "last_name": "Montell",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "jägmästare",
+                    "occupation_english": "master of forestry",
+                    "hisco_code_swedish": "21230.0",
+                    "hisco_description_swedish": "Farm Manager"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Rosenius",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Stockholms Universitet",
+            "department": null,
+            "start_year": 1936,
+            "end_year": null,
+            "field": "allmän och jämförande etnografi"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Mexico",
+                "latitude": 23.634501,
+                "longitude": -102.552784,
+                "formatted_address": "Mexico"
+            },
+            "country_code": "MEX",
+            "year": "1957"
+        },
+        {
+            "country": {
+                "name": "Guatemala",
+                "latitude": 15.783471,
+                "longitude": -90.23075899999999,
+                "formatted_address": "Guatemala"
+            },
+            "country_code": "GTM",
+            "year": "1957"
+        },
+        {
+            "country": {
+                "name": "Kanarieöarna",
+                "latitude": 28.2915637,
+                "longitude": -16.6291304,
+                "formatted_address": "Canary Islands, Spain"
+            },
+            "country_code": "ESP",
+            "year": "1958"
+        }
+    ]
+}

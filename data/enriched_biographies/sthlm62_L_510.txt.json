@@ -1,0 +1,219 @@
+{
+    "career": [
+        {
+            "position": "Konsult Ingenjör",
+            "start_year": 1942,
+            "end_year": 1946,
+            "organization": "Bigelow Kent, Willard & Co Boston",
+            "location": {
+                "name": "Boston",
+                "latitude": 42.3555076,
+                "longitude": -71.0565364,
+                "formatted_address": "Boston, MA, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Industriens produktionsråd",
+            "start_year": 1947,
+            "end_year": 1953,
+            "organization": "Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Industriell rådgivare",
+            "start_year": 1953,
+            "end_year": 1954,
+            "organization": "FN:s tekniska biståndsprogram",
+            "location": {
+                "name": "Jugoslavien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Head of Section Management Techniques",
+            "start_year": 1955,
+            "end_year": null,
+            "organization": "OEEC",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "Head of Management Div",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": "OEEC",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Linderoth",
+        "middle_name": "G",
+        "gender": "Male",
+        "birth_date": "21-04-1916",
+        "birth_place": {
+            "name": "Norrköping",
+            "latitude": 58.587745,
+            "longitude": 16.192421,
+            "formatted_address": "Norrköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilekonom, Ingenjör",
+            "occupation_english": "Business Economist, Engineer"
+        },
+        "parents": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Linderoth",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Tullöveruppsyningsman",
+                    "occupation_english": "Chief Customs Supervisor",
+                    "hisco_code_swedish": "31040.0",
+                    "hisco_description_swedish": "Customs officer"
+                }
+            },
+            {
+                "first_name": "Märtha",
+                "last_name": "Johansson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "achievements": [
+        {
+            "title": "Vice ordförande",
+            "field": "Kongress- och programkommittén",
+            "year": "1946-1947",
+            "significance": null,
+            "recognized_by": "8:e internationella managementkongressen"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Teknologföreningen avdelning industriell ekonomi och organisation",
+            "role": "Sekreterare",
+            "start_year": 1949,
+            "end_year": 1953,
+            "organization": "SvTF",
+            "significance": null
+        },
+        {
+            "committee_name": "Tekniska assistansgruppen och produktionsgruppen",
+            "role": "Svensk delegat",
+            "start_year": 1950,
+            "end_year": 1953,
+            "organization": "OEEC",
+            "significance": null
+        },
+        {
+            "committee_name": "Arbetsstudie och arbetsmätningsgruppen",
+            "role": "Ordförande AU",
+            "start_year": 1950,
+            "end_year": 1953,
+            "organization": "OEEC",
+            "significance": null
+        },
+        {
+            "committee_name": "Statens byggnadsmaterialutredning",
+            "role": "Expert",
+            "start_year": 1949,
+            "end_year": 1953,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "Odontologie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1936",
+            "institution": "None"
+        },
+        {
+            "degree": "Diplom från Handelshögskolan",
+            "degree_level": "Master's",
+            "year": "1938",
+            "institution": "Handelshögskolan Stockholm"
+        },
+        {
+            "degree": "Master of Business Administration",
+            "degree_level": "Master's",
+            "year": "1941",
+            "institution": "Harvard"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elisabeth",
+            "last_name": "Aminoff",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Berndt",
+                    "last_name": "Aminoff",
+                    "gender": "Male",
+                    "occupation": null
+                },
+                {
+                    "first_name": "Hjördis",
+                    "last_name": "Backman",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1948",
+        "children": [
+            {
+                "first_name": "Hans",
+                "last_name": "Linderoth",
+                "gender": "Male",
+                "birth_year": "1950"
+            },
+            {
+                "first_name": "Claes",
+                "last_name": "Linderoth",
+                "gender": "Male",
+                "birth_year": "1951"
+            },
+            {
+                "first_name": "Carl",
+                "last_name": "Linderoth",
+                "middle_name": "Fredrik",
+                "gender": "Male",
+                "birth_year": "1954"
+            },
+            {
+                "first_name": "Berndt",
+                "last_name": "Linderoth",
+                "gender": "Male",
+                "birth_year": "1958"
+            }
+        ]
+    }
+}

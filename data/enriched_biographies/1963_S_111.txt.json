@@ -1,0 +1,172 @@
+{
+    "career": [
+        {
+            "position": "elev",
+            "start_year": 1901,
+            "organization": "Hjälm. Selander"
+        },
+        {
+            "position": "engagemang",
+            "start_year": 1901,
+            "end_year": 1905,
+            "organization": "Selander"
+        },
+        {
+            "position": "engagemang",
+            "start_year": 1905,
+            "end_year": 1906,
+            "organization": "Folkteatern",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            }
+        },
+        {
+            "position": "engagemang",
+            "start_year": 1906,
+            "end_year": 1907,
+            "organization": "Hugo Rönnblad"
+        },
+        {
+            "position": "engagemang",
+            "start_year": 1907,
+            "end_year": 1912,
+            "organization": "Alb. Ranft, Östermalmsteatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            }
+        },
+        {
+            "position": "engagemang",
+            "start_year": 1912,
+            "end_year": 1914,
+            "organization": "Fröberg-Sjöström"
+        },
+        {
+            "position": "engagemang",
+            "start_year": 1914,
+            "end_year": 1916,
+            "organization": "Alb. Ranft"
+        },
+        {
+            "position": "engagemang",
+            "start_year": 1916,
+            "end_year": 1923,
+            "organization": "Lorensbiteatern",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            }
+        },
+        {
+            "position": "chef",
+            "start_year": 1923,
+            "end_year": 1931,
+            "organization": "Folkteatern",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            }
+        },
+        {
+            "position": "engagemang",
+            "start_year": 1931,
+            "end_year": 1933,
+            "organization": "Vasateatern (Gösta Ekman), Konserthusteatern, aktiebolag Radio",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            }
+        },
+        {
+            "position": "engagemang",
+            "start_year": 1931,
+            "end_year": 1933,
+            "organization": "Skansens friluftsteater"
+        },
+        {
+            "position": "engagemang",
+            "start_year": 1933,
+            "organization": "Dramatiska teatern"
+        },
+        {
+            "position": "regissör",
+            "start_year": 1933,
+            "organization": "flera teatrar"
+        }
+    ],
+    "person": {
+        "first_name": "Olof",
+        "last_name": "Sandborg",
+        "gender": "Male",
+        "birth_date": "30-04-1884",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "skådespelare",
+            "occupation_english": "actor",
+            "hisco_code_swedish": "17320.0",
+            "hisco_description_swedish": "Actor",
+            "hisco_code_english": "17320.0",
+            "hisco_description_english": "Actor"
+        },
+        "parents": [
+            {
+                "first_name": "Gust. Leon.",
+                "last_name": "Sandborg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "handelsresande",
+                    "hisco_code_swedish": "43220.0",
+                    "hisco_description_swedish": "Commercial Traveller"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Hertzman",
+                "gender": "Female"
+            }
+        ]
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Märta",
+            "last_name": "WesthoW-Reiners",
+            "gender": "Female",
+            "birth_date": "00-00-1900",
+            "parents": [
+                {
+                    "first_name": "Mac/n.",
+                    "last_name": "W",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "optiker",
+                        "hisco_code_swedish": "7530.0",
+                        "hisco_description_swedish": "Dispensing Optician"
+                    }
+                },
+                {
+                    "first_name": "Esther",
+                    "last_name": "Lövström",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1928"
+    }
+}

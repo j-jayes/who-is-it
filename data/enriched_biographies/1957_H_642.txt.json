@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "lantarbetare",
+            "start_year": 1936,
+            "end_year": 1940,
+            "organization": "Kälarne",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "brandman",
+            "start_year": 1942,
+            "end_year": 1943,
+            "organization": "Gävle",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "försäljare",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gunder",
+        "last_name": "Hägg",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "31-12-1918",
+        "birth_place": {
+            "name": "Hällersjö, Jämtlands Län",
+            "latitude": 63.1711922,
+            "longitude": 14.95918,
+            "formatted_address": "Jamtland County, Sweden"
+        },
+        "occupation": {
+            "occupation": "idrottsman",
+            "occupation_english": null
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Hägg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Selma",
+                "last_name": "Husberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Svensk mästare",
+            "field": "1500 m",
+            "year": "1941",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Svensk mästare",
+            "field": "5000 m",
+            "year": "1944",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Amerikansk mästare",
+            "field": "5000 m",
+            "year": "1943",
+            "significance": "under turné i USA, vann där alla lopp o. satte amerikanskt rekord",
+            "recognized_by": null
+        },
+        {
+            "title": "Amerikanskt rekord",
+            "field": "Engelsk mil",
+            "year": null,
+            "significance": "två gånger med 4.05,4",
+            "recognized_by": null
+        },
+        {
+            "title": "Världsrekord",
+            "field": "1500 m",
+            "year": "1944",
+            "significance": "3.43",
+            "recognized_by": null
+        },
+        {
+            "title": "Världsrekord",
+            "field": "Engelsk mil",
+            "year": "1945",
+            "significance": "4.01,4",
+            "recognized_by": null
+        },
+        {
+            "title": "Världsrekord",
+            "field": "2000 m",
+            "year": "1942",
+            "significance": "5.11,8",
+            "recognized_by": null
+        },
+        {
+            "title": "Världsrekord",
+            "field": "3000 m",
+            "year": "1942",
+            "significance": "8.01,2",
+            "recognized_by": null
+        },
+        {
+            "title": "Världsrekord",
+            "field": "2 engelska mil",
+            "year": "1944",
+            "significance": "8.42.8",
+            "recognized_by": null
+        },
+        {
+            "title": "Världsrekord",
+            "field": "3 engelska mil",
+            "year": "1942",
+            "significance": "13.32,4",
+            "recognized_by": null
+        },
+        {
+            "title": "Världsrekord",
+            "field": "5000 m",
+            "year": "1942",
+            "significance": "13.58,2",
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Daisy",
+            "last_name": "Lundqvist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1948",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1945"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1945"
+        }
+    ]
+}

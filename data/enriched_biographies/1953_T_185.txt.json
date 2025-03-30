@@ -1,0 +1,186 @@
+{
+    "career": [
+        {
+            "position": "Assistent",
+            "start_year": 1901,
+            "end_year": 1902,
+            "organization": "Sockerraffinaderiet",
+            "location": {
+                "name": "Landskrona",
+                "latitude": 55.8703477,
+                "longitude": 12.8300802,
+                "formatted_address": "Landskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Meddirektör",
+            "start_year": 1907,
+            "organization": "Sockerfabriken",
+            "location": {
+                "name": "Landskrona",
+                "latitude": 55.8703477,
+                "longitude": 12.8300802,
+                "formatted_address": "Landskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Meddirektör",
+            "start_year": 1907,
+            "organization": "Säbyholm",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Meddirektör",
+            "start_year": 1907,
+            "organization": "Kävlinge",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Andre Direktör",
+            "start_year": 1908,
+            "organization": "Svenska Sockerfabriks Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1916,
+            "end_year": 1942,
+            "organization": "Svenska Sockerfabriks Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelseordförande",
+            "start_year": 1942,
+            "organization": "Säbyholms Järnväg",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Jane",
+        "last_name": "Sörensen",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "None",
+        "birth_place": {
+            "name": "None",
+            "latitude": null,
+            "longitude": null,
+            "formatted_address": null
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Abraham",
+                "last_name": "Sörensen",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Lena",
+                "last_name": "Matton",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": null,
+    "family": {
+        "spouse": null,
+        "marriage_year": "1916",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1901"
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": "1901"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1901"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1902"
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": "1902"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1902"
+        }
+    ]
+}

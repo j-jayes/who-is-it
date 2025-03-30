@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "tullkontrollör",
+            "start_year": 1937,
+            "end_year": 1948,
+            "organization": "Tullverket",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "kammarskrivare",
+            "start_year": 1924,
+            "end_year": 1937,
+            "organization": "Tullverket",
+            "location": {
+                "name": "Södertälje",
+                "latitude": 59.197762,
+                "longitude": 17.6201942,
+                "formatted_address": "Södertälje, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "tullinspektör",
+            "start_year": 1917,
+            "end_year": 1924,
+            "organization": "Tullverket",
+            "location": {
+                "name": "Sandhamn",
+                "latitude": 59.28787029999999,
+                "longitude": 18.9108304,
+                "formatted_address": "130 39 Sandhamn, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "extra ordinarie kammarskrivare",
+            "start_year": 1905,
+            "end_year": 1917,
+            "organization": "Tullverket",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Bruce",
+        "middle_name": "Ivan",
+        "gender": "Male",
+        "birth_date": "25-07-1883",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "före detta tullkontrollör",
+            "occupation_english": "former customs controller",
+            "hisco_code_swedish": "31040.0",
+            "hisco_description_swedish": "Customs officer"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Bruce",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fastighetsägare",
+                    "occupation_english": "real estate owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "44130.0",
+                    "hisco_description_english": "Estate Agent"
+                }
+            },
+            {
+                "first_name": "Carolina",
+                "last_name": "Ahlström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Gårdby",
+        "latitude": 56.60156199999999,
+        "longitude": 16.6403428,
+        "formatted_address": "386 92 Gårdby, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1903",
+            "institution": "Visby"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Bachelor's",
+            "year": "1903-1904",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "postelevkurs",
+            "degree_level": "Schooling",
+            "year": "1904-1905",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "entomologi"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Smärre uppsatser i entomologi",
+            "year": "1931-1952",
+            "type": "uppsats",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Monographie der europäischen Arten der Gattung Cryptophagus",
+            "year": "1936",
+            "type": "monografi",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Dalmatiska öarna",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "HRV",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Karesuando lappmark",
+                "latitude": 68.43795399999999,
+                "longitude": 22.4511094,
+                "formatted_address": "986 31 Karesuando, Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Medelpad",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "SWE",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Öland",
+                "latitude": 54.6786487,
+                "longitude": 8.705097,
+                "formatted_address": "Oland, Germany"
+            },
+            "country_code": "SWE",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Ångermanland",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "SWE",
+            "year": "1939"
+        }
+    ]
+}

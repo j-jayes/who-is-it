@@ -1,0 +1,168 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1907,
+            "end_year": 1908,
+            "organization": "West Hartlepool Engl",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1908,
+            "end_year": 1922,
+            "organization": "Gefle Manufaktur Aktiebolag Strömsbro",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Aktiebolag Perioden, Norrköping och Nyköping (tillverkning bomullsgarn)",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1927,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Anders",
+        "last_name": "Malmberg",
+        "middle_name": "Julius",
+        "gender": "Male",
+        "birth_date": "05-08-1887",
+        "birth_place": {
+            "name": "Söderhamn",
+            "latitude": 61.3055762,
+            "longitude": 17.0628102,
+            "formatted_address": "Söderhamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Malmberg",
+                "middle_name": "J",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapt",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Wannberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Sällskapet Norrlänningarna",
+            "role": "Ordförande",
+            "start_year": 0,
+            "end_year": null,
+            "organization": "Norrköping",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Norrköping",
+        "latitude": 58.587745,
+        "longitude": 16.192421,
+        "formatted_address": "Norrköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Söderhamns Allmänna Läroverk",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Söderhamns Allmänna Läroverk"
+        },
+        {
+            "degree": "Wennlunds Handelskola Gävle",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Wennlunds Handelskola Gävle"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Jenny",
+            "last_name": "Törnberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Fiske"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

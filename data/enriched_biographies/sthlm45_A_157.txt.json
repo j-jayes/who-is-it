@@ -1,0 +1,163 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1905,
+            "end_year": 1908,
+            "organization": "Vänersborgs Tändsticksfabrik",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1912,
+            "end_year": null,
+            "organization": "Stockholms stads lärlings- och yrkesskoleväsen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Andersson",
+        "middle_name": "Konrad Konstantin",
+        "gender": "Male",
+        "birth_date": "12-04-1882",
+        "birth_place": {
+            "name": "Nättraby, Blekinge Län",
+            "latitude": 56.2011731,
+            "longitude": 15.5365459,
+            "formatted_address": "373 31 Nättraby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "Fritz",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Inspektör",
+                    "occupation_english": "Inspector",
+                    "hisco_code_swedish": "22000.0",
+                    "hisco_description_swedish": "Supervisor, Foreman or Inspector, Specialisation Unknown",
+                    "hisco_code_english": "22000.0",
+                    "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Amanda",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Yrkesskolföreningen",
+            "role": "Ordförande",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "J. L. Eklunds stiftelse",
+            "role": "Ordförande",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Danderyd",
+        "latitude": 59.4059401,
+        "longitude": 18.0256382,
+        "formatted_address": "Danderyd, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Tekniska elementarskolan",
+            "degree_level": "Schooling",
+            "year": "1905",
+            "institution": "Norrköping"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ester",
+            "last_name": "Häckner",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1908",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Nordstjärneorden (RNO)",
+        "Riddare av Vasaorden (RVO)",
+        "Riddare av Finska Lejonorden (RFinlLO)",
+        "Riddare av Norska Sankt Olavsorden (RNS:tOO)",
+        "Riddare av Abessinska Solorden (RAbessSO)",
+        "Ledamot av Skogstekniska Föreningen (LSTF)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "okänt",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "UNK",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "okänt",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "UNK",
+            "year": "1927"
+        }
+    ]
+}

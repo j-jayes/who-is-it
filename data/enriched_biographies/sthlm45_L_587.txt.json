@@ -1,0 +1,203 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Anna",
+        "last_name": "Lyttkens",
+        "middle_name": "Alice Maria",
+        "gender": "Female",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "författarinna",
+            "occupation_english": "author",
+            "hisco_code_swedish": "15120.0",
+            "hisco_description_swedish": "Author",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Cronquist",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "medicin doktor",
+                    "occupation_english": "Medical Doctor",
+                    "hisco_code_swedish": "6100.0",
+                    "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+                    "hisco_code_english": "6100.0",
+                    "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Antonie",
+                "last_name": "Lanng",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "norrlandsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1915",
+            "institution": "Norrland"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Yngve",
+            "last_name": "Lyttkens",
+            "gender": "Male",
+            "occupation": {
+                "occupation": "advokat",
+                "occupation_english": "lawyer",
+                "hisco_code_swedish": "12110.0",
+                "hisco_description_swedish": "Lawyer",
+                "hisco_code_english": "73210.0",
+                "hisco_description_english": "Sawyer, General"
+            }
+        },
+        "marriage_year": "1918"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": [
+        "franska",
+        "tyska",
+        "engelska"
+    ],
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Syiikoper",
+            "year": "1932",
+            "type": "book"
+        },
+        {
+            "title": "Flykten från vardagen",
+            "year": "1933",
+            "type": "book"
+        },
+        {
+            "title": "Kommer inte till middagen",
+            "year": "1934",
+            "type": "book"
+        },
+        {
+            "title": "Det är inte sant",
+            "year": "1935",
+            "type": "book"
+        },
+        {
+            "title": "Det är mycket man måste",
+            "year": "1936",
+            "type": "book"
+        },
+        {
+            "title": "Det är dit vi längtar",
+            "year": "1937",
+            "type": "book"
+        },
+        {
+            "title": "Falskt vittnesbörd",
+            "year": "1939",
+            "type": "book"
+        },
+        {
+            "title": "Svensk kvinna",
+            "year": "1941",
+            "type": "book"
+        },
+        {
+            "title": "Syndafall",
+            "year": "1942",
+            "type": "book"
+        },
+        {
+            "title": "Lyckans tempel",
+            "year": "1943",
+            "type": "book"
+        },
+        {
+            "title": "Längtans blåa blomma",
+            "year": "1944",
+            "type": "book"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT"
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP"
+        }
+    ]
+}

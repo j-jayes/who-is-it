@@ -1,0 +1,130 @@
+{
+    "career": [
+        {
+            "position": "läkarförordnande",
+            "start_year": 1949,
+            "end_year": 1955,
+            "organization": "Lunds lasarett",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "förste underläkare",
+            "start_year": 1955,
+            "end_year": 1956,
+            "organization": "Radiologiska kliniken, Lunds lasarett",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "andre underläkare",
+            "start_year": 1957,
+            "end_year": null,
+            "organization": "Kvinnokliniken, Malmö allmänna sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "praktiserande läkare",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "C",
+        "last_name": "DAHLBERG",
+        "middle_name": "G BRUNO",
+        "gender": "Male",
+        "birth_date": "01-05-1919",
+        "birth_place": {
+            "name": "London",
+            "latitude": 51.5072178,
+            "longitude": -0.1275862,
+            "formatted_address": "London, UK"
+        },
+        "occupation": {
+            "occupation": "medicin doktor, docent",
+            "occupation_english": "Medical Doctor, Docent",
+            "hisco_code_swedish": "6100.0",
+            "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Dahlberg",
+                "middle_name": "Adolf",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kommendant i belgiska marinen",
+                    "occupation_english": "Commandant in the Belgian Navy",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Florianne",
+                "last_name": "Lightman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1961,
+            "end_year": null,
+            "field": "obstetrik och gynekologi"
+        }
+    ],
+    "hobbies": [
+        "segling",
+        "golf"
+    ],
+    "military_service": "Reservofficersexamen Flygvapnet 1942, flygläkare 2:a graden 1949-1952, 1:a graden sedan 1952",
+    "publications": [
+        {
+            "title": "Skrifter i gynekologi och radiologisk gynekologi",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "None"
+        }
+    ]
+}

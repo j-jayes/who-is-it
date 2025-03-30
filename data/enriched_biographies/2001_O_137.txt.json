@@ -1,0 +1,148 @@
+{
+    "career": [
+        {
+            "position": "Professor i dental röntgendiagnostik",
+            "start_year": 1960,
+            "organization": "Tandläkhögskolan Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i dental röntgendiagnostik",
+            "start_year": 1961,
+            "organization": "Tandläkhögskolan Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Clinical Director",
+            "start_year": 1980,
+            "organization": "National Institute of Dental Research Bethesda",
+            "location": {
+                "name": "Bethesda",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Dekanus",
+            "start_year": 1981,
+            "end_year": 1992,
+            "organization": "School of Dentistry University of Washington",
+            "location": {
+                "name": "Washington",
+                "latitude": 38.9071923,
+                "longitude": -77.0368707,
+                "formatted_address": "Washington, DC, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Dean Emer",
+            "start_year": 1992,
+            "organization": "School of Dentistry University of Washington",
+            "location": {
+                "name": "Washington",
+                "latitude": 38.9071923,
+                "longitude": -77.0368707,
+                "formatted_address": "Washington, DC, USA"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Karl-Åke",
+        "last_name": "Omnell",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "26-08-1922",
+        "birth_place": {
+            "name": "Luleå",
+            "latitude": 65.584819,
+            "longitude": 22.1567026,
+            "formatted_address": "Luleå, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Helmer",
+                "last_name": "Omnell",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Revisor",
+                    "occupation_english": "Auditor",
+                    "hisco_code_swedish": "11020.0",
+                    "hisco_description_swedish": "Auditor",
+                    "hisco_code_english": "33110.0",
+                    "hisco_description_english": "Bookkeeper, General"
+                }
+            },
+            {
+                "first_name": "Minna",
+                "last_name": "Persson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "institution": "Tandläkarhögskolan Malmö",
+            "start_year": 1957,
+            "field": "odontologi"
+        },
+        {
+            "position": "Professor",
+            "institution": "Tandläkarhögskolan Stockholm",
+            "start_year": 1960,
+            "field": "dental röntgendiagnostik"
+        },
+        {
+            "position": "Professor",
+            "institution": "Tandläkarhögskolan Malmö",
+            "start_year": 1961,
+            "field": "dental röntgendiagnostik"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lena",
+            "last_name": "Werder",
+            "gender": "Female",
+            "occupation": {
+                "occupation": "Legitimerad tandläkare",
+                "occupation_english": "Licensed dentist",
+                "hisco_code_swedish": "6310.0",
+                "hisco_description_swedish": "Dentist, General",
+                "hisco_code_english": "6310.0",
+                "hisco_description_english": "Dentist, General"
+            }
+        },
+        "marriage_year": "1972",
+        "divorce_year": null,
+        "children": null
+    },
+    "honors": null,
+    "publications": null,
+    "travels": null
+}

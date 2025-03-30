@@ -1,0 +1,249 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1900,
+            "end_year": 1901,
+            "organization": "medicinska avdelningen hos professor von Noorden, Frankfurt am Main",
+            "location": {
+                "name": "Frankfurt am Main",
+                "latitude": 50.1109221,
+                "longitude": 8.6821267,
+                "formatted_address": "Frankfurt, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "assistent",
+            "start_year": 1901,
+            "end_year": 1902,
+            "organization": "psykiatriska kliniken i Freiburg im Breisgau",
+            "location": {
+                "name": "Freiburg im Breisgau",
+                "latitude": 47.9990077,
+                "longitude": 7.842104299999999,
+                "formatted_address": "79 Freiburg im Breisgau, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "operatör",
+            "start_year": 1902,
+            "end_year": 1903,
+            "organization": "II. kirurgiska kliniken i Wien",
+            "location": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": null
+        },
+        {
+            "position": "demonstratör",
+            "start_year": 1903,
+            "end_year": 1905,
+            "organization": "professor Politzers öronklinik i Wien",
+            "location": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": null
+        },
+        {
+            "position": "assistent",
+            "start_year": 1905,
+            "end_year": 1911,
+            "organization": "professor Politzers öronklinik i Wien",
+            "location": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": null
+        },
+        {
+            "position": "privatdocent i öronsjukdomar",
+            "start_year": 1909,
+            "end_year": 1917,
+            "organization": "Wien",
+            "location": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": null
+        },
+        {
+            "position": "docent, biträdande lärare i öron-, näs- och halssjukdomar, överläkare vid provisoriska kliniken och föreståndare för polikliniken för öron-, näs- och halssjukdomar",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "professor i öron-, näs- och halssjukdomar",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": "Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Robert",
+        "last_name": "Båräny",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "22-04-1876",
+        "birth_place": {
+            "name": "Wien",
+            "latitude": 48.20806959999999,
+            "longitude": 16.3713095,
+            "formatted_address": "Vienna, Austria"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ignaz",
+                "last_name": "Båräny",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "boktjänsteman",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "33140.0",
+                    "hisco_description_swedish": "Bank Teller"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Båräny",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Politzer-pris på internationella öronläkarkongressen i Boston",
+        "Erb-pris och medalj av tyska neurologiska sällskapet i Breslau 1913",
+        "belöning av vetenskapsakademin i Bryssel för bästa neurologiska arbete 1913",
+        "Guyot-pris av universitet i Groningen för bästa otologiska arbete 1914",
+        "Nobelpristagare (i medicin) för arbete om vestibularapparaten 1915",
+        "jubileumspris av svenska läkaresällskapet 1925 för bästa kirurgiska arbete"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1900",
+            "institution": "Wien"
+        },
+        {
+            "degree": "hedersdoktor",
+            "degree_level": "Doctorate",
+            "year": "1924",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ida",
+            "last_name": "None",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1909",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "över 200 arbeten om öron-, näs- o. halssjukdomar samt i fysiologi, nervsjukdomar o. kirurgiska sjukdomar",
+            "year": "None",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": null
+        }
+    ]
+}

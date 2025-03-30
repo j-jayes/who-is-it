@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Folkskollärare",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "Estland",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1929,
+            "end_year": 1944,
+            "organization": null,
+            "location": {
+                "name": "Estland",
+                "latitude": 58.595272,
+                "longitude": 25.013607,
+                "formatted_address": "Estonia"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie folkskollärare",
+            "start_year": 1950,
+            "end_year": null,
+            "organization": "Noraskog",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie ämneslärare",
+            "start_year": 1954,
+            "end_year": null,
+            "organization": "Folkskollärarhögstadie",
+            "location": {
+                "name": "Mörbylånga",
+                "latitude": 56.5241245,
+                "longitude": 16.3884109,
+                "formatted_address": "Mörbylånga, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ämneslärare",
+            "start_year": 1955,
+            "end_year": null,
+            "organization": "Folkskollärarhögstadie",
+            "location": {
+                "name": "Perstorp",
+                "latitude": 56.137972,
+                "longitude": 13.3949862,
+                "formatted_address": "Perstorp, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt",
+            "start_year": 1958,
+            "end_year": 1960,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Studierektor",
+            "start_year": 1956,
+            "end_year": 1960,
+            "organization": null,
+            "location": {
+                "name": "Perstorp",
+                "latitude": 56.137972,
+                "longitude": 13.3949862,
+                "formatted_address": "Perstorp, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": "Samrealskola",
+            "location": {
+                "name": "Söderköping",
+                "latitude": 58.4759013,
+                "longitude": 16.3234307,
+                "formatted_address": "Söderköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Skolbibliotekarie",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Söderköping",
+                "latitude": 58.4759013,
+                "longitude": 16.3234307,
+                "formatted_address": "Söderköping, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ado",
+        "last_name": "Kajassaar",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "03-01-1903",
+        "birth_place": {
+            "name": "Kolga, Estland",
+            "latitude": 59.4922573,
+            "longitude": 25.639508,
+            "formatted_address": "Kolga, 74602 Harju County, Estonia"
+        },
+        "occupation": {
+            "occupation": "Läroverksadjunkt",
+            "occupation_english": null,
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustav",
+                "last_name": "Kronström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fiskare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "64100.0",
+                    "hisco_description_swedish": "Fisherman, DeepSea or Inland and Coastal Water"
+                }
+            },
+            {
+                "first_name": "Katarina",
+                "last_name": "Siberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Folkskollärarexamen",
+            "degree_level": "Bachelor's",
+            "year": "1921",
+            "institution": "Tallinn"
+        },
+        {
+            "degree": "Flygarexamen",
+            "degree_level": "Schooling",
+            "year": "1933",
+            "institution": "None"
+        },
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1940",
+            "institution": "Tallinn"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1955",
+            "institution": "Lund"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Teaterpjäser",
+            "year": "None",
+            "type": "pjäs",
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Pedagogiska artiklar",
+            "year": "None",
+            "type": "artikel",
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Estland",
+                "latitude": 58.595272,
+                "longitude": 25.013607,
+                "formatted_address": "Estonia"
+            },
+            "country_code": "EST",
+            "year": null
+        }
+    ]
+}

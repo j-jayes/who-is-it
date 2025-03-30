@@ -1,0 +1,217 @@
+{
+    "career": [
+        {
+            "position": "sekreterare",
+            "start_year": 1926,
+            "end_year": 1928,
+            "organization": "Konstnärsklubben",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "klubbmedlem",
+            "start_year": 1929,
+            "end_year": 1932,
+            "organization": "1890 års män",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1929,
+            "end_year": 1934,
+            "organization": "1890 års män",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1933,
+            "end_year": 1937,
+            "organization": "Konstnärernas Inkassokontor",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Magnusson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "27-04-1890",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Wilhelm",
+                "last_name": "Magnusson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Westerdahl",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "SM å den internationella grafikutställningen",
+            "field": "grafik",
+            "year": "1914",
+            "significance": null,
+            "recognized_by": "Leipzig"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1908-1914",
+            "institution": "Konsthögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Charlotte",
+            "last_name": "Carlson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Erik-Axel",
+                    "last_name": "Carlson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": null
+                },
+                {
+                    "first_name": "Ada",
+                    "last_name": "Larsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1917",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "En konstnärs väg ...",
+            "year": "1931",
+            "type": "roman",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1920-1922"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1920-1922"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1920-1922"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1920-1922"
+        }
+    ]
+}

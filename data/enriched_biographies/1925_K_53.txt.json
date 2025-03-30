@@ -1,0 +1,163 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1911,
+            "end_year": 1913,
+            "organization": "Sjukhuset S:t Göran",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Läkare",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": "Polikliniken å Norrmalm för hud- och könssjukdomar hos kvinnor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gerda",
+        "last_name": "Kjellberg",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "18-02-1881",
+        "birth_place": {
+            "name": "Kristinehamn",
+            "latitude": 59.3100677,
+            "longitude": 14.1089192,
+            "formatted_address": "Kristinehamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "Läkare",
+            "occupation_english": "Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Emil",
+                "last_name": "Kjellberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Ingenjör",
+                    "occupation_english": "Engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1904",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1911",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hugo",
+            "last_name": "Lindberg",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Advokat",
+                "occupation_english": "Lawyer",
+                "hisco_code_swedish": "12110.0",
+                "hisco_description_swedish": "Lawyer",
+                "hisco_code_english": "73210.0",
+                "hisco_description_english": "Sawyer, General"
+            },
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": "1913"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1930,
+            "end_year": 1934,
+            "organization": "Elementarskola för flickor i Hudiksvall",
+            "location": {
+                "name": "Hudiksvall",
+                "latitude": 61.7273909,
+                "longitude": 17.107401,
+                "formatted_address": "Hudiksvall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1932,
+            "end_year": 1934,
+            "organization": "Elementarskola för flickor i Hudiksvall",
+            "location": {
+                "name": "Hudiksvall",
+                "latitude": 61.7273909,
+                "longitude": 17.107401,
+                "formatted_address": "Hudiksvall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Biträdande Föreståndare",
+            "start_year": 1934,
+            "end_year": 1940,
+            "organization": "Lilla Edets kommunala mellanskola",
+            "location": {
+                "name": "Lilla Edet",
+                "latitude": 58.132158,
+                "longitude": 12.1241336,
+                "formatted_address": "Lilla Edet, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1941,
+            "end_year": 1946,
+            "organization": "Samrealskola i Leksand",
+            "location": {
+                "name": "Leksand",
+                "latitude": 60.7303082,
+                "longitude": 14.9998922,
+                "formatted_address": "Leksand, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "Kommunala flickskola i Kalmar",
+            "location": {
+                "name": "Kalmar",
+                "latitude": 56.6634447,
+                "longitude": 16.356779,
+                "formatted_address": "Kalmar, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karin",
+        "last_name": "Olsson",
+        "middle_name": "Margareta",
+        "gender": "Female",
+        "birth_date": "03-07-1903",
+        "birth_place": {
+            "name": "Skön, Västernorrlands Län",
+            "latitude": 62.449003,
+            "longitude": 17.3527932,
+            "formatted_address": "863 36 Skön, Sweden"
+        },
+        "occupation": {
+            "occupation": "Rektor",
+            "occupation_english": "Principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "37040.0",
+            "hisco_description_english": "Messenger"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Åslund",
+                "middle_name": "Amalia",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Föreningen Norden",
+            "role": "Sekreterare",
+            "start_year": 1943,
+            "end_year": 1946,
+            "organization": "Leksandsavdelningen",
+            "significance": null
+        },
+        {
+            "committee_name": "Föreningen Norden",
+            "role": "Sekreterare",
+            "start_year": 1944,
+            "end_year": 1946,
+            "organization": "Kopparbergs Läns krets",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kalmar",
+        "latitude": 56.6634447,
+        "longitude": 16.356779,
+        "formatted_address": "Kalmar, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Examen",
+            "degree_level": "Schooling",
+            "year": "1928",
+            "institution": "Anna Sandströms högre lärarinneseminarium"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Minnestecken för humanitära verksamhet till förmån för offer av Finlands krig 1941-1944"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1946"
+        }
+    ]
+}

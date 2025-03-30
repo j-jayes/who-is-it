@@ -1,0 +1,234 @@
+{
+    "career": [
+        {
+            "position": "Förordnad",
+            "start_year": 1929,
+            "organization": "Lasarettet i Karlstad",
+            "location": {
+                "name": "Karlstad",
+                "latitude": 59.4021806,
+                "longitude": 13.5114977,
+                "formatted_address": "Karlstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Förordnad",
+            "start_year": 1929,
+            "organization": "Lasarettet i Södertälje",
+            "location": {
+                "name": "Södertälje",
+                "latitude": 59.197762,
+                "longitude": 17.6201942,
+                "formatted_address": "Södertälje, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Förordnad",
+            "start_year": 1929,
+            "organization": "Furunäsets sjukhus",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Förordnad",
+            "start_year": 1929,
+            "organization": "Epidemisjukhuset i Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1929,
+            "organization": "Serafimerlasarettet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Stadsläkare",
+            "start_year": 1935,
+            "organization": "Djursholm",
+            "location": {
+                "name": "Djursholm",
+                "latitude": 59.39707249999999,
+                "longitude": 18.0903005,
+                "formatted_address": "Djursholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sten",
+        "last_name": "Insulander",
+        "middle_name": "Denis Isidor",
+        "gender": "Male",
+        "birth_date": "07-12-1902",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Stadsläkare",
+            "occupation_english": "City Doctor",
+            "hisco_code_swedish": "6140.0",
+            "hisco_description_swedish": "Public Health Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Insulander",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överstelöjtnant",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Dehn",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "Ledamot",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Djursholm",
+            "significance": null
+        },
+        {
+            "committee_name": "Fattigvårdsstyrelse",
+            "role": "Ordförande",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Djursholm",
+            "significance": null
+        },
+        {
+            "committee_name": "Cykelförbundet",
+            "role": "Ordförande",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Riksidrottsförbundets överstyrelse",
+            "role": "Ledamot",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Riksidrottsförbundets förvaltningsutskott",
+            "role": "Ledamot",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1921",
+            "institution": "Högre realläroverket å Norrmalm"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1929",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1933",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lena",
+            "last_name": "Ericsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "01-01-1903",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "Ericsson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Kammarmusiker",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "17140.0",
+                        "hisco_description_swedish": "Instrumentalist"
+                    }
+                },
+                {
+                    "first_name": "Julia",
+                    "last_name": "Cederquist",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Experimentelle Untersuchung. über die Schutzkràfte des Tierkörpers gegen Bacillus histolytrius",
+            "year": "1933",
+            "type": "gradualavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,186 @@
+{
+    "career": [
+        {
+            "position": "affärsman",
+            "start_year": 1902,
+            "end_year": 1905,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "affärsman",
+            "start_year": 1909,
+            "end_year": 1920,
+            "organization": null,
+            "location": {
+                "name": "Argentina",
+                "latitude": -38.416097,
+                "longitude": -63.61667199999999,
+                "formatted_address": "Argentina"
+            },
+            "country_code": null
+        },
+        {
+            "position": "affärsman",
+            "start_year": 1921,
+            "end_year": 1924,
+            "organization": null,
+            "location": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1924,
+            "end_year": 1925,
+            "organization": "Elektrolux, Inc.",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1926,
+            "end_year": 1930,
+            "organization": "Aktiebolaget Elektrolux",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Aurell",
+        "middle_name": "Georg Wilhelm",
+        "gender": "Male",
+        "birth_date": "14-08-1880",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Aurell",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Scherman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "affärs man",
+            "degree_level": "Schooling",
+            "year": "1902-1905",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "studie",
+            "degree_level": "Schooling",
+            "year": "1906-1907",
+            "institution": "USA"
+        },
+        {
+            "degree": "teknisk högskola",
+            "degree_level": "Schooling",
+            "year": "1908-1909",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1906-1907"
+        },
+        {
+            "country": {
+                "name": "Argentina",
+                "latitude": -38.416097,
+                "longitude": -63.61667199999999,
+                "formatted_address": "Argentina"
+            },
+            "country_code": "ARG",
+            "year": "1909-1920"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1921-1924"
+        }
+    ]
+}

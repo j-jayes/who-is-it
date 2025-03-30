@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Praktikant",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "Siemens-Halske",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1939,
+            "end_year": 1940,
+            "organization": "BoHdens Gruv Aktiebolag",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Firma Georg Schönander",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Sveriges Standardiseringskommission",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Svenska Aeroplan Aktiebolaget",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl-Gustav",
+        "last_name": "Wachtmeister",
+        "middle_name": "Bleckert",
+        "gender": "Male",
+        "birth_date": "29-01-1915",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Fritz",
+                "last_name": "Wachtmeister",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kapten",
+                    "occupation_english": "captain",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Brita",
+                "last_name": "Barnekow",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Revisorssuppleant",
+            "organization": "Fastighetsföreningen Vikingen"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Linköping",
+        "latitude": 58.41080700000001,
+        "longitude": 15.6213727,
+        "formatted_address": "Linköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studieexamen",
+            "degree_level": "Schooling",
+            "year": "1934",
+            "institution": "Norra Real i Stockholm"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1940",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maud",
+            "last_name": "Graumann",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1940",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Madeleine",
+                "last_name": "Wachtmeister",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Ann",
+                "last_name": "Wachtmeister",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1944"
+            }
+        ]
+    },
+    "hobbies": [
+        "piano",
+        "kunskapsteori",
+        "skytte"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Statlig riksskyttesm"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrift av vingprofilens aerodynamik",
+            "year": "1944",
+            "type": "skrift",
+            "editions": null,
+            "publisher": null,
+            "reception": "i tävling belönad",
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Medelhavet",
+                "latitude": 34.5531284,
+                "longitude": 18.0480105,
+                "formatted_address": "Mediterranean Sea"
+            },
+            "country_code": "N/A",
+            "year": "1934-1935"
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": "1935-1936"
+        }
+    ]
+}

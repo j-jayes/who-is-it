@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "Forskningsingenjör",
+            "start_year": 1937,
+            "end_year": 1941,
+            "organization": "Bolidens gruvaktiebolag centrallab",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Offertering",
+            "start_year": 1941,
+            "organization": "Aktiebolaget Max Sievert",
+            "location": {
+                "name": "Ulvsunda",
+                "latitude": 59.33688530000001,
+                "longitude": 17.9638876,
+                "formatted_address": "Ulvsunda, Bromma, Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1988,
+            "organization": "spannmåls- och foderfirman Herman Fältström",
+            "location": {
+                "name": "Falkenberg",
+                "latitude": 56.90273329999999,
+                "longitude": 12.4888013,
+                "formatted_address": "Falkenberg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Fåhræus",
+        "middle_name": "Edvard",
+        "gender": "Male",
+        "birth_date": "11-04-1910",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "R",
+                "last_name": "Fåhræus",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Rektor och Läroverksråd",
+                    "occupation_english": "Principal and School Board Member",
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher",
+                    "hisco_code_english": "13990.0",
+                    "hisco_description_english": "Other Teachers"
+                }
+            },
+            {
+                "first_name": "Disa",
+                "last_name": "Forsell",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1931",
+            "institution": "None"
+        },
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1932",
+            "institution": "None"
+        },
+        {
+            "degree": "Civilingenjör (elteknik)",
+            "degree_level": "Master's",
+            "year": "1937",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Leila",
+            "last_name": "Rycén",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CSK",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": "1938"
+        }
+    ]
+}

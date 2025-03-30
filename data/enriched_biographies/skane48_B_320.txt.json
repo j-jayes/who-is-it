@@ -1,0 +1,234 @@
+{
+    "career": [
+        {
+            "position": "Amanuens och underläkare",
+            "start_year": 1913,
+            "end_year": 1920,
+            "organization": "Malmöhus läns sjukvårdsinrättning",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Förste underläkare",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "Hälsingborgs lasarett",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Amanuens",
+            "start_year": 1922,
+            "end_year": 1923,
+            "organization": "Öron-, näs- och halskliniken i Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1924,
+            "end_year": null,
+            "organization": "Mariestads lasarett",
+            "location": {
+                "name": "Mariestad",
+                "latitude": 58.7101119,
+                "longitude": 13.8213327,
+                "formatted_address": "Mariestad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Kirurgiska avdelningen II vid Sahlgrenska sjukhuset",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Hälsingborgs lasaretts kirurgiska avdelning",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Brattström",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "24-02-1885",
+        "birth_place": {
+            "name": "Mariestad",
+            "latitude": 58.7101119,
+            "longitude": 13.8213327,
+            "formatted_address": "Mariestad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lasarettsläkare",
+            "occupation_english": "Hospital Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Arvid",
+                "last_name": "Brattström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Landsfiskal",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "12110.0",
+                    "hisco_description_swedish": "Lawyer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "KV02kl",
+        "R:NO"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hälsingborg",
+        "latitude": 64.1386294,
+        "longitude": 19.5225599,
+        "formatted_address": "922 93 Hälsingborg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1904",
+            "institution": "Skara"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1915",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1925",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sigrid",
+            "last_name": "Hellströim",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1913",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Sten",
+                "last_name": "Brattström",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1916"
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Brattström",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1917"
+            },
+            {
+                "first_name": "Gudrun",
+                "last_name": "Brattström",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1919"
+            },
+            {
+                "first_name": "Håkan",
+                "last_name": "Brattström",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1923"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "inom kirurgi, obstetrik samt oto-rhino-laryngologi",
+            "year": "None",
+            "type": "skrift",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

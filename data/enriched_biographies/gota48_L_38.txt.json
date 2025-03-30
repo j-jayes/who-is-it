@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1906,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Norrköping",
+                "latitude": 58.587745,
+                "longitude": 16.192421,
+                "formatted_address": "Norrköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1903,
+            "end_year": 1903,
+            "organization": "Jönköpings lasarett",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1904,
+            "end_year": 1906,
+            "organization": "Norrköpings sjukhus",
+            "location": {
+                "name": "Norrköping",
+                "latitude": 58.587745,
+                "longitude": 16.192421,
+                "formatted_address": "Norrköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Järnvägsläkare",
+            "start_year": 1907,
+            "end_year": 1918,
+            "organization": null,
+            "location": {
+                "name": "Norrköping",
+                "latitude": 58.587745,
+                "longitude": 16.192421,
+                "formatted_address": "Norrköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tillförordnad stadsläkare",
+            "start_year": 1907,
+            "end_year": 1910,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tillförordnad andre stadsläkare",
+            "start_year": 1923,
+            "end_year": 1923,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ordinarie dito",
+            "start_year": 1923,
+            "end_year": 1931,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Konrad",
+        "last_name": "Landelios",
+        "middle_name": "Hjalmar",
+        "gender": "Male",
+        "birth_date": "27-02-1876",
+        "birth_place": {
+            "name": "Vreta Kloster, Östergötlands Län",
+            "latitude": 58.5454013,
+            "longitude": 15.6061794,
+            "formatted_address": "Vreta Kloster, Sweden"
+        },
+        "occupation": {
+            "occupation": "Praktiserande läkare",
+            "occupation_english": "Practicing doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Conrad",
+                "last_name": "Landelios",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bruksägare",
+                    "occupation_english": "Ironworks owner"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Ekbom",
+                "middle_name": "Karolina Fredrika",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "Okänd",
+                    "occupation_english": "Unknown",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "-1.0",
+                    "hisco_description_english": "Missing, no title"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Norrköping",
+        "latitude": 58.587745,
+        "longitude": 16.192421,
+        "formatted_address": "Norrköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Moghetsexamen",
+            "degree_level": "Schooling",
+            "year": "1894",
+            "institution": "Linköpings högre allmänna läroverk"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1898",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1903",
+            "institution": "Stockholms Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Stenberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1904",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Landelios",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1906"
+            },
+            {
+                "first_name": "Lisa",
+                "last_name": "Landelios",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1907"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Düsseldorf",
+                "latitude": 51.2230411,
+                "longitude": 6.7824545,
+                "formatted_address": "40 Düsseldorf, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1912"
+        }
+    ]
+}

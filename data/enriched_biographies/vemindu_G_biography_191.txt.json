@@ -1,0 +1,208 @@
+{
+    "career": [
+        {
+            "position": "Affärsanställd",
+            "start_year": 1905,
+            "end_year": 1907,
+            "organization": "Bendtz Handelsinstitut",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Affärsanställd",
+            "start_year": 1908,
+            "end_year": 1910,
+            "organization": null,
+            "location": {
+                "name": "Löddeköpinge",
+                "latitude": 55.7596705,
+                "longitude": 13.0073627,
+                "formatted_address": "Löddeköpinge, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kassör",
+            "start_year": 1911,
+            "end_year": 1918,
+            "organization": "Aktiebolaget A Paulssons Maskinaffär",
+            "location": {
+                "name": "Eslöv",
+                "latitude": 55.8391198,
+                "longitude": 13.3033914,
+                "formatted_address": "Eslöv, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1918,
+            "end_year": 1932,
+            "organization": "Aktiebolaget A Paulssons Maskinaffär",
+            "location": {
+                "name": "Eslöv",
+                "latitude": 55.8391198,
+                "longitude": 13.3033914,
+                "formatted_address": "Eslöv, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent och delägare",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Aktiebolaget Melichar-Maskiner",
+            "location": {
+                "name": "Eslöv",
+                "latitude": 55.8391198,
+                "longitude": 13.3033914,
+                "formatted_address": "Eslöv, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ensam innehavare",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Aktiebolaget Melichar-Maskiner",
+            "location": {
+                "name": "Eslöv",
+                "latitude": 55.8391198,
+                "longitude": 13.3033914,
+                "formatted_address": "Eslöv, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Gökansson",
+        "middle_name": "Gerhard",
+        "gender": "Male",
+        "birth_date": "21-04-1888",
+        "birth_place": {
+            "name": "Lund",
+            "latitude": 55.7046601,
+            "longitude": 13.1910073,
+            "formatted_address": "Lund, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "N",
+                "last_name": "Göransson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Helena",
+                "last_name": "Palm",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Eslöv",
+        "latitude": 55.8391198,
+        "longitude": 13.3033914,
+        "formatted_address": "Eslöv, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Olga",
+            "last_name": "Ellborg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Arbetet",
+        "lantbruk"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CSK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": null
+        }
+    ]
+}

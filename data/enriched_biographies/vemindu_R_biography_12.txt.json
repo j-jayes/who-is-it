@@ -1,0 +1,135 @@
+{
+    "career": [
+        {
+            "position": "Ägare",
+            "start_year": 1929,
+            "organization": "Åke Ramen Aktiebolag (AB)",
+            "location": {
+                "name": "Nyköping",
+                "latitude": 58.75284389999999,
+                "longitude": 17.0091593,
+                "formatted_address": "Nyköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ägare",
+            "start_year": 1933,
+            "organization": "Ramens Bilservice Aktiebolag (AB)",
+            "location": {
+                "name": "Nyköping",
+                "latitude": 58.75284389999999,
+                "longitude": 17.0091593,
+                "formatted_address": "Nyköping, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Åke",
+        "last_name": "Ramen",
+        "middle_name": "Gunnar",
+        "gender": "Male",
+        "birth_date": "06-03-1902",
+        "birth_place": {
+            "name": "Hälsingborg",
+            "latitude": 64.1386294,
+            "longitude": 19.5225599,
+            "formatted_address": "922 93 Hälsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Ramen",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Övering",
+                    "occupation_english": "Chief Engineer",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer"
+                }
+            },
+            {
+                "first_name": "h",
+                "last_name": "Jansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            },
+            {
+                "first_name": "Ebba",
+                "last_name": "Josephson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "östra Sveriges Automobilhandlareförening"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Nyköping",
+        "latitude": 58.75284389999999,
+        "longitude": 17.0091593,
+        "formatted_address": "Nyköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1921",
+            "institution": "Schartaus Handelsinstitut"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "Segling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1924"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1925"
+        }
+    ]
+}

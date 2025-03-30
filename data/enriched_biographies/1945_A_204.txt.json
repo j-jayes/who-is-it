@@ -1,0 +1,194 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1920,
+            "organization": "Lunds universitet"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1920,
+            "organization": "Lunds universitet"
+        },
+        {
+            "position": "biträdande lärare",
+            "start_year": 1920,
+            "organization": "Lunds universitet"
+        },
+        {
+            "position": "lärare",
+            "start_year": 1920,
+            "organization": "sjuksköterskeskolan",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            }
+        },
+        {
+            "position": "lärare",
+            "start_year": 1920,
+            "organization": "gymnastiska institutet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            }
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1928,
+            "end_year": 1929,
+            "organization": "Helsingborgs lasarett",
+            "location": {
+                "name": "Helsingborg",
+                "latitude": 56.0464674,
+                "longitude": 12.6945121,
+                "formatted_address": "Helsingborg, Sweden"
+            }
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1929,
+            "end_year": 1932,
+            "organization": "Norrtälje lasarett",
+            "location": {
+                "name": "Norrtälje",
+                "latitude": 59.7595841,
+                "longitude": 18.7013584,
+                "formatted_address": "Norrtälje, Sweden"
+            }
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1932,
+            "organization": "Uddevalla lasarett, kirurgiska avdelningen",
+            "location": {
+                "name": "Uddevalla",
+                "latitude": 58.3498003,
+                "longitude": 11.935649,
+                "formatted_address": "Uddevalla, Sweden"
+            }
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Andersson",
+        "middle_name": "Louis",
+        "gender": "Male",
+        "birth_date": "08-05-1891",
+        "birth_place": {
+            "name": "Görslöv, Malmöhus Län",
+            "latitude": 55.6294558,
+            "longitude": 13.1451947,
+            "formatted_address": "245 93 Görslöv, Sweden"
+        },
+        "occupation": {
+            "occupation": "överläkare",
+            "occupation_english": "chief physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "And.",
+                "last_name": "Jönsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "snickare",
+                    "occupation_english": "carpenter",
+                    "hisco_code_swedish": "95410.0",
+                    "hisco_description_swedish": "Carpenter, General",
+                    "hisco_code_english": "95410.0",
+                    "hisco_description_english": "Carpenter, General"
+                }
+            },
+            {
+                "first_name": "Karna",
+                "last_name": "Larsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1910",
+            "institution": "Lunds universitet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1920",
+            "institution": "Lunds universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Siri",
+            "last_name": "Rydstam",
+            "gender": "Female",
+            "birth_date": "01-01-1892",
+            "parents": [
+                {
+                    "first_name": "P.",
+                    "last_name": "Pehrsson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "statsinspektör",
+                        "occupation_english": "state inspector",
+                        "hisco_code_swedish": "31000.0",
+                        "hisco_description_swedish": "Government Executive Official, Specialisation Unknown",
+                        "hisco_code_english": "31090.0",
+                        "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                    }
+                },
+                {
+                    "first_name": "Johanna",
+                    "last_name": "Olsson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1921"
+    },
+    "political_positions": [
+        {
+            "organization": "Landstinget",
+            "position": "landstingsman",
+            "start_year": 1939
+        }
+    ],
+    "publications": [
+        {
+            "title": "ett antal uppsatser med kirurgiskt innehåll",
+            "year": "None",
+            "type": "uppsats"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "career": [
+        {
+            "position": "Kemist och metallograf",
+            "start_year": 1911,
+            "end_year": 1912,
+            "organization": "Surahammars Bruks Aktiebolag",
+            "location": {
+                "name": "Surahammar",
+                "latitude": 59.70722619999999,
+                "longitude": 16.2268409,
+                "formatted_address": "Surahammar, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Valsverksingenjör",
+            "start_year": 1913,
+            "end_year": 1915,
+            "organization": "Surahammars Bruks Aktiebolag",
+            "location": {
+                "name": "Surahammar",
+                "latitude": 59.70722619999999,
+                "longitude": 16.2268409,
+                "formatted_address": "Surahammar, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Valsverksingenjör",
+            "start_year": 1916,
+            "end_year": 1927,
+            "organization": "Hofors Bruk",
+            "location": {
+                "name": "Hofors",
+                "latitude": 60.54595,
+                "longitude": 16.2841,
+                "formatted_address": "Hofors, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kontrolling",
+            "start_year": 1928,
+            "end_year": null,
+            "organization": "Hofors Bruk",
+            "location": {
+                "name": "Hofors",
+                "latitude": 60.54595,
+                "longitude": 16.2841,
+                "formatted_address": "Hofors, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Chef för kontrollavdelningen",
+            "start_year": 1928,
+            "end_year": null,
+            "organization": "Hofors Bruk",
+            "location": {
+                "name": "Hofors",
+                "latitude": 60.54595,
+                "longitude": 16.2841,
+                "formatted_address": "Hofors, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Strandén",
+        "middle_name": "Lennart",
+        "gender": "Male",
+        "birth_date": "07-12-1885",
+        "birth_place": {
+            "name": "Norrtälje",
+            "latitude": 59.7595841,
+            "longitude": 18.7013584,
+            "formatted_address": "Norrtälje, Sweden"
+        },
+        "occupation": {
+            "occupation": "Bergsingenjör",
+            "occupation_english": "Mining Engineer",
+            "hisco_code_swedish": "2710.0",
+            "hisco_description_swedish": "Mining Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "O",
+                "last_name": "Strandén",
+                "middle_name": "W",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kyrkoherde",
+                    "occupation_english": "Vicar",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Kjellerstedt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hofors",
+        "latitude": 60.54595,
+        "longitude": 16.2841,
+        "formatted_address": "Hofors, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Mogenhetsexamen",
+            "degree_level": "Schooling",
+            "year": "1905",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Ordinare elev",
+            "degree_level": "Schooling",
+            "year": "1906",
+            "institution": "Kungliga Tekniska Högskolan"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1910",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Nyberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1921"
+        }
+    ]
+}

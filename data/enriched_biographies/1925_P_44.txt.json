@@ -1,0 +1,118 @@
+{
+    "career": [
+        {
+            "position": "bruksägare",
+            "start_year": 1863
+        }
+    ],
+    "person": {
+        "first_name": "Torsten",
+        "last_name": "Petre",
+        "middle_name": "Toresson",
+        "gender": "Male",
+        "birth_date": "17-01-1863",
+        "birth_place": {
+            "name": "Hammarby, Gävleborgs Län",
+            "latitude": 60.545951,
+            "longitude": 16.5699828,
+            "formatted_address": "812 41 Hammarby, Sweden"
+        },
+        "occupation": {
+            "occupation": "bruksägare, tonsättare",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Hjälm",
+                "last_name": "Petre",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bruksägare",
+                    "occupation_english": null
+                }
+            }
+        ]
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Jeanne",
+            "last_name": "Franchise Fonzes-Lafoux",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1891",
+        "divorce_year": "1898",
+        "children": null
+    },
+    "publications": [
+        {
+            "title": "Flingor o. flisor",
+            "year": "1913",
+            "type": "diktsaml.",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Provence",
+                "latitude": 44.0144936,
+                "longitude": 6.2116438,
+                "formatted_address": "Provence, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "U.S.A.",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Indien",
+                "latitude": 20.593684,
+                "longitude": 78.96288,
+                "formatted_address": "India"
+            },
+            "country_code": "IND",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Australien",
+                "latitude": -25.274398,
+                "longitude": 133.775136,
+                "formatted_address": "Australia"
+            },
+            "country_code": "AUS",
+            "year": null
+        }
+    ]
+}

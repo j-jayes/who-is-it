@@ -1,0 +1,159 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1918,
+            "organization": "El:mekano",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "El prövn:- anst",
+            "start_year": 1920,
+            "organization": "Göteborg",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1921,
+            "organization": "AEG Berlin",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1922,
+            "organization": "Siemens-Schuckert-Werke Siemensstadt",
+            "location": {
+                "name": "Siemensstadt",
+                "latitude": 52.5367916,
+                "longitude": 13.2648441,
+                "formatted_address": "Siemensstadt, 13 Berlin-Spandau, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1924,
+            "organization": "Sundh El Co Newada N J",
+            "location": {
+                "name": "Newada N J",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "bibliotekarie",
+            "start_year": 1932,
+            "end_year": 1961,
+            "organization": "Asea Ludvika",
+            "location": {
+                "name": "Ludvika",
+                "latitude": 60.152358,
+                "longitude": 15.191639,
+                "formatted_address": "Ludvika, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Algot",
+        "last_name": "Olsson",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "06-02-1896",
+        "birth_place": {
+            "name": "Bjuv, Malmöhus Län",
+            "latitude": 56.0871019,
+            "longitude": 12.9125047,
+            "formatted_address": "Bjuv, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "byggmästare",
+                    "occupation_english": "builder",
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor",
+                    "hisco_code_english": "95910.0",
+                    "hisco_description_english": "Housebuilder, General"
+                }
+            },
+            {
+                "first_name": "Matilda",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "John Ericsson Medalj (CTH 1917)"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ludvika",
+        "latitude": 60.152358,
+        "longitude": 15.191639,
+        "formatted_address": "Ludvika, Sweden"
+    },
+    "education": [
+        {
+            "degree": "civilingenjör",
+            "degree_level": "Master's",
+            "year": "1917",
+            "institution": "Chalmers Tekniska Högskola"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "foto",
+        "resor",
+        "gammal musik",
+        "franska språket"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": [
+        "franska"
+    ],
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Teknisk litteratur i ett industribibliotek",
+            "year": "1944",
+            "type": "litteratur",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

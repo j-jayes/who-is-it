@@ -1,0 +1,73 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Rose-Marie",
+        "last_name": "Mengarelli",
+        "middle_name": null,
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Augusto",
+            "last_name": "Mengarelli",
+            "middle_name": null,
+            "gender": "Male",
+            "parents": [
+                {
+                    "first_name": "Emma",
+                    "last_name": "Mykäänen",
+                    "middle_name": null,
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1951"
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "country": {
+                "name": "Edinburgh",
+                "latitude": 55.953252,
+                "longitude": -3.188267,
+                "formatted_address": "Edinburgh, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Wiesbaden",
+                "latitude": 50.0782184,
+                "longitude": 8.239760799999999,
+                "formatted_address": "Wiesbaden, Germany"
+            },
+            "country_code": "DEU"
+        }
+    ]
+}

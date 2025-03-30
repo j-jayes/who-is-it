@@ -1,0 +1,132 @@
+{
+    "career": [
+        {
+            "position": "Överläkare",
+            "start_year": 1956,
+            "organization": "klin-fysiolog lab thoraxklin Karolinska sjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Specialkardiolog",
+            "start_year": 1964,
+            "organization": "Kliniska Karolinska sjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Jonsson",
+        "middle_name": "J",
+        "gender": "Male",
+        "birth_date": "25-02-1916",
+        "birth_place": {
+            "name": "Östersund",
+            "latitude": 63.1766832,
+            "longitude": 14.6360681,
+            "formatted_address": "Östersund, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överläkare",
+            "occupation_english": "Senior Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Jakob",
+                "last_name": "Jonsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byggmästare",
+                    "occupation_english": "Building Contractor",
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor",
+                    "hisco_code_english": "21240.0",
+                    "hisco_description_english": "Contractor"
+                }
+            },
+            {
+                "first_name": "Brita",
+                "last_name": "Olausson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Medicine licentiat",
+            "position_english": "Medical licentiate",
+            "institution": "Stockholm",
+            "start_year": 1943,
+            "field": "Medicine"
+        },
+        {
+            "position": "Medicine doktor",
+            "position_english": "Medical Doctor",
+            "institution": "Stockholm",
+            "start_year": 1956,
+            "field": "Medicine"
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "start_year": 1956,
+            "field": "Pediatrik"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Linnéa",
+            "last_name": "Styrelius",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Avdelningsdirektör",
+                "occupation_english": "Department Director",
+                "hisco_code_swedish": "22110.0",
+                "hisco_description_swedish": "Clerical Supervisor, General",
+                "hisco_code_english": "21000.0",
+                "hisco_description_english": "Manager, Specialisation Unknown"
+            },
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "Styrelius",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Missionär",
+                        "occupation_english": "Missionary",
+                        "hisco_code_swedish": "14130.0",
+                        "hisco_description_swedish": "Missionary",
+                        "hisco_code_english": "14120.0",
+                        "hisco_description_english": "Minister of Religion"
+                    }
+                },
+                {
+                    "first_name": "Olga",
+                    "last_name": "Ahlman",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1942"
+    }
+}

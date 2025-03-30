@@ -1,0 +1,191 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Aktiebolaget Sveaseparator",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1905,
+            "end_year": 1908,
+            "organization": "Société Anonyme Astra i Paris",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "Chef för exportavdelningen",
+            "start_year": 1908,
+            "end_year": 1911,
+            "organization": "Bergedorfer Eisenwerk i Hamburg",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1917,
+            "end_year": 1922,
+            "organization": "Aktiebolaget Affärsbanken",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Osborn",
+        "last_name": "Kling",
+        "middle_name": "Torgny Fredrik",
+        "gender": "Male",
+        "birth_date": "13-01-1874",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Bankdirektör",
+            "occupation_english": "Bank Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "44140.0",
+            "hisco_description_english": "Stock Broker"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Kling",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Julia",
+                "last_name": "Zachrisson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "Ingen information",
+                    "occupation_english": "No information",
+                    "hisco_code_swedish": "13960.0",
+                    "hisco_description_swedish": "Governess"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolaget Herbert Dieden & Co"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Klinggården i Dalarna",
+        "latitude": 61.33649999999999,
+        "longitude": 14.16401,
+        "formatted_address": "796 99 Dalarna, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "Okänt",
+            "institution": "Latinläroverket i Göteborg"
+        },
+        {
+            "degree": "Handelsutbildning",
+            "degree_level": "Schooling",
+            "year": "1890",
+            "institution": "Göteborgs Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elisabeth",
+            "last_name": "Dieden",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1915",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Konst"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Gustav Vasas Jubileumsmedalj",
+        "Riddare av Nordstjärneorden 1922"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

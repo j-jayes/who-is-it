@@ -1,0 +1,179 @@
+{
+    "career": [
+        {
+            "position": "anställd apotekare",
+            "start_year": 1935,
+            "end_year": 1937,
+            "organization": "Apoteket Ödlan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd apotekare",
+            "start_year": 1939,
+            "end_year": 1939,
+            "organization": "Apoteket Kronan",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "föreståndare sjukhusapotekare",
+            "start_year": 1941,
+            "end_year": 1955,
+            "organization": "Akademiska sjukhuset",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "innehavare apotekare",
+            "start_year": 1957,
+            "end_year": null,
+            "organization": "Apoteket Kronan",
+            "location": {
+                "name": "Hemse",
+                "latitude": 57.23730819999999,
+                "longitude": 18.3767003,
+                "formatted_address": "623 50 Hemse, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "C OLOF",
+        "last_name": "LIND",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "01-09-1910",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "apotekare",
+            "occupation_english": "pharmacist",
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist",
+            "hisco_code_english": "41030.0",
+            "hisco_description_english": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Hjalmar",
+                "last_name": "Lind",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "apotekare",
+                    "occupation_english": "pharmacist",
+                    "hisco_code_swedish": "6710.0",
+                    "hisco_description_swedish": "Pharmacist",
+                    "hisco_code_english": "41030.0",
+                    "hisco_description_english": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Lundin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hemse",
+        "latitude": 57.23730819999999,
+        "longitude": 18.3767003,
+        "formatted_address": "623 50 Hemse, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1931",
+            "institution": "Örebro"
+        },
+        {
+            "degree": "Apotekarexamen",
+            "degree_level": "Bachelor's",
+            "year": "1939",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Karell",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Hans",
+                "last_name": "Lind",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1937"
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Lind",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1938"
+            },
+            {
+                "first_name": "Håkan",
+                "last_name": "Lind",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Marianne",
+                "last_name": "Lind",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1946"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

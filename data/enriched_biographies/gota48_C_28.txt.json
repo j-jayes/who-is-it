@@ -1,0 +1,158 @@
+{
+    "career": [
+        {
+            "position": "Assistent hos tandläkare Leif Ericsson",
+            "start_year": 1941,
+            "organization": "Leif Ericsson",
+            "location": {
+                "name": "Sundbyberg",
+                "latitude": 59.369325,
+                "longitude": 17.9609133,
+                "formatted_address": "Sundbyberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen praktik",
+            "start_year": 1943,
+            "organization": null,
+            "location": {
+                "name": "Ulricehamn",
+                "latitude": 57.7947889,
+                "longitude": 13.4205162,
+                "formatted_address": "Ulricehamn, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ivar",
+        "last_name": "Carlborg",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "07-11-1916",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Tandläkare",
+            "occupation_english": "Dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Oscar",
+                "last_name": "Carlborg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Järnvägskontrollör",
+                    "occupation_english": "Railway controller",
+                    "hisco_code_swedish": "22240.0",
+                    "hisco_description_swedish": "Railway Transport Service Inspector",
+                    "hisco_code_english": "31000.0",
+                    "hisco_description_english": "Government Executive Official, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Sophie",
+                "last_name": "Bogeman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ulricehamn",
+        "latitude": 57.7947889,
+        "longitude": 13.4205162,
+        "formatted_address": "Ulricehamn, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1936",
+            "institution": "Lidingö"
+        },
+        {
+            "degree": "Tandläkarexamen",
+            "degree_level": "Master's",
+            "year": "1941",
+            "institution": "Tandläkarhögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Marianne",
+            "last_name": "Hörling",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1941",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Göran",
+                "last_name": "Carlborg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Carlborg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1946"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1937"
+        }
+    ]
+}

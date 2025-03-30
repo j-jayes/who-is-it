@@ -1,0 +1,184 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1917,
+            "end_year": 1918,
+            "organization": "A-B Carl Engström",
+            "location": {
+                "name": "Simrishamn",
+                "latitude": 55.5573959,
+                "longitude": 14.3489651,
+                "formatted_address": "Simrishamn, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1919,
+            "end_year": 1921,
+            "organization": "A-B N. Andersson",
+            "location": {
+                "name": "Löderup",
+                "latitude": 55.4385651,
+                "longitude": 14.112779,
+                "formatted_address": "271 76 Löderup, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1923,
+            "end_year": 1923,
+            "organization": "Franz Schinkel",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1926,
+            "end_year": 1927,
+            "organization": "Svenska Bindgarnsfabriken",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1929,
+            "organization": "Rör & Sanitets A-B",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1929,
+            "organization": "Rör & Sanitets A-B",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Olsson",
+        "middle_name": "Albin",
+        "gender": "Male",
+        "birth_date": "04-05-1898",
+        "birth_place": {
+            "name": "Hammenhög, Kristianstads Län",
+            "latitude": 55.50260309999999,
+            "longitude": 14.1512715,
+            "formatted_address": "276 50 Hammenhög, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Olsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Charlotta",
+                "last_name": "Jönsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Handelsgymnasium",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Handelsgymnasium"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Larsson",
+            "gender": "Female"
+        },
+        "marriage_year": "1939",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Pål",
+                "last_name": "Olsson",
+                "gender": "Male",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Håkan",
+                "last_name": "Olsson",
+                "gender": "Male",
+                "birth_year": "1946"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1921-1923"
+        }
+    ]
+}

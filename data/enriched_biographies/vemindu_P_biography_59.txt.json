@@ -1,0 +1,180 @@
+{
+    "career": [
+        {
+            "position": "Verkställande praktik",
+            "start_year": 1910,
+            "end_year": 1921,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1924,
+            "end_year": 1929,
+            "organization": "Örlogsvarvet i Karlskrona",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1929,
+            "end_year": 1934,
+            "organization": "Eriksbergs Mekaniska Verkstad",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1934,
+            "end_year": 1937,
+            "organization": "Jönköpings Mekaniska Verkstad",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkstadsingenjör för plåtslageri- och svetsningsverkstäderna",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Fagersta Bruks AB",
+            "location": {
+                "name": "Fagersta",
+                "latitude": 59.989144,
+                "longitude": 15.8166418,
+                "formatted_address": "Fagersta, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Oscar",
+        "last_name": "Persson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "07-10-1896",
+        "birth_place": {
+            "name": "Lund",
+            "latitude": 55.7046601,
+            "longitude": 13.1910073,
+            "formatted_address": "Lund, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "N",
+                "last_name": "Persson",
+                "middle_name": "P",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Stationsmästare",
+                    "occupation_english": "Station Master",
+                    "hisco_code_english": "22210.0",
+                    "hisco_description_english": "Railway Station Master"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Jönsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Fagersta",
+        "latitude": 59.989144,
+        "longitude": 15.8166418,
+        "formatted_address": "Fagersta, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Examen tekniska gymnasiet",
+            "degree_level": "Schooling",
+            "year": "1924",
+            "institution": "Örebro"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inez",
+            "last_name": "Hansson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "Västanfors arbetslöshetskommitté",
+            "position": "Ledamot",
+            "start_year": 1937,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1939"
+        }
+    ]
+}

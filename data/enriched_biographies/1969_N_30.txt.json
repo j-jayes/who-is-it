@@ -1,0 +1,158 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1937,
+            "organization": "ABA Paris",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "representant",
+            "start_year": 1941,
+            "end_year": 1946,
+            "organization": "ABA-SILA USA",
+            "location": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "verkställande direktör och styrelseledamot",
+            "start_year": 1946,
+            "organization": "SAS Inc New York",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Tore",
+        "last_name": "Nilert",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "09-02-1915",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "verkställande direktör",
+            "occupation_english": "CEO",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Henrik",
+                "last_name": "Nilert",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "hovtandläkare",
+                    "occupation_english": "court dentist",
+                    "hisco_code_swedish": "6310.0",
+                    "hisco_description_swedish": "Dentist, General",
+                    "hisco_code_english": "6310.0",
+                    "hisco_description_english": "Dentist, General"
+                }
+            },
+            {
+                "first_name": "Signe",
+                "last_name": "Sylvén",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "tandläkare",
+                    "occupation_english": "dentist",
+                    "hisco_code_swedish": "6310.0",
+                    "hisco_description_swedish": "Dentist, General",
+                    "hisco_code_english": "6310.0",
+                    "hisco_description_english": "Dentist, General"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "New York",
+        "latitude": 40.7127753,
+        "longitude": -74.0059728,
+        "formatted_address": "New York, NY, USA"
+    },
+    "education": [
+        {
+            "degree": "DHG",
+            "degree_level": "Bachelor's",
+            "year": "1939",
+            "institution": "DHG"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Catharina",
+            "last_name": "Bernadotte af Wisborg",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Bernadotte af Wisborg",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "greve",
+                        "occupation_english": "count",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "-1.0",
+                        "hisco_description_english": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Marianne",
+                    "last_name": "de Geer",
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "friherrinna",
+                        "occupation_english": "baroness",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "61110.0",
+                        "hisco_description_english": "General Farmer"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1948",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

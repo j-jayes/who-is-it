@@ -1,0 +1,201 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1955,
+            "end_year": 1955,
+            "organization": "Karolinska sjukhuset Sabbatsbergs sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kirurgisk avdelning underläkare",
+            "start_year": 1956,
+            "end_year": 1956,
+            "organization": "S:t Görans sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": "Karolinska sjukhuset Sabbatsbergs sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Holmblad",
+        "middle_name": "L A",
+        "gender": "Male",
+        "birth_date": "03-04-1925",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "legitimerad läkare",
+            "occupation_english": "licensed physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "David",
+                "last_name": "Holmblad",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Dagny",
+                "last_name": "Holmquist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "sjuksköterska",
+                    "occupation_english": "Nurse",
+                    "hisco_code_swedish": "7110.0",
+                    "hisco_description_swedish": "Professional Nurse, General",
+                    "hisco_code_english": "7110.0",
+                    "hisco_description_english": "Professional Nurse, General"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1946",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1950",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1955",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Henricsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "farmacie kandidat",
+                "occupation_english": "Bachelor of Pharmacy",
+                "hisco_code_swedish": "6710.0",
+                "hisco_description_swedish": "Pharmacist",
+                "hisco_code_english": "41030.0",
+                "hisco_description_english": "Working Proprietor (Retail Trade)"
+            },
+            "parents": [
+                {
+                    "first_name": "Erik",
+                    "last_name": "Henricsson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "veterinärmedicine doktor",
+                        "occupation_english": "Doctor of Veterinary Medicine",
+                        "hisco_code_swedish": "6510.0",
+                        "hisco_description_swedish": "Veterinarian, General",
+                        "hisco_code_english": "6510.0",
+                        "hisco_description_english": "Veterinarian, General"
+                    }
+                },
+                {
+                    "first_name": "Inga",
+                    "last_name": "Johansson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "Okänd",
+                        "occupation_english": "Unknown",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "-1.0",
+                        "hisco_description_english": "Missing, no title"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1952",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Per",
+                "last_name": "Holmblad",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1958"
+            },
+            {
+                "first_name": "Lena",
+                "last_name": "Holmblad",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1960"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

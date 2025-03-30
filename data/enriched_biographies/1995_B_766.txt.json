@@ -1,0 +1,112 @@
+{
+    "career": [
+        {
+            "position": "Tjänstgörande",
+            "start_year": 1969,
+            "end_year": 1979,
+            "organization": "Göteborgs Universitet",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tjänstgörande",
+            "start_year": 1979,
+            "end_year": 1980,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i företagsekonomi",
+            "start_year": 1986,
+            "end_year": null,
+            "organization": "Handelshögskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Brunsson",
+        "middle_name": "G M",
+        "gender": "Male",
+        "birth_date": "26-12-1946",
+        "birth_place": {
+            "name": "Umeå",
+            "latitude": 63.8258471,
+            "longitude": 20.2630354,
+            "formatted_address": "Umeå, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Jan",
+                "last_name": "Brunsson",
+                "middle_name": "B",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överstelöjtnant",
+                    "occupation_english": "Lieutenant Colonel",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Nyqvist",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "institution": "Göteborgs Universitet",
+            "start_year": 1979,
+            "end_year": null,
+            "field": "Ekonomi"
+        }
+    ],
+    "publications": [
+        {
+            "title": "The irrational organization",
+            "year": "1985",
+            "type": "bok"
+        },
+        {
+            "title": "The organization of hypocrisy",
+            "year": "1989",
+            "type": "bok"
+        },
+        {
+            "title": "The reforming organization",
+            "year": "1993",
+            "type": "bok"
+        }
+    ],
+    "travels": null
+}

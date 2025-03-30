@@ -1,0 +1,119 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Sigfrid",
+        "last_name": "Ullman",
+        "middle_name": "Benjamin",
+        "gender": "Male",
+        "birth_date": "03-02-1886",
+        "birth_place": {
+            "name": "Varberg",
+            "latitude": 57.107118,
+            "longitude": 12.2520907,
+            "formatted_address": "Varberg, Sweden"
+        },
+        "occupation": {
+            "occupation": "ikonstinär",
+            "occupation_english": null,
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Magnus",
+                "last_name": "Ullman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "prost",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Clara",
+                "last_name": "Trahn",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1902-1905",
+            "institution": "Tekniska skolan i Stockholm"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1905-1908",
+            "institution": "Konstnärsförbundets skola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Nanna",
+            "last_name": "Johansen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "skulptris",
+                "occupation_english": null,
+                "hisco_code_swedish": "16120.0",
+                "hisco_description_swedish": "Sculptor"
+            },
+            "parents": null
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1919-1924"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1924-1928"
+        }
+    ]
+}

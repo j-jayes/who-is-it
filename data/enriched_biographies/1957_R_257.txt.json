@@ -1,0 +1,203 @@
+{
+    "career": [
+        {
+            "position": "Fänrik",
+            "start_year": 1918,
+            "organization": "Fortifikationen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Major",
+            "start_year": 1940,
+            "organization": "Signaltrupp",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överstelöjtnant",
+            "start_year": 1943,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överste",
+            "start_year": 1949,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1941,
+            "end_year": 1945,
+            "organization": "Militärbyrån i telegrafstyrelsen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1945,
+            "end_year": 1953,
+            "organization": "Arméns signalskola",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Konsult",
+            "start_year": 1953,
+            "organization": "Civilförsvaret",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Runmark",
+        "middle_name": "Uno Helmer",
+        "gender": "Male",
+        "birth_date": "08-09-1896",
+        "birth_place": {
+            "name": "Sigtuna",
+            "latitude": 59.6191463,
+            "longitude": 17.7234191,
+            "formatted_address": "Sigtuna, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överste",
+            "occupation_english": "Colonel",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "58320.0",
+            "hisco_description_english": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Albert",
+                "last_name": "Runmark",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Helfrid",
+                "last_name": "Hallerström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1915",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eivor",
+            "last_name": "Sundberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "David",
+                    "last_name": "Sundberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Häradsskrivare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "31030.0",
+                        "hisco_description_swedish": "Tax Assessor"
+                    }
+                },
+                {
+                    "first_name": "Gertrud",
+                    "last_name": "Pettersson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1923",
+        "divorce_year": "1927"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1951"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1949"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1953"
+        }
+    ]
+}

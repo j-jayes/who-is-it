@@ -1,0 +1,131 @@
+{
+    "career": [
+        {
+            "position": "litteraturkritiker",
+            "start_year": 1951,
+            "end_year": 1956,
+            "organization": "SDS",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "litteraturkritiker",
+            "start_year": 1955,
+            "organization": "BLM",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "litteraturkritiker",
+            "start_year": 1957,
+            "organization": "DN",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1958,
+            "organization": "Albert Bonniers förlag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "biträdande redaktör",
+            "start_year": 1959,
+            "organization": "BLM",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "huvudredaktör",
+            "start_year": 1962,
+            "organization": "BLM",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "litteraturrådgivare",
+            "start_year": 1962,
+            "organization": "Bokförlaget Aldus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "O",
+        "last_name": "Hjorth",
+        "middle_name": "P Daniel G:son",
+        "gender": "Male",
+        "birth_date": "18-07-1931",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "filosofie licentiat",
+            "occupation_english": "Philosophiae Licentiate",
+            "hisco_code_swedish": "-1.0",
+            "hisco_description_swedish": "Missing, no title"
+        },
+        "parents": [
+            {
+                "first_name": "Gustav",
+                "last_name": "Hjorth",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "disponent",
+                    "occupation_english": "manager",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Anna-Lisa",
+                "last_name": "Ahlström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    }
+}

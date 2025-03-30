@@ -1,0 +1,181 @@
+{
+    "career": [
+        {
+            "position": "tjänsteman",
+            "start_year": 1899,
+            "organization": "Brandförsäkrings Aktiebolag Fenix",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "kamrer",
+            "start_year": 1908,
+            "organization": "Brandförsäkrings Aktiebolag Fenix",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "vice verkställande direktör",
+            "start_year": 1927,
+            "end_year": 1943,
+            "organization": "Brandförsäkrings Aktiebolag Fenix",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Lagerlöf",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "05-04-1878",
+        "birth_place": {
+            "name": "Tåby, Östergötlands Län",
+            "latitude": 58.52095199999999,
+            "longitude": 16.366926,
+            "formatted_address": "Tåby, 614 92 Ljunga, Sweden"
+        },
+        "occupation": {
+            "occupation": "försäkringsdirektör",
+            "occupation_english": "insurance director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "G.",
+                "last_name": "Lagerlöf",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "tullförvaltare, vice häradshövding",
+                    "occupation_english": "customs manager, vice judge",
+                    "hisco_code_swedish": "31040.0",
+                    "hisco_description_swedish": "Customs officer"
+                }
+            },
+            {
+                "first_name": "Clara",
+                "last_name": "de Broen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ninni",
+            "last_name": "Rubenson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1903",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ulla",
+                "last_name": "Lagerlöf",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1905"
+            },
+            {
+                "first_name": "Eva",
+                "last_name": "Lagerlöf",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1909"
+            },
+            {
+                "first_name": "Erland",
+                "last_name": "Gustaf",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1912"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "RVO",
+        "GMbg"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Zürich",
+                "latitude": 47.3768866,
+                "longitude": 8.541694,
+                "formatted_address": "Zürich, Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1902"
+        },
+        {
+            "country": {
+                "name": "Strassburg",
+                "latitude": 48.5734053,
+                "longitude": 7.752111299999999,
+                "formatted_address": "Strasbourg, France"
+            },
+            "country_code": "FRA",
+            "year": "1902"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1906"
+        }
+    ]
+}

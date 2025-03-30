@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "Attaché",
+            "start_year": 1938,
+            "end_year": 1939,
+            "organization": "Utrikesdepartementet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Attaché",
+            "start_year": 1939,
+            "end_year": 1940,
+            "location": {
+                "name": "Helsingfors",
+                "latitude": 60.16985569999999,
+                "longitude": 24.938379,
+                "formatted_address": "Helsinki, Finland"
+            },
+            "country_code": "FIN"
+        },
+        {
+            "position": "Attaché",
+            "start_year": 1940,
+            "end_year": 1942,
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "Attaché",
+            "start_year": 1942,
+            "end_year": 1943,
+            "location": {
+                "name": "Washington",
+                "latitude": 38.9071923,
+                "longitude": -77.0368707,
+                "formatted_address": "Washington, DC, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Vicekonsul",
+            "start_year": 1943,
+            "end_year": 1944,
+            "location": {
+                "name": "Minneapolis",
+                "latitude": 44.977753,
+                "longitude": -93.2650108,
+                "formatted_address": "Minneapolis, MN, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1944,
+            "end_year": 1948,
+            "organization": "Utrikesdepartementet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Förste Beskickningssekreterare",
+            "start_year": 1948,
+            "end_year": 1953,
+            "location": {
+                "name": "Pretoria",
+                "latitude": -25.7565723,
+                "longitude": 28.1913815,
+                "formatted_address": "Pretoria, South Africa"
+            },
+            "country_code": "ZAF"
+        },
+        {
+            "position": "Förste Beskickningssekreterare",
+            "start_year": 1953,
+            "end_year": 1954,
+            "location": {
+                "name": "New Delhi",
+                "latitude": 28.6139298,
+                "longitude": 77.2088282,
+                "formatted_address": "New Delhi, Delhi, India"
+            },
+            "country_code": "IND"
+        },
+        {
+            "position": "Förste Sekreterare",
+            "start_year": 1954,
+            "end_year": 1958,
+            "organization": "Utrikesdepartementet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konsul",
+            "start_year": 1958,
+            "organization": "Generalkonsulatet",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Reinhold",
+        "last_name": "Reuterswärd",
+        "middle_name": "P O",
+        "gender": "Male",
+        "birth_date": "02-03-1916",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Konsul",
+            "occupation_english": "Consul",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator",
+            "hisco_code_english": "20210.0",
+            "hisco_description_english": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "Patrik",
+                "last_name": "Reuterswärd",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Envoyé",
+                    "occupation_english": "Envoy",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Herdin",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1933",
+            "institution": "Sigtuna"
+        },
+        {
+            "degree": "Juridisk kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1937",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lisbeth",
+            "last_name": "Lindquist",
+            "gender": "Female",
+            "occupation": null
+        },
+        "marriage_year": "1945",
+        "divorce_year": "1949",
+        "children": [
+            {
+                "first_name": "Karin",
+                "last_name": "Reuterswärd",
+                "gender": "Female",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "honors": [
+        "Riddare av Finska Vita Ros Orden"
+    ]
+}

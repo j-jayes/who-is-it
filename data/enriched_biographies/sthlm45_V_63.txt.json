@@ -1,0 +1,186 @@
+{
+    "career": [
+        {
+            "position": "Anställd hos professor Karl Ljungberg",
+            "start_year": 1915,
+            "end_year": 1922,
+            "organization": "Karl Ljungbergs Ingenjörsbyrå"
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1922,
+            "end_year": 1939,
+            "organization": "Karl Ljungbergs Ingenjörsbyrå"
+        },
+        {
+            "position": "Assistent i hållfasthetslära",
+            "start_year": 1922,
+            "end_year": 1942,
+            "organization": "Kungliga Tekniska Högskolan"
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1939,
+            "organization": "Egen Ingenjörsbyrå",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            }
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Valberg",
+        "middle_name": "Einar",
+        "gender": "Male",
+        "birth_date": "14-10-1891",
+        "birth_place": {
+            "name": "Västerås",
+            "latitude": 59.60990049999999,
+            "longitude": 16.5448091,
+            "formatted_address": "Västerås, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        }
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Konstruktion för S:a Kungstornet, PUB:s affärshus med flera",
+            "field": "Byggnadskonstruktion",
+            "significance": "Samarbete med professor K. Ljungberg"
+        },
+        {
+            "title": "Fabriks- och lagerbyggnader",
+            "field": "Byggnadskonstruktion",
+            "significance": "För L.M. Ericsson, Kvarnen Tre Kronor, ASEA, Stora Kopparbergs Bergslags Aktiebolag, KF med flera"
+        },
+        {
+            "title": "Västerbron i Stockholm",
+            "field": "Brokonstruktion",
+            "significance": "Vunnit första inköpsplats i tävlingen"
+        },
+        {
+            "title": "Montagebågar för Tranebergsbron med flera broar",
+            "field": "Brokonstruktion",
+            "significance": "Utarbetat förslag till montagebågar i in- och utland"
+        },
+        {
+            "title": "Hållfasthetsundersökningar för maskinkonstruktioner",
+            "field": "Hållfasthetslära",
+            "significance": "Utförd för en mängd maskinkonstruktioner"
+        },
+        {
+            "title": "Radiomaster",
+            "field": "Hållfasthetslära",
+            "significance": "Hörby, Luleå, Borlänge, Stavsnäs med flera"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1910",
+            "institution": "Västerås"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1915",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Pettersson",
+            "middle_name": "Hilma Elvira",
+            "gender": "Female"
+        },
+        "marriage_year": "1922",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Elsa",
+                "last_name": "Valberg",
+                "middle_name": "Gerd Ann-Mari",
+                "gender": "Female",
+                "birth_year": "1926"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Uppsater i facktidskrifter",
+            "year": "None",
+            "type": "Artikel"
+        },
+        {
+            "title": "Byggnadsteori i samlingsverket Byggnadskonsten",
+            "year": "None",
+            "type": "Avhandling"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1924"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK"
+        }
+    ]
+}

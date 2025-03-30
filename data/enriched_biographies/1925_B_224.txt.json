@@ -1,0 +1,156 @@
+{
+    "career": [
+        {
+            "position": "ledare",
+            "start_year": 1917,
+            "end_year": 1919,
+            "organization": "kabaret Läderlapp",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "justitieråd",
+            "start_year": 1897,
+            "end_year": 1921,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "konsert",
+        "last_name": "t",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": null,
+        "birth_place": {
+            "name": "Berlin",
+            "latitude": 52.52000659999999,
+            "longitude": 13.404954,
+            "formatted_address": "Berlin, Germany"
+        },
+        "occupation": null
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "13",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "hovrättsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1875",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Signe",
+            "last_name": "Erikson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Georg",
+                    "last_name": "Erikson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "civilingenjör",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "2210.0",
+                        "hisco_description_swedish": "Civil Engineer, General"
+                    }
+                },
+                {
+                    "first_name": "Helma",
+                    "last_name": "Bredberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1909",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "luta"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "Stadsfullmäktige",
+            "position": "ledamot",
+            "start_year": 1901,
+            "end_year": 1912,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        }
+    ]
+}

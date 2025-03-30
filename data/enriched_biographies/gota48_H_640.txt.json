@@ -1,0 +1,193 @@
+{
+    "career": [
+        {
+            "position": "Extra läkare",
+            "start_year": 1939,
+            "organization": "Nässjö distrikt",
+            "location": {
+                "name": "Nässjö",
+                "latitude": 57.65303549999999,
+                "longitude": 14.6967247,
+                "formatted_address": "Nässjö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1939,
+            "end_year": 1940,
+            "organization": "Säters sjukhus",
+            "location": {
+                "name": "Säter",
+                "latitude": 60.34665,
+                "longitude": 15.7479,
+                "formatted_address": "Säter, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1940,
+            "end_year": 1943,
+            "organization": "Växjö lasarett",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1943,
+            "organization": "Sanatorium",
+            "location": {
+                "name": "Fur",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1943,
+            "organization": "Lasarett",
+            "location": {
+                "name": "Sveg",
+                "latitude": 62.0346245,
+                "longitude": 14.3590366,
+                "formatted_address": "Sveg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1943,
+            "organization": null,
+            "location": {
+                "name": "Nässjö",
+                "latitude": 57.65303549999999,
+                "longitude": 14.6967247,
+                "formatted_address": "Nässjö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Enar",
+        "last_name": "Håkansson",
+        "middle_name": "A'lf",
+        "gender": "Male",
+        "birth_date": "27-04-1904",
+        "birth_place": {
+            "name": "Turinge, Stockholms Län",
+            "latitude": 59.2,
+            "longitude": 17.45,
+            "formatted_address": "155 91 Turinge, Sweden"
+        },
+        "occupation": {
+            "occupation": "Praktiserande läkare",
+            "occupation_english": "Practicing Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Oscar",
+                "last_name": "Håkansson",
+                "middle_name": "Ferdinand",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": "Manager",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Hallborg",
+                "middle_name": "Maria",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Nässjö",
+        "latitude": 57.65303549999999,
+        "longitude": 14.6967247,
+        "formatted_address": "Nässjö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1924",
+            "institution": "Västervik"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1933",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1939",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Persson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Bengt",
+                "last_name": "Håkansson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1944"
+            },
+            {
+                "first_name": "Hans",
+                "last_name": "Håkansson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1946"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

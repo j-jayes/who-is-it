@@ -1,0 +1,209 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Berlin",
+        "middle_name": "Anton",
+        "gender": "Male",
+        "birth_date": "03-05-1871",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "arkitekt",
+            "occupation_english": null,
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "lektor",
+            "position_english": null,
+            "institution": "tekniska elementarskolan",
+            "department": null,
+            "start_year": 1903,
+            "end_year": 1913,
+            "field": null
+        },
+        {
+            "position": "lektor",
+            "position_english": null,
+            "institution": "tekniska elementarskolan",
+            "department": null,
+            "start_year": 1913,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "undersökningsarbete",
+            "field": "byggnadshistoria",
+            "year": null,
+            "significance": "vid äldre historiska byggnader såsom Kristianstads kyrka, Malmöhus slott och Varbergs fästning",
+            "recognized_by": null
+        },
+        {
+            "title": "restaureringsförslag",
+            "field": "byggnadskonst",
+            "year": null,
+            "significance": "uppgjorda restaureringsförslag och lett arbeten vid några av dessa och ett flertal mindre byggnader",
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "teknisk högskola avdelning för arkitektur",
+            "degree_level": "Master's",
+            "year": "1895",
+            "institution": "tekniska högskolan"
+        },
+        {
+            "degree": "konstakademi byggnadsskola",
+            "degree_level": "Schooling",
+            "year": "18985",
+            "institution": "konstakademin"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anne",
+            "last_name": "Kolmodin",
+            "middle_name": "Louise",
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Lars",
+                    "last_name": "K.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "läroverksadjunkt",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "13200.0",
+                        "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Sigrid",
+                    "last_name": "Sundahl",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1903",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "korresponderande",
+            "institution": "LHA",
+            "year": "None"
+        }
+    ],
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "rörande byggnadshistoria och -kultur samt hembygdsvård",
+            "year": "None",
+            "type": "tidskriftsartikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Grekland",
+                "latitude": 39.074208,
+                "longitude": 21.824312,
+                "formatted_address": "Greece"
+            },
+            "country_code": "GRC",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        }
+    ]
+}

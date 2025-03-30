@@ -1,0 +1,194 @@
+{
+    "career": [
+        {
+            "position": "tjänstgörande",
+            "start_year": 1903,
+            "end_year": null,
+            "organization": "Berlin",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "tjänstgörande",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": "Hamburg",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1908,
+            "end_year": 1916,
+            "organization": "apoteket Fenix",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "innehavare av personligt privilegium",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "apoteket i Lidingö",
+            "location": {
+                "name": "Lidingö",
+                "latitude": 59.36295999999999,
+                "longitude": 18.1468,
+                "formatted_address": "Lidingö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "innehavare av personligt privilegium",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "apoteket Storken 1",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Bruzelius",
+        "middle_name": "Idar Johan Carl Olof",
+        "gender": "Male",
+        "birth_date": "04-10-1869",
+        "birth_place": {
+            "name": "Ystad",
+            "latitude": 55.4295051,
+            "longitude": 13.8200308,
+            "formatted_address": "Ystad, Sweden"
+        },
+        "occupation": {
+            "occupation": "apotekare",
+            "occupation_english": "pharmacist",
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist",
+            "hisco_code_english": "41030.0",
+            "hisco_description_english": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Bruzelius",
+                "middle_name": "Gustaf",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "rektor",
+                    "occupation_english": "headmaster",
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher",
+                    "hisco_code_english": "13940.0",
+                    "hisco_description_english": "Head Teacher"
+                }
+            },
+            {
+                "first_name": "Carolina",
+                "last_name": "Hallbeck",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "apotikarnas livränte- och pensionskassa",
+            "role": "ledamot av styrelsen",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Apotekarsocieteten",
+            "role": "direktör",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Apotekarsocieteten",
+            "role": "kassaföreståndare",
+            "start_year": 1928,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "apotekarexamen",
+            "degree_level": "Bachelor's",
+            "year": "1893",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maria",
+            "last_name": "Sandberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Axel",
+                    "last_name": "Sandberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "apotekare",
+                        "occupation_english": "pharmacist",
+                        "hisco_code_swedish": "6710.0",
+                        "hisco_description_swedish": "Pharmacist",
+                        "hisco_code_english": "41030.0",
+                        "hisco_description_english": "Working Proprietor (Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Emelie",
+                    "last_name": "Pettersson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1906",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

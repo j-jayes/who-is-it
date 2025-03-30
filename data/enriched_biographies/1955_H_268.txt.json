@@ -1,0 +1,211 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1926,
+            "organization": "Lasarettet i Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1926,
+            "organization": "Lasarettet i Örnsköldsvik",
+            "location": {
+                "name": "Örnsköldsvik",
+                "latitude": 63.29004740000001,
+                "longitude": 18.7166166,
+                "formatted_address": "Örnsköldsvik, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1926,
+            "organization": "Lasarettet i Lidköping",
+            "location": {
+                "name": "Lidköping",
+                "latitude": 58.5035047,
+                "longitude": 13.1570768,
+                "formatted_address": "Lidköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1926,
+            "organization": "Lasarettet i Sundsvall",
+            "location": {
+                "name": "Sundsvall",
+                "latitude": 62.390811,
+                "longitude": 17.306927,
+                "formatted_address": "Sundsvall, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1926,
+            "organization": "Serafimerlasarettet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1946,
+            "organization": "Bollnäs lasarett",
+            "location": {
+                "name": "Bollnäs",
+                "latitude": 61.34837950000001,
+                "longitude": 16.3942685,
+                "formatted_address": "Bollnäs, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Inspektör",
+            "start_year": 1953,
+            "organization": "Bollnäs högre allmänna läroverk",
+            "location": {
+                "name": "Bollnäs",
+                "latitude": 61.34837950000001,
+                "longitude": 16.3942685,
+                "formatted_address": "Bollnäs, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Landstingsman",
+            "start_year": 1955,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Hedly",
+        "middle_name": "Ivar",
+        "gender": "Male",
+        "birth_date": "13-03-1900",
+        "birth_place": {
+            "name": "Sundsvall",
+            "latitude": 62.390811,
+            "longitude": 17.306927,
+            "formatted_address": "Sundsvall, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lasarettsläkare",
+            "occupation_english": "Hospital Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Hedly",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Elma",
+                "last_name": "Herrmann",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Bollnäs",
+        "latitude": 61.34837950000001,
+        "longitude": 16.3942685,
+        "formatted_address": "Bollnäs, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Medicine Licentiate",
+            "degree_level": "Doctorate",
+            "year": "1926",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Marianne",
+            "last_name": "Giesecke",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Axel",
+                    "last_name": "Giesecke",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Kapten",
+                        "occupation_english": "Captain",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "4215.0",
+                        "hisco_description_english": "Ship's Master (Sea)"
+                    }
+                },
+                {
+                    "first_name": "Karin",
+                    "last_name": "Westerdahl",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1933",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "lärare och vikarierande professor",
+            "start_year": 1944,
+            "end_year": 1954,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1948,
+            "end_year": 1955,
+            "organization": "Tekniska Läroverket",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1955,
+            "end_year": 1964,
+            "organization": "Tekniska Läroverket",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tillförordnad professor",
+            "start_year": 1963,
+            "end_year": 1964,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i byggnadsteknik III",
+            "start_year": 1964,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Egen konsultverksamhet",
+            "start_year": 1964
+        }
+    ],
+    "person": {
+        "first_name": "L",
+        "last_name": "Losberg",
+        "middle_name": "Anders",
+        "gender": "Male",
+        "birth_date": "25-05-1918",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Walle",
+                "last_name": "Johansson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmannen",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Johansson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "teknologie licentiat",
+            "institution": "Chalmers Tekniska Högskola",
+            "start_year": 1948,
+            "field": "Teknik"
+        },
+        {
+            "position": "teknologie doktor",
+            "institution": "Chalmers Tekniska Högskola",
+            "start_year": 1961,
+            "field": "Byggnadsteknik"
+        },
+        {
+            "position": "docent",
+            "institution": "Chalmers Tekniska Högskola",
+            "start_year": 1961,
+            "field": "Byggnadsteknik"
+        }
+    ],
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "SACO"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "ULF"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "SVR"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulla",
+            "last_name": "Natt och Dag",
+            "gender": "Female",
+            "birth_date": "1917",
+            "parents": [
+                {
+                    "first_name": "Bo",
+                    "last_name": "Natt och Dag",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Elin",
+                    "last_name": "Andell",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1946",
+        "children": [
+            {
+                "first_name": "Boel",
+                "last_name": "Losberg",
+                "gender": "Female",
+                "birth_year": "1947"
+            },
+            {
+                "first_name": "Mårten",
+                "last_name": "Losberg",
+                "gender": "Male",
+                "birth_year": "1950"
+            }
+        ]
+    },
+    "honors": [
+        "Riddare av Nordstjärneorden"
+    ],
+    "publications": [
+        {
+            "title": "Structurally Reinforced Concrete Pavements",
+            "year": "1961",
+            "type": "doktorsavhandling"
+        }
+    ]
+}

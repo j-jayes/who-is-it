@@ -1,0 +1,135 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Björn",
+        "last_name": "Jonson",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "20-06-1903",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Tyresö",
+        "latitude": 59.2425954,
+        "longitude": 18.2833919,
+        "formatted_address": "Tyresö, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Juni",
+            "last_name": "Jansson",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ulv",
+                "last_name": "Jonson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1938"
+            },
+            {
+                "first_name": "Eldrid",
+                "last_name": "Jonson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1941"
+            }
+        ]
+    },
+    "hobbies": [
+        "violinspelning"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1959"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1959"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1959"
+        }
+    ]
+}

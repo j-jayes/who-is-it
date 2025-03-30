@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "Lektor i kemi och biologi",
+            "start_year": 1925,
+            "end_year": 1929,
+            "organization": "Läroverk i Vänersborg",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor i kemi och biologi",
+            "start_year": 1929,
+            "organization": "Vasa högre allmänna läroverk",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Sterner",
+        "middle_name": "Rikard",
+        "gender": "Male",
+        "birth_date": "12-12-1891",
+        "birth_place": {
+            "name": "Gärdslösa, Kalmar Län",
+            "latitude": 56.7848032,
+            "longitude": 16.7376531,
+            "formatted_address": "387 93 Gärdslösa, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lektor",
+            "occupation_english": "Lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "August",
+                "last_name": "Sterner",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kontraktsprost",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Hildegard",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie ämbetsexamen",
+            "degree_level": "Master's",
+            "year": "1915",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1921",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1923",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "The Continent. Flora of South Sweden",
+            "year": "1922",
+            "type": "dissertation",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ölands växtvärld",
+            "year": "1926",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Växtvärlden",
+            "year": "None",
+            "type": "book chapter",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CSK",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Polen",
+                "latitude": 51.919438,
+                "longitude": 19.145136,
+                "formatted_address": "Poland"
+            },
+            "country_code": "POL",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Estland",
+                "latitude": 58.595272,
+                "longitude": 25.013607,
+                "formatted_address": "Estonia"
+            },
+            "country_code": "EST",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Lettland",
+                "latitude": 56.879635,
+                "longitude": 24.603189,
+                "formatted_address": "Latvia"
+            },
+            "country_code": "LVA",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Litauen",
+                "latitude": 55.169438,
+                "longitude": 23.881275,
+                "formatted_address": "Lithuania"
+            },
+            "country_code": "LTU",
+            "year": "1923"
+        }
+    ]
+}

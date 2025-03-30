@@ -1,0 +1,255 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1915,
+            "organization": "Arvika",
+            "location": {
+                "name": "Arvika",
+                "latitude": 59.6548534,
+                "longitude": 12.592136,
+                "formatted_address": "Arvika, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkartjänstgöring",
+            "start_year": 1915,
+            "organization": "Arvika",
+            "location": {
+                "name": "Arvika",
+                "latitude": 59.6548534,
+                "longitude": 12.592136,
+                "formatted_address": "Arvika, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "vikarierande",
+            "start_year": 1916,
+            "organization": "Stockholms hospital",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "vikarierande",
+            "start_year": 1919,
+            "organization": "Göteborgs epidemisjukhus",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "vikarierande",
+            "start_year": 1920,
+            "organization": "Sahlgrenska sjukhuset",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "provinsialläkare",
+            "start_year": 1921,
+            "organization": "Gammelstad",
+            "location": {
+                "name": "Gammelstad",
+                "latitude": 65.6421004,
+                "longitude": 22.0131975,
+                "formatted_address": "954 31 Gammelstaden, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "kommunfullmäktige",
+            "start_year": 1923,
+            "organization": "Nederluleå",
+            "location": {
+                "name": "Nederluleå",
+                "latitude": 65.645831,
+                "longitude": 22.0269527,
+                "formatted_address": "954 33 Nederluleå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "förste provinsialläkare",
+            "start_year": 1926,
+            "organization": "Norrbottens Län",
+            "location": {
+                "name": "Norrbottens Län",
+                "latitude": 66.8309216,
+                "longitude": 20.3991966,
+                "formatted_address": "Norrbotten County, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "medicinalråd och chef för medicinalbyrån",
+            "start_year": 1930,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Byttner",
+        "middle_name": "Ture",
+        "gender": "Male",
+        "birth_date": "29-07-1891",
+        "birth_place": {
+            "name": "Grava, Värmlands Län",
+            "latitude": 59.46666699999999,
+            "longitude": 13.416667,
+            "formatted_address": "655 91 Grava, Sweden"
+        },
+        "occupation": {
+            "occupation": "medicinalråd",
+            "occupation_english": null,
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "Thure",
+                "last_name": "Byttner",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kamrer",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Zander",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Äppelviken",
+        "latitude": 59.3289267,
+        "longitude": 17.9742543,
+        "formatted_address": "Äppelviken, Bromma, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1914",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1919",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ester",
+            "last_name": "Wahlberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Aug.",
+                    "last_name": "Wahlberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "handlare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "41030.0",
+                        "hisco_description_swedish": "Working Proprietor (Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Ingegärd",
+                    "last_name": "Wahlberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1919",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "Landstingets förvaltningsutskott",
+            "position": "ledamot",
+            "start_year": 1926,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "Luleå lasarettsdirektion",
+            "position": "ledamot",
+            "start_year": 1926,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1927"
+        }
+    ]
+}

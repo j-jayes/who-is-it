@@ -1,0 +1,221 @@
+{
+    "career": [
+        {
+            "position": "Extra läkare",
+            "start_year": 1930,
+            "organization": "Lunds lasaretts medicinska avdelning",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vikarierande underläkare",
+            "start_year": 1930,
+            "organization": "Värmlands läns sanatorium",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1931,
+            "end_year": 1932,
+            "organization": "Målilla sanatorium",
+            "location": {
+                "name": "Målilla",
+                "latitude": 57.3891396,
+                "longitude": 15.8162213,
+                "formatted_address": "577 74 Målilla, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1932,
+            "end_year": 1933,
+            "organization": "Göteborgs barnsjukhus",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vikarierande andre underläkare",
+            "start_year": 1933,
+            "end_year": 1934,
+            "organization": "Örebro lasaretts medicinska avdelning",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ordinarie läkare",
+            "start_year": 1934,
+            "end_year": 1936,
+            "organization": "Örebro lasaretts medicinska avdelning",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vikarierande och ordinarie förste underläkare",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Örebro lasaretts medicinska avdelning",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Amanuens",
+            "start_year": 1938,
+            "end_year": 1939,
+            "organization": "Lunds lasaretts lungklinik",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Läkare",
+            "start_year": 1939,
+            "organization": "Centraldispensär i Kalmar",
+            "location": {
+                "name": "Kalmar",
+                "latitude": 56.6634447,
+                "longitude": 16.356779,
+                "formatted_address": "Kalmar, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Nilsson",
+        "middle_name": "Thure",
+        "gender": "Male",
+        "birth_date": "09-03-1901",
+        "birth_place": {
+            "name": "Höör, Malmöhus Län",
+            "latitude": 55.9348588,
+            "longitude": 13.5395904,
+            "formatted_address": "Höör, Sweden"
+        },
+        "occupation": {
+            "occupation": "Centraldispensärläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Månisson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kalmar",
+        "latitude": 56.6634447,
+        "longitude": 16.356779,
+        "formatted_address": "Kalmar, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1925",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1931",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Bengtsson",
+            "middle_name": null,
+            "gender": "Female",
+            "occupation": {
+                "occupation": "Sjuksköterska",
+                "occupation_english": null,
+                "hisco_code_swedish": "7110.0",
+                "hisco_description_swedish": "Professional Nurse, General"
+            }
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Birgitta",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Bo",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1942"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

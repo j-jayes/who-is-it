@@ -1,0 +1,125 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Pleijel",
+        "middle_name": "Vilhelm",
+        "gender": "Male",
+        "birth_date": "05-05-1908",
+        "birth_place": {
+            "name": "Gamleby, Kalmar Län",
+            "latitude": 57.89316029999999,
+            "longitude": 16.4060887,
+            "formatted_address": "594 30 Gamleby, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Pleijel",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "apotekare",
+                    "occupation_english": "pharmacist",
+                    "hisco_code_swedish": "6710.0",
+                    "hisco_description_swedish": "Pharmacist",
+                    "hisco_code_english": "41030.0",
+                    "hisco_description_english": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Wesmann",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "KTH",
+            "start_year": 1955
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hägersten",
+        "latitude": 59.3,
+        "longitude": 17.966667,
+        "formatted_address": "Hägersten, Hägersten-Liljeholmen, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1934",
+            "institution": "KTH"
+        },
+        {
+            "degree": "teknologie doktor",
+            "degree_level": "Doctorate",
+            "year": "1954",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Barbro",
+            "last_name": "Palmestam",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Arthur",
+                    "last_name": "Persson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kamrer",
+                        "occupation_english": "comptroller",
+                        "hisco_code_swedish": "11010.0",
+                        "hisco_description_swedish": "Accountant, General"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Andersson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1943"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "The Computation of Natural Radiation in Architecture and Town Planning",
+            "year": "1954",
+            "type": "graduatavhandling",
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

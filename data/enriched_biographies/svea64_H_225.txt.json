@@ -1,0 +1,242 @@
+{
+    "career": [
+        {
+            "position": "Control Chemist",
+            "start_year": 1956,
+            "end_year": null,
+            "organization": "Coosa River Newsprint Co",
+            "location": {
+                "name": "Coosa Pines, Alabama",
+                "latitude": 33.3276113,
+                "longitude": -86.3591445,
+                "formatted_address": "Coosa Pines, AL 35078, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Development Engineer",
+            "start_year": 1957,
+            "end_year": null,
+            "organization": "Crown-Zellerbach",
+            "location": {
+                "name": "Camas, Wash",
+                "latitude": 45.5856983,
+                "longitude": -122.4026689,
+                "formatted_address": "Camas, WA, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Engineer",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "West Virginia Pulp & Paper Co",
+            "location": {
+                "name": "Charleston, S C",
+                "latitude": 32.7833163,
+                "longitude": -79.9319664,
+                "formatted_address": "Charleston, SC, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "fabriksingenjör",
+            "start_year": 1959,
+            "end_year": null,
+            "organization": "Munksjö aktiebolag",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "chefsingenjör för pappersbruk och förädlingsavdelning",
+            "start_year": 1964,
+            "end_year": null,
+            "organization": "Åmotfors pappersbruk",
+            "location": {
+                "name": "Åmotfors",
+                "latitude": 59.75765879999999,
+                "longitude": 12.3572534,
+                "formatted_address": "673 34 Åmotfors, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Heijne",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "11-11-1931",
+        "birth_place": {
+            "name": "Jönköping",
+            "latitude": 57.78261370000001,
+            "longitude": 14.1617876,
+            "formatted_address": "Jönköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "bergsingenjör",
+            "occupation_english": "mining engineer",
+            "hisco_code_swedish": "2710.0",
+            "hisco_description_swedish": "Mining Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Otto",
+                "last_name": "Heijne",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bruksdisponent",
+                    "occupation_english": "works manager",
+                    "hisco_code_swedish": "21220.0",
+                    "hisco_description_swedish": "Production Manager (except Farm)",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Märtha",
+                "last_name": "Skeppstedt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelsesuppleant",
+            "organization": "Munksjö aktiebolag"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "hälsovårdsnämnd",
+            "role": "suppleant",
+            "start_year": 1961,
+            "end_year": 1963,
+            "organization": "Jönköping",
+            "significance": null
+        },
+        {
+            "committee_name": "HUF:s näringspolitisk kommitten",
+            "role": "ledamot",
+            "start_year": 1961,
+            "end_year": 1963,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Åmotfors",
+        "latitude": 59.75765879999999,
+        "longitude": 12.3572534,
+        "formatted_address": "673 34 Åmotfors, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1950",
+            "institution": "None"
+        },
+        {
+            "degree": "Kandidatexamen",
+            "degree_level": "Bachelor's",
+            "year": "1955",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Mend-Bock",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "ingenjör",
+                "occupation_english": "engineer",
+                "hisco_code_swedish": "2000.0",
+                "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                "hisco_code_english": "84100.0",
+                "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+            },
+            "parents": [
+                {
+                    "first_name": "Nicolai",
+                    "last_name": "Mend-Bock",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "ingenjör",
+                        "occupation_english": "engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Gerd",
+                    "last_name": "Hallengren",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1960",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Heijne",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1961"
+            },
+            {
+                "first_name": "Hans-Otto",
+                "last_name": "Heijne",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1963"
+            }
+        ]
+    },
+    "hobbies": [
+        "jakt",
+        "fiske",
+        "filateli"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "fackupps i Svensk papperstidning",
+            "year": "None",
+            "type": "fackuppsats",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

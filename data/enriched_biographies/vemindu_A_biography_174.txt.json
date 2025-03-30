@@ -1,0 +1,188 @@
+{
+    "career": [
+        {
+            "position": "Inneh",
+            "start_year": 1918,
+            "end_year": 1921,
+            "organization": "Aktiebolaget Lysekils Skofabrik",
+            "location": {
+                "name": "Lysekil",
+                "latitude": 58.27557299999999,
+                "longitude": 11.435558,
+                "formatted_address": "Lysekil, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkmästare",
+            "start_year": 1923,
+            "end_year": 1927,
+            "organization": "Aktiebolaget Skofabrik Svecia",
+            "location": {
+                "name": "Hallsberg",
+                "latitude": 59.0665316,
+                "longitude": 15.10229,
+                "formatted_address": "Hallsberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1928,
+            "end_year": 1937,
+            "organization": "Hallsbergs Skofabrik",
+            "location": {
+                "name": "Hallsberg",
+                "latitude": 59.0665316,
+                "longitude": 15.10229,
+                "formatted_address": "Hallsberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1938,
+            "organization": "Aktiebolaget Eric Andersson & Co",
+            "location": {
+                "name": "Hallsberg",
+                "latitude": 59.0665316,
+                "longitude": 15.10229,
+                "formatted_address": "Hallsberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1938,
+            "organization": "Aktiebolaget Eric Andersson & Co",
+            "location": {
+                "name": "Hallsberg",
+                "latitude": 59.0665316,
+                "longitude": 15.10229,
+                "formatted_address": "Hallsberg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Eric",
+        "last_name": "Andersson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "05-04-1896",
+        "birth_place": {
+            "name": "Böda, Öland",
+            "latitude": 57.2605471,
+            "longitude": 17.0351033,
+            "formatted_address": "387 74 Böda, Sweden"
+        },
+        "occupation": {
+            "occupation": "Fabrikör",
+            "occupation_english": "Manufacturer"
+        },
+        "parents": [
+            {
+                "first_name": "P",
+                "last_name": "Andersson",
+                "middle_name": "A",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Skomakare",
+                    "occupation_english": "Shoemaker",
+                    "hisco_code_swedish": "80110.0",
+                    "hisco_description_swedish": "Shoemaker, General",
+                    "hisco_code_english": "80110.0",
+                    "hisco_description_english": "Shoemaker, General"
+                }
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Hasselberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hallsberg",
+        "latitude": 59.0665316,
+        "longitude": 15.10229,
+        "formatted_address": "Hallsberg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Folkskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Skofackskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Haggren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        }
+    ]
+}

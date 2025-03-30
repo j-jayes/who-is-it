@@ -1,0 +1,50 @@
+{
+    "career": [
+        {
+            "position": "Kompositör",
+            "start_year": 1965,
+            "organization": "Klara kyrka",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Handel",
+        "last_name": "None",
+        "gender": "Male",
+        "occupation": {
+            "occupation": "Kompositör",
+            "occupation_english": "Composer",
+            "hisco_code_swedish": "17120.0",
+            "hisco_description_swedish": "Composer",
+            "hisco_code_english": "17140.0",
+            "hisco_description_english": "Instrumentalist"
+        }
+    },
+    "achievements": [
+        {
+            "title": "Kantat vid återinvigning av Klara kyrka",
+            "field": "Musik",
+            "year": "1965",
+            "significance": "Återinvigning av Klara kyrka i Stockholm"
+        }
+    ],
+    "awards": [
+        "Litteris et Artibus 1959",
+        "Illis quorum meruere labores 5:e storleken 1965"
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Signe",
+            "last_name": "Andersson",
+            "gender": "Female",
+            "birth_date": "01-01-1903"
+        },
+        "marriage_year": "1933"
+    }
+}

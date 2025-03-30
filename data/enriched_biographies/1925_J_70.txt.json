@@ -1,0 +1,135 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Helena",
+        "last_name": "Jolin",
+        "middle_name": "Maria",
+        "gender": "Female",
+        "birth_date": "16-06-1854",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnärinna",
+            "occupation_english": "female artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "16130.0",
+            "hisco_description_english": "Painter, Artist"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Jolin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "författare",
+                    "occupation_english": "author",
+                    "hisco_code_swedish": "15120.0",
+                    "hisco_description_swedish": "Author",
+                    "hisco_code_english": "15120.0",
+                    "hisco_description_english": "Author"
+                }
+            },
+            {
+                "first_name": "Mathilda",
+                "last_name": "Wigert",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "elev",
+            "degree_level": "Schooling",
+            "year": "1875-1878",
+            "institution": "F. W. Scholander"
+        },
+        {
+            "degree": "elev",
+            "degree_level": "Schooling",
+            "year": "1877-1882",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Från studiefärder i medelhavsländer",
+            "year": "1911",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Johan Jolin och hans vänner",
+            "year": "1913",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1889-1890"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1889-1890"
+        },
+        {
+            "country": {
+                "name": "Orienten",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

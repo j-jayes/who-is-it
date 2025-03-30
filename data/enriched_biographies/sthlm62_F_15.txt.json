@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": "Stal Finspong",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "disponent",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": "fabrik aktiebolag Favorit Nässjö",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "disponent",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "aktiebolag Jönköpings motorfabrik",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "innehavare",
+            "start_year": 1923,
+            "end_year": 1958,
+            "organization": "Ingenjörsfirma Sven Fagrell aktiebolag Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "aktiebolag Industrinyheter Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "SVEN",
+        "last_name": "FAGRELL",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "02-08-1887",
+        "birth_place": {
+            "name": "Nässjö",
+            "latitude": 57.65303549999999,
+            "longitude": 14.6967247,
+            "formatted_address": "Nässjö, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "V",
+                "last_name": "Fagrell",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "postmästare",
+                    "occupation_english": "postmaster",
+                    "hisco_code_swedish": "22220.0",
+                    "hisco_description_swedish": "Postmaster",
+                    "hisco_code_english": "22220.0",
+                    "hisco_description_english": "Postmaster"
+                }
+            },
+            {
+                "first_name": "Ulla",
+                "last_name": "Dson Aschan",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Näsbypark",
+        "latitude": 59.43069140000001,
+        "longitude": 18.0972115,
+        "formatted_address": "Näsbypark, Täby, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1906",
+            "institution": "Linköping"
+        },
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1910",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Alfild",
+            "last_name": "Landorf",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1930",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ulla",
+                "last_name": "Fagrell",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1936"
+            },
+            {
+                "first_name": "Bengt",
+                "last_name": "Fagrell",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1911"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1914"
+        }
+    ]
+}

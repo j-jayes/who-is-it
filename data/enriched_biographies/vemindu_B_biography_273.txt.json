@@ -1,0 +1,180 @@
+{
+    "career": [
+        {
+            "position": "Driftassistent",
+            "start_year": 1918,
+            "end_year": 1919,
+            "organization": "Trollhätte Kraftverk",
+            "location": {
+                "name": "Trollhättan",
+                "latitude": 58.28348939999999,
+                "longitude": 12.2858206,
+                "formatted_address": "Trollhättan, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Chefsassistent",
+            "start_year": 1919,
+            "end_year": 1920,
+            "organization": "Eskilstuna stads elverk",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Driftingenjör",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "Göteborgs stads elverk",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Arne",
+        "last_name": "Björnson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "13-07-1893",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "B",
+                "last_name": "N Ohlsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bankokommissarie",
+                    "occupation_english": "Bank Commissioner"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Kjerrström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Tekniska Samfundets avdelning för elektroteknik",
+            "role": "Sekreterare",
+            "start_year": 1933,
+            "end_year": 1935,
+            "organization": "Tekniska Samfundet",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1912",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Civilingenjör (elteknik)",
+            "degree_level": "Master's",
+            "year": "1913-1917",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Flycht",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "None",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Böcker",
+        "Gammal konst"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Kontinenten",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Kontinenten",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1931"
+        }
+    ]
+}

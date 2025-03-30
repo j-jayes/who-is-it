@@ -1,0 +1,194 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1900,
+            "end_year": 1901,
+            "organization": "Klagstorps lantbruksskola",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Skattmästare",
+            "start_year": 1902,
+            "end_year": null,
+            "organization": "Kommittén för avhjälpande av nöden i Norrland",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Arrendator",
+            "start_year": 1903,
+            "end_year": 1907,
+            "organization": "Trystorps säteri",
+            "location": {
+                "name": "Örebro Län",
+                "latitude": 59.535036,
+                "longitude": 15.0065731,
+                "formatted_address": "Örebro County, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Arrendator",
+            "start_year": 1907,
+            "end_year": 1911,
+            "organization": "Kåfö egendom",
+            "location": {
+                "name": "Örebro Län",
+                "latitude": 59.535036,
+                "longitude": 15.0065731,
+                "formatted_address": "Örebro County, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1908,
+            "end_year": 1911,
+            "organization": "Hjelmqvists juridiska byrå",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": "Aktiebolaget emissionsinstitutet",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "August",
+        "last_name": "Nachmanson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "17-04-1878",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Herman",
+                "last_name": "Nachmanson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Rosa",
+                "last_name": "Davidson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Ordförande",
+            "organization": "Aktiebolaget Garphytte bruk"
+        },
+        {
+            "position": "Ordförande",
+            "organization": "Svenska diamantbergborrnings aktiebolag"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Östermalms läroverk"
+        },
+        {
+            "degree": "Agronomexamen",
+            "degree_level": "Bachelor's",
+            "year": "1900",
+            "institution": "Ultuna"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elisabet",
+            "last_name": "Wallberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Johan",
+                    "last_name": "Wallberg",
+                    "middle_name": "Reinhard",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Fabriksidkare",
+                        "occupation_english": "Manufacturer"
+                    }
+                },
+                {
+                    "first_name": "Tekla",
+                    "last_name": "Beckeman",
+                    "middle_name": "Elisabeth",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1903",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Skandinavien",
+                "latitude": 62.27864750000001,
+                "longitude": 12.3401708,
+                "formatted_address": "Scandinavia"
+            },
+            "country_code": "None",
+            "year": "1917"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "career": [
+        {
+            "position": "Avdelningschef",
+            "start_year": 1923,
+            "end_year": 1938,
+            "organization": "Aktiebolaget Wahlen & Block",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Intendent och chef för inköpsavdelningen",
+            "start_year": 1938,
+            "end_year": 1943,
+            "organization": "Stora Kopparbergs Bergslags Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Statens Bränslekommission",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Ohlsson",
+        "middle_name": "Arvid",
+        "gender": "Male",
+        "birth_date": "14-06-1899",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Intendent",
+            "occupation_english": null,
+            "hisco_code_swedish": "22000.0",
+            "hisco_description_swedish": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Ohlsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Hallendorff",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1918",
+            "institution": "Real"
+        },
+        {
+            "degree": "Ekonomisk Examen",
+            "degree_level": "Bachelor's",
+            "year": "1920",
+            "institution": "Handelshögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Astrid",
+            "last_name": "Nyman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1920-1921"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1922-1923"
+        }
+    ]
+}

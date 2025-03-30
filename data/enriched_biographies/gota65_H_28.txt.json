@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "Övrig Läkareförordnande",
+            "start_year": 1936,
+            "end_year": 1939,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1939,
+            "end_year": 1943,
+            "organization": "Mölndals lasarett",
+            "location": {
+                "name": "Mölndal",
+                "latitude": 57.65,
+                "longitude": 12.016667,
+                "formatted_address": "Mölndal, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1943,
+            "end_year": 1944,
+            "organization": "Renströmska sjukhuset",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Alingsås",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Järnvägsläkare",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "Statens Järnvägar",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "S",
+        "last_name": "Hagelin",
+        "middle_name": "Herbert R",
+        "gender": "Male",
+        "birth_date": "28-05-1905",
+        "birth_place": {
+            "name": "Hemsjö, Älvsborgs Län",
+            "latitude": 57.84551,
+            "longitude": 12.4760433,
+            "formatted_address": "441 96 Hemsjö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Praktiserande läkare",
+            "occupation_english": "Practicing Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Sven",
+                "last_name": "Hagelin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Gustava",
+                "last_name": "Norelius",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Alingsås",
+        "latitude": 57.9300205,
+        "longitude": 12.5362113,
+        "formatted_address": "Alingsås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1925",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "Medicine Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1931",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine Licentiat",
+            "degree_level": "Master's",
+            "year": "1936",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Birgitta",
+            "last_name": "Ekström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "John",
+                    "last_name": "E",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Seminarium Lärare",
+                        "occupation_english": "Seminary Teacher",
+                        "hisco_code_swedish": "13000.0",
+                        "hisco_description_swedish": "Teacher, Level and Subject Unknown",
+                        "hisco_code_english": "13990.0",
+                        "hisco_description_english": "Other Teachers"
+                    }
+                },
+                {
+                    "first_name": "Emma",
+                    "last_name": "Sandström",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Kerstin",
+                "last_name": "Hagelin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1938"
+            },
+            {
+                "first_name": "Lena",
+                "last_name": "Hagelin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Hagelin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Bengt",
+                "last_name": "Hagelin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

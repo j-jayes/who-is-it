@@ -1,0 +1,128 @@
+{
+    "career": [
+        {
+            "position": "TV-producent",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": "Sveriges Radio",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bo",
+        "last_name": "Bjeifvenstam",
+        "middle_name": "G",
+        "gender": "Male",
+        "birth_date": "24-04-1924",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "TV-producent",
+            "occupation_english": "TV Producer"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Bjeifvenstam",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Rektor",
+                    "occupation_english": "Principal",
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher",
+                    "hisco_code_english": "37040.0",
+                    "hisco_description_english": "Messenger"
+                }
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Jacobsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1944",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Latinamerika",
+                "latitude": -4.4420385,
+                "longitude": -61.32685350000001,
+                "formatted_address": "Latin America"
+            },
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Indien",
+                "latitude": 20.593684,
+                "longitude": 78.96288,
+                "formatted_address": "India"
+            },
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Australien",
+                "latitude": -25.274398,
+                "longitude": 133.775136,
+                "formatted_address": "Australia"
+            },
+            "country_code": "string",
+            "year": null
+        }
+    ]
+}

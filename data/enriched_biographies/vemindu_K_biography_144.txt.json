@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1902,
+            "organization": "Grängesbergs gemensamma förvaltning",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1906,
+            "organization": "Falu gruva",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1906,
+            "organization": "Kiruna",
+            "location": {
+                "name": "Kiruna",
+                "latitude": 67.8557995,
+                "longitude": 20.2252821,
+                "formatted_address": "Kiruna, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Första gruvingenjör",
+            "start_year": 1907,
+            "organization": "Kiruna",
+            "location": {
+                "name": "Kiruna",
+                "latitude": 67.8557995,
+                "longitude": 20.2252821,
+                "formatted_address": "Kiruna, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1920,
+            "organization": "Malmberget",
+            "location": {
+                "name": "Malmberget",
+                "latitude": 67.1736529,
+                "longitude": 20.6545165,
+                "formatted_address": "Malmberget, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör för gruvavdelningen",
+            "start_year": 1938,
+            "organization": "Trafikaktiebolaget Grängesberg-Oxelösund och Loussavaara-Kiirunavaara Aktiebolag",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Krantz",
+        "middle_name": "Einar",
+        "gender": "Male",
+        "birth_date": "01-08-1878",
+        "birth_place": {
+            "name": "Kopparberg",
+            "latitude": null,
+            "longitude": null,
+            "formatted_address": null
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Krantz",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Handelsträdgårdsmästare",
+                    "occupation_english": "Horticulturalist",
+                    "hisco_code_english": "61270.0",
+                    "hisco_description_english": "Horticultural Farmer"
+                }
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Styrlander",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1897",
+            "institution": "Falun"
+        },
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1901",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Nanny",
+            "last_name": "Wester",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Nordstjärneorden",
+        "Kommendör av Vasaorden"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Grönland",
+                "latitude": 71.706936,
+                "longitude": -42.604303,
+                "formatted_address": "Greenland"
+            },
+            "country_code": "GRL",
+            "year": "1903"
+        },
+        {
+            "country": {
+                "name": "Grönland",
+                "latitude": 71.706936,
+                "longitude": -42.604303,
+                "formatted_address": "Greenland"
+            },
+            "country_code": "GRL",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1909"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1935"
+        }
+    ]
+}

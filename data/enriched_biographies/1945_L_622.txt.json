@@ -1,0 +1,333 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1901,
+            "end_year": 1903,
+            "organization": "Lunds Universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1906,
+            "end_year": null,
+            "organization": "Malmö Allmänna Sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1907,
+            "end_year": 1908,
+            "organization": "Kirurgiska kliniken i Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "förste underläkare",
+            "start_year": 1908,
+            "end_year": 1917,
+            "organization": "Kirurgiska avdelningen av Malmö Allmänna Sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "tillförordnad överläkare",
+            "start_year": 1917,
+            "end_year": 1920,
+            "organization": "Malmö Allmänna Sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Malmö Allmänna Sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "chefläkare",
+            "start_year": 1915,
+            "end_year": 1916,
+            "organization": "Svenska Sjukhuset i Wien",
+            "location": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överläkare i olycksfall",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Otto",
+        "last_name": "Löfberg",
+        "middle_name": "Lorenz",
+        "gender": "Male",
+        "birth_date": "29-10-1881",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "överläkare",
+            "occupation_english": "chief physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "L.",
+                "last_name": "Löfberg",
+                "middle_name": "H.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Andersted",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "distriktsstyrelse för Malmöhus distrikt",
+            "role": "ordförande",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Svenska Röda Korset",
+            "significance": null
+        },
+        {
+            "committee_name": "övrig styrelse",
+            "role": "ledamot",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Svenska Röda Korset",
+            "significance": null
+        },
+        {
+            "committee_name": "Malmö sjukhusläkarförening",
+            "role": "ordförande",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Malmö Konsthall",
+            "role": "ordförande",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "fattigvårdsstyrelse",
+            "role": "ledamot",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "sällskapet Heimdall",
+            "role": "ledamot av styrelsen",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Malmö Stadsteater",
+            "role": "ledamot av styrelsen",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Malmö Konserthusstiftelse",
+            "role": "ledamot av styrelsen",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Skånes konstförening",
+            "role": "ordförande",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Malmö sjukhusläkarförening",
+            "role": "ordförande",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Malmöhus läns Drottning",
+            "role": "ordförande",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1903",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1907",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "medicine doktor honoris causa",
+            "degree_level": "Doctorate",
+            "year": "1932",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Beda",
+            "last_name": "Arwidsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Hilmer",
+                    "last_name": "A.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "källarmästare",
+                        "occupation_english": "cellar master",
+                        "hisco_code_swedish": "51030.0",
+                        "hisco_description_swedish": "Working Proprietor (Restaurant)",
+                        "hisco_code_english": "59990.0",
+                        "hisco_description_english": "Other Service Workers Not Elsewhere Classified"
+                    }
+                },
+                {
+                    "first_name": "Wiktoria",
+                    "last_name": "Holmström",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1909",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Konungens stipendium 1910",
+        "Grossmedalj sjätte storleken"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "ett flertal publikationer i medicinska ämnen",
+            "year": "1920",
+            "type": "publication",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

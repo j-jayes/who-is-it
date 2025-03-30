@@ -1,0 +1,225 @@
+{
+    "career": [
+        {
+            "position": "läkare förordnande",
+            "start_year": 1942,
+            "end_year": 1946,
+            "organization": "Polen och Tyskland",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1946,
+            "end_year": 1952,
+            "organization": "kirurgiska kliniken Wiens universitetssjukhus",
+            "location": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": null
+        },
+        {
+            "position": "läkare",
+            "start_year": 1952,
+            "end_year": null,
+            "organization": "Eksjö lasarett",
+            "location": {
+                "name": "Eksjö",
+                "latitude": 57.6172,
+                "longitude": 15.22155,
+                "formatted_address": "575 92 Eksjo, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "förste underläkare",
+            "start_year": 1953,
+            "end_year": null,
+            "organization": "kirurgiska avdelningen Skellefteå lasarett",
+            "location": {
+                "name": "Skellefteå",
+                "latitude": 64.750244,
+                "longitude": 20.950917,
+                "formatted_address": "Skellefteå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "läkare",
+            "start_year": 1954,
+            "end_year": null,
+            "organization": "kirurgiska avdelningen Härnösands lasarett",
+            "location": {
+                "name": "Härnösand",
+                "latitude": 62.6322698,
+                "longitude": 17.9408714,
+                "formatted_address": "Härnösand, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "läkare",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "kirurgiska avdelningen Eksjö lasarett",
+            "location": {
+                "name": "Eksjö",
+                "latitude": 57.6172,
+                "longitude": 15.22155,
+                "formatted_address": "575 92 Eksjo, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "praktiserande läkare",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": "Göteborg",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Christian",
+        "last_name": "Hammer",
+        "middle_name": "J J",
+        "gender": "Male",
+        "birth_date": "31-12-1918",
+        "birth_place": {
+            "name": "Smyrna, Turkiet",
+            "latitude": 38.423734,
+            "longitude": 27.142826,
+            "formatted_address": "İzmir, Türkiye"
+        },
+        "occupation": {
+            "occupation": "praktiserande läkare",
+            "occupation_english": "practicing physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hans",
+                "last_name": "Hammer",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "generalkonsul",
+                    "occupation_english": "Consul General",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "20210.0",
+                    "hisco_description_english": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Adrienne",
+                "last_name": "Kaernbach",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Läkarexamen",
+            "degree_level": "Doctorate",
+            "year": "1942",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1944",
+            "institution": "Berlin"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hannelore",
+            "last_name": "Hennicke",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Rudolf",
+                    "last_name": "Hennicke",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "överste",
+                        "occupation_english": "Colonel",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "58320.0",
+                        "hisco_description_english": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Elisabeth",
+                    "last_name": "Arnold",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1948",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Angelika",
+                "last_name": "Hammer",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1951"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "über die Schwankungen des natürlichen Diphtherieantitoxins bei Soldaten im Vergleich zur Zivilbevölkerung im Kriege",
+            "year": "1944",
+            "type": "doktorsavhandling",
+            "editions": null,
+            "publisher": "Berlin",
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

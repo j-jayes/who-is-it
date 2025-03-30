@@ -1,0 +1,211 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1908,
+            "end_year": 1913,
+            "organization": "AGA",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Amanuens",
+            "start_year": 1914,
+            "end_year": 1917,
+            "organization": "Socialstyrelsen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Byråingenjör",
+            "start_year": 1914,
+            "end_year": 1917,
+            "organization": "Riksförsäkringsanstalten",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Vattenfallsstyrelsen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Byråingenjör",
+            "start_year": 1920,
+            "end_year": 1951,
+            "organization": "Vattenfallsstyrelsen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Alberger",
+        "middle_name": "Edmund",
+        "gender": "Male",
+        "birth_date": "15-12-1886",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Anderson",
+                "middle_name": "Aug.",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Christina",
+                "last_name": "Ljungquist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Ledamot av överstyrelsen",
+            "organization": "Stockholms stads brandförsäkringskontor"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Stockholms fastighetsägareförening"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Stadens hyresråd",
+            "role": "Adjunkt ledamot",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Staten",
+            "significance": null
+        },
+        {
+            "committee_name": "Yrkesskoleöverstyrelsen",
+            "role": "Förordnande examenscensor",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Saltsjöbaden",
+        "latitude": 59.278744,
+        "longitude": 18.3110523,
+        "formatted_address": "Saltsjöbaden, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1914",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Astrid",
+            "last_name": "Jonson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Per",
+                    "last_name": "Jonson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Folkhögskoledarare",
+                        "occupation_english": "Folk high school teacher",
+                        "hisco_code_swedish": "13200.0",
+                        "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Theoline",
+                    "last_name": "Person",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1923",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Ett stort antal uppsatser i tekniska och ekonomiska ämnen samt i fastighetsförvaltningsfrågor",
+            "year": "None",
+            "type": "Uppsats",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        }
+    ]
+}

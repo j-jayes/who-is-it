@@ -1,0 +1,143 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1922,
+            "end_year": 1923,
+            "organization": "Firma Otto Madsen",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1923,
+            "organization": "Aktiebolaget Malmö Skolästfabrik",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1933,
+            "organization": "Aktiebolaget Malmö Skolästfabrik",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Hj.",
+        "last_name": "Madsen",
+        "middle_name": "V. O.",
+        "gender": "Male",
+        "birth_date": "25-08-1902",
+        "birth_place": {
+            "name": "Köpenhamn",
+            "latitude": 55.6760968,
+            "longitude": 12.5683371,
+            "formatted_address": "Copenhagen, Denmark"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Jenny",
+                "last_name": "Madsen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolaget Malmö Skolästfabrik"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Malmö Stansknivfabrik"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": [
+        {
+            "degree": "Niels Broeks hand:högsk.",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Köpenhamn"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Else",
+            "last_name": "Christensen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1934",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

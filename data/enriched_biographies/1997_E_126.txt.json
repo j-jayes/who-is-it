@@ -1,0 +1,257 @@
+{
+    "career": [
+        {
+            "position": "Förste underläkare",
+            "start_year": 1939,
+            "end_year": 1946,
+            "organization": "Sabbatsbergs sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Hjärtkliniken",
+            "start_year": 1946,
+            "end_year": 1951,
+            "organization": "Södersjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medicinska kliniken",
+            "start_year": 1951,
+            "organization": "Karolinska sjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande överläkare",
+            "start_year": 1948,
+            "end_year": 1951,
+            "organization": "Hjärtkliniken, Södersjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medicinska kliniken",
+            "start_year": 1953,
+            "end_year": 1961,
+            "organization": "Karolinska sjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "New York Hospital",
+            "start_year": 1961,
+            "organization": "New York Hospital",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Attending physician",
+            "start_year": 1964,
+            "organization": "New York Hospital",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Attending physician",
+            "start_year": 1964,
+            "organization": "North Shore Hospital",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Honorerad Attending physician",
+            "start_year": 1980,
+            "organization": "North Shore University Hospital",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Forskningsläkare",
+            "start_year": 1961,
+            "end_year": 1964,
+            "organization": "Cornell University",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "E",
+        "last_name": "Ejrup",
+        "middle_name": "V Börje",
+        "gender": "Male",
+        "birth_date": "19-08-1910",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles"
+        },
+        "parents": [
+            {
+                "first_name": "Wictor",
+                "last_name": "Ericsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Sofia",
+                "last_name": "Lönnblad",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": "Kliniken",
+            "start_year": 1949,
+            "end_year": 1957,
+            "field": "Hjärt- och kärlsjukdomar"
+        },
+        {
+            "position": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": "Kliniken",
+            "start_year": 1957,
+            "field": "Medicin"
+        },
+        {
+            "position": "Associerad Professor",
+            "institution": "Cornell University Medical College",
+            "start_year": 1964,
+            "field": "Medicin"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Organiserat och förestått kärllab",
+            "field": "Medicin",
+            "year": "1946-1951",
+            "significance": "Södersjukhuset kärllab"
+        },
+        {
+            "title": "Organiserat och förestått kärllab",
+            "field": "Medicin",
+            "year": "1951-1956",
+            "significance": "Karolinska sjukhusets kärllab"
+        },
+        {
+            "title": "Organiserat och förestått",
+            "field": "Medicin",
+            "year": "1956-1959",
+            "significance": "Stockholms I hjärtkärlforskningscentral Solna"
+        },
+        {
+            "title": "Organiserat och förestått",
+            "field": "Medicin",
+            "year": "1959-1961",
+            "significance": "Norrbackainstitutets kärllab"
+        },
+        {
+            "title": "Startat",
+            "field": "Medicin",
+            "year": "1955",
+            "significance": "Världens första rökavvänjningsklinik i Stockholm"
+        },
+        {
+            "title": "Organiserat",
+            "field": "Medicin",
+            "year": "1956",
+            "significance": "Rökavvänjningsklinik Solna"
+        },
+        {
+            "title": "Organiserat",
+            "field": "Medicin",
+            "year": "1958",
+            "significance": "Rökavvänjningsklinik Årsta och Östermalm"
+        },
+        {
+            "title": "Förestått",
+            "field": "Medicin",
+            "year": "1958-1961",
+            "significance": "Riksförbundets mot tobaken rökkliniker"
+        },
+        {
+            "title": "Organiserat lab",
+            "field": "Medicin",
+            "year": "1961",
+            "significance": "Laboratorium för perifera kärlsjukdomar vid New York Hospital"
+        },
+        {
+            "title": "Startat",
+            "field": "Medicin",
+            "year": "1963",
+            "significance": "Första rökavvänjningskliniken i USA"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Skrifter rörande hjärt- och kärlsjukdomar och rökavvänjning",
+            "year": "None",
+            "type": "Övrigt"
+        }
+    ],
+    "travels": null
+}

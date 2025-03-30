@@ -1,0 +1,232 @@
+{
+    "career": [
+        {
+            "position": "adjunkt",
+            "start_year": 1907,
+            "end_year": null,
+            "organization": "Nyköping",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lektor",
+            "start_year": 1911,
+            "end_year": null,
+            "organization": "Jönköpings högre allmänna läroverk",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "läroverksbibliotekarie",
+            "start_year": 1912,
+            "end_year": null,
+            "organization": "Jönköpings högre allmänna läroverk",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "stadsbibliotekarie",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": "Jönköping",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Knut",
+        "last_name": "Schartau",
+        "middle_name": "Sigurd",
+        "gender": "Male",
+        "birth_date": "23-10-1878",
+        "birth_place": {
+            "name": "Östra Strö, Malmöhus Län",
+            "latitude": 55.8156931,
+            "longitude": 13.4134671,
+            "formatted_address": "241 91 Östra Strö, Sweden"
+        },
+        "occupation": {
+            "occupation": "lektor",
+            "occupation_english": "lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ernst",
+                "last_name": "Schartau",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kyrkoherde",
+                    "occupation_english": "vicar",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Olivia",
+                "last_name": "Jacobaeus",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Jönköpings läns folkhögskolekursförening",
+            "role": "ordförande",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Jönköping",
+        "latitude": 57.78261370000001,
+        "longitude": 14.1617876,
+        "formatted_address": "Jönköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1899",
+            "institution": "Lund"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1903",
+            "institution": "Lund"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1905",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Tyra",
+            "last_name": "Lundborg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1908",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Sverige-Hannover 1709-1715",
+            "year": "1905",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Sveriges inre tillstånd under Karl XII",
+            "year": "1918",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Jönköping 1697-1865",
+            "year": "1921",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1901"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1903"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1924"
+        },
+        {
+            "country": {
+                "name": "Estland",
+                "latitude": 58.595272,
+                "longitude": 25.013607,
+                "formatted_address": "Estonia"
+            },
+            "country_code": "EST",
+            "year": "1924"
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "career": [
+        {
+            "position": "Tidningsman",
+            "start_year": 1906,
+            "end_year": 1908,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Vice pastor",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Linneryds församling",
+            "location": {
+                "name": "Linneryd",
+                "latitude": 56.6612278,
+                "longitude": 15.1274779,
+                "formatted_address": "362 58 Linneryd, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Komminister",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Sankt Sigfrids församling",
+            "location": {
+                "name": "S:t Sigfrid",
+                "latitude": 57.70603500000001,
+                "longitude": 12.922655,
+                "formatted_address": "Borås S:t Sigfrid, 504 41 Borås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Domkyrkokomminister",
+            "start_year": 1924,
+            "end_year": null,
+            "organization": "Växjö domkyrkoförsamling",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kyrkoherde",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Värnamo församling",
+            "location": {
+                "name": "Värnamo",
+                "latitude": 57.1831605,
+                "longitude": 14.0478214,
+                "formatted_address": "Värnamo, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kontraktsprost",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "Östbo kontrakt",
+            "location": {
+                "name": "Östbo",
+                "latitude": 67.2871877,
+                "longitude": 14.4009055,
+                "formatted_address": "Plassen 5, 8006 Bodø, Norway"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Predikant",
+            "start_year": 1924,
+            "end_year": 1934,
+            "organization": "Länslasarettet i Växjö",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Melin",
+        "middle_name": "Hjalmar",
+        "gender": "Male",
+        "birth_date": "29-12-1886",
+        "birth_place": {
+            "name": "Kyrkhult, Blekinge Län",
+            "latitude": 56.3549902,
+            "longitude": 14.5875959,
+            "formatted_address": "293 74 Kyrkhult, Sweden"
+        },
+        "occupation": {
+            "occupation": "Teologie och filosofie kandidat, kontraktsprost",
+            "occupation_english": "Candidate of Theology and Philosophy, Dean",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Janne",
+                "last_name": "Melin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Folkskollärare",
+                    "occupation_english": "Primary School Teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Elna",
+                "last_name": "Håkansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "LVO"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Värnamo kyrkofullmäktige",
+            "role": "Ordförande",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Värnamo församling",
+            "significance": null
+        },
+        {
+            "committee_name": "Värnamo skolråd",
+            "role": "Ordförande",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Värnamo",
+            "significance": null
+        },
+        {
+            "committee_name": "Tånnö kyrkostämma",
+            "role": "Ordförande",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Tånnö församling",
+            "significance": null
+        },
+        {
+            "committee_name": "Växjö stiftsråd",
+            "role": "Ledamot",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Växjö stift",
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Inspektor",
+            "organization": "Värnamo samrealskola"
+        },
+        {
+            "role": "Ledamot av styrelsen",
+            "organization": "S:t Sigfrids stiftelse"
+        }
+    ],
+    "current_location": {
+        "name": "Värnamo",
+        "latitude": 57.1831605,
+        "longitude": 14.0478214,
+        "formatted_address": "Värnamo, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1906",
+            "institution": "Växjö Högre Allmänna Läroverk"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1914",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Teologie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elin",
+            "last_name": "Danielsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1919",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ingeborg",
+                "last_name": "Melin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1917"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

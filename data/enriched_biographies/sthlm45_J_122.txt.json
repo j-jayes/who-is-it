@@ -1,0 +1,190 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1915,
+            "end_year": 1917,
+            "organization": "Apotek",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Medarbetare",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Vestmanlands Läns Tidning",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Korrespondent",
+            "start_year": 1919,
+            "end_year": 1920,
+            "organization": "A-B Kol & Koks",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Medarbetare",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Dagens Nyheter",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Jonason",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "18-01-1897",
+        "birth_place": {
+            "name": "Västervik",
+            "latitude": 57.75771559999999,
+            "longitude": 16.6369759,
+            "formatted_address": "Västervik, Sweden"
+        },
+        "occupation": {
+            "occupation": "Redaktör",
+            "occupation_english": "Editor",
+            "hisco_code_swedish": "15920.0",
+            "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1915",
+            "institution": "Västerås högre allmänna läroverk"
+        },
+        {
+            "degree": "Schartaus Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1917-1918",
+            "institution": "Schartaus Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Linnea",
+            "last_name": "Oarlson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1923",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Sylva",
+                "last_name": "Jonason",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1924"
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Jonason",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1926"
+            },
+            {
+                "first_name": "Olle",
+                "last_name": "Jonason",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1926"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Estland",
+                "latitude": 58.595272,
+                "longitude": 25.013607,
+                "formatted_address": "Estonia"
+            },
+            "country_code": "EST",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CSK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Litauen",
+                "latitude": 55.169438,
+                "longitude": 23.881275,
+                "formatted_address": "Lithuania"
+            },
+            "country_code": "LTU",
+            "year": null
+        }
+    ]
+}

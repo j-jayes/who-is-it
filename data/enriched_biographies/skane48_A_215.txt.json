@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Extra ordinarie lärare",
+            "start_year": 1907,
+            "end_year": null,
+            "organization": "Falun",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie lärare",
+            "start_year": 1911,
+            "end_year": 1913,
+            "organization": "Strängnäs",
+            "location": {
+                "name": "Strängnäs",
+                "latitude": 59.37745229999999,
+                "longitude": 17.0321193,
+                "formatted_address": "Strängnäs, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie lärare",
+            "start_year": 1913,
+            "end_year": 1914,
+            "organization": "Växjö",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie adjunkt",
+            "start_year": 1915,
+            "end_year": null,
+            "organization": "Malmö högre allmänna läroverk",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt i modersmål, tyska och franska",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Malmö högre allmänna läroverk",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Eugen",
+        "last_name": "Asthon",
+        "middle_name": "Filip",
+        "gender": "Male",
+        "birth_date": "26-02-1886",
+        "birth_place": {
+            "name": "Tranås",
+            "latitude": 58.035518,
+            "longitude": 14.975696,
+            "formatted_address": "Tranås, Sweden"
+        },
+        "occupation": {
+            "occupation": "Läroverksadjunkt",
+            "occupation_english": "Upper secondary school teacher",
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+            "hisco_code_english": "13020.0",
+            "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Ledamot av styrelsen",
+            "organization": "Kommittén för mellanskandinavisk konferens i Malmö"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1905",
+            "institution": "Linköping"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1909",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Svea",
+            "last_name": "Mårtenason",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null
+        },
+        "marriage_year": "1925",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Birgit",
+                "last_name": "Asthon",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1928"
+            },
+            {
+                "first_name": "Ulla",
+                "last_name": "Asthon",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1934"
+            },
+            {
+                "first_name": "Eva",
+                "last_name": "Asthon",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Vasaorden (RVO)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1922"
+        }
+    ]
+}

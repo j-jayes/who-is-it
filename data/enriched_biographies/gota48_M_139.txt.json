@@ -1,0 +1,172 @@
+{
+    "career": [
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1930,
+            "organization": "A-B William Michelsens Boktryckeri",
+            "location": {
+                "name": "Alingsås",
+                "latitude": 57.9300205,
+                "longitude": 12.5362113,
+                "formatted_address": "Alingsås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ansvarig utgivare",
+            "start_year": 1930,
+            "organization": "Alingsås Tidning",
+            "location": {
+                "name": "Alingsås",
+                "latitude": 57.9300205,
+                "longitude": 12.5362113,
+                "formatted_address": "Alingsås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ansvarig utgivare",
+            "start_year": 1930,
+            "organization": "Elfsborgs Läns Tidning",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Otto",
+        "last_name": "Michelsen",
+        "middle_name": "William",
+        "gender": "Male",
+        "birth_date": "17-10-1894",
+        "birth_place": {
+            "name": "Alingsås",
+            "latitude": 57.9300205,
+            "longitude": 12.5362113,
+            "formatted_address": "Alingsås, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "William",
+                "last_name": "Michelsen",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Redaktör",
+                    "occupation_english": "Editor",
+                    "hisco_code_swedish": "15920.0",
+                    "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+                    "hisco_code_english": "15120.0",
+                    "hisco_description_english": "Author"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Beckmark",
+                "middle_name": "Virginia",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Alingsås",
+        "latitude": 57.9300205,
+        "longitude": 12.5362113,
+        "formatted_address": "Alingsås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Allingsås samskola"
+        },
+        {
+            "degree": "Gymnasieklass",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Göteborgs Samskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingeborg",
+            "last_name": "Holmlund",
+            "middle_name": "Kerstin",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1922",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ingrid",
+                "last_name": "Michelsen",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1923"
+            },
+            {
+                "first_name": "Bengt",
+                "last_name": "Michelsen",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1927"
+            },
+            {
+                "first_name": "Gunvor",
+                "last_name": "Michelsen",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1931"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1921"
+        }
+    ]
+}

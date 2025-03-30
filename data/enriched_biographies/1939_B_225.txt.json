@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "extra ordinarie postexpeditör",
+            "start_year": 1899,
+            "organization": "Poststyrelsen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "notarie",
+            "start_year": 1915,
+            "organization": "generalpoststyrelsen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1921,
+            "organization": "Poststyrelsen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "byrådirektör",
+            "start_year": 1927,
+            "organization": "Poststyrelsen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "byråchef",
+            "start_year": 1936,
+            "organization": "Poststyrelsen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1917,
+            "end_year": 1922,
+            "organization": "Stockholms stads andra hyresnämnd",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Bildt",
+        "middle_name": "Arvid Gabriel",
+        "gender": "Male",
+        "birth_date": "05-11-1877",
+        "birth_place": {
+            "name": "Morlanda, Göteborgs och Bohus Län",
+            "latitude": 57.98717139999999,
+            "longitude": 13.0801143,
+            "formatted_address": "524 42 Mörlanda, Sweden"
+        },
+        "occupation": {
+            "occupation": "byråchef",
+            "occupation_english": null,
+            "hisco_code_swedish": "21000.0",
+            "hisco_description_swedish": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Knut",
+                "last_name": "Bildt",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "sjökapten",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)"
+                }
+            },
+            {
+                "first_name": "Amalia",
+                "last_name": "Apelquist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "svenska vägföreningen"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Signe",
+            "last_name": "Borg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "J. P.",
+                    "last_name": "Borg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "underlöjtnant",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Emma",
+                    "last_name": "Petterson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1911",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Svenska Turistföreningens silvermedalj"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Bryssel",
+                "latitude": 50.8260453,
+                "longitude": 4.3802052,
+                "formatted_address": "Brussels, Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Prag",
+                "latitude": 50.0755381,
+                "longitude": 14.4378005,
+                "formatted_address": "Prague, Czechia"
+            },
+            "country_code": "CZE",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Kairo",
+                "latitude": 30.0444196,
+                "longitude": 31.2357116,
+                "formatted_address": "Cairo, Cairo Governorate, Egypt"
+            },
+            "country_code": "EGY",
+            "year": "1934"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "career": [
+        {
+            "position": "lektor i modersmål och historia",
+            "start_year": 1945,
+            "organization": "folkskoleseminariet i Linköping",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1947,
+            "end_year": 1949,
+            "organization": "folkskoleseminariet i Linköping",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lektor",
+            "start_year": 1949,
+            "organization": "Hvitfeldtska högre allmänna läroverket",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "professor i ekonomisk historia",
+            "start_year": 1954,
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Linus",
+        "last_name": "Attman",
+        "middle_name": "Artur",
+        "gender": "Male",
+        "birth_date": "31-10-1910",
+        "birth_place": {
+            "name": "Annelöv, Malmöhus Län",
+            "latitude": 55.8374032,
+            "longitude": 13.0193586,
+            "formatted_address": "261 94 Annelöv, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Jöns",
+                "last_name": "Jönsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "skräddaremästare",
+                    "occupation_english": "Master tailor",
+                    "hisco_code_swedish": "79100.0",
+                    "hisco_description_swedish": "Tailor, Specialisation Unknown",
+                    "hisco_code_english": "79100.0",
+                    "hisco_description_english": "Tailor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Olsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Lunds Universitet",
+            "start_year": 1940,
+            "field": "historia"
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Lunds Universitet",
+            "start_year": 1944,
+            "field": "historia"
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lunds Universitet",
+            "start_year": 1944,
+            "field": "historia"
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Göteborgs Universitet",
+            "start_year": 1944,
+            "field": "historia"
+        },
+        {
+            "position": "preceptor",
+            "position_english": "preceptor",
+            "institution": "Göteborgs Universitet",
+            "start_year": 1950
+        }
+    ],
+    "publications": [
+        {
+            "title": "Den ryska marknaden i 1500-talet i dess betydelse för den svenska politiken",
+            "year": "1944",
+            "type": "book"
+        },
+        {
+            "title": "Ryssland och Europa, handelshistorisk översikt",
+            "year": "1946",
+            "type": "book"
+        },
+        {
+            "title": "Kockumverken vid Ronnebyån",
+            "year": "1951",
+            "type": "book"
+        },
+        {
+            "title": "D. Carnegie & Co. 1803-1953",
+            "year": "1953",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1938,
+            "end_year": 1941,
+            "organization": "ASEA",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Platschef",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Marinello AB",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "ELDH",
+        "middle_name": "Åke",
+        "gender": "Male",
+        "birth_date": "03-03-1912",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Hj",
+                "last_name": "E",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Konstnär",
+                    "occupation_english": "Artist",
+                    "hisco_code_swedish": "16000.0",
+                    "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+                    "hisco_code_english": "17000.0",
+                    "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Berg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1930",
+            "institution": "Göteborgs högre latinläroverk"
+        },
+        {
+            "degree": "Examen från Chalmers tekniska institut (kemi)",
+            "degree_level": "Bachelor's",
+            "year": "1935",
+            "institution": "Chalmers tekniska institut"
+        },
+        {
+            "degree": "Diplom från Handelshögskolan i Göteborg (civilekonom)",
+            "degree_level": "Bachelor's",
+            "year": "1939",
+            "institution": "Handelshögskolan i Göteborg"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sonja",
+            "last_name": "Lundberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Musik"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Die Reaktivität des roten bzw gelben Bleioxyds mit Kieseldioxyd",
+            "year": "1936",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Estland",
+                "latitude": 58.595272,
+                "longitude": 25.013607,
+                "formatted_address": "Estonia"
+            },
+            "country_code": "EST",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Lettland",
+                "latitude": 56.879635,
+                "longitude": 24.603189,
+                "formatted_address": "Latvia"
+            },
+            "country_code": "LVA",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Litauen",
+                "latitude": 55.169438,
+                "longitude": 23.881275,
+                "formatted_address": "Lithuania"
+            },
+            "country_code": "LTU",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        }
+    ]
+}

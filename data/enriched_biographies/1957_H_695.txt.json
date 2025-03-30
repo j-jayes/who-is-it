@@ -1,0 +1,173 @@
+{
+    "career": [
+        {
+            "position": "Sjuksköterska",
+            "start_year": 1914,
+            "end_year": 1916,
+            "organization": "Röda Korset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Polikliniksköterska",
+            "start_year": 1917,
+            "end_year": 1925,
+            "organization": "Maria sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Norrbackainstitutet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Norrbackainstitutet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sigrid",
+        "last_name": "Höjer",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "25-01-1892",
+        "birth_place": {
+            "name": "Visby",
+            "latitude": 57.6348,
+            "longitude": 18.29484,
+            "formatted_address": "Visby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör, Rektor",
+            "occupation_english": "Director, Principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Höjer",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lektor",
+                    "occupation_english": "Lecturer",
+                    "hisco_code_swedish": "13030.0",
+                    "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Emmy",
+                "last_name": "Bergman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Vice Ordförande",
+            "organization": "Styrelsen för Solna yrkesskolor"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Sjuksköterskeexamen",
+            "degree_level": "Schooling",
+            "year": "1914-1916",
+            "institution": "Röda Korsets sjuksköterskeskola"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1920-1921",
+            "institution": "School of Economics, London"
+        },
+        {
+            "degree": "Husmoderkurs",
+            "degree_level": "Schooling",
+            "year": "1923",
+            "institution": "Svensk sjuksköterskeförening"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1951"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1951"
+        }
+    ]
+}

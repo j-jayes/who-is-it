@@ -1,0 +1,91 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Martin",
+        "last_name": "Emond",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "21-10-1895",
+        "birth_place": {
+            "name": "Tågarp, Malmöhus Län",
+            "latitude": 55.9256294,
+            "longitude": 12.955556,
+            "formatted_address": "268 75 Tågarp, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Landskrona",
+        "latitude": 55.8703477,
+        "longitude": 12.8300802,
+        "formatted_address": "Landskrona, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "tekniska skolan"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "konstakademin i Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "career": [
+        {
+            "position": "Fiskal",
+            "start_year": 1933,
+            "organization": "Svea hovrätt",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Assess",
+            "start_year": 1939,
+            "organization": "Svea hovrätt",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Revisionssekreterare",
+            "start_year": 1946
+        },
+        {
+            "position": "Ordförande",
+            "start_year": 1951,
+            "end_year": 1954,
+            "organization": "Nedre justitierevisionen"
+        },
+        {
+            "position": "Häradshövding",
+            "start_year": 1955,
+            "organization": "Södra Roslags domsaga"
+        },
+        {
+            "position": "Ledamot",
+            "start_year": 1944,
+            "end_year": 1958,
+            "organization": "Hyresrådet"
+        },
+        {
+            "position": "Suppleant",
+            "start_year": 1945,
+            "end_year": 1958,
+            "organization": "Hyresrådet"
+        },
+        {
+            "position": "Ordförande",
+            "start_year": 1957,
+            "organization": "Nykterhetsnämnden för Stockholms Län"
+        }
+    ],
+    "person": {
+        "first_name": "Knut",
+        "last_name": "Alexanderson",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "30-05-1906",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "Häradshövding",
+            "occupation_english": "District Judge",
+            "hisco_code_swedish": "12210.0",
+            "hisco_description_swedish": "Judge"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Alexanderson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Justitieråd",
+                    "occupation_english": "Justice Councillor",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Hedvig",
+                "last_name": "von Bahr",
+                "gender": "Female"
+            }
+        ]
+    },
+    "political_positions": [
+        {
+            "organization": "Landstinget",
+            "position": "Landstingsman",
+            "start_year": 1946
+        },
+        {
+            "organization": "Stadsfullmäktige",
+            "position": "Stadsfullmäktige",
+            "start_year": 1946,
+            "end_year": 1962
+        },
+        {
+            "organization": "Första Kammaren",
+            "position": "Ledamot",
+            "start_year": 1955,
+            "focus_area": "Lagutskott",
+            "significance": "Ordförande 3:e lagutskottet, Folkpartiet"
+        }
+    ],
+    "travels": null
+}

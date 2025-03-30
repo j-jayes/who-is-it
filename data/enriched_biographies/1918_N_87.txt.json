@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1962,
+            "end_year": 1964,
+            "organization": "Haddorps lantbruksskola",
+            "location": {
+                "name": "Haddorp",
+                "latitude": 58.3732169,
+                "longitude": 15.5011866,
+                "formatted_address": "Haddorps Säteri 1, 583 93 Vikingstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1966,
+            "end_year": null,
+            "organization": "Väderbrunns lantbruksskola",
+            "location": {
+                "name": "Väderbrunn",
+                "latitude": 58.771794,
+                "longitude": 16.910719,
+                "formatted_address": "Väderbrunnsvägen, 611 92 Nyköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Mejeriinstruktör",
+            "start_year": 1967,
+            "end_year": 1969,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Förvaltare",
+            "start_year": 1971,
+            "end_year": 1972,
+            "organization": "Lindholms gods",
+            "location": {
+                "name": "Sörmland",
+                "latitude": 59.03363489999999,
+                "longitude": 16.7518899,
+                "formatted_address": "Södermanland County, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kvarnarrendator",
+            "start_year": 1974,
+            "end_year": 1979,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Lantbrukare",
+            "start_year": 1980,
+            "end_year": null,
+            "organization": "Höglunda",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kommunalman",
+            "start_year": 1980,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Landstingsman",
+            "start_year": 1980,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Riksdagsledamot (Andra Kammaren)",
+            "start_year": 1894,
+            "end_year": 1911,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Andersson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "03-09-1840",
+        "birth_place": {
+            "name": "Norrkvarn, Lvrestad, Skaraborgs Län",
+            "latitude": 58.78660799999999,
+            "longitude": 14.0822085,
+            "formatted_address": "Norrqvarns Slussområde, Norrkvarn Kvarnen 1, 548 93 Lyrestad, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Lars",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byggmästare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor"
+                }
+            },
+            {
+                "first_name": "Stina",
+                "last_name": "Andersdotter",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Hilda",
+            "last_name": "Fornell",
+            "middle_name": "Charlotta",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "L.A.",
+                    "last_name": "Fornell",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Komminister",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "14120.0",
+                        "hisco_description_swedish": "Minister of Religion"
+                    }
+                },
+                {
+                    "first_name": "Johanna",
+                    "last_name": "Bredberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1887",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Skottland",
+                "latitude": 56.49067119999999,
+                "longitude": -4.2026458,
+                "formatted_address": "Scotland, UK"
+            },
+            "country_code": "GBR",
+            "year": "1864"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1865"
+        },
+        {
+            "country": {
+                "name": "Storbritannien",
+                "latitude": 55.378051,
+                "longitude": -3.435973,
+                "formatted_address": "United Kingdom"
+            },
+            "country_code": "GBR",
+            "year": "1868"
+        }
+    ]
+}

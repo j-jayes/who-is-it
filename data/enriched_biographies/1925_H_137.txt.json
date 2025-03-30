@@ -1,0 +1,201 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1906,
+            "end_year": 1919,
+            "organization": "Lunds privata elementarskola",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1919,
+            "end_year": 1922,
+            "organization": "Malmö tekniska läroverk",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Södermalms högre allmänna läroverk",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Heinertz",
+        "middle_name": "Otto",
+        "gender": "Male",
+        "birth_date": "05-11-1876",
+        "birth_place": {
+            "name": "Håslöv, Malmöhus Län",
+            "latitude": 55.438193,
+            "longitude": 13.0451865,
+            "formatted_address": "235 91 Håslöv, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lektor",
+            "occupation_english": "Lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Folkskollärare",
+                    "occupation_english": "Primary School Teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Greis-son",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1906,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1906,
+            "end_year": 1921,
+            "field": "Tyska"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Die mittelniederdeutsche Version des Bienenbuches von Thomas von Chantimpré",
+            "year": "1906",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Lessing, Minna von Barnhelm, skoluppl.",
+            "year": "1909",
+            "type": "book",
+            "editions": [
+                {
+                    "edition_number": "2",
+                    "year": "1918",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Kroger, Die a!te Truhe, skoluppl.",
+            "year": "1915",
+            "type": "book",
+            "editions": [
+                {
+                    "edition_number": "2",
+                    "year": "1922",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Tysk läsebok för tekniska skolan",
+            "year": "1920",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Engelsk läsebok för tekniska skolan",
+            "year": "1921",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

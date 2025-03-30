@@ -1,0 +1,191 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1905,
+            "end_year": 1906,
+            "organization": "Baldwin Locomotive Works",
+            "location": {
+                "name": "Philadelphia",
+                "latitude": 39.9525839,
+                "longitude": -75.1652215,
+                "formatted_address": "Philadelphia, PA, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1906,
+            "end_year": 1907,
+            "organization": "Pennsylvania Rail Road",
+            "location": {
+                "name": "Altoona",
+                "latitude": 40.5186809,
+                "longitude": -78.3947359,
+                "formatted_address": "Altoona, PA, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1907,
+            "end_year": 1908,
+            "organization": "Hudson Cies",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Konstruktör",
+            "start_year": 1909,
+            "end_year": 1910,
+            "organization": "Atlas verkstäder",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konstruktör",
+            "start_year": 1910,
+            "end_year": 1913,
+            "organization": "Maskintekniska byrån i Järnvägsstyrelsen",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underingenjör",
+            "start_year": 1914,
+            "end_year": 1919,
+            "organization": "Statens Järnvägars Huvudverkstad",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Avdelningschef",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "A-B Nordiska Armaturfabrikerna",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ralph",
+        "last_name": "Westerlund",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "16-11-1883",
+        "birth_place": {
+            "name": "Providence, Rhode Island, USA",
+            "latitude": 41.8245558,
+            "longitude": -71.414199,
+            "formatted_address": "Providence, RI, USA"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör, avdelningschef",
+            "occupation_english": "Civil Engineer, Head of Department",
+            "hisco_code_english": "2200.0",
+            "hisco_description_english": "Civil Engineers"
+        },
+        "parents": [
+            {
+                "first_name": "Lars",
+                "last_name": "Westerlund",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Civilingenjör",
+                    "occupation_english": "Civil Engineer",
+                    "hisco_code_swedish": "2210.0",
+                    "hisco_description_swedish": "Civil Engineer, General"
+                }
+            },
+            {
+                "first_name": "Marie",
+                "last_name": "Hansen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "RVO 1944"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Schooling",
+            "year": "1905",
+            "institution": "CTI (M)"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Öberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1911",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Georg",
+                "last_name": "Westerlund",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1911"
+            },
+            {
+                "first_name": "Anna-Lisa",
+                "last_name": "Westerlund",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1914"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

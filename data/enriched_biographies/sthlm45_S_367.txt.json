@@ -1,0 +1,158 @@
+{
+    "career": [
+        {
+            "position": "Underlöjtnant",
+            "start_year": 1913,
+            "organization": "Flottan"
+        },
+        {
+            "position": "Löjtnant",
+            "start_year": 1917,
+            "organization": "Flottan"
+        },
+        {
+            "position": "Kapten",
+            "start_year": 1923,
+            "end_year": 1935,
+            "organization": "Flottan",
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1935,
+            "organization": "De Förenade Kolsyrefabrikernas Aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Tore",
+        "last_name": "Simonsson",
+        "middle_name": "Magnus",
+        "gender": "Male",
+        "birth_date": "12-03-1893",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kapten, Direktör",
+            "occupation_english": null,
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "N.",
+                "last_name": "Simonsson",
+                "middle_name": "M.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Rosina",
+                "last_name": "Hartmann",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Diplom från Handelshögskolan",
+            "degree_level": "Schooling",
+            "year": "1919",
+            "institution": "Handelshögskolan Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Dagmar",
+            "last_name": "Neumüller",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1918",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Vasaorden",
+        "Officer av Nederländska Orange-Nassauorden med svärd",
+        "Riddare av S:t Mauritius och Lazarusorden"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "string"
+        },
+        {
+            "country": {
+                "name": "Nordamerika",
+                "latitude": 54.5259614,
+                "longitude": -105.2551187,
+                "formatted_address": "North America"
+            },
+            "country_code": "string"
+        },
+        {
+            "country": {
+                "name": "Centralamerika",
+                "latitude": 12.7690126,
+                "longitude": -85.60236429999999,
+                "formatted_address": "Central America"
+            },
+            "country_code": "string"
+        },
+        {
+            "country": {
+                "name": "Sydamerika",
+                "latitude": -8.783195,
+                "longitude": -55.491477,
+                "formatted_address": "South America"
+            },
+            "country_code": "string"
+        }
+    ]
+}

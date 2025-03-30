@@ -1,0 +1,273 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1895,
+            "end_year": null,
+            "organization": "Tyskland",
+            "location": null,
+            "country_code": "DEU"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1897,
+            "end_year": null,
+            "organization": "Ädelfors gruvor",
+            "location": {
+                "name": "Småland",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överingjör",
+            "start_year": 1899,
+            "end_year": null,
+            "organization": "Norrbottens malmförädlingsverk",
+            "location": {
+                "name": "Luleå",
+                "latitude": 65.584819,
+                "longitude": 22.1567026,
+                "formatted_address": "Luleå, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1905,
+            "end_year": null,
+            "organization": "Malmundersökning",
+            "location": {
+                "name": "Lappland",
+                "latitude": 67.9222304,
+                "longitude": 26.5046438,
+                "formatted_address": "Lapland, Finland"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1906,
+            "end_year": null,
+            "organization": "Falu gruva",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1913,
+            "end_year": 1929,
+            "organization": "Luossavaara-Kiirunavaara Aktiebolag",
+            "location": {
+                "name": "Malmberget",
+                "latitude": 67.1736529,
+                "longitude": 20.6545165,
+                "formatted_address": "Malmberget, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i gruvvetenskap",
+            "start_year": 1929,
+            "end_year": 1943,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor emeritus",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Bring",
+        "middle_name": "G",
+        "gender": "Male",
+        "birth_date": "11-04-1876",
+        "birth_place": {
+            "name": "Lindesberg",
+            "latitude": 59.5976983,
+            "longitude": 15.2229108,
+            "formatted_address": "Lindesberg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor emeritus",
+            "occupation_english": "Professor emeritus",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byggmästare",
+                    "occupation_english": "Building contractor",
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor",
+                    "hisco_code_english": "21240.0",
+                    "hisco_description_english": "Contractor"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Ericsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Örebro tekniska gymnasiet",
+            "degree_level": "Schooling",
+            "year": "1895",
+            "institution": "Örebro tekniska gymnasiet"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Bachelor's",
+            "year": "1909-1910",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sally",
+            "last_name": "Asplund",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Robert",
+                    "last_name": "A",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Konsul",
+                        "occupation_english": "Consul",
+                        "hisco_code_swedish": "20210.0",
+                        "hisco_description_swedish": "Government Administrator",
+                        "hisco_code_english": "20210.0",
+                        "hisco_description_english": "Government Administrator"
+                    }
+                },
+                {
+                    "first_name": "Karin",
+                    "last_name": "Groth",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1907",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Bring",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1909"
+            },
+            {
+                "first_name": "Tore",
+                "last_name": "Bring",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1913"
+            }
+        ]
+    },
+    "hobbies": [
+        "fiske"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Nordstjärneorden",
+        "Riddare av Norska Sankt Olavs Orden första klassen",
+        "Rinmanmedaljen",
+        "Brinellmedaljen"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Tidskriftsuppsatser huvudsakligen i anrikning, malmletning och gruvbrytning",
+            "year": "None",
+            "type": "Tidskriftsuppsats",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Mexico",
+                "latitude": 23.634501,
+                "longitude": -102.552784,
+                "formatted_address": "Mexico"
+            },
+            "country_code": "MEX",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1935"
+        }
+    ]
+}

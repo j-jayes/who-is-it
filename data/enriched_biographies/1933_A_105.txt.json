@@ -1,0 +1,138 @@
+{
+    "career": [
+        {
+            "position": "Direktör",
+            "start_year": 1910,
+            "end_year": null,
+            "organization": "Skandinaviska Kreditaktiebolaget",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Andreen",
+        "middle_name": "Ragnar",
+        "gender": "Male",
+        "birth_date": "25-09-1871",
+        "birth_place": {
+            "name": "Åmål",
+            "latitude": 25.7264714,
+            "longitude": -80.2442126,
+            "formatted_address": "3480 Main Hwy Suite 100, Miami, FL 33133, USA"
+        },
+        "occupation": {
+            "occupation": "Bankdirektör",
+            "occupation_english": "Bank Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "44140.0",
+            "hisco_description_english": "Stock Broker"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Andreen",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fördelningsläkare",
+                    "occupation_english": "District Medical Officer",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician",
+                    "hisco_code_english": "31090.0",
+                    "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Hagberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1891",
+            "institution": "Göteborgs Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Valborg",
+            "last_name": "Andreen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "And.",
+                    "last_name": "Andreen",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Bankdirektör",
+                        "occupation_english": "Bank Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "44140.0",
+                        "hisco_description_english": "Stock Broker"
+                    }
+                },
+                {
+                    "first_name": "Matilda",
+                    "last_name": "Malmsjö",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1901",
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Storbritannien",
+                "latitude": 55.378051,
+                "longitude": -3.435973,
+                "formatted_address": "United Kingdom"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

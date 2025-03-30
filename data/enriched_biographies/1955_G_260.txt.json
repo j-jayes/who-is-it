@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "gruvingenjör",
+            "start_year": 1918,
+            "end_year": 1927,
+            "organization": "None",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "gruvingenjör",
+            "start_year": 1928,
+            "end_year": 1929,
+            "organization": "Höganäs",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "överingenjör",
+            "start_year": 1930,
+            "end_year": 1934,
+            "organization": "Höganäs",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Höganäs-bolaget",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Gummeson",
+        "middle_name": "Egon",
+        "gender": "Male",
+        "birth_date": "24-03-1893",
+        "birth_place": {
+            "name": "Borrby, Kristianstads Län",
+            "latitude": 55.4578377,
+            "longitude": 14.1788258,
+            "formatted_address": "276 30 Borrby, Sweden"
+        },
+        "occupation": {
+            "occupation": "direktör",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Gummeson",
+                "middle_name": "None",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Persson",
+                "middle_name": "None",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "Klippans finpappersbruks aktiebolag"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "Svenska Sockerfabriksaktiebolaget"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "Arbetsgivareföreningen"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "Industriförbundet"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "Aktiebolaget Ehrnberg och sons läderfabrik"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "fabriksstyrelseråd",
+            "role": "ordförande",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Höganäs",
+        "latitude": 56.2006388,
+        "longitude": 12.5553288,
+        "formatted_address": "Höganäs, Sweden"
+    },
+    "education": [
+        {
+            "degree": "gruvingenjör",
+            "degree_level": "Master's",
+            "year": "1917",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "LIVA 1938"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "ett flertal uppsatser",
+            "year": "None",
+            "type": "fackpressen",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

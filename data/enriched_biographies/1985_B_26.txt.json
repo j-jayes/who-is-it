@@ -1,0 +1,118 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Michael",
+        "last_name": "Gutman",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "02-01-1951",
+        "birth_place": {
+            "name": "Bukhara, Sovjetunionen",
+            "latitude": 39.7680827,
+            "longitude": 64.4555769,
+            "formatted_address": "Bukhara, Bukhara Region, Uzbekistan"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Michael",
+                "last_name": "Gutman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Ingenjör",
+                    "occupation_english": "Engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Frida",
+                "last_name": "Reinis",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": [
+        {
+            "degree": "Music School",
+            "degree_level": "Schooling",
+            "year": "1966",
+            "institution": "State Conservatory Tashkent"
+        },
+        {
+            "degree": "Tel Aviv Conservatory",
+            "degree_level": "Schooling",
+            "year": "1969",
+            "institution": "Tel Aviv Conservatory"
+        },
+        {
+            "degree": "Acad of Music",
+            "degree_level": "Schooling",
+            "year": "1971",
+            "institution": "University of Tel Aviv"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Nordamerika",
+                "latitude": 54.5259614,
+                "longitude": -105.2551187,
+                "formatted_address": "North America"
+            },
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Sydamerika",
+                "latitude": -8.783195,
+                "longitude": -55.491477,
+                "formatted_address": "South America"
+            },
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "string",
+            "year": null
+        }
+    ]
+}

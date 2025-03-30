@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1928,
+            "end_year": 1934,
+            "organization": "Svenska livförsäkringsbolaget",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lärare",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Västerviks folkskola",
+            "location": {
+                "name": "Västervik",
+                "latitude": 57.75771559999999,
+                "longitude": 16.6369759,
+                "formatted_address": "Västervik, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lärare",
+            "start_year": 1937,
+            "end_year": 1945,
+            "organization": "Karlskoga folkskola",
+            "location": {
+                "name": "Karlskoga",
+                "latitude": 59.32863399999999,
+                "longitude": 14.536414,
+                "formatted_address": "Karlskoga, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lärare",
+            "start_year": 1945,
+            "end_year": 1956,
+            "organization": "Trollhättans folkskola",
+            "location": {
+                "name": "Trollhättan",
+                "latitude": 58.28348939999999,
+                "longitude": 12.2858206,
+                "formatted_address": "Trollhättan, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lärare",
+            "start_year": 1956,
+            "end_year": 1958,
+            "organization": "hal Vänersborg",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "adjunkt",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "hal Trollhättan",
+            "location": {
+                "name": "Trollhättan",
+                "latitude": 58.28348939999999,
+                "longitude": 12.2858206,
+                "formatted_address": "Trollhättan, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Kaisu",
+        "last_name": "Englesson",
+        "middle_name": "E V",
+        "gender": "Female",
+        "birth_date": "07-03-1909",
+        "birth_place": {
+            "name": "Norrköping",
+            "latitude": 58.587745,
+            "longitude": 16.192421,
+            "formatted_address": "Norrköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "läroverksadjunkt",
+            "occupation_english": "upper secondary school teacher",
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+            "hisco_code_english": "13020.0",
+            "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+        },
+        "parents": [
+            {
+                "first_name": "Olof",
+                "last_name": "Nordenskiöld",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ingenjör",
+                    "occupation_english": "engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Tengman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Trollhättan",
+        "latitude": 58.28348939999999,
+        "longitude": 12.2858206,
+        "formatted_address": "Trollhättan, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1927",
+            "institution": "Stockholms Högskola"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1934",
+            "institution": "Stockholms Högskola"
+        },
+        {
+            "degree": "folkskollärarexamen",
+            "degree_level": "Bachelor's",
+            "year": "1935",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunnar",
+            "last_name": "Englesson",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "ingenjör",
+                "occupation_english": "engineer",
+                "hisco_code_swedish": "2000.0",
+                "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                "hisco_code_english": "84100.0",
+                "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+            },
+            "parents": null
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Eric",
+                "last_name": "Englesson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Torbjörn",
+                "last_name": "Englesson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "hobbies": [
+        "botanik",
+        "ornitologi"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

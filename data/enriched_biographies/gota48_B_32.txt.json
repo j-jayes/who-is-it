@@ -1,0 +1,196 @@
+{
+    "career": [
+        {
+            "position": "Distriktsveterinär",
+            "start_year": 1919,
+            "organization": "Ockelbo distrikt",
+            "location": {
+                "name": "Ockelbo",
+                "latitude": 60.89178399999999,
+                "longitude": 16.7201873,
+                "formatted_address": "Ockelbo, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lärare i veterinärkunnskap",
+            "start_year": 1922,
+            "organization": "Skara lantmannaskola",
+            "location": {
+                "name": "Skara",
+                "latitude": 58.3860128,
+                "longitude": 13.4393282,
+                "formatted_address": "Skara, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor och föreståndare",
+            "start_year": 1923,
+            "organization": "Veterinärinrättningen i Skara",
+            "location": {
+                "name": "Skara",
+                "latitude": 58.3860128,
+                "longitude": 13.4393282,
+                "formatted_address": "Skara, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Vidar",
+        "last_name": "Behm",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "25-07-1889",
+        "birth_place": {
+            "name": "Ragunda församling, Jämtlands Län",
+            "latitude": 63.11157240000001,
+            "longitude": 16.353463,
+            "formatted_address": "Centralgatan 3, 844 32 Hammarstrand, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lektor",
+            "occupation_english": "Lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "K.M.",
+                "last_name": "Behm",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Länsveterinär",
+                    "occupation_english": "County Veterinarian",
+                    "hisco_code_swedish": "6510.0",
+                    "hisco_description_swedish": "Veterinarian, General",
+                    "hisco_code_english": "6510.0",
+                    "hisco_description_english": "Veterinarian, General"
+                }
+            },
+            {
+                "first_name": "Ingrid Marta",
+                "last_name": "Martema",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Riddare av Vasaorden (RVO)"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Skara",
+        "latitude": 58.3860128,
+        "longitude": 13.4393282,
+        "formatted_address": "Skara, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1910",
+            "institution": "Umeå högre allmänna läroverk"
+        },
+        {
+            "degree": "Veterinärexamen",
+            "degree_level": "Bachelor's",
+            "year": "1915",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Wilily",
+            "last_name": "Hallander",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Brita",
+                "last_name": "Behm",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1926"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Rasstambok för Nordsvenska hästar",
+            "year": "1923",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": "band 3"
+        },
+        {
+            "title": "Rasstambok för Nordsvenska hästar",
+            "year": "1927",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": "band 4"
+        },
+        {
+            "title": "Rasstambok för Nordsvenska hästar",
+            "year": "1929",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": "band 5"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1931"
+        }
+    ]
+}

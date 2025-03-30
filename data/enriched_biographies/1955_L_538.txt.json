@@ -1,0 +1,121 @@
+{
+    "career": [
+        {
+            "position": "Lektor i kristendom och filosofi",
+            "start_year": 1946,
+            "organization": "Halmstad högre allmänna läroverk",
+            "location": {
+                "name": "Halmstad",
+                "latitude": 56.6743748,
+                "longitude": 12.8577884,
+                "formatted_address": "Halmstad, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i Nya testamentets exegetik",
+            "start_year": 1949,
+            "organization": "Köpenhamns Universitet",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK"
+        }
+    ],
+    "person": {
+        "first_name": "Olof",
+        "last_name": "Linton",
+        "middle_name": "Ditlef",
+        "gender": "Male",
+        "birth_date": "25-09-1898",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "parents": [
+            {
+                "first_name": "Alfred",
+                "last_name": "Linton",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kontorschef",
+                    "hisco_code_swedish": "22110.0",
+                    "hisco_description_swedish": "Clerical Supervisor, General"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Lind",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": "Nya testamentets exegetik",
+            "start_year": 1932
+        }
+    ],
+    "publications": [
+        {
+            "title": "Das Problem der Urkirche in der neueren Forschung",
+            "year": "1932",
+            "type": "avhandling"
+        },
+        {
+            "title": "De tre första evangelierna",
+            "year": "1938",
+            "type": "bok"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1935"
+        }
+    ]
+}

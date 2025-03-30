@@ -1,0 +1,169 @@
+{
+    "career": [
+        {
+            "position": "apotekare",
+            "start_year": 1890,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Teckomatorp",
+                "latitude": 55.8668993,
+                "longitude": 13.0897474,
+                "formatted_address": "268 71 Teckomatorp, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "apotekare",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Lejonet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "hovapotekare",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Poignant",
+        "middle_name": "Vilhelm Teodor",
+        "gender": "Male",
+        "birth_date": "18-12-1866",
+        "birth_place": {
+            "name": "Stavnäs, Värmlands Län",
+            "latitude": 59.4021104,
+            "longitude": 13.7456654,
+            "formatted_address": "655 94 Stavnäs, Sweden"
+        },
+        "occupation": {
+            "occupation": "hovapotekare",
+            "occupation_english": "Court Pharmacist",
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist",
+            "hisco_code_english": "41030.0",
+            "hisco_description_english": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Anton",
+                "last_name": "Poignant",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kapten",
+                    "occupation_english": "captain",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Emelie",
+                "last_name": "Kuylenstierna",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Stockholms farmaceutklubb",
+            "role": "ordförande",
+            "start_year": 1904,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Göteborgskretsen av Sveriges farmaceutförbund",
+            "role": "ordförande",
+            "start_year": 1908,
+            "end_year": 1909,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "farmaceut:s sjukkassa",
+            "role": "ordförande",
+            "start_year": 1908,
+            "end_year": 1912,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "apotekarsocietetets direktör",
+            "role": "sekreterare",
+            "start_year": 1923,
+            "end_year": 1924,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Fédération internat, pharmaceutique",
+            "role": "sekreterare",
+            "start_year": 1925,
+            "end_year": 1930,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "apotekarexamen",
+            "degree_level": "Master's",
+            "year": "1890",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Bryssel",
+                "latitude": 50.8260453,
+                "longitude": 4.3802052,
+                "formatted_address": "Brussels, Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1910"
+        }
+    ]
+}

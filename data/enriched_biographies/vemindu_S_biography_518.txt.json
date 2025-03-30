@@ -1,0 +1,189 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1907,
+            "organization": "Skånes Enskilda Bank",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1910,
+            "organization": "Skandinaviska Banken",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kassör",
+            "start_year": 1913,
+            "organization": "Skandinaviska Banken Ystadskontor",
+            "location": {
+                "name": "Ystad",
+                "latitude": 55.4295051,
+                "longitude": 13.8200308,
+                "formatted_address": "Ystad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kassör",
+            "start_year": 1919,
+            "organization": "Skandinaviska Banken",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1932,
+            "organization": "Skandinaviska Banken Halmstadskontor",
+            "location": {
+                "name": "Halmstad",
+                "latitude": 56.6743748,
+                "longitude": 12.8577884,
+                "formatted_address": "Halmstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1938,
+            "organization": "Skandinaviska Banken",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Alexis",
+        "last_name": "Söderberg",
+        "middle_name": "Sigurd",
+        "gender": "Male",
+        "birth_date": "11-07-1887",
+        "birth_place": {
+            "name": "Nevishög, Malmöhus Län",
+            "latitude": 55.633333,
+            "longitude": 13.216667,
+            "formatted_address": "245 45 Nevishög, Sweden"
+        },
+        "occupation": {
+            "occupation": "Bankdirektör",
+            "occupation_english": "Bank Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "44140.0",
+            "hisco_description_english": "Stock Broker"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Söderberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Skräddarmästare",
+                    "occupation_english": "Master Tailor",
+                    "hisco_code_swedish": "79100.0",
+                    "hisco_description_swedish": "Tailor, Specialisation Unknown",
+                    "hisco_code_english": "79100.0",
+                    "hisco_description_english": "Tailor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Boel",
+                "last_name": "Bengtsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1907",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Stanny",
+            "last_name": "Bengtsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Konst",
+        "Foto",
+        "Filateli"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1923"
+        }
+    ]
+}

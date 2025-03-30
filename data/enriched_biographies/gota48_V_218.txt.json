@@ -1,0 +1,355 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1917,
+            "end_year": 1923,
+            "organization": "sjukhus",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1917,
+            "end_year": 1923,
+            "organization": "sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1917,
+            "end_year": 1923,
+            "organization": "sjukhus",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1923,
+            "end_year": 1928,
+            "organization": "Akademiska sjukhuset kirurgiska kliniken",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underkirurg",
+            "start_year": 1928,
+            "end_year": 1931,
+            "organization": "Akademiska sjukhuset",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "biträdande lärare i kirurgi",
+            "start_year": 1928,
+            "end_year": 1931,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "tillförordnad överläkare",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "tillförordnad professor i kirurgi",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Söderköping",
+                "latitude": 58.4759013,
+                "longitude": 16.3234307,
+                "formatted_address": "Söderköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1924,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Bollnäs",
+                "latitude": 61.34837950000001,
+                "longitude": 16.3942685,
+                "formatted_address": "Bollnäs, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Karlstad",
+                "latitude": 59.4021806,
+                "longitude": 13.5114977,
+                "formatted_address": "Karlstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Lidköping",
+                "latitude": 58.5035047,
+                "longitude": 13.1570768,
+                "formatted_address": "Lidköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1931,
+            "end_year": 1939,
+            "organization": null,
+            "location": {
+                "name": "Varberg",
+                "latitude": 57.107118,
+                "longitude": 12.2520907,
+                "formatted_address": "Varberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "kirurgiska kliniken II vid Sahlgrenska sjukhuset",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lärare i krigskirurgi",
+            "start_year": 1928,
+            "end_year": 1930,
+            "organization": "värnpliktiga läkare",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lärare i kirurgi",
+            "start_year": 1945,
+            "end_year": 1948,
+            "organization": "norska medicinare vid Sahlgrenska sjukhuset",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Anders",
+        "last_name": "Westerborn",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "05-09-1888",
+        "birth_place": {
+            "name": "Västerborn, Bollnäs",
+            "latitude": 61.34837950000001,
+            "longitude": 16.3942685,
+            "formatted_address": "Bollnäs, Sweden"
+        },
+        "occupation": {
+            "occupation": "överläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": null,
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1928,
+            "end_year": 1931,
+            "field": "kirurgi"
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "Riddare av Nordstjärneorden (RNO)",
+        "Kommendör av Finlands Lejons orden (KFinlLO)",
+        "Franska Krigs Korset 4:e klass (FFrK4kl)"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Varbergs stadsfullmäktige",
+            "role": "Ledamot",
+            "start_year": 1935,
+            "end_year": 1939,
+            "organization": "högern",
+            "significance": null
+        },
+        {
+            "committee_name": "nämndeman",
+            "role": "nämndeman",
+            "start_year": 1948,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Göteborgs läkarsällskap",
+            "role": "ordförande",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1911",
+            "institution": "Lund"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1916",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1920",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1928",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ella",
+            "last_name": "Mårtensson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null
+        },
+        "marriage_year": "1922",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ingrid",
+                "last_name": "Westerborn",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1923"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Westerborn",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1924"
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Westerborn",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1930"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Beiträge zur Kenntnis der Beckenbrüche und Beckenluxationen",
+            "year": "1928",
+            "type": "gradavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1947"
+        }
+    ]
+}

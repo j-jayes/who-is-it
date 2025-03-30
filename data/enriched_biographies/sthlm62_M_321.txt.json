@@ -1,0 +1,213 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1923,
+            "end_year": 1931,
+            "organization": "Bergedorfer Eisenwerk AG",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vice Verkställande Direktör",
+            "start_year": 1931,
+            "end_year": 1941,
+            "organization": "Bergedorfer Eisenwerk AG",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Aktiebolaget Sukab",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "MOTT",
+        "middle_name": "E V K",
+        "gender": "Male",
+        "birth_date": "07-03-1900",
+        "birth_place": {
+            "name": "Mainz",
+            "latitude": 49.9928617,
+            "longitude": 8.2472526,
+            "formatted_address": "55 Mainz, Germany"
+        },
+        "occupation": {
+            "occupation": "Verkställande Direktör",
+            "occupation_english": "Managing Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hans",
+                "last_name": "Mott",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överingjör",
+                    "occupation_english": "Chief Engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Lizzie",
+                "last_name": "Bosch",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "KVO"
+    ],
+    "board_memberships": [
+        {
+            "position": "Styrelseordförande",
+            "organization": "Svenska Siemens Aktiebolag"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Småindustrins exportråd",
+            "role": "Vice Ordförande",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lidingö",
+        "latitude": 59.36295999999999,
+        "longitude": 18.1468,
+        "formatted_address": "Lidingö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1917",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Kandidatexamen",
+            "degree_level": "Bachelor's",
+            "year": "1923",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Änne",
+            "last_name": "Hodgkinson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "William",
+                    "last_name": "H",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": null
+                },
+                {
+                    "first_name": "Elizabeth",
+                    "last_name": "Allen",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1931",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Änne",
+                "last_name": "Mott",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1932"
+            },
+            {
+                "first_name": "Mikael",
+                "last_name": "Mott",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1933"
+            },
+            {
+                "first_name": "Daphne",
+                "last_name": "Mott",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1937"
+            },
+            {
+                "first_name": "Elizabeth",
+                "last_name": "Mott",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            }
+        ]
+    },
+    "hobbies": [
+        "Resor"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Algeriet",
+                "latitude": 28.033886,
+                "longitude": 1.659626,
+                "formatted_address": "Algeria"
+            },
+            "country_code": "DZA",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Turkiet",
+                "latitude": 38.963745,
+                "longitude": 35.243322,
+                "formatted_address": "Türkiye"
+            },
+            "country_code": "TUR",
+            "year": "1937"
+        }
+    ]
+}

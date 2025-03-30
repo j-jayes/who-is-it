@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1922,
+            "end_year": 1931,
+            "organization": "Aktiebolaget Ernst Ljunggren",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Aktiebolaget K A Ullholm",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Försäljningschef",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Aktiebolaget K A Ullholm",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Lindström",
+        "middle_name": "Anders",
+        "gender": "Male",
+        "birth_date": "15-01-1903",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Försäljningschef",
+            "occupation_english": "Sales Manager",
+            "hisco_code_swedish": "21300.0",
+            "hisco_description_swedish": "Sales Manager, Specialisation Unknown",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Lindström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Handlare",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Frida",
+                "last_name": "Sandquist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Strumpfabriks Aktiebolag"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Teaterföreningen i Linköping"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Göteborgs Gille i Linköping"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Linköping",
+        "latitude": 58.41080700000001,
+        "longitude": 15.6213727,
+        "formatted_address": "Linköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1921",
+            "institution": "Göteborgs Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Britta",
+            "last_name": "Karleson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Tandläkare",
+                "occupation_english": "Dentist",
+                "hisco_code_swedish": "6310.0",
+                "hisco_description_swedish": "Dentist, General",
+                "hisco_code_english": "6310.0",
+                "hisco_description_english": "Dentist, General"
+            },
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Golf"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

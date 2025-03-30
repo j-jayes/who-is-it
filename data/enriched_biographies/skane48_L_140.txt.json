@@ -1,0 +1,107 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1936,
+            "organization": "A/S Bloch & Behrens",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1945,
+            "organization": "Aktiebolaget Ullimport",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Jörgen",
+        "last_name": "Liebing",
+        "middle_name": "Herman",
+        "gender": "Male",
+        "birth_date": "24-07-1920",
+        "birth_place": {
+            "name": "Randers, Danmark",
+            "latitude": 56.460584,
+            "longitude": 10.036539,
+            "formatted_address": "Randers, Denmark"
+        },
+        "occupation": {
+            "occupation": "civilekonom",
+            "occupation_english": "economist",
+            "hisco_code_swedish": "9010.0",
+            "hisco_description_swedish": "Economist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Herman",
+                "last_name": "Liebing",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ingenjör",
+                    "occupation_english": "engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Karla",
+                "last_name": "Arneson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Realexamen",
+            "degree_level": "Schooling",
+            "year": "1936",
+            "institution": "Randers"
+        },
+        {
+            "degree": "Högskola",
+            "degree_level": "Bachelor's",
+            "year": "1945",
+            "institution": "Handelshögskolan i Köpenhamn"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "tennis",
+        "ridning"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

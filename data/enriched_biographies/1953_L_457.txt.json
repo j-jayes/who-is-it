@@ -1,0 +1,184 @@
+{
+    "career": [
+        {
+            "position": "assistent vid Göteborgs rådhusrätt",
+            "start_year": 1931,
+            "end_year": 1944,
+            "organization": "Göteborgs rådhusrätt",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "rådman",
+            "start_year": 1944,
+            "organization": "Göteborgs rådhusrätt",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "adjungerad ledamot",
+            "start_year": 1936,
+            "organization": "Göta hovrätt",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "förlikningsman i arbetstvister",
+            "start_year": 1945,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sten",
+        "last_name": "Lindquist",
+        "middle_name": "Nils Gustaf",
+        "gender": "Male",
+        "birth_date": "16-05-1898",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "rådman",
+            "occupation_english": "councilman",
+            "hisco_code_swedish": "12210.0",
+            "hisco_description_swedish": "Judge",
+            "hisco_code_english": "99910.0",
+            "hisco_description_english": "Labourer"
+        },
+        "parents": [
+            {
+                "first_name": "Edvin",
+                "last_name": "Lindquist",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "grosshandlare",
+                    "occupation_english": "wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Arma",
+                "last_name": "Segerström",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "juridisk kandidat",
+            "degree_level": "Master's",
+            "year": "1921",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Solveig",
+            "last_name": "Hildisch",
+            "gender": "Female",
+            "birth_date": "00-00-1902",
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Wilhelm",
+                    "last_name": "Hildisch",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "fabrikör",
+                        "occupation_english": "manufacturer"
+                    }
+                },
+                {
+                    "first_name": "Ingeborg",
+                    "last_name": "Arnesen",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1925",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        }
+    ]
+}

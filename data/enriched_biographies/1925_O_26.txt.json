@@ -1,0 +1,167 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Anna",
+        "last_name": "Olsson",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "19-08-1866",
+        "birth_place": {
+            "name": "Värmlands Län",
+            "latitude": 59.5807897,
+            "longitude": 12.8472974,
+            "formatted_address": "Varmland County, Sweden"
+        },
+        "occupation": {
+            "occupation": "skriftställare",
+            "occupation_english": "writer",
+            "hisco_code_swedish": "15120.0",
+            "hisco_description_swedish": "Author",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "Olof",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "teologie doktor",
+                    "occupation_english": "Doctor of Theology",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Jonson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Rock Island, Illinois, USA",
+        "latitude": 41.5094771,
+        "longitude": -90.5787476,
+        "formatted_address": "Rock Island, IL, USA"
+    },
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "degree_level": "Bachelor's",
+            "year": "1888",
+            "institution": "Augustana College"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Från Solsidan",
+            "year": "1903",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Bilder från jubelfesten med flera berättelser",
+            "year": "1912",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ellens julfest med flera berättelser för barn",
+            "year": "1912",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "En prärie-unges funderingar",
+            "year": "1917",
+            "type": "bok",
+            "editions": null,
+            "publisher": "Stockholm",
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ängelns gåva med flera berättelser för barn",
+            "year": "1918",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1889"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1890"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1890"
+        },
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1890"
+        }
+    ]
+}

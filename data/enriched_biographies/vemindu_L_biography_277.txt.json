@@ -1,0 +1,195 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1935,
+            "end_year": 1937,
+            "organization": "AB C E Johansson",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande chef",
+            "start_year": 1938,
+            "end_year": 1942,
+            "organization": "F E Lindström AB",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överingenjör",
+            "start_year": 1942,
+            "organization": "Lesjöfors AB",
+            "location": {
+                "name": "Lesjöfors",
+                "latitude": 59.97705449999999,
+                "longitude": 14.184545,
+                "formatted_address": "682 60 Lesjöfors, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Suppleant",
+            "start_year": 1942,
+            "organization": "Lesjöfors AB",
+            "location": {
+                "name": "Lesjöfors",
+                "latitude": 59.97705449999999,
+                "longitude": 14.184545,
+                "formatted_address": "682 60 Lesjöfors, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Lindqvist",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "11-08-1911",
+        "birth_place": {
+            "name": "Eskilstuna",
+            "latitude": 59.37124859999999,
+            "longitude": 16.5098045,
+            "formatted_address": "Eskilstuna, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överingenjör",
+            "occupation_english": "Chief Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "Lindqvist",
+                "middle_name": "O",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överingenjör",
+                    "occupation_english": "Chief Engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Clara",
+                "last_name": "Ifwersen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lesjöfors",
+        "latitude": 59.97705449999999,
+        "longitude": 14.184545,
+        "formatted_address": "682 60 Lesjöfors, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1930",
+            "institution": "Eskilstuna"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1935",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kersti",
+            "last_name": "Ribe",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

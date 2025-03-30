@@ -1,0 +1,203 @@
+{
+    "career": [
+        {
+            "position": "Attaché",
+            "start_year": 1917,
+            "end_year": 1920,
+            "organization": "Beskickningen i Konstantinopel",
+            "location": {
+                "name": "Konstantinopel",
+                "latitude": 41.0082376,
+                "longitude": 28.9783589,
+                "formatted_address": "İstanbul, Türkiye"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Förste drogman",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Beskickningen i Konstantinopel",
+            "location": {
+                "name": "Konstantinopel",
+                "latitude": 41.0082376,
+                "longitude": 28.9783589,
+                "formatted_address": "İstanbul, Türkiye"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Legationssekreterare",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tillförordnad chargé d’affaires",
+            "start_year": 1924,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Sakkunnig",
+            "start_year": 1922,
+            "end_year": 1923,
+            "organization": "Sveriges ombud vid Lausannekonferensen",
+            "location": {
+                "name": "Lausanne",
+                "latitude": 46.5196535,
+                "longitude": 6.6322734,
+                "formatted_address": "Lausanne, Switzerland"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Adolf",
+        "last_name": "Konstantinopel",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "22-02-1884",
+        "birth_place": {
+            "name": "Bromma, Stockholms Län",
+            "latitude": 59.3397832,
+            "longitude": 17.9397131,
+            "formatted_address": "Bromma, Stockholm, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Adolf",
+                "last_name": "Konstantinopel",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Professor",
+                    "occupation_english": "Professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Nelly",
+                "last_name": "von Post",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1914,
+            "end_year": 1921,
+            "field": "Semitiska Språk"
+        },
+        {
+            "position": "Lärare",
+            "position_english": "Teacher",
+            "institution": "Uppsala privata gymnasium",
+            "department": null,
+            "start_year": 1911,
+            "end_year": 1917,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1905",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1908",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1914",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Eritrea",
+                "latitude": 15.179384,
+                "longitude": 39.782334,
+                "formatted_address": "Eritrea"
+            },
+            "country_code": "ERI",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "Abessinien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ETH",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "Egypten",
+                "latitude": 26.820553,
+                "longitude": 30.802498,
+                "formatted_address": "Egypt"
+            },
+            "country_code": "EGY",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "Syrien",
+                "latitude": 34.80207499999999,
+                "longitude": 38.996815,
+                "formatted_address": "Syria"
+            },
+            "country_code": "SYR",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "Palestina",
+                "latitude": 31.952162,
+                "longitude": 35.233154,
+                "formatted_address": "Palestine"
+            },
+            "country_code": "PSE",
+            "year": "1920"
+        }
+    ]
+}

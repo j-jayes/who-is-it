@@ -1,0 +1,193 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1924,
+            "end_year": 1925,
+            "organization": "Kemiska stationen i Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": 1927,
+            "organization": "Lindbecks Läderfabrik",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1927,
+            "end_year": 1929,
+            "organization": "Stockholms Garveri Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Förste kemist",
+            "start_year": 1929,
+            "end_year": 1947,
+            "organization": "Lantbrukskemiska kontrollstationen i Jönköping",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "Lantbrukskemiska kontrollstationen i Skara",
+            "location": {
+                "name": "Skara",
+                "latitude": 58.3860128,
+                "longitude": 13.4393282,
+                "formatted_address": "Skara, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Torsten",
+        "last_name": "Bellander",
+        "middle_name": "Valdemar",
+        "gender": "Male",
+        "birth_date": "21-04-1895",
+        "birth_place": {
+            "name": "Nikolai församling, Örebro Län",
+            "latitude": 59.271837,
+            "longitude": 15.210223,
+            "formatted_address": "Nikolaigatan 8, 702 10 Örebro, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Karl",
+                "last_name": "Bellander",
+                "middle_name": "Adolf",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Sjögren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Skara",
+        "latitude": 58.3860128,
+        "longitude": 13.4393282,
+        "formatted_address": "Skara, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1915",
+            "institution": "Karolinska läroverket i Örebro"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1921",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "May",
+            "last_name": "Lilja",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Olof",
+                "last_name": "Bellander",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1938"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CSK",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CSK",
+            "year": "1923"
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "career": [
+        {
+            "position": "biträdande överläkare",
+            "start_year": 1974,
+            "end_year": 1980,
+            "organization": "Serafimerlasarettet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1980,
+            "end_year": 1996,
+            "organization": "Radiumhemmet Karolinska sjukhus",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1999,
+            "end_year": null,
+            "organization": "Radiumhemmet Karolinska sjukhus",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "professor",
+            "start_year": 1996,
+            "end_year": 1999,
+            "organization": "Uppsala universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1996,
+            "end_year": 1999,
+            "organization": "Akademiska sjukhuset",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "professor",
+            "start_year": 1999,
+            "end_year": null,
+            "organization": "Karolinska Institutet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1999,
+            "end_year": null,
+            "organization": "Cancer Centrum Karolinska",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "S",
+        "last_name": "Mellstedt",
+        "middle_name": "Håkan Th",
+        "gender": "Male",
+        "birth_date": "23-10-1942",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Thure",
+                "last_name": "Mellstedt",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "föreståndare",
+                    "occupation_english": "manager",
+                    "hisco_code_swedish": "21000.0",
+                    "hisco_description_swedish": "Manager, Specialisation Unknown",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Stina",
+                "last_name": "Carlstedt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "lärare",
+                    "occupation_english": "teacher",
+                    "hisco_code_swedish": "13000.0",
+                    "hisco_description_swedish": "Teacher, Level and Subject Unknown",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Karolinska Institutet",
+            "department": "invärtes medicin",
+            "start_year": 1975,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Karolinska Institutet",
+            "department": "onkologi",
+            "start_year": 1987,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Uppsala universitet",
+            "department": null,
+            "start_year": 1996,
+            "end_year": 1999,
+            "field": null
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1999,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Utveckling av biologiska behandlingsmetoder",
+            "field": "tumörsjukdomar",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Arbete inom interferoterapi",
+            "field": "tumörsjukdomar",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Behandling med monoklonala antikroppar",
+            "field": "tumörsjukdomar",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Cancervaccin",
+            "field": "tumörsjukdomar",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "ordförande",
+            "organization": "Vetenskapliga rådet, Oxiegene Incorp"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Cancerfonden",
+            "role": "vetenskaplig sekreterare",
+            "start_year": 1983,
+            "end_year": null,
+            "organization": "Stockholm",
+            "significance": null
+        },
+        {
+            "committee_name": "Gustav V:s jubileumsfond",
+            "role": "vetenskaplig sekreterare",
+            "start_year": 1983,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Cancerfondens forskningsnämnd",
+            "role": "ledamot",
+            "start_year": 1994,
+            "end_year": 2000,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1969",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1974",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Bengtsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Åke",
+                    "last_name": "Bengtsson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": null
+                },
+                {
+                    "first_name": "Essy",
+                    "last_name": "Brundin",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1966",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

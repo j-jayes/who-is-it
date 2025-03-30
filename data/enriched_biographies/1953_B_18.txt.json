@@ -1,0 +1,248 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1916,
+            "end_year": 1919,
+            "organization": "ASEA:s dotterbolag i Leningrad",
+            "location": {
+                "name": "Leningrad",
+                "latitude": 59.9310584,
+                "longitude": 30.3609097,
+                "formatted_address": "St Petersburg, Russia"
+            },
+            "country_code": "RUS"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "organization": "ASEA",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chef för utrikesavdelningen",
+            "start_year": 1934,
+            "end_year": 1944,
+            "organization": "ASEA",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Avdelningschef för kommersiell försäljningsinformation",
+            "start_year": 1944,
+            "organization": "ASEA",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Bager",
+        "middle_name": "Harald",
+        "gender": "Male",
+        "birth_date": "22-08-1889",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Harald",
+                "last_name": "Bager",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Sophie",
+                "last_name": "Hedman",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Västerås",
+        "latitude": 59.60990049999999,
+        "longitude": 16.5448091,
+        "formatted_address": "Västerås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1907",
+            "institution": "Malmö"
+        },
+        {
+            "degree": "Reservofficersexamen",
+            "degree_level": "Schooling",
+            "year": "1910",
+            "institution": "Kronobergs regemente"
+        },
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1912",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Greta",
+            "last_name": "Fornmark",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "August",
+                    "last_name": "Fornmark",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Stadsläkare",
+                        "occupation_english": "City Doctor",
+                        "hisco_code_swedish": "6140.0",
+                        "hisco_description_swedish": "Public Health Physician"
+                    }
+                },
+                {
+                    "first_name": "Sigrid",
+                    "last_name": "Hahr",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1920",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Polen",
+                "latitude": 51.919438,
+                "longitude": 19.145136,
+                "formatted_address": "Poland"
+            },
+            "country_code": "POL",
+            "year": "1919"
+        },
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "None",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Asien",
+                "latitude": 34.047863,
+                "longitude": 100.6196553,
+                "formatted_address": "Asia"
+            },
+            "country_code": "None",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "None",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Asien",
+                "latitude": 34.047863,
+                "longitude": 100.6196553,
+                "formatted_address": "Asia"
+            },
+            "country_code": "None",
+            "year": "1939"
+        }
+    ]
+}

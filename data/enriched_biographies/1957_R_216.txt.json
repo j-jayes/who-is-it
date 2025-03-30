@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Verksam",
+            "start_year": 1919,
+            "end_year": 1930,
+            "organization": "Java",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verksam",
+            "start_year": 1930,
+            "end_year": 1934,
+            "organization": "Berlin",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verksam",
+            "start_year": 1935,
+            "end_year": 1939,
+            "organization": "Egypten",
+            "location": null,
+            "country_code": "EGY"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1943,
+            "end_year": 1945,
+            "organization": "Calcium, Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "Aktiebolaget Karta & Oaxens kalkbruk",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Albert",
+        "last_name": "Rothstein",
+        "middle_name": "Johan Teodor",
+        "gender": "Male",
+        "birth_date": "01-02-1896",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Månsson-R.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmann",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Ellen",
+                "last_name": "Rothstein",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Svenska Mästerskap",
+            "field": "Simning",
+            "year": "1915",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Svenska Mästerskap",
+            "field": "Simning",
+            "year": "1916",
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "DHS",
+            "degree_level": "Schooling",
+            "year": "1917",
+            "institution": "Handelshögskolan"
+        },
+        {
+            "degree": "Reservofficersexamen",
+            "degree_level": "Schooling",
+            "year": "1917",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lisa",
+            "last_name": "Lind",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Karl",
+                    "last_name": "Lind",
+                    "middle_name": "Magnus",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Vice Häradshövding",
+                        "occupation_english": "Associate Judge",
+                        "hisco_code_swedish": "12210.0",
+                        "hisco_description_swedish": "Judge"
+                    }
+                },
+                {
+                    "first_name": "Maria",
+                    "last_name": "Zetterstrand",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1921",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "Militärtjänst 1940-1943",
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Java",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "IDN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Egypten",
+                "latitude": 26.820553,
+                "longitude": 30.802498,
+                "formatted_address": "Egypt"
+            },
+            "country_code": "EGY",
+            "year": null
+        }
+    ]
+}

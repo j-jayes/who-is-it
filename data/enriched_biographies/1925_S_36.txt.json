@@ -1,0 +1,161 @@
+{
+    "career": [
+        {
+            "position": "Medicin kandidat",
+            "start_year": 1903,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medicinsk licentiat",
+            "start_year": 1907
+        },
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1907,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Intendent",
+            "start_year": 1908,
+            "organization": "Borgholm",
+            "location": {
+                "name": "Borgholm",
+                "latitude": 56.88022969999999,
+                "longitude": 16.6562355,
+                "formatted_address": "Borgholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1911,
+            "end_year": 1914,
+            "organization": "Saltsjöbad",
+            "location": {
+                "name": "Saltsjöbaden",
+                "latitude": 59.278744,
+                "longitude": 18.3110523,
+                "formatted_address": "Saltsjöbaden, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Badanstaltsföreståndare och verkställande direktör",
+            "start_year": 1911,
+            "end_year": 1914,
+            "organization": "Aktiebolaget Saltsjöbad, sanatorium och badanstalt",
+            "location": {
+                "name": "Saltsjöbaden",
+                "latitude": 59.278744,
+                "longitude": 18.3110523,
+                "formatted_address": "Saltsjöbaden, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1914,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Badintendent",
+            "start_year": 1914,
+            "organization": "Varbergs havsbad",
+            "location": {
+                "name": "Varberg",
+                "latitude": 57.107118,
+                "longitude": 12.2520907,
+                "formatted_address": "Varberg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Oscar",
+        "last_name": "S",
+        "gender": "Male",
+        "birth_date": "23-11-1876",
+        "birth_place": {
+            "name": "Jönköping",
+            "latitude": 57.78261370000001,
+            "longitude": 14.1617876,
+            "formatted_address": "Jönköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Läkare",
+            "occupation_english": "Doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Oscar",
+                "last_name": "S",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kapten",
+                    "occupation_english": "Captain",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Wikander",
+                "last_name": "h. h.",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "Okänd",
+                    "occupation_english": "Unknown",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "-1.0",
+                    "hisco_description_english": "Missing, no title"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

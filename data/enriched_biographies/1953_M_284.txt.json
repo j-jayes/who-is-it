@@ -1,0 +1,150 @@
+{
+    "career": [
+        {
+            "position": "fruktodlare",
+            "start_year": 1913,
+            "end_year": 1919,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "sociétaire",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "Salon d'automne",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Möllerberg",
+        "middle_name": "Hjalmar",
+        "gender": "Male",
+        "birth_date": "09-07-1892",
+        "birth_place": {
+            "name": "Österslöv, Kristianstads Län",
+            "latitude": 56.0959577,
+            "longitude": 14.2469599,
+            "formatted_address": "291 94 Österslöv, Sweden"
+        },
+        "occupation": {
+            "occupation": "bildhuggare",
+            "occupation_english": "sculptor",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Möllerberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fruktodlare",
+                    "occupation_english": "fruit grower",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1908",
+            "institution": "Köpenhamn"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1910",
+            "institution": "Köpenhamn"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1911",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1919"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1919"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1924"
+        },
+        {
+            "country": {
+                "name": "Grekland",
+                "latitude": 39.074208,
+                "longitude": 21.824312,
+                "formatted_address": "Greece"
+            },
+            "country_code": "GRC",
+            "year": "1924"
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1910,
+            "end_year": 1918,
+            "organization": "Carl Emil Qvarnströms företag för naftaproduktion och raffinaderi",
+            "location": {
+                "name": "Baku",
+                "latitude": 40.40926169999999,
+                "longitude": 49.8670924,
+                "formatted_address": "Baku, Azerbaijan"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktörsassistent",
+            "start_year": 1918,
+            "end_year": 1922,
+            "organization": "Aktiebolaget Nordeuropeiska Handelskompaniet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1923,
+            "end_year": 1927,
+            "organization": "Aktiebolaget Nils F Engstrand & Co",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Driftsledare",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Aktiebolaget Ingenjörsfirman Teknik",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Aktiebolaget Cryptoteknik",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Wilhelm",
+        "last_name": "QVARNSTRÖM",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "18-04-1885",
+        "birth_place": {
+            "name": "Baku, Ryssland",
+            "latitude": 61.52401,
+            "longitude": 105.318756,
+            "formatted_address": "Russia"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "Qvarnström",
+                "middle_name": "E",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Industriidkare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21220.0",
+                    "hisco_description_swedish": "Production Manager (except Farm)"
+                }
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Hansen-Dahlin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolaget Nordeuropeiska Handelskompaniet"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Pendel-astic Aktiebolaget i Sundbyberg"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Nord Gummifabrik Aktiebolaget Överman"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "KTH (maskinbyggnad och mekanisk teknik)",
+            "degree_level": "Master's",
+            "year": "1908",
+            "institution": "Kungliga Tekniska Högskolan"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Polytechnikum Zurich"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Saga",
+            "last_name": "Berglund",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "None",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Skidsport"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Diverse europeiska länder",
+                "latitude": 54.5259614,
+                "longitude": 15.2551187,
+                "formatted_address": "Europe"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Transkaspien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Persien",
+                "latitude": 32.427908,
+                "longitude": 53.688046,
+                "formatted_address": "Iran"
+            },
+            "country_code": "IRN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1914"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "career": [
+        {
+            "position": "Föreståndare",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Statens Farmaceutiska Laboratorium",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gari",
+        "last_name": "Rydin",
+        "middle_name": "Håkan",
+        "gender": "Male",
+        "birth_date": "30-08-1902",
+        "birth_place": {
+            "name": "Seglora församling, Älvsborgs Län",
+            "latitude": 57.5808323,
+            "longitude": 12.7332414,
+            "formatted_address": "515 93 Seglora, Sweden"
+        },
+        "occupation": {
+            "occupation": "Medicinsk Doktor, Docent",
+            "occupation_english": "Medical Doctor, Docent",
+            "hisco_code_swedish": "6100.0",
+            "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1935,
+            "end_year": 1938,
+            "field": "Farmakologi"
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1938,
+            "end_year": null,
+            "field": "Farmakologi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Asta",
+            "last_name": "Rentzhog",
+            "middle_name": null,
+            "gender": "Female",
+            "occupation": {
+                "occupation": "Filosofie Kandidat",
+                "occupation_english": "Bachelor of Arts",
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title",
+                "hisco_code_english": "13990.0",
+                "hisco_description_english": "Other Teachers"
+            }
+        },
+        "marriage_year": "1935",
+        "children": [
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Rydin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1936"
+            },
+            {
+                "first_name": "Bertil",
+                "last_name": "Rydin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Bengt",
+                "last_name": "Rydin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1942"
+            }
+        ]
+    },
+    "hobbies": [
+        "Skidsport",
+        "Segling"
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Bern",
+                "latitude": 46.9479739,
+                "longitude": 7.4474468,
+                "formatted_address": "Bern, Switzerland"
+            },
+            "country_code": "CHE"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1936"
+        }
+    ]
+}

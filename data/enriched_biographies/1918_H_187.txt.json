@@ -1,0 +1,165 @@
+{
+    "career": [
+        {
+            "position": "Undelöjtnant",
+            "start_year": 1884,
+            "end_year": null,
+            "organization": "Sörmlands regemente",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Förvaltare",
+            "start_year": 1886,
+            "end_year": 1891,
+            "organization": "Hagbyberga",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Löjtnant",
+            "start_year": 1891,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Intendent",
+            "start_year": 1892,
+            "end_year": null,
+            "organization": "Intendenturkåren",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1892,
+            "end_year": null,
+            "organization": "Svenska Sockerfabriksaktiebolags fabriker",
+            "location": {
+                "name": "Genevad",
+                "latitude": 56.5689666,
+                "longitude": 13.0289524,
+                "formatted_address": "312 40 Genevad, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Hermelin",
+        "middle_name": "David Richard",
+        "gender": "Male",
+        "birth_date": "02-04-1862",
+        "birth_place": {
+            "name": "Fors, Södermanlands Län",
+            "latitude": 59.03363489999999,
+            "longitude": 16.7518899,
+            "formatted_address": "Södermanland County, Sweden"
+        },
+        "occupation": {
+            "occupation": "Godsägare, Friherre",
+            "occupation_english": "Landowner, Baron",
+            "hisco_code_swedish": "-1.0",
+            "hisco_description_swedish": "Missing, no title"
+        }
+    },
+    "board_memberships": [
+        {
+            "position": "Vice Ordförande",
+            "organization": "Hallands läns hushållningssällskap"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Järnvägsrådet",
+            "role": "Ledamot",
+            "start_year": 1892,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Lantbruksakademien",
+            "role": "Ledamot",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Andra Kammaren",
+            "role": "Ledamot",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Fögderiutskottet",
+            "role": "Ledamot",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Sackarinkommittén",
+            "role": "Ledamot",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "current_location": {
+        "name": "Fröllinge, Getinge",
+        "latitude": 56.8105925,
+        "longitude": 12.7937364,
+        "formatted_address": "Halmstad N, 310 44 Getinge, Sweden"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Qiarl. Maria Emilia Vilhelmina",
+            "last_name": "Brummer",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Magnus",
+                    "last_name": "Brummer",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Kammarherre",
+                        "occupation_english": "Chamberlain",
+                        "hisco_code_english": "54020.0",
+                        "hisco_description_english": "House Servant"
+                    }
+                },
+                {
+                    "first_name": "Eva",
+                    "last_name": "Stierncrona",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1899",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Hermelin",
+                "last_name": "Hermelin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1879"
+            }
+        ]
+    }
+}

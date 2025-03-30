@@ -1,0 +1,221 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Alwall",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "07-10-1904",
+        "birth_place": {
+            "name": "Kia-by, Kristianstads Län",
+            "latitude": 56.06608430000001,
+            "longitude": 14.3340656,
+            "formatted_address": "291 68 Kiaby, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Jönsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Lund",
+            "department": "farmakologi",
+            "start_year": 1936,
+            "end_year": 1940,
+            "field": null
+        },
+        {
+            "position": "tf. prof.",
+            "position_english": "Acting Professor",
+            "institution": "Lund",
+            "department": null,
+            "start_year": 1938,
+            "end_year": 1939,
+            "field": null
+        },
+        {
+            "position": "doc.",
+            "position_english": "Docent",
+            "institution": "Lund",
+            "department": "praktisk medicin",
+            "start_year": 1940,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styr:-led.",
+            "organization": "Lunds arbetarinst."
+        }
+    ],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicin licentiat",
+            "degree_level": "Doctorate",
+            "year": "1932",
+            "institution": "Lund"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1936",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ellen",
+            "last_name": "Alströmer",
+            "middle_name": "Sophie",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "filosofie kandidat",
+                "occupation_english": "Bachelor of Arts",
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title",
+                "hisco_code_english": "13990.0",
+                "hisco_description_english": "Other Teachers"
+            },
+            "parents": [
+                {
+                    "first_name": "Thore",
+                    "last_name": "Alströmer",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "friherre",
+                        "occupation_english": "Baron",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "-1.0",
+                        "hisco_description_english": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Greta",
+                    "last_name": "Nordenfelt",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1941",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": [],
+    "military_service": "fältläktarkårs reserv",
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Verkan av vissa militära medel mot trötthet o. sömnbehov — bensedrin",
+            "year": "1942-1943",
+            "type": "vetenskaplig publikation",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": "1935-1936"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1942"
+        }
+    ]
+}

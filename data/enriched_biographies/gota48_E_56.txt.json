@@ -1,0 +1,215 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1919,
+            "end_year": 1921,
+            "organization": "Faxe o. Co.",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Besiktningsman",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Örlogsvarvet",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Christer",
+        "last_name": "Egerström",
+        "middle_name": "Åke Folkesson",
+        "gender": "Male",
+        "birth_date": "03-12-1885",
+        "birth_place": {
+            "name": "Mjölby",
+            "latitude": 58.3226908,
+            "longitude": 15.1335348,
+            "formatted_address": "Mjölby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kommendörkapten",
+            "occupation_english": null,
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Folke",
+                "last_name": "E.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överstelöjtnant",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer"
+                }
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Ekeman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "RSO",
+        "KTunNI"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Rosenholm",
+        "latitude": 56.3333178,
+        "longitude": 10.3307442,
+        "formatted_address": "Rosenholmvej 119, 8543 Hornslet, Denmark"
+    },
+    "education": [
+        {
+            "degree": "Sjöofficersexamen",
+            "degree_level": "Bachelor's",
+            "year": "1906",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "KSHS",
+            "degree_level": "Bachelor's",
+            "year": "1911",
+            "institution": "Krigshögskolan"
+        },
+        {
+            "degree": "Flygförarcertifikat",
+            "degree_level": "Bachelor's",
+            "year": "1916",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "L’école superieure æronautique",
+            "degree_level": "Bachelor's",
+            "year": "1923",
+            "institution": "Paris"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Signe",
+            "last_name": "Wachtmeister",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1919",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Folke",
+                "last_name": "Egerström",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1921"
+            },
+            {
+                "first_name": "Christina",
+                "last_name": "Egerström",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1922"
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Egerström",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1923"
+            },
+            {
+                "first_name": "Hans",
+                "last_name": "Egerström",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1927"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Västindien",
+                "latitude": 18.2345027,
+                "longitude": -66.4108475,
+                "formatted_address": "West Indies"
+            },
+            "country_code": "None",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Medelhavet",
+                "latitude": 34.5531284,
+                "longitude": 18.0480105,
+                "formatted_address": "Mediterranean Sea"
+            },
+            "country_code": "None",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Turkiet",
+                "latitude": 38.963745,
+                "longitude": 35.243322,
+                "formatted_address": "Türkiye"
+            },
+            "country_code": "TUR",
+            "year": "1919"
+        },
+        {
+            "country": {
+                "name": "Kaukasus",
+                "latitude": 43.5851814,
+                "longitude": 45,
+                "formatted_address": "Caucasus"
+            },
+            "country_code": "None",
+            "year": "1919"
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Pastor",
+            "start_year": 1933,
+            "end_year": 1935,
+            "organization": "Gränna",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Pastor",
+            "start_year": 1936,
+            "end_year": 1937,
+            "organization": "Paris",
+            "location": null,
+            "country_code": "FRA"
+        },
+        {
+            "position": "Pastor",
+            "start_year": 1938,
+            "end_year": 1940,
+            "organization": "Le Havre",
+            "location": null,
+            "country_code": "FRA"
+        },
+        {
+            "position": "Pastor",
+            "start_year": 1941,
+            "end_year": 1942,
+            "organization": "Jönköping",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Pastor",
+            "start_year": 1942,
+            "end_year": 1958,
+            "organization": "Malmö",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Pastor och förståndare",
+            "start_year": 1958,
+            "organization": "Filadelfiaförsamlingen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "G",
+        "last_name": "Säwe",
+        "middle_name": "Willis",
+        "gender": "Male",
+        "birth_date": "07-10-1907",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Pastor",
+            "occupation_english": "Pastor",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        },
+        "parents": null
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseordförande",
+            "organization": "Stiftelsen Soldathemmet Oskar-Fredriksborg"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Handelsskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Handelsskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Mildred",
+            "last_name": "Peterson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "När Frankrike besegrades",
+            "year": "1942",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Bara en människa",
+            "year": "1958",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Skärvor",
+            "year": "1962",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Egypten",
+                "latitude": 26.820553,
+                "longitude": 30.802498,
+                "formatted_address": "Egypt"
+            },
+            "country_code": "EGY",
+            "year": null
+        }
+    ]
+}

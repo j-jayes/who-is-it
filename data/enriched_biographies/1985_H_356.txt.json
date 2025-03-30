@@ -1,0 +1,239 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1924,
+            "organization": "Aktiebolag Elektrisk Malmletning"
+        },
+        {
+            "position": "Överingenjör",
+            "start_year": 1931,
+            "end_year": 1946,
+            "organization": "Aktiebolag Elektrisk Malmletning"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1941,
+            "end_year": 1946,
+            "organization": "Fyleverken Aktiebolag"
+        },
+        {
+            "position": "Företagsledare",
+            "start_year": 1946,
+            "end_year": 1958,
+            "organization": "ABEM Stockholm"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1958,
+            "end_year": 1962,
+            "organization": "ABEM Stockholm"
+        },
+        {
+            "position": "Projektdirektör",
+            "start_year": 1963,
+            "end_year": 1966,
+            "organization": "FNs filial Bangkok",
+            "location": {
+                "name": "Bangkok",
+                "latitude": 13.7563309,
+                "longitude": 100.5017651,
+                "formatted_address": "Bangkok, Thailand"
+            }
+        }
+    ],
+    "person": {
+        "first_name": "E",
+        "last_name": "Hedström",
+        "middle_name": "Helmer L",
+        "gender": "Male",
+        "birth_date": "24-04-1899",
+        "birth_place": {
+            "name": "Gävle",
+            "latitude": 60.6748796,
+            "longitude": 17.1412726,
+            "formatted_address": "Gävle, Sweden"
+        },
+        "occupation": {
+            "occupation": "bergsingenjör",
+            "occupation_english": "mining engineer",
+            "hisco_code_swedish": "2710.0",
+            "hisco_description_swedish": "Mining Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Lars",
+                "last_name": "Hedström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fattigvård",
+                    "occupation_english": "poor relief",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "31090.0",
+                    "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Lindberg",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Geologiska föreningen",
+            "role": "Ordförande",
+            "start_year": 1943
+        },
+        {
+            "committee_name": "Européen Association of Exploration Geophysicists",
+            "role": "Ordförande",
+            "start_year": 1956
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lausanne, Schweiz",
+        "latitude": 46.5196535,
+        "longitude": 6.6322734,
+        "formatted_address": "Lausanne, Switzerland"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1923",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Aina",
+            "last_name": "Södersten",
+            "gender": "Female"
+        },
+        "marriage_year": "1925",
+        "divorce_year": "1953",
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Avhandlingar och uppsatser i svenska och utländska tidskrifter om geofysiska undersökningsmetoder",
+            "year": "None",
+            "type": "avhandling"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Sydafrika",
+                "latitude": -30.559482,
+                "longitude": 22.937506,
+                "formatted_address": "South Africa"
+            },
+            "country_code": "ZAF"
+        },
+        {
+            "country": {
+                "name": "Rhodesia",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1924-1927"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1927-1930"
+        },
+        {
+            "country": {
+                "name": "Mexico",
+                "latitude": 23.634501,
+                "longitude": -102.552784,
+                "formatted_address": "Mexico"
+            },
+            "country_code": "MEX",
+            "year": "1927-1930"
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1927-1930"
+        },
+        {
+            "country": {
+                "name": "Thailand",
+                "latitude": 15.870032,
+                "longitude": 100.992541,
+                "formatted_address": "Thailand"
+            },
+            "country_code": "THA",
+            "year": "1963-1966"
+        },
+        {
+            "country": {
+                "name": "Laos",
+                "latitude": 19.85627,
+                "longitude": 102.495496,
+                "formatted_address": "Laos"
+            },
+            "country_code": "LAO",
+            "year": "1963-1966"
+        },
+        {
+            "country": {
+                "name": "Kambodja",
+                "latitude": 12.565679,
+                "longitude": 104.990963,
+                "formatted_address": "Cambodia"
+            },
+            "country_code": "KHM",
+            "year": "1963-1966"
+        },
+        {
+            "country": {
+                "name": "Vietnam",
+                "latitude": 14.058324,
+                "longitude": 108.277199,
+                "formatted_address": "Vietnam"
+            },
+            "country_code": "VNM",
+            "year": "1963-1966"
+        }
+    ]
+}

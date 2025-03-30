@@ -1,0 +1,158 @@
+{
+    "career": [
+        {
+            "position": "Extra ordinarie lärare",
+            "start_year": 1910,
+            "end_year": 1914,
+            "organization": "Stockholms norra latinläroverk",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt",
+            "start_year": 1913,
+            "end_year": 1916,
+            "organization": "Halmstads högre allmänna läroverk",
+            "location": {
+                "name": "Halmstad",
+                "latitude": 56.6743748,
+                "longitude": 12.8577884,
+                "formatted_address": "Halmstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": "Örebro handelsgymnasium",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Björklund",
+        "middle_name": "Ruben",
+        "gender": "Male",
+        "birth_date": "15-08-1882",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "Rektor",
+            "occupation_english": "Principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "37040.0",
+            "hisco_description_english": "Messenger"
+        },
+        "parents": [
+            {
+                "first_name": "Petter",
+                "last_name": "Björklund",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bryggeriägare",
+                    "occupation_english": "Brewery Owner",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Petterson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Västmanland-Närkes gymnastikförbund",
+            "role": "Ordförande",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Örebro",
+        "latitude": 59.2752626,
+        "longitude": 15.2134105,
+        "formatted_address": "Örebro, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Schartaus Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1902-1903",
+            "institution": "Schartaus Handelsinstitut"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1906",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1909",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Engelsk läsebok för handelslärare",
+            "year": "None",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1912-1914"
+        }
+    ]
+}

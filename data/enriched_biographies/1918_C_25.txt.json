@@ -1,0 +1,103 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1899,
+            "end_year": 1904,
+            "organization": "Järnkontoret",
+            "location": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN"
+        },
+        {
+            "position": "Martiningenjör",
+            "start_year": 1905,
+            "end_year": 1913,
+            "organization": "Fagersta",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överingenjör",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": "Fagersta",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carlson",
+        "last_name": "Carlson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": null,
+        "birth_place": null,
+        "occupation": null
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Ragnhild",
+            "last_name": "Flodin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1909",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "okänt",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "UNK",
+            "year": "1900"
+        },
+        {
+            "country": {
+                "name": "okänt",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "UNK",
+            "year": "1904"
+        }
+    ]
+}

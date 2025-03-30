@@ -1,0 +1,121 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1963,
+            "end_year": 1968,
+            "organization": "Kirurgiska kliniken, lasarettet i Falun",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tjänstgörande",
+            "start_year": 1969,
+            "organization": "Plastikkirurgiska kliniken, Akademiska sjukhuset",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor",
+            "start_year": 1979,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1979,
+            "organization": "Akademiska sjukhuset",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Hakeiius",
+        "middle_name": "E A",
+        "gender": "Male",
+        "birth_date": "14-05-1936",
+        "birth_place": {
+            "name": "Enköping",
+            "latitude": 59.63569090000001,
+            "longitude": 17.0778228,
+            "formatted_address": "Enköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor i plastikkirurgi",
+            "occupation_english": "Professor of plastic surgery",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Hakeiius",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Agronom",
+                    "occupation_english": "Agronomist",
+                    "hisco_code_swedish": "5320.0",
+                    "hisco_description_swedish": "Agronomist"
+                }
+            },
+            {
+                "first_name": "Eva",
+                "last_name": "Andersson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Medicine licentiat",
+            "position_english": "Medical licentiate",
+            "institution": "Uppsala Universitet",
+            "start_year": 1963
+        },
+        {
+            "position": "Medicine doktor",
+            "position_english": "Medical doctor",
+            "institution": "Uppsala Universitet",
+            "start_year": 1974
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": "Plastikkirurgi",
+            "start_year": 1975
+        }
+    ],
+    "publications": [
+        {
+            "title": "Skrifter i plastikkirurgi",
+            "year": "None",
+            "type": "Other"
+        }
+    ],
+    "travels": null
+}

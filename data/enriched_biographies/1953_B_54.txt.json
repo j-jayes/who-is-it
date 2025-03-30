@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Egen reklambyrå",
+            "start_year": 1930,
+            "end_year": 1938,
+            "organization": null,
+            "location": {
+                "name": "Berlin och Paris",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Medverkat vid ordnande av svensk utställning",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Expo i New York",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Medverkat vid ordnande av försvarsutställning",
+            "start_year": 1940,
+            "end_year": 1941,
+            "organization": null,
+            "location": {
+                "name": "Stockholm och Göteborg",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Anders",
+        "last_name": "Beckman",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "21-07-1907",
+        "birth_place": {
+            "name": "Örebro",
+            "latitude": 59.2752626,
+            "longitude": 15.2134105,
+            "formatted_address": "Örebro, Sweden"
+        },
+        "occupation": {
+            "occupation": "Konstnär",
+            "occupation_english": "Artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "F. A.",
+                "last_name": "Beckman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bankokamrerare",
+                    "occupation_english": "Bank treasurer",
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Magdalene",
+                "last_name": "Faye-Hansen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Slöjdföreningen"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lidingö",
+        "latitude": 59.36295999999999,
+        "longitude": 18.1468,
+        "formatted_address": "Lidingö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Högre konstindustriell avdelning vid tekniska skolan",
+            "degree_level": "Schooling",
+            "year": "1927-1930",
+            "institution": "Tekniska Skolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Carin",
+            "last_name": "Leijonhufvud",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Leijonhufvud",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Kapten, Friherre",
+                        "occupation_english": "Captain, Baron",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "58320.0",
+                        "hisco_description_english": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Ebba",
+                    "last_name": "Barnekow",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "Friherrinna",
+                        "occupation_english": "Baroness",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "61110.0",
+                        "hisco_description_english": "General Farmer"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1932",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

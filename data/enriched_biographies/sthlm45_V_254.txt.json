@@ -1,0 +1,233 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Reservofficersvolontär",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Svea ingenjörkår",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Elev",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Statens Järnvägsbyggen Uddevalla-Strömstad",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Elev",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Nydqvist & Holms mekaniska verkstad",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Bankstudier",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Bankstudier",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Bankstudier",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1909,
+            "end_year": 1930,
+            "organization": "Olika utländska företag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1909,
+            "end_year": 1939,
+            "organization": "Standard Franchise des Pétroles, Paris (Standard Oil, New Jersey)",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "Privat affärsverksamhet",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Wessling",
+        "middle_name": "Magnus",
+        "gender": "Male",
+        "birth_date": "10-01-1882",
+        "birth_place": {
+            "name": "Sundsvall",
+            "latitude": 62.390811,
+            "longitude": 17.306927,
+            "formatted_address": "Sundsvall, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ludvig",
+                "last_name": "Wessling",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Civilingenjör",
+                    "occupation_english": "Civil Engineer",
+                    "hisco_code_swedish": "2210.0",
+                    "hisco_description_swedish": "Civil Engineer, General"
+                }
+            },
+            {
+                "first_name": "Julie",
+                "last_name": "Arhusian-der",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "Linköpings högre allmänna läroverk"
+        },
+        {
+            "degree": "Språkstudier",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "Tyskland"
+        },
+        {
+            "degree": "Språkstudier",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "England"
+        },
+        {
+            "degree": "Språkstudier",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "Frankrike"
+        },
+        {
+            "degree": "Språkstudier",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "Spanien"
+        },
+        {
+            "degree": "Diplom",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "Handelshögskolan i Leipzig"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1900",
+            "institution": "Universitet i Heidelberg"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Louise",
+            "last_name": "Grillot",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1915",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "RFrHL"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

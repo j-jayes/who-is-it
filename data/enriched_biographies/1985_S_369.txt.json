@@ -1,0 +1,200 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Fritiof",
+        "last_name": "Sjöstrand",
+        "middle_name": "S",
+        "gender": "Male",
+        "birth_date": "05-11-1912",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor emeritus",
+            "occupation_english": "Professor emeritus",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Sjöstrand",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bankdirektör",
+                    "occupation_english": "Bank Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "44140.0",
+                    "hisco_description_english": "Stock Broker"
+                }
+            },
+            {
+                "first_name": "Dagmar",
+                "last_name": "Hansen",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": "Anatomi",
+            "start_year": 1945,
+            "field": "Anatomi"
+        },
+        {
+            "position": "prosektor",
+            "position_english": "Prosector",
+            "institution": "Karolinska Institutet",
+            "start_year": 1949,
+            "field": null
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Karolinska Institutet",
+            "department": "Histologi",
+            "start_year": 1960,
+            "end_year": 1962,
+            "field": "Histologi"
+        },
+        {
+            "position": "lärare",
+            "position_english": "Teacher",
+            "institution": "Gymnastik- och idrottshögskolan",
+            "department": "Anatomi",
+            "start_year": 1945,
+            "end_year": 1959,
+            "field": "Anatomi"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "University of California Los Angeles",
+            "start_year": 1959,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Los Angeles",
+        "latitude": 34.0549076,
+        "longitude": -118.242643,
+        "formatted_address": "Los Angeles, CA, USA"
+    },
+    "education": [
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1941",
+            "institution": "None"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1945",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Birgitta",
+            "last_name": "Petterson",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Petterson",
+                    "gender": "Male",
+                    "occupation": null
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Larson",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "None"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Ledamot av American Academy of Arts and Sciences"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Electron Microscopy of Cells and Tissues I",
+            "year": "1967",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1947"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1948"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1949"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1951"
+        }
+    ]
+}

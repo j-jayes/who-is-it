@@ -1,0 +1,169 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1931,
+            "end_year": 1937,
+            "organization": "A-B Sandström, Stranne & Co.",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Avdelningschef",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "O. Chr. Oisen & Co. AB",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Konsul",
+            "start_year": 1948,
+            "end_year": null,
+            "organization": "Bolivia",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Sandström",
+        "middle_name": "Erik Justus",
+        "gender": "Male",
+        "birth_date": "07-04-1909",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Avdelningschef",
+            "occupation_english": null,
+            "hisco_code_swedish": "22110.0",
+            "hisco_description_swedish": "Clerical Supervisor, General"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Sandström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Generalkonsul",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer"
+                }
+            },
+            {
+                "first_name": "Olga",
+                "last_name": "Waller",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1927",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Göteborgs Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1927-1928",
+            "institution": "Göteborgs Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Olsen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Bengt",
+                "last_name": "Erik",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Göran",
+                "last_name": "Okänd",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1942"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1928-1931"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1928-1931"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1928-1931"
+        }
+    ]
+}

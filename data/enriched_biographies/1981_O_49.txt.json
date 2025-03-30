@@ -1,0 +1,179 @@
+{
+    "career": [
+        {
+            "position": "Volontär",
+            "start_year": 1950,
+            "end_year": 1950,
+            "organization": "City News Bureau",
+            "location": {
+                "name": "Chicago",
+                "latitude": 41.8781136,
+                "longitude": -87.6297982,
+                "formatted_address": "Chicago, IL, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Volontär",
+            "start_year": 1951,
+            "end_year": 1951,
+            "organization": "City News Bureau",
+            "location": {
+                "name": "Chicago",
+                "latitude": 41.8781136,
+                "longitude": -87.6297982,
+                "formatted_address": "Chicago, IL, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1956,
+            "end_year": 1961,
+            "organization": "Cooper Union Museum",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Claes",
+        "last_name": "Oldenburg",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "29-01-1928",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gösta",
+                "last_name": "Oldenburg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "generalkonsul",
+                    "occupation_english": "Consul General",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "20210.0",
+                    "hisco_description_english": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Elsie",
+                "last_name": "Lindforss",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "New York",
+        "latitude": 40.7127753,
+        "longitude": -74.0059728,
+        "formatted_address": "New York, NY, USA"
+    },
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "degree_level": "Bachelor's",
+            "year": "1950",
+            "institution": "Yale University USA"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1952-1954",
+            "institution": "Art Institute Chicago"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Düsseldorf",
+                "latitude": 51.2230411,
+                "longitude": 6.7824545,
+                "formatted_address": "40 Düsseldorf, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Amsterdam",
+                "latitude": 52.3675734,
+                "longitude": 4.9041389,
+                "formatted_address": "Amsterdam, Netherlands"
+            },
+            "country_code": "NLD"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "country": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1966"
+        }
+    ]
+}

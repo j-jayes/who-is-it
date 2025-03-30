@@ -1,0 +1,213 @@
+{
+    "career": [
+        {
+            "position": "Beredskapstjänstgöring",
+            "start_year": 1941,
+            "end_year": 1944,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Vikarierande läkare",
+            "start_year": 1941,
+            "end_year": 1944,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Assistentläkare",
+            "start_year": 1946,
+            "end_year": 1946,
+            "organization": "Medicinska kliniken i Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vikarierande underläkare",
+            "start_year": 1946,
+            "end_year": 1946,
+            "organization": "Lasarettet i Vadstena",
+            "location": {
+                "name": "Vadstena",
+                "latitude": 58.44760219999999,
+                "longitude": 14.8902335,
+                "formatted_address": "Vadstena, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vikarierande underläkare",
+            "start_year": 1946,
+            "end_year": 1946,
+            "organization": "Lasarettet i Alingsås",
+            "location": {
+                "name": "Alingsås",
+                "latitude": 57.9300205,
+                "longitude": 12.5362113,
+                "formatted_address": "Alingsås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vikarierande underläkare",
+            "start_year": 1946,
+            "end_year": 1946,
+            "organization": "Lasarettet i Ängelholm",
+            "location": {
+                "name": "Ängelholm",
+                "latitude": 56.245748,
+                "longitude": 12.863881,
+                "formatted_address": "Ängelholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vikarierande underläkare",
+            "start_year": 1947,
+            "end_year": 1947,
+            "organization": "Lasarettet i Ängelholm",
+            "location": {
+                "name": "Ängelholm",
+                "latitude": 56.245748,
+                "longitude": 12.863881,
+                "formatted_address": "Ängelholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vikarierande underläkare",
+            "start_year": 1947,
+            "end_year": 1947,
+            "organization": "Lasarettet i Landskrona",
+            "location": {
+                "name": "Landskrona",
+                "latitude": 55.8703477,
+                "longitude": 12.8300802,
+                "formatted_address": "Landskrona, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Andre underläkare",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "Länslasarettet i Landskrona",
+            "location": {
+                "name": "Landskrona",
+                "latitude": 55.8703477,
+                "longitude": 12.8300802,
+                "formatted_address": "Landskrona, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Hellberg",
+        "middle_name": "Axel William",
+        "gender": "Male",
+        "birth_date": "16-12-1910",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Legitimerad läkare",
+            "occupation_english": "Licensed physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Hellberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Landskrona",
+        "latitude": 55.8703477,
+        "longitude": 12.8300802,
+        "formatted_address": "Landskrona, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1931",
+            "institution": "Malmö"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1938",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1946",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulla",
+            "last_name": "Berlin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1942",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "segling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

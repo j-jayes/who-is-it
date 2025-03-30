@@ -1,0 +1,168 @@
+{
+    "career": [
+        {
+            "position": "Utexaminerad från Malmö tekniska elementarskola",
+            "start_year": 1877,
+            "organization": "Malmö tekniska elementarskola",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Avgångsexamen från Chalmers",
+            "start_year": 1880,
+            "organization": "Chalmers",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Arbete vid mekanisk verkstad",
+            "start_year": 1880,
+            "end_year": 1884,
+            "organization": "Skjöldebrand verkstad",
+            "location": null,
+            "country_code": "GBR"
+        },
+        {
+            "position": "Lokeldare, maskinritare och lärare",
+            "start_year": 1884,
+            "end_year": 1888,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konstruktör, ångpannebesiktningsman, ingenjörbefattning",
+            "start_year": 1888,
+            "end_year": 1897,
+            "organization": null,
+            "location": null,
+            "country_code": "USA"
+        },
+        {
+            "position": "Ingenjörbefattning",
+            "start_year": 1897,
+            "end_year": 1899,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1899,
+            "end_year": 1923,
+            "organization": "Chalmers",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konsult, maskiningenjör samt ångpannebesiktningsman",
+            "start_year": 1923,
+            "organization": null,
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Conrad",
+        "last_name": "Skarstedt",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "19-08-1858",
+        "birth_place": {
+            "name": "Solberga, Göteborgs och Bohus Län",
+            "latitude": 57.9567751,
+            "longitude": 12.0756727,
+            "formatted_address": "442 92 Solberg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Maskiningenjör",
+            "occupation_english": "Mechanical Engineer",
+            "hisco_code_swedish": "2410.0",
+            "hisco_description_swedish": "Mechanical Engineer, General",
+            "hisco_code_english": "2410.0",
+            "hisco_description_english": "Mechanical Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "C. W.",
+                "last_name": "Skarstedt",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Professor",
+                    "occupation_english": "Professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Hedvig",
+                "last_name": "Wieselgren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Mekanisk teknologi (metaller och legeringar)",
+            "year": "None",
+            "type": "book"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "Skottland",
+                "latitude": 56.49067119999999,
+                "longitude": -4.2026458,
+                "formatted_address": "Scotland, UK"
+            },
+            "country_code": "GBR",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "None"
+        }
+    ]
+}

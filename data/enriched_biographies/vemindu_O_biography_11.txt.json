@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1935,
+            "organization": "AB Nomy i Ulvsunda",
+            "location": {
+                "name": "Ulvsunda",
+                "latitude": 59.33688530000001,
+                "longitude": 17.9638876,
+                "formatted_address": "Ulvsunda, Bromma, Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1937,
+            "end_year": 1938,
+            "organization": "SKF",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Chef för maskinlab",
+            "start_year": 1942,
+            "organization": "AB Bolinder-Munktell",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1938,
+            "organization": "AB Bolinder-Munktell",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "ODQVIST",
+        "middle_name": "Torsten Lennart",
+        "gender": "Male",
+        "birth_date": "06-10-1911",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "K",
+                "last_name": "O",
+                "middle_name": "A",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Regementsläkare",
+                    "occupation_english": "Regimental doctor",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician"
+                }
+            },
+            {
+                "first_name": "Inez",
+                "last_name": "Wahlén",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Eskilstuna",
+        "latitude": 59.37124859999999,
+        "longitude": 16.5098045,
+        "formatted_address": "Eskilstuna, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1929",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "KTH (maskinbyggnad och mekanisk teknik, specialstudier vid avdelning för bergsvetenskap)",
+            "degree_level": "Master's",
+            "year": "1930–1935",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ann",
+            "last_name": "Edlind",
+            "middle_name": "Marie",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Upps i facktidskr",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Medelhavsländerna",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

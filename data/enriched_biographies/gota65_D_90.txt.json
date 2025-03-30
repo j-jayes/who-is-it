@@ -1,0 +1,188 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1923,
+            "organization": "Asea"
+        },
+        {
+            "position": "Teknisk representant",
+            "start_year": 1927,
+            "organization": "NV Electr Mij Groenpol",
+            "location": {
+                "name": "Soerabaja Java",
+                "latitude": -7.2574719,
+                "longitude": 112.7520883,
+                "formatted_address": "Surabaya, East Java, Indonesia"
+            },
+            "country_code": "IDN"
+        },
+        {
+            "position": "Platschef",
+            "start_year": 1930,
+            "organization": "NV Electr Mij Groenpol",
+            "location": {
+                "name": "Soerabaja Java",
+                "latitude": -7.2574719,
+                "longitude": 112.7520883,
+                "formatted_address": "Surabaya, East Java, Indonesia"
+            },
+            "country_code": "IDN"
+        },
+        {
+            "position": "Ingenjör valsvetsbyrån",
+            "start_year": 1935,
+            "organization": "Asea",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            }
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1938,
+            "organization": "Asea",
+            "location": {
+                "name": "Melbourne",
+                "latitude": -37.8136276,
+                "longitude": 144.9630576,
+                "formatted_address": "Melbourne VIC, Australia"
+            },
+            "country_code": "AUS"
+        },
+        {
+            "position": "Filialchef",
+            "start_year": 1950,
+            "end_year": 1964,
+            "organization": "Asea",
+            "location": {
+                "name": "Norrköping",
+                "latitude": 58.587745,
+                "longitude": 16.192421,
+                "formatted_address": "Norrköping, Sweden"
+            }
+        }
+    ],
+    "person": {
+        "first_name": "J",
+        "last_name": "Danfors",
+        "middle_name": "Anton",
+        "gender": "Male",
+        "birth_date": "27-11-1898",
+        "birth_place": {
+            "name": "Huaröd, Kristianstads Län",
+            "latitude": 55.8421433,
+            "longitude": 13.9690449,
+            "formatted_address": "298 93 Huaröd, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Jönsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Bengtsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Biyrkets lokala lärlingsnämnd",
+            "role": "Ordförande",
+            "start_year": 1950,
+            "end_year": 1964,
+            "organization": "Biyrkets"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1917",
+            "institution": "Kristianstad"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1922",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Edit",
+            "last_name": "Rosendahl",
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "Henning",
+                    "last_name": "R",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Överste i Försvarsmakten",
+                        "occupation_english": "Colonel in the Armed Forces",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "58320.0",
+                        "hisco_description_english": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Sigrid",
+                    "last_name": "Samuelsson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1929",
+        "children": [
+            {
+                "first_name": "Erik",
+                "last_name": "Danfors",
+                "gender": "Male",
+                "birth_year": "1930"
+            },
+            {
+                "first_name": "Per",
+                "last_name": "Danfors",
+                "gender": "Male",
+                "birth_year": "1932"
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Danfors",
+                "gender": "Female",
+                "birth_year": "1936"
+            }
+        ]
+    },
+    "hobbies": [
+        "Filateli",
+        "Trädgårdsskötsel"
+    ],
+    "honors": null,
+    "languages_spoken": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

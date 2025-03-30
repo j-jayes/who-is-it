@@ -1,0 +1,192 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1932,
+            "organization": "Veterinärhögskolan, patologisk-anatomiska avdelningen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "prosektor",
+            "start_year": 1937,
+            "organization": "Veterinärhögskolan, patologisk-anatomiska avdelningen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "tillförordnad professor",
+            "start_year": 1939,
+            "organization": "Veterinärhögskolan, patologisk-anatomiska avdelningen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Rubarth",
+        "middle_name": "Sven",
+        "gender": "Male",
+        "birth_date": "05-04-1905",
+        "birth_place": {
+            "name": "Saltsjö-Duvnäs, Stockholms Län",
+            "latitude": 59.3008006,
+            "longitude": 18.1982809,
+            "formatted_address": "131 50 Saltsjö-Duvnäs, Sweden"
+        },
+        "occupation": {
+            "occupation": "prosektor",
+            "occupation_english": "prosector",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles"
+        },
+        "parents": [
+            {
+                "first_name": "Henrik",
+                "last_name": "Rubarth",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "tullöverkontrollör",
+                    "occupation_english": "Customs Inspector",
+                    "hisco_code_swedish": "31040.0",
+                    "hisco_description_swedish": "Customs officer",
+                    "hisco_code_english": "31040.0",
+                    "hisco_description_english": "Customs officer"
+                }
+            },
+            {
+                "first_name": "Hildur",
+                "last_name": "Sandström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Experimentalfältet",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1925",
+            "institution": "None"
+        },
+        {
+            "degree": "veterinärexamen",
+            "degree_level": "Doctorate",
+            "year": "1932",
+            "institution": "None"
+        },
+        {
+            "degree": "batallionsveterinär",
+            "degree_level": "Doctorate",
+            "year": "1932",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Söderholm",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "03-00-1903",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Verner",
+                    "last_name": "Söderholm",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "folkskollärare",
+                        "occupation_english": "primary school teacher",
+                        "hisco_code_swedish": "13320.0",
+                        "hisco_description_swedish": "FirstLevel Education Teacher",
+                        "hisco_code_english": "13020.0",
+                        "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                    }
+                },
+                {
+                    "first_name": "Mathilda",
+                    "last_name": "Martin",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1934",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "ett 10-tal vetenskapliga arbeten",
+            "year": "None",
+            "type": "vetenskapliga arbeten",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1943"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1943"
+        }
+    ]
+}

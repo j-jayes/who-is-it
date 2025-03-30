@@ -1,0 +1,195 @@
+{
+    "career": [
+        {
+            "position": "Und:löjtnant",
+            "start_year": 1894,
+            "organization": "Västerbottens regemente",
+            "location": {
+                "name": "Västerbotten",
+                "latitude": 64.85088,
+                "longitude": 15.67769,
+                "formatted_address": "912 97 Vasterbotten, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Krigshögskolan",
+            "start_year": 1898,
+            "end_year": 1900
+        },
+        {
+            "position": "Tjänstgöring",
+            "start_year": 1900,
+            "end_year": 1902,
+            "organization": "Franska armén och 1:a zuavregementet",
+            "location": {
+                "name": "Algeriet",
+                "latitude": 28.033886,
+                "longitude": 1.659626,
+                "formatted_address": "Algeria"
+            },
+            "country_code": "DZA"
+        },
+        {
+            "position": "Major",
+            "start_year": 1903,
+            "organization": "Turkiska armén",
+            "location": {
+                "name": "Turkiet",
+                "latitude": 38.963745,
+                "longitude": 35.243322,
+                "formatted_address": "Türkiye"
+            },
+            "country_code": "TUR"
+        },
+        {
+            "position": "Återinträde",
+            "start_year": 1906,
+            "organization": "Svenska armén",
+            "location": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Major",
+            "start_year": 1918,
+            "organization": "Norrbottens regemente",
+            "location": {
+                "name": "Norrbotten",
+                "latitude": 67.00206,
+                "longitude": 18.13028,
+                "formatted_address": "962 99 Norrbotten, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Major",
+            "start_year": 1922,
+            "end_year": 1926,
+            "organization": "Södra skånska infanteriregementet",
+            "location": {
+                "name": "Skåne",
+                "latitude": 55.99025719999999,
+                "longitude": 13.5957692,
+                "formatted_address": "Skåne County, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Militärattaché",
+            "start_year": 1912,
+            "end_year": 1913,
+            "location": {
+                "name": "Konstantinopel",
+                "latitude": 41.0082376,
+                "longitude": 28.9783589,
+                "formatted_address": "İstanbul, Türkiye"
+            },
+            "country_code": "TUR"
+        },
+        {
+            "position": "Spec:-attaché",
+            "start_year": 1917,
+            "end_year": 1918,
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Tillförordnad diplomatagent och generalkonsul",
+            "start_year": 1919,
+            "end_year": 1922,
+            "location": {
+                "name": "Egypten",
+                "latitude": 26.820553,
+                "longitude": 30.802498,
+                "formatted_address": "Egypt"
+            },
+            "country_code": "EGY"
+        }
+    ],
+    "person": {
+        "first_name": "Wiktor",
+        "last_name": "Unander",
+        "middle_name": "Axel",
+        "gender": "Male",
+        "birth_date": "18-12-1872",
+        "birth_place": {
+            "name": "Yttertavle, Västerbottens Län",
+            "latitude": 63.78294319999999,
+            "longitude": 20.3853045,
+            "formatted_address": "905 96 Yttertavle, Sweden"
+        },
+        "occupation": {
+            "occupation": "fd. major",
+            "occupation_english": "Former Major",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Ferdinand",
+                "last_name": "Unander",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "sekreterare filosofie doktor",
+                    "occupation_english": "Secretary Doctor of Philosophy"
+                }
+            },
+            {
+                "first_name": "Fanny",
+                "last_name": "Scharin",
+                "middle_name": null,
+                "gender": "Female"
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Sydalbanien och dess gränsfrågor",
+            "year": "1925",
+            "type": "Bok"
+        },
+        {
+            "title": "Folk och gränsförskjutningar på Balkan och i Främre Orienten",
+            "year": "1926",
+            "type": "Bok"
+        },
+        {
+            "title": "Nedjibe",
+            "year": "1943",
+            "type": "Roman"
+        },
+        {
+            "title": "På farofyllda uppdrag i Österled",
+            "year": "1947",
+            "type": "Bok"
+        },
+        {
+            "title": "Genealogiskt arbete",
+            "year": "None",
+            "type": "Övrigt"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Algeriet",
+                "latitude": 28.033886,
+                "longitude": 1.659626,
+                "formatted_address": "Algeria"
+            },
+            "country_code": "DZA",
+            "year": "1900"
+        }
+    ]
+}

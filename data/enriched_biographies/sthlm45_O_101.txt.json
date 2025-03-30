@@ -1,0 +1,156 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1936,
+            "end_year": 1937,
+            "organization": "Chevrolet Motor Co.",
+            "location": {
+                "name": "Detroit",
+                "latitude": 42.32971819999999,
+                "longitude": -83.0424533,
+                "formatted_address": "Detroit, MI, USA"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Försäljningschef",
+            "start_year": 1937,
+            "end_year": 1938,
+            "organization": "Aktiebolag Hans Österman",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande chef",
+            "start_year": 1938,
+            "end_year": 1941,
+            "organization": "Aktiebolag Hans Österman",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Osterman",
+        "middle_name": "Lennart",
+        "gender": "Male",
+        "birth_date": "01-10-1911",
+        "birth_place": {
+            "name": "Mölndal",
+            "latitude": 57.65,
+            "longitude": 12.016667,
+            "formatted_address": "Mölndal, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ingenjör, Direktör",
+            "occupation_english": "Engineer, Director",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Osterman",
+                "middle_name": "Ch.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Margarete",
+                "last_name": "Faber",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolag Hans Österman"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolag Bil- och Metallprodukter"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Stockholms Automobilhandlareförening"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Stockholms Stads och Läns Automobilhandlareförening"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Teknisk Gymnasium",
+            "degree_level": "Schooling",
+            "year": "1932",
+            "institution": "Örebro"
+        },
+        {
+            "degree": "Diplom från Handelshögskolan",
+            "degree_level": "Bachelor's",
+            "year": "1935",
+            "institution": "DHS"
+        },
+        {
+            "degree": "Gen. Motor School of Techn.",
+            "degree_level": "Schooling",
+            "year": "1936",
+            "institution": "Gen. Motor School of Techn."
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "segling",
+        "flygning"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1935-1937"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "career": [
+        {
+            "position": "Byggmästare",
+            "start_year": 1884,
+            "organization": "O2",
+            "location": {
+                "name": "Chicago, Illinois, USA",
+                "latitude": 41.8781136,
+                "longitude": -87.6297982,
+                "formatted_address": "Chicago, IL, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Byggmästarsuperintendent",
+            "start_year": 1884,
+            "organization": null,
+            "location": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Ericsson",
+        "middle_name": "Emil",
+        "gender": "Male",
+        "birth_date": "23-05-1868",
+        "birth_place": {
+            "name": "Moheda, Kronobergs Län",
+            "latitude": 57.0027566,
+            "longitude": 14.5732973,
+            "formatted_address": "342 60 Moheda, Sweden"
+        },
+        "occupation": {
+            "occupation": "Byggmästare",
+            "occupation_english": "Building contractor",
+            "hisco_code_swedish": "21240.0",
+            "hisco_description_swedish": "Contractor",
+            "hisco_code_english": "21240.0",
+            "hisco_description_english": "Contractor"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Ericsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Martha",
+                "last_name": "Nilsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Swedish Axner Reference League of Illinois",
+            "role": "Ordförande",
+            "start_year": 1902
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Ordförande",
+            "organization": "Svenska Ingenjörsföreningen"
+        },
+        {
+            "role": "Ordförande",
+            "organization": "Svenska Nationalförbundet"
+        },
+        {
+            "role": "Ordförande",
+            "organization": "Svenska klubben i Chicago"
+        },
+        {
+            "role": "Medlem",
+            "organization": "Svit-hiods sångarklubb"
+        },
+        {
+            "role": "Medlem",
+            "organization": "Svenska sångarförbundet i Amerikas festkommitté"
+        },
+        {
+            "role": "Medlem",
+            "organization": "Svenska Gleeklubben i Chicago under turnén i Sverige"
+        }
+    ],
+    "current_location": {
+        "name": "Chicago, Illinois, USA",
+        "latitude": 41.8781136,
+        "longitude": -87.6297982,
+        "formatted_address": "Chicago, IL, USA"
+    },
+    "education": [
+        {
+            "degree": "Jakobs elementarläroverk",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Celia",
+            "last_name": "Peterson",
+            "gender": "Female",
+            "birth_date": "None",
+            "parents": [
+                {
+                    "first_name": "Swan",
+                    "last_name": "Peterson",
+                    "gender": "Male",
+                    "occupation": null
+                },
+                {
+                    "first_name": "Sara",
+                    "last_name": "Mathilda Lönnquist",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1895"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Sweden",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1923"
+        }
+    ]
+}

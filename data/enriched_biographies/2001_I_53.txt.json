@@ -1,0 +1,80 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Ann-Charlotte",
+        "last_name": "Taube",
+        "middle_name": null,
+        "gender": "Female"
+    },
+    "achievements": [
+        {
+            "title": "Representerad",
+            "field": "Konst",
+            "significance": "Representerad i Gustaf VI Adolfs samling, Nationalmuseum, Göteborgs museum, Norrköpings museum och Malmö museum, Nasjonalgalleriet Oslo, Tessininstitutet Paris, British Museum med flera."
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Carl Otto",
+            "last_name": "Lindhé",
+            "middle_name": null,
+            "gender": "Male",
+            "parents": [
+                {
+                    "first_name": "Barbro",
+                    "last_name": "Lindhé",
+                    "middle_name": null,
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1961"
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA"
+        },
+        {
+            "country": {
+                "name": "Sovjetunionen",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "SUN"
+        },
+        {
+            "country": {
+                "name": "Cuba",
+                "latitude": 21.521757,
+                "longitude": -77.781167,
+                "formatted_address": "Cuba"
+            },
+            "country_code": "CUB"
+        },
+        {
+            "country": {
+                "name": "Venezuela",
+                "latitude": 6.42375,
+                "longitude": -66.58973,
+                "formatted_address": "Venezuela"
+            },
+            "country_code": "VEN"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        }
+    ]
+}

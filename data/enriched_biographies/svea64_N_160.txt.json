@@ -1,0 +1,198 @@
+{
+    "career": [
+        {
+            "position": "extra ordinarie lärare",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "Uppsala läns folkhögskola Vik",
+            "location": {
+                "name": "Uppsala Län",
+                "latitude": 60.2724233,
+                "longitude": 18.1396124,
+                "formatted_address": "Uppsala County, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "extra ordinarie adjunkt",
+            "start_year": 1948,
+            "end_year": null,
+            "organization": "Sigtuna humanistiska läroverk",
+            "location": {
+                "name": "Sigtuna",
+                "latitude": 59.6191463,
+                "longitude": 17.7234191,
+                "formatted_address": "Sigtuna, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "extra ordinarie adjunkt",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "folkskoleseminarium Umeå",
+            "location": {
+                "name": "Umeå",
+                "latitude": 63.8258471,
+                "longitude": 20.2630354,
+                "formatted_address": "Umeå, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "adjunkt",
+            "start_year": 1955,
+            "end_year": null,
+            "organization": "Ölands högre allmänna läroverk",
+            "location": {
+                "name": "Öland",
+                "latitude": 54.6786487,
+                "longitude": 8.705097,
+                "formatted_address": "Oland, Germany"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "adjunkt",
+            "start_year": 1959,
+            "end_year": null,
+            "organization": "hal Västerås",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1959,
+            "end_year": null,
+            "organization": "Järfälla kommunala realskola",
+            "location": {
+                "name": "Järfälla",
+                "latitude": 59.4431024,
+                "longitude": 17.8336732,
+                "formatted_address": "Järfälla Municipality, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Nordin",
+        "middle_name": "V",
+        "gender": "Male",
+        "birth_date": "29-01-1918",
+        "birth_place": {
+            "name": "Gräsmark, Värmlands Län",
+            "latitude": 59.93384759999999,
+            "longitude": 12.8389526,
+            "formatted_address": "686 98 Gräsmark, Sweden"
+        },
+        "occupation": {
+            "occupation": "rektor",
+            "occupation_english": "principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "37040.0",
+            "hisco_description_english": "Messenger"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Nordin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "folkskollärare",
+                    "occupation_english": "Primary School Teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1939",
+            "institution": "Karlstad"
+        },
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1947",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gertrud",
+            "last_name": "Ågren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "A",
+                    "last_name": "Ågren",
+                    "middle_name": "G",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "skräddarmästare",
+                        "occupation_english": "Master Tailor",
+                        "hisco_code_swedish": "79100.0",
+                        "hisco_description_swedish": "Tailor, Specialisation Unknown",
+                        "hisco_code_english": "79100.0",
+                        "hisco_description_english": "Tailor, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Erika",
+                    "last_name": "Haglund",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1947",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Mats",
+                "last_name": "Nordin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1949"
+            },
+            {
+                "first_name": "Lars",
+                "last_name": "Nordin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1951"
+            }
+        ]
+    },
+    "hobbies": [
+        "musik"
+    ],
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

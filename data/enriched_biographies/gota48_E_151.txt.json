@@ -1,0 +1,107 @@
+{
+    "career": [
+        {
+            "position": "Direktör",
+            "start_year": 1946,
+            "organization": "Aktiebolag Löfsiko-Nordsko",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Josef",
+        "last_name": "Eklöf",
+        "middle_name": "Fredrik Lennart",
+        "gender": "Male",
+        "birth_date": "08-02-1915",
+        "birth_place": {
+            "name": "Örebro",
+            "latitude": 59.2752626,
+            "longitude": 15.2134105,
+            "formatted_address": "Örebro, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        }
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Magda",
+            "last_name": "Gavelli",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "marriage_year": "1939",
+        "children": [
+            {
+                "first_name": "Christer",
+                "last_name": "Eklöf",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Marianne",
+                "last_name": "Eklöf",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "hobbies": [
+        "tennis"
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1946"
+        }
+    ]
+}

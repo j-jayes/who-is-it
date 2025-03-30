@@ -1,0 +1,184 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör och bruksförvaltare",
+            "start_year": 1910,
+            "end_year": 1918,
+            "organization": "Emsfors Bruk Påskallavik",
+            "location": {
+                "name": "Påskallavik",
+                "latitude": 57.1638581,
+                "longitude": 16.4618268,
+                "formatted_address": "572 74 Paskallavik, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överingenjör och fabrikschef",
+            "start_year": 1918,
+            "end_year": 1943,
+            "organization": "Wargöns Aktiebolag",
+            "location": {
+                "name": "Vargön",
+                "latitude": 58.35662159999999,
+                "longitude": 12.3888324,
+                "formatted_address": "468 30 Vargön, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överingenjör och platschef",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Billeruds Aktiebolags pappersbruk och sulfitfabrik",
+            "location": {
+                "name": "Säffle",
+                "latitude": 59.132661,
+                "longitude": 12.930107,
+                "formatted_address": "Säffle, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Malmgren",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "27-09-1881",
+        "birth_place": {
+            "name": "Bettna, Södermanlands Län",
+            "latitude": 58.90764369999999,
+            "longitude": 16.6355222,
+            "formatted_address": "642 62 Bettna, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överingenjör",
+            "occupation_english": "Chief Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Malmgren",
+                "middle_name": "N",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bruksägare",
+                    "occupation_english": "Owner of ironworks"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Eriksson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseordförande",
+            "organization": "Västgöta-Dals skytteförbund"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Vargön",
+        "latitude": 58.35662159999999,
+        "longitude": 12.3888324,
+        "formatted_address": "468 30 Vargön, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Nyköpings högre allmänna läroverk",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Nyköpings högre allmänna läroverk"
+        },
+        {
+            "degree": "Norrköpings tekniska elementarskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Norrköpings tekniska elementarskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Agnes",
+            "last_name": "Ekman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Friluftsliv",
+        "Sport"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Idrottsmärke",
+        "Skyttemärke",
+        "Frimurare"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1906-1909"
+        }
+    ]
+}

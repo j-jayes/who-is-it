@@ -1,0 +1,93 @@
+{
+    "career": [
+        {
+            "position": "Disponent",
+            "start_year": 1942,
+            "organization": "Fengersfors bruks aktiebolag"
+        },
+        {
+            "position": "Styrelseordförande",
+            "start_year": 1950,
+            "organization": "Skandinaviska banken Åmål"
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Fengersfors",
+        "gender": "Male",
+        "birth_date": "10-05-1900",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Fengersfors-Kjellman",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bruksägare"
+                }
+            },
+            {
+                "first_name": "Eline",
+                "last_name": "Jonasen",
+                "gender": "Female"
+            }
+        ]
+    },
+    "community_involvement": [
+        {
+            "role": "Ledamot",
+            "organization": "Tössbo kommunalfullmäktige"
+        },
+        {
+            "role": "Ledamot",
+            "organization": "Skolstyrelsen"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "None"
+        },
+        {
+            "degree": "Göteborgs Handelsinstitut",
+            "degree_level": "Bachelor's",
+            "year": "1923",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margaretha",
+            "last_name": "von Plåten",
+            "gender": "Female",
+            "birth_date": "01-01-1903",
+            "parents": [
+                {
+                    "first_name": "Gösta",
+                    "last_name": "von Plåten",
+                    "middle_name": "None",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Major",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Agnes",
+                    "last_name": "Wessel",
+                    "middle_name": "None",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1926"
+    }
+}

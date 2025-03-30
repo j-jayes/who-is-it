@@ -1,0 +1,217 @@
+{
+    "career": [
+        {
+            "position": "underläkare",
+            "start_year": 1919,
+            "end_year": 1921,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "extra provinsialläkare",
+            "start_year": 1922,
+            "end_year": 1926,
+            "organization": null,
+            "location": {
+                "name": "Töreboda",
+                "latitude": 58.7043445,
+                "longitude": 14.1260717,
+                "formatted_address": "Töreboda, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "provinssialläkare",
+            "start_year": 1927,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Skaraborgs Län",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "provinssialläkare",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Östergötlands Län",
+                "latitude": 58.3453635,
+                "longitude": 15.5197843,
+                "formatted_address": "Östergötland County, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "byråchef",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Medicinalstyrelsen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Wranne",
+        "middle_name": "Hilmer",
+        "gender": "Male",
+        "birth_date": "27-04-1892",
+        "birth_place": {
+            "name": "Kalmar",
+            "latitude": 56.6634447,
+            "longitude": 16.356779,
+            "formatted_address": "Kalmar, Sweden"
+        },
+        "occupation": {
+            "occupation": "förste provinsialläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Gust.",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "byggmästare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor"
+                }
+            },
+            {
+                "first_name": "Hulda",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Statliga kommittén",
+            "role": "ledamot",
+            "start_year": 1931,
+            "end_year": 1932,
+            "organization": null,
+            "significance": "bostadsutredning för landsbygd"
+        },
+        {
+            "committee_name": "Befolkningskommissionen",
+            "role": "ledamot",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Statliga besparingsberedningen",
+            "role": "ledamot",
+            "start_year": 1940,
+            "end_year": 1941,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Barnmorskeutredningen",
+            "role": "ledamot",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Linköping",
+        "latitude": 58.41080700000001,
+        "longitude": 15.6213727,
+        "formatted_address": "Linköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1919",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Hedin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "John",
+                    "last_name": "H.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "disponent",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager"
+                    }
+                },
+                {
+                    "first_name": "Alice",
+                    "last_name": "Lindmark",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1922",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1938"
+        }
+    ]
+}

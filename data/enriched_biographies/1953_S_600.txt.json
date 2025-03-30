@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Arkitektverksamhet",
+            "start_year": 1902,
+            "end_year": 1924,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Stadsarkitekt",
+            "start_year": 1924,
+            "end_year": 1943,
+            "organization": "Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Herman",
+        "last_name": "Stoltz",
+        "middle_name": "August",
+        "gender": "Male",
+        "birth_date": "13-05-1877",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Stadsarkitekt",
+            "occupation_english": "City Architect",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Aug.",
+                "last_name": "Stoltz",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Målaremästare",
+                    "occupation_english": "Master Painter",
+                    "hisco_code_swedish": "93120.0",
+                    "hisco_description_swedish": "Building Painter",
+                    "hisco_code_english": "93120.0",
+                    "hisco_description_english": "Building Painter"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Christersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1902",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Jenny",
+            "last_name": "Noring",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Noring",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Kronolänsman",
+                        "occupation_english": null
+                    }
+                },
+                {
+                    "first_name": "Mathilda",
+                    "last_name": "Matkstedt",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1903",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Hedersledamot i Södra Sveriges byggnadstekniska samfund"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

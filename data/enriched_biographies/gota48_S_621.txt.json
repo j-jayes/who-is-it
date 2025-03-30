@@ -1,0 +1,171 @@
+{
+    "career": [
+        {
+            "position": "Assistans tjänsteman",
+            "start_year": 1918,
+            "end_year": 1920,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Assistent, hos ekonomidirektör för sjukhus",
+            "start_year": 1920,
+            "end_year": 1928,
+            "organization": null,
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ekonomidirektör",
+            "start_year": 1928,
+            "end_year": 1933,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Inköpschef",
+            "start_year": 1933,
+            "end_year": null,
+            "organization": "Sjukhusdirektören",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1927,
+            "end_year": null,
+            "organization": "Eldbegängelsebyrån",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Svenning",
+        "middle_name": "Gösta Engelbrekt",
+        "gender": "Male",
+        "birth_date": "07-12-1897",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Inköpschef",
+            "occupation_english": "Purchasing Manager",
+            "hisco_code_swedish": "42230.0",
+            "hisco_description_swedish": "Purchasing Agent",
+            "hisco_code_english": "22000.0",
+            "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hans",
+                "last_name": "Svenning",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bokhandlare",
+                    "occupation_english": "Bookseller",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41030.0",
+                    "hisco_description_english": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Klara",
+                "last_name": "Falk",
+                "middle_name": "Ehsabet",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Realexamen",
+            "degree_level": "Schooling",
+            "year": "1915",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Schooling",
+            "year": "1917",
+            "institution": "Göteborgs Handelsinstitut"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "sport"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Göteborgs roddförenings förtjänsttecken i silver",
+        "Göteborgs gymnastikförenings SM",
+        "Göteborgs gymnastikförbunds SM"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1921"
+        }
+    ]
+}

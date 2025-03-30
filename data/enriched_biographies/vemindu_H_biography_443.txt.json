@@ -1,0 +1,215 @@
+{
+    "career": [
+        {
+            "position": "Verkställande praktikant",
+            "start_year": 1916,
+            "end_year": 1917,
+            "organization": "USA",
+            "location": null,
+            "country_code": "USA"
+        },
+        {
+            "position": "Ritkontorspraktikant",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": "Aktiebolaget Öresundsvarvet",
+            "location": {
+                "name": "Landskrona",
+                "latitude": 55.8703477,
+                "longitude": 12.8300802,
+                "formatted_address": "Landskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "end_year": 1921,
+            "organization": "Öresundsvarvet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": 1923,
+            "organization": "Aktiebolaget B Dieden",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1923,
+            "end_year": 1924,
+            "organization": "Newport News Shipbldg & Dry Dock Co",
+            "location": null,
+            "country_code": "USA"
+        },
+        {
+            "position": "Ritkontorschef",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Eriksbergs Mekaniska Verkstad",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Häggström",
+        "middle_name": "Johannes",
+        "gender": "Male",
+        "birth_date": "14-08-1897",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Häggström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Frölander",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Tekniska Samfundet, avdelningen för mekanik och skeppsbyggnadskonst",
+            "role": "Sekreterare",
+            "start_year": 1936,
+            "end_year": 1937,
+            "organization": "Göteborg",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Långedrag",
+        "latitude": 57.66944400000001,
+        "longitude": 11.855556,
+        "formatted_address": "426 76 Långedrag, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1915",
+            "institution": "None"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1919",
+            "institution": "Chalmers Tekniska Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Tyra",
+            "last_name": "Fredricsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Innehar Chalmers Tekniska Högskolas John Ericssonmedalj"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Kylanordningar i fartyg",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1916"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1917"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1924"
+        }
+    ]
+}

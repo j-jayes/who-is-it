@@ -1,0 +1,165 @@
+{
+    "career": [
+        {
+            "position": "Debut",
+            "start_year": 1921,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Engagemang",
+            "start_year": 1922,
+            "end_year": 1924,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Engagemang",
+            "start_year": 1925,
+            "organization": "Oscarsteatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Engagemang",
+            "start_year": 1925,
+            "organization": "Stora Teatern",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "E",
+        "last_name": "Andersson",
+        "middle_name": "Folke",
+        "gender": "Male",
+        "birth_date": "16-12-1892",
+        "birth_place": {
+            "name": "Eskilstuna",
+            "latitude": 59.37124859999999,
+            "longitude": 16.5098045,
+            "formatted_address": "Eskilstuna, Sweden"
+        },
+        "occupation": {
+            "occupation": "Operasångare",
+            "occupation_english": "Opera Singer",
+            "hisco_code_swedish": "17145.0",
+            "hisco_description_swedish": "Singer",
+            "hisco_code_english": "17145.0",
+            "hisco_description_english": "Singer"
+        },
+        "parents": [
+            {
+                "first_name": "Methodius",
+                "last_name": "Andersson",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Vilhelmina",
+                "last_name": "Gustafsdtr",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hälleforsnäs",
+        "latitude": 59.1504308,
+        "longitude": 16.4966728,
+        "formatted_address": "648 31 Hälleforsnäs, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Elisabeth",
+            "last_name": "Westberg",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1933",
+        "divorce_year": "1964",
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

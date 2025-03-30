@@ -1,0 +1,162 @@
+{
+    "career": [
+        {
+            "position": "Startade firma",
+            "start_year": 1936,
+            "organization": "Lund & Wahlund Domnarvet",
+            "location": {
+                "name": "Domnarvet",
+                "latitude": 60.5002563,
+                "longitude": 15.4551433,
+                "formatted_address": "784 74 Domnarvet, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen företagare",
+            "start_year": 1939,
+            "organization": "Alice Lunds Textilier Aktiebolag, Alice Lund—Sofia Widén (profana och kyrkliga textilier)",
+            "location": {
+                "name": "Hytting Borlänge",
+                "latitude": 60.46666699999999,
+                "longitude": 15.466667,
+                "formatted_address": "781 72 Hytting, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Alice",
+        "last_name": "Lund",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "24-09-1900",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Textilkonstnärinna",
+            "occupation_english": "Textile artist",
+            "hisco_code_english": "16130.0",
+            "hisco_description_english": "Painter, Artist"
+        },
+        "parents": [
+            {
+                "first_name": "Henrik",
+                "last_name": "Rabén",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Ingeborg",
+                "last_name": "Pettersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Borlänge",
+        "latitude": 60.484304,
+        "longitude": 15.433969,
+        "formatted_address": "Borlänge, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Konstfackskolan",
+            "degree_level": "Schooling",
+            "year": "1923",
+            "institution": "Konstfackskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Erik",
+            "last_name": "Lund",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Ingenjör",
+                "occupation_english": "Engineer",
+                "hisco_code_swedish": "2000.0",
+                "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                "hisco_code_english": "84100.0",
+                "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+            },
+            "parents": null
+        },
+        "marriage_year": "1923",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Skottland",
+                "latitude": 56.49067119999999,
+                "longitude": -4.2026458,
+                "formatted_address": "Scotland, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

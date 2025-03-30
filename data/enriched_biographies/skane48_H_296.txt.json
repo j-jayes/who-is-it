@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "Delägare",
+            "start_year": 1909,
+            "organization": "Firma Magnus Holmberg",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1913,
+            "organization": "Aktiebolag Magnus Holmberg",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Holmberg",
+        "middle_name": "Arvid Birger",
+        "gender": "Male",
+        "birth_date": "10-10-1886",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Magnus",
+                "last_name": "Holmberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Lindqvist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Skånemässan"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Föreningen Södra Sveriges manufakturengrossister"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Malmö Gymnastik- och Fäktklubb",
+            "role": "Sekreterare",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Malmö Simsällskap",
+            "role": "Sekreterare",
+            "start_year": 1909,
+            "end_year": 1911,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Malmö Simsällskap",
+            "role": "Vice Ordförande",
+            "start_year": 1912,
+            "end_year": 1913,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Malmö Simsällskap",
+            "role": "Ordförande",
+            "start_year": 1920,
+            "end_year": 1921,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Förste Ordförande",
+            "organization": "Simklubben Ran i Malmö"
+        }
+    ],
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1905",
+            "institution": "Malmö"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Agda",
+            "last_name": "Friberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Magnus",
+                "last_name": "Holmberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1936"
+            }
+        ]
+    },
+    "hobbies": [
+        "Gymnastik",
+        "Simning",
+        "Fri Idrott"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Svenska Gymnastik- och Idrottsföreningarnas Riksförbunds Medalj för utrikesresor",
+        "Simklubben Råns förtjänstmedalj",
+        "Idrottsguldmärke",
+        "Elitsimmarmärke",
+        "Rodd Standardmärke"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1909"
+        },
+        {
+            "country": {
+                "name": "Aten",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "GRC",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1908"
+        }
+    ]
+}

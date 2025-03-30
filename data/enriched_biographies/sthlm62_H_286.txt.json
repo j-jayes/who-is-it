@@ -1,0 +1,288 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1935,
+            "end_year": 1940,
+            "organization": "S:t Görans sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1940,
+            "end_year": 1946,
+            "organization": "Serafimerlasarettet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande överläkare",
+            "start_year": 1946,
+            "end_year": 1959,
+            "organization": "Sabbatsbergs sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1959,
+            "end_year": null,
+            "organization": "Medicinska kliniken, Sabbatsbergs sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Hedenius",
+        "middle_name": "J",
+        "gender": "Male",
+        "birth_date": "14-09-1906",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överläkare",
+            "occupation_english": "Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Israel",
+                "last_name": "Hedenius",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Professor",
+                    "occupation_english": "Professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Bergh",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1955,
+            "end_year": null,
+            "field": "Medicin"
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "Svenska Läkaresällskapets Trafvenfeltmedalj 1961",
+        "Svenska Teknologföreningens hedersutmärkelse 1962"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Läkaresällskapets nämnd",
+            "role": "Ledamot",
+            "start_year": 1937,
+            "end_year": 1961,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Svenska Föreningen för Medicinsk Fysik och Teknik",
+            "role": "Ordförande",
+            "start_year": 1956,
+            "end_year": 1961,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1925",
+            "institution": "None"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1929",
+            "institution": "None"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1934",
+            "institution": "None"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1940",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Evelyn",
+            "last_name": "Hambro",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Hambro",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Stortingspresident",
+                        "occupation_english": "President of the Storting"
+                    }
+                },
+                {
+                    "first_name": "Gudrun",
+                    "last_name": "Grieg",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1940",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Michael",
+                "last_name": "Hedenius",
+                "gender": "Male",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Nina",
+                "last_name": "Hedenius",
+                "gender": "Female",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Hedenius",
+                "gender": "Male",
+                "birth_year": "1944"
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Hedenius",
+                "gender": "Female",
+                "birth_year": "1947"
+            },
+            {
+                "first_name": "Lena",
+                "last_name": "Hedenius",
+                "gender": "Female",
+                "birth_year": "1950"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "Marinläkare l:a grad i reserven",
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Ett flertal skrifter i hematologi, laboratorieteknik samt medicinsk teknik",
+            "year": "None",
+            "type": "skrifter",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Portugal",
+                "latitude": 39.39987199999999,
+                "longitude": -8.224454,
+                "formatted_address": "Portugal"
+            },
+            "country_code": "PRT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

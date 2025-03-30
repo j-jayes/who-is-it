@@ -1,0 +1,177 @@
+{
+    "career": [
+        {
+            "position": "Huslig lärarinneseminarium",
+            "start_year": 1888,
+            "end_year": 1916,
+            "organization": "Folkskoleseminarium i Falun",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ackompanjatris",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Litteris et Artibus",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Martha",
+        "last_name": "Ohlson",
+        "middle_name": "Laura Margareta",
+        "gender": "Female",
+        "birth_date": "27-07-1876",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "bror",
+            "occupation_english": null
+        },
+        "parents": [
+            {
+                "first_name": "Gösta",
+                "last_name": "Ohlson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "provinsialläkare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician"
+                }
+            },
+            {
+                "first_name": "Eva",
+                "last_name": "Munktell",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Falu skolråd",
+            "role": "ledamot",
+            "start_year": 1909,
+            "end_year": 1910,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "ledamot",
+            "start_year": 1911,
+            "end_year": 1914,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Kopparbergs Läns dispensärstyrelse",
+            "role": "ledamot",
+            "start_year": 1909,
+            "end_year": 1910,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Falu allmänna biblioteks styrelse",
+            "role": "ledamot",
+            "start_year": 1909,
+            "end_year": 1910,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "föreningen för kvinnans politiska rösträtt i Falun",
+            "role": "medlem",
+            "start_year": 1905,
+            "end_year": 1920,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Värmlands Län",
+        "latitude": 59.5807897,
+        "longitude": 12.8472974,
+        "formatted_address": "Varmland County, Sweden"
+    },
+    "education": [
+        {
+            "degree": "konservatorium",
+            "degree_level": "Schooling",
+            "year": "1878-1879",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "elevläroämneseminarium",
+            "degree_level": "Schooling",
+            "year": "1893",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1961",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1899"
+        },
+        {
+            "country": {
+                "name": "Lidköping",
+                "latitude": 58.5035047,
+                "longitude": 13.1570768,
+                "formatted_address": "Lidköping, Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1879"
+        },
+        {
+            "country": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1880"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1955,
+            "end_year": 1958,
+            "organization": "Stockholms Hamnstyrelse",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1958,
+            "end_year": 1960,
+            "organization": "SIAB",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Arbetschef och chef för dess distriktskontor",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": "SIAB",
+            "location": {
+                "name": "Karlskoga",
+                "latitude": 59.32863399999999,
+                "longitude": 14.536414,
+                "formatted_address": "Karlskoga, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Jan",
+        "last_name": "Henje",
+        "middle_name": "C-I",
+        "gender": "Male",
+        "birth_date": "13-04-1930",
+        "birth_place": {
+            "name": "Lund",
+            "latitude": 55.7046601,
+            "longitude": 13.1910073,
+            "formatted_address": "Lund, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Henje",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Folkskollärare",
+                    "occupation_english": "Primary School Teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Ingeborg",
+                "last_name": "Lindelöf",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Betongföreningen",
+            "role": "Klubbmästare",
+            "start_year": 1958,
+            "end_year": 1960,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Karlskoga",
+        "latitude": 59.32863399999999,
+        "longitude": 14.536414,
+        "formatted_address": "Karlskoga, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1949",
+            "institution": "Malmö"
+        },
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1955",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Brita",
+            "last_name": "Syversen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Tryggve",
+                    "last_name": "Syversen",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Fabrikör",
+                        "occupation_english": "Manufacturer"
+                    }
+                },
+                {
+                    "first_name": "Gertrud",
+                    "last_name": "Ollmert",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1956",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Maria",
+                "last_name": "Henje",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1958"
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Henje",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1960"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Henje",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1963"
+            }
+        ]
+    },
+    "hobbies": [
+        "målning"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Främre Orienten",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1960"
+        },
+        {
+            "country": {
+                "name": "Västra Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "None",
+            "year": "1960"
+        }
+    ]
+}

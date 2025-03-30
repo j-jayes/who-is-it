@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Särskild forskare",
+            "start_year": 1976,
+            "end_year": 1983,
+            "organization": "Naturvetenskapliga forskningsrådet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Professor i etologisk kemi",
+            "start_year": 1983,
+            "end_year": null,
+            "organization": "Göteborgs Universitet",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare kemiska avdelningen",
+            "start_year": 1971,
+            "end_year": 1985,
+            "organization": "Uppsala Universitets ekologiska station på Öland",
+            "location": {
+                "name": "Öland",
+                "latitude": 54.6786487,
+                "longitude": 8.705097,
+                "formatted_address": "Oland, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1973,
+            "end_year": null,
+            "organization": "Institutet för kemisk ekologi Göteborgs Universitet",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Bergström",
+        "middle_name": "L W",
+        "gender": "Male",
+        "birth_date": "06-07-1935",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Bergström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Avdelningschef",
+                    "occupation_english": "Department Manager",
+                    "hisco_code_swedish": "22110.0",
+                    "hisco_description_swedish": "Clerical Supervisor, General",
+                    "hisco_code_english": "22000.0",
+                    "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Leila",
+                "last_name": "Willig",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "Affärsinnehavare",
+                    "occupation_english": "Business Owner",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Göteborgs Universitet",
+            "department": null,
+            "start_year": 1968,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Göteborgs Universitet",
+            "department": null,
+            "start_year": 1973,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Göteborgs Universitet",
+            "department": null,
+            "start_year": 1973,
+            "end_year": null,
+            "field": "Biokemi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i etologisk kemi och kemisk ekologi",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1976"
+        }
+    ]
+}

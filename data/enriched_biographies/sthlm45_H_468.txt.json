@@ -1,0 +1,203 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1922,
+            "end_year": 1926,
+            "organization": "Jästfabriks Aktiebolag Kärnan",
+            "location": {
+                "name": "Helsingborg",
+                "latitude": 56.0464674,
+                "longitude": 12.6945121,
+                "formatted_address": "Helsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1926,
+            "end_year": 1935,
+            "organization": "Bageriidkarnas Jäst Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Svenska Jästfabriks Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Aktiebolag Fannyudde",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Hugoson",
+        "middle_name": "Eric Alvar",
+        "gender": "Male",
+        "birth_date": "30-09-1897",
+        "birth_place": {
+            "name": "Vansta",
+            "latitude": 20.7579323,
+            "longitude": 73.3640381,
+            "formatted_address": "Vansda, Gujarat 396580, India"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Hugo",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Lundgren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolag Holkens Kol & Koks Aktiebolag"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolag Konservfabriken Sirius"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "KeLiFa"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Nacka",
+        "latitude": 59.30790299999999,
+        "longitude": 18.156042,
+        "formatted_address": "Nacka, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1922",
+            "institution": "Columbia University"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anne-Marie",
+            "last_name": "Strande",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1920",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Jörn",
+                "last_name": "Hugoson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1922"
+            },
+            {
+                "first_name": "Yvonne",
+                "last_name": "Hugoson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1927"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "Kommunalfullmäktige",
+            "position": "Ledamot",
+            "start_year": 1930,
+            "end_year": 1934,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

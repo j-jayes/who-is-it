@@ -1,0 +1,189 @@
+{
+    "career": [
+        {
+            "position": "målare",
+            "start_year": 1960,
+            "end_year": 1961,
+            "organization": "Skånska målarskolan",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "studier",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": "Köpenhamn",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "studier",
+            "start_year": 1962,
+            "end_year": 1968,
+            "organization": "Kungliga Konsthögskolan",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Lennart",
+        "last_name": "Aschenbrenner",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "16-11-1943",
+        "birth_place": {
+            "name": "Perstorp, Kristiansstads Län",
+            "latitude": 56.137972,
+            "longitude": 13.3949862,
+            "formatted_address": "Perstorp, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Guido",
+                "last_name": "Aschenbrenner",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "målare",
+                    "occupation_english": "painter",
+                    "hisco_code_swedish": "93120.0",
+                    "hisco_description_swedish": "Building Painter",
+                    "hisco_code_english": "93120.0",
+                    "hisco_description_english": "Building Painter"
+                }
+            },
+            {
+                "first_name": "Inga",
+                "last_name": "Bengtsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Tjörnarp",
+        "latitude": 55.9961699,
+        "longitude": 13.6282372,
+        "formatted_address": "243 72 Tjörnarp, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1967",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maria",
+            "last_name": "Godenius",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "filosofie kandidat",
+                "occupation_english": "Bachelor of Arts",
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title",
+                "hisco_code_english": "13990.0",
+                "hisco_description_english": "Other Teachers"
+            },
+            "parents": null
+        },
+        "marriage_year": "1967",
+        "divorce_year": "1984",
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1967"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1967"
+        },
+        {
+            "country": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA",
+            "year": "1967"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1967"
+        },
+        {
+            "country": {
+                "name": "Madrid",
+                "latitude": 40.41672790000001,
+                "longitude": -3.7032905,
+                "formatted_address": "Madrid, Spain"
+            },
+            "country_code": "ESP",
+            "year": "1967"
+        },
+        {
+            "country": {
+                "name": "Bryssel",
+                "latitude": 50.8260453,
+                "longitude": 4.3802052,
+                "formatted_address": "Brussels, Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1967"
+        }
+    ]
+}

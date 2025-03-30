@@ -1,0 +1,181 @@
+{
+    "career": [
+        {
+            "position": "Resande",
+            "start_year": 1886,
+            "end_year": 1907,
+            "organization": "F Ahlgrens tekniska fabrik",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Prokurist och affärsledare",
+            "start_year": 1907,
+            "end_year": 1933,
+            "organization": "Läkerol",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": "AB Pastill",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1933,
+            "end_year": null,
+            "organization": "F Ahlgrens tekniska fabrik AB",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1933,
+            "end_year": null,
+            "organization": "AB Läkerol",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1933,
+            "end_year": null,
+            "organization": "AB Kartonnage",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Adolf",
+        "last_name": "Ahlgren",
+        "middle_name": "Ferdinand",
+        "gender": "Male",
+        "birth_date": "03-04-1872",
+        "birth_place": {
+            "name": "Visby",
+            "latitude": 57.6348,
+            "longitude": 18.29484,
+            "formatted_address": "Visby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "P",
+                "last_name": "Ahlgren",
+                "middle_name": "F",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fabrikör",
+                    "occupation_english": "Manufacturer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Reuser",
+                "middle_name": "Maria",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "RVO",
+        "RNO"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Gävle Handelskammare",
+            "role": "Fullmäktige",
+            "start_year": 1928,
+            "end_year": 1942,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Gävle",
+        "latitude": 60.6748796,
+        "longitude": 17.1412726,
+        "formatted_address": "Gävle, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Läroverk",
+            "degree_level": "Schooling",
+            "year": "1882-1886",
+            "institution": "Visby"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Preutz",
+            "middle_name": "Maria",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Sångkör"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Kontinenten",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1912-1932"
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1912-1932"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1912-1932"
+        }
+    ]
+}

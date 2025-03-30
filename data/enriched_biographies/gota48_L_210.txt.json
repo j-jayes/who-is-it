@@ -1,0 +1,190 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1939,
+            "end_year": 1940,
+            "organization": "Götaverkens flygavdelning",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Projektingengör",
+            "start_year": 1940,
+            "end_year": 1946,
+            "organization": "Svenska Aeroplan Aktiebolaget",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef för konstruktionskontoret",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "Svenska Aeroplan Aktiebolaget",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Tord",
+        "last_name": "Lidmalm",
+        "middle_name": "Nils Gösta",
+        "gender": "Male",
+        "birth_date": "22-12-1913",
+        "birth_place": {
+            "name": "Sunne, Värmlands Län",
+            "latitude": 59.83655749999999,
+            "longitude": 13.1440464,
+            "formatted_address": "Sunne, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Lidmalm",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Signe",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Segelflygplan Fi-1",
+            "field": "Flygindustri",
+            "year": "1943",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Lastghd-planet Fi-3",
+            "field": "Flygindustri",
+            "year": "1944",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "24-32-sitsiga transportflygplanet SAAB Scandia",
+            "field": "Flygindustri",
+            "year": "1946",
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Linköping",
+        "latitude": 58.41080700000001,
+        "longitude": 15.6213727,
+        "formatted_address": "Linköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1933",
+            "institution": "Karlstad"
+        },
+        {
+            "degree": "Bröderna Påhlmans Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1934",
+            "institution": "Bröderna Påhlmans Handelsinstitut"
+        },
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1935-1939",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märta",
+            "last_name": "Skogberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1941",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Bengt",
+                "last_name": "Lidmalm",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Centralamerika",
+                "latitude": 12.7690126,
+                "longitude": -85.60236429999999,
+                "formatted_address": "Central America"
+            },
+            "country_code": "None",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Nordamerika",
+                "latitude": 54.5259614,
+                "longitude": -105.2551187,
+                "formatted_address": "North America"
+            },
+            "country_code": "None",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1946"
+        }
+    ]
+}

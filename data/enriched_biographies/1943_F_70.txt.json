@@ -1,0 +1,173 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1903,
+            "end_year": 1907,
+            "organization": "New York Edison Co, Westinghouse El & Mfg Co och Carnegie Steel Co",
+            "location": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "chef för metallurgiska avdelningen",
+            "start_year": 1907,
+            "end_year": 1914,
+            "organization": "Uddeholms aktiebolag",
+            "location": {
+                "name": "Hagfors järnväg",
+                "latitude": 60.03437,
+                "longitude": 13.694508,
+                "formatted_address": "Hagfors, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "chef för kraftverken",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": "Uddeholms aktiebolag",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Fredén",
+        "middle_name": "Filip",
+        "gender": "Male",
+        "birth_date": "27-03-1880",
+        "birth_place": {
+            "name": "Färnebo, Värmlands Län",
+            "latitude": 59.5807897,
+            "longitude": 12.8472974,
+            "formatted_address": "Varmland County, Sweden"
+        },
+        "occupation": {
+            "occupation": "överingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Fredén",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kontraktsprost",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Jansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Munkfors",
+        "latitude": 59.83525160000001,
+        "longitude": 13.5460796,
+        "formatted_address": "Munkfors, Sweden"
+    },
+    "education": [
+        {
+            "degree": "KTH",
+            "degree_level": "Bachelor's",
+            "year": "1902",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Lindberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Lindberg",
+                    "middle_name": "C:son",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "brukspatron",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "21220.0",
+                        "hisco_description_swedish": "Production Manager (except Farm)"
+                    }
+                },
+                {
+                    "first_name": "Malin",
+                    "last_name": "Dahlgren",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1911",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

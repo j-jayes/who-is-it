@@ -1,0 +1,201 @@
+{
+    "career": [
+        {
+            "position": "Disponent",
+            "start_year": 1918,
+            "end_year": 1919,
+            "organization": "AB Damm- & Spårledningar",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "end_year": 1926,
+            "organization": "ASEA",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1926,
+            "end_year": 1927,
+            "organization": "STAL",
+            "location": {
+                "name": "Finspong",
+                "latitude": 58.7074884,
+                "longitude": 15.773595,
+                "formatted_address": "Finspång, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1928,
+            "end_year": null,
+            "organization": "AB Svenska Fläktfabriken",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Filialchef",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "AB Svenska Fläktfabriken",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Folke",
+        "last_name": "Tenelius",
+        "middle_name": "Viktor",
+        "gender": "Male",
+        "birth_date": "16-02-1894",
+        "birth_place": {
+            "name": "Rogberga, Jönköpings Län",
+            "latitude": 57.7342911,
+            "longitude": 14.2927325,
+            "formatted_address": "561 61 Rogberga, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Jansson",
+                "middle_name": "W",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byggmästare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor"
+                }
+            },
+            {
+                "first_name": "Lind",
+                "last_name": "Lind",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Jönköping"
+        },
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1916",
+            "institution": "Chalmers Tekniska Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lilly",
+            "last_name": "Ahlgren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Uppsatser i värme-, ventilations- och fläkttekniska ämnen",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1925"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "career": [
+        {
+            "position": "Musiktheoretiker",
+            "start_year": 1917,
+            "organization": "Stockholmspressen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Korrespondent",
+            "start_year": 1917,
+            "organization": "The Musical Times",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Föredragshållare",
+            "start_year": 1917,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kompositör",
+            "start_year": 1917,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Felix",
+        "last_name": "Strömberg",
+        "middle_name": "Saul",
+        "gender": "Male",
+        "occupation": {
+            "occupation": "Musikteoretiker",
+            "occupation_english": "Music theorist",
+            "hisco_code_english": "92000.0",
+            "hisco_description_english": "Printers and Related Workers"
+        }
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Diverse europeiska länder",
+                "latitude": 54.5259614,
+                "longitude": 15.2551187,
+                "formatted_address": "Europe"
+            },
+            "country_code": "EUR"
+        }
+    ]
+}

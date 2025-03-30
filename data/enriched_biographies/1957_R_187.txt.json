@@ -1,0 +1,181 @@
+{
+    "career": [
+        {
+            "position": "Fänrik",
+            "start_year": 1926,
+            "organization": "Flottan"
+        },
+        {
+            "position": "Kommendörkapten 2. graden",
+            "start_year": 1943
+        },
+        {
+            "position": "Kommendörkapten 1. graden",
+            "start_year": 1946
+        },
+        {
+            "position": "Kommendör",
+            "start_year": 1951
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1943,
+            "end_year": 1947,
+            "organization": "Kungliga Sjökrigshögskolan"
+        },
+        {
+            "position": "Marinattaché",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "Oslo",
+            "location": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "position": "Marinattaché",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "Köpenhamn",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1948,
+            "end_year": 1951,
+            "organization": "Marinförvaltningens torpedbyrå"
+        },
+        {
+            "position": "Inspektör",
+            "start_year": 1951,
+            "end_year": 1954,
+            "organization": "Torpedvapen"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1954,
+            "organization": "Flygförvaltningens robotbyrå"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Rosenberg",
+        "middle_name": "Otto",
+        "gender": "Male",
+        "birth_date": "16-06-1904",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kommendör",
+            "occupation_english": "Commander",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "58320.0",
+            "hisco_description_english": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Otto",
+                "last_name": "Rosenberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Ottonie",
+                "last_name": "Benedicks",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Nordamerika",
+                "latitude": 54.5259614,
+                "longitude": -105.2551187,
+                "formatted_address": "North America"
+            },
+            "country_code": "USA",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Sydamerika",
+                "latitude": -8.783195,
+                "longitude": -55.491477,
+                "formatted_address": "South America"
+            },
+            "country_code": "None",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Nordamerika",
+                "latitude": 54.5259614,
+                "longitude": -105.2551187,
+                "formatted_address": "North America"
+            },
+            "country_code": "USA",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Sydamerika",
+                "latitude": -8.783195,
+                "longitude": -55.491477,
+                "formatted_address": "South America"
+            },
+            "country_code": "None",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Nordamerika",
+                "latitude": 54.5259614,
+                "longitude": -105.2551187,
+                "formatted_address": "North America"
+            },
+            "country_code": "USA",
+            "year": "1950"
+        },
+        {
+            "country": {
+                "name": "Sydamerika",
+                "latitude": -8.783195,
+                "longitude": -55.491477,
+                "formatted_address": "South America"
+            },
+            "country_code": "None",
+            "year": "1950"
+        }
+    ]
+}

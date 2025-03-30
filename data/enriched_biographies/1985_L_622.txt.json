@@ -1,0 +1,246 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1936,
+            "end_year": 1943,
+            "organization": "Bonniers förlag och aktiebolaget Nordiska uppslagsböcker",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "fortifikationsförvaltare",
+            "start_year": 1943,
+            "end_year": 1945,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Riksförsäkringsanstalten",
+            "start_year": 1945,
+            "end_year": 1947,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "yrkesinspektör",
+            "start_year": 1947,
+            "end_year": 1952,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Stockholms stads hälsovårdsnämnd",
+            "start_year": 1952,
+            "end_year": 1961,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Allmänna ingenjörsbyrån aktiebolag",
+            "start_year": 1961,
+            "end_year": 1967,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överingenjör",
+            "start_year": 1967,
+            "end_year": 1973,
+            "organization": "Stockholms stads hälsovårdsförvaltning",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "konsult ingenjör",
+            "start_year": 1973,
+            "end_year": 1979,
+            "organization": "Bullerbekämpning Einar Lindström aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "IVL-Fryksta",
+            "start_year": 1979,
+            "end_year": 1980,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Einar",
+        "last_name": "Lindström",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "03-04-1908",
+        "birth_place": {
+            "name": "Strängnäs",
+            "latitude": 59.37745229999999,
+            "longitude": 17.0321193,
+            "formatted_address": "Strängnäs, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Lindström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "postexpeditör",
+                    "occupation_english": "Postal Clerk",
+                    "hisco_code_swedish": "33170.0",
+                    "hisco_description_swedish": "Post Office Counter Clerk",
+                    "hisco_code_english": "30000.0",
+                    "hisco_description_english": "Clerical or Related Worker, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ester",
+                "last_name": "Öller",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Institutet för vatten- och luftvårdsforskning",
+            "role": "ledamot",
+            "start_year": 1956,
+            "end_year": 1963,
+            "organization": "IVA:s bullerforskningskommitté",
+            "significance": null
+        },
+        {
+            "committee_name": "Korrosionsinstitutet",
+            "role": "ledamot",
+            "start_year": 1966,
+            "end_year": null,
+            "organization": "garagekommitté",
+            "significance": null
+        },
+        {
+            "committee_name": "Statens institut för byggnadsforskning",
+            "role": "ledamot",
+            "start_year": 1959,
+            "end_year": 1972,
+            "organization": "installationsgrupp",
+            "significance": null
+        },
+        {
+            "committee_name": "Svenska Elektriska Kommissionen",
+            "role": "ledamot",
+            "start_year": 1962,
+            "end_year": 1974,
+            "organization": "normkommitté för byggnakustik och bullerfrågor",
+            "significance": null
+        },
+        {
+            "committee_name": "Storstockholms miljöövervakningskommitté",
+            "role": "ledamot",
+            "start_year": 1967,
+            "end_year": 1972,
+            "organization": "expertgrupp",
+            "significance": "uppdrag rörande trafik och miljö"
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Karlstad",
+        "latitude": 59.4021806,
+        "longitude": 13.5114977,
+        "formatted_address": "Karlstad, Sweden"
+    },
+    "education": [
+        {
+            "degree": "civilingenjör",
+            "degree_level": "Master's",
+            "year": "1937",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gerd",
+            "last_name": "Wester",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "10-01-1910",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Hjalmar",
+                    "last_name": "Wester",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "advokat",
+                        "occupation_english": "lawyer",
+                        "hisco_code_swedish": "12110.0",
+                        "hisco_description_swedish": "Lawyer",
+                        "hisco_code_english": "73210.0",
+                        "hisco_description_english": "Sawyer, General"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Mossbäck",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "böcker och tidskriftsartiklar inom teknisk hygien",
+            "year": "None",
+            "type": "bok och tidskriftsartikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

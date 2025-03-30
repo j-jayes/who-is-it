@@ -1,0 +1,40 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Erie",
+        "last_name": "Hultman",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "25-10-1910",
+        "birth_place": {
+            "name": "Kristinehamn",
+            "latitude": 59.3100677,
+            "longitude": 14.1089192,
+            "formatted_address": "Kristinehamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Helmer",
+                "last_name": "Hultman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ingenjör",
+                    "occupation_english": "engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            }
+        ]
+    }
+}

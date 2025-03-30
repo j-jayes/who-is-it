@@ -1,0 +1,186 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Alfred",
+        "last_name": "Nathorst",
+        "middle_name": "Gabriel",
+        "gender": "Male",
+        "birth_date": "07-11-1850",
+        "birth_place": {
+            "name": "Väderbrunn, Bergshammar, Södermanlands Län",
+            "latitude": 58.7417405,
+            "longitude": 16.9158975,
+            "formatted_address": "611 50 Bergshammar, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1874,
+            "end_year": null,
+            "field": "geologi"
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "Naturhistoriska riksmuseet",
+            "department": null,
+            "start_year": 1884,
+            "end_year": 1917,
+            "field": null
+        }
+    ],
+    "achievements": [],
+    "awards": [],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1874",
+            "institution": "Lunds universitet"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ella",
+            "last_name": "Windahl",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1878",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "filosofie hedersdoktor",
+            "institution": "Greifswalds universitet",
+            "year": "1906"
+        },
+        {
+            "title": "filosofie hedersdoktor",
+            "institution": "Cambridge universitet",
+            "year": "1907"
+        },
+        {
+            "title": "filosofie hedersdoktor",
+            "institution": "Kristiania universitet",
+            "year": "1911"
+        },
+        {
+            "title": "juris hedersdoktor",
+            "institution": "St Andrews universitet",
+            "year": "1911"
+        }
+    ],
+    "honors": [],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Jordens historia",
+            "year": "1888-1894",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Två somrar i norra ishavet I-II",
+            "year": "1900-1901",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Har djuren rätt att leva",
+            "year": "1907",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Spetsbergen",
+                "latitude": 78.90136,
+                "longitude": 13.4838879,
+                "formatted_address": "Spitsbergen, Svalbard and Jan Mayen"
+            },
+            "country_code": "SJM",
+            "year": "1870"
+        },
+        {
+            "country": {
+                "name": "Spetsbergen",
+                "latitude": 78.90136,
+                "longitude": 13.4838879,
+                "formatted_address": "Spitsbergen, Svalbard and Jan Mayen"
+            },
+            "country_code": "SJM",
+            "year": "1882"
+        },
+        {
+            "country": {
+                "name": "Grönland",
+                "latitude": 71.706936,
+                "longitude": -42.604303,
+                "formatted_address": "Greenland"
+            },
+            "country_code": "GRL",
+            "year": "1883"
+        },
+        {
+            "country": {
+                "name": "Spetsbergen",
+                "latitude": 78.90136,
+                "longitude": 13.4838879,
+                "formatted_address": "Spitsbergen, Svalbard and Jan Mayen"
+            },
+            "country_code": "SJM",
+            "year": "1898"
+        }
+    ]
+}

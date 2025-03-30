@@ -1,0 +1,192 @@
+{
+    "career": [
+        {
+            "position": "lärare i figurteckning",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "tekniska skolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överlärare",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "tekniska skolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Althins målarskola",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överlärare",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "konstskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Berggren",
+        "middle_name": "Edward",
+        "gender": "Male",
+        "birth_date": "20-11-1876",
+        "birth_place": {
+            "name": "Törnevalla, Östergötlands Län",
+            "latitude": 58.45,
+            "longitude": 15.833056,
+            "formatted_address": "585 61 Törnevalla, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär, överlärare",
+            "occupation_english": "artist, senior teacher",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ernst",
+                "last_name": "Berggren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "statsinspektör",
+                    "occupation_english": "state inspector",
+                    "hisco_code_swedish": "31000.0",
+                    "hisco_description_swedish": "Government Executive Official, Specialisation Unknown",
+                    "hisco_code_english": "31090.0",
+                    "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                }
+            },
+            {
+                "first_name": "Lotte",
+                "last_name": "Heijne",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "svenska sektionen av kommittén för kyrkliga och etnografiska världsutställningen i Rom",
+            "role": "medlem",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "elev",
+            "degree_level": "Schooling",
+            "year": "1897",
+            "institution": "tekniska skolan i Stockholm"
+        },
+        {
+            "degree": "elev",
+            "degree_level": "Schooling",
+            "year": "1903",
+            "institution": "konstakademien"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "k. medalj 1905",
+        "konstakademiens resestipendium 1910-1913"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1904"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1904"
+        },
+        {
+            "country": {
+                "name": "Holländerna",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "NLD",
+            "year": "1904"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1904"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1910"
+        }
+    ]
+}

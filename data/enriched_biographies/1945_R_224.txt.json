@@ -1,0 +1,185 @@
+{
+    "career": [
+        {
+            "position": "tillförordnad professor",
+            "start_year": 1923,
+            "end_year": 1926,
+            "organization": "Lunds Universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "extra ordinarie lektor",
+            "start_year": 1927,
+            "end_year": 1929,
+            "organization": "Motala",
+            "location": {
+                "name": "Motala",
+                "latitude": 58.5380335,
+                "longitude": 15.0470936,
+                "formatted_address": "Motala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lektor",
+            "start_year": 1929,
+            "organization": "Eksjö",
+            "location": {
+                "name": "Eksjö",
+                "latitude": 57.6172,
+                "longitude": 15.22155,
+                "formatted_address": "575 92 Eksjo, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Folke",
+        "last_name": "Ryde",
+        "middle_name": "August",
+        "gender": "Male",
+        "birth_date": "02-11-1897",
+        "birth_place": {
+            "name": "Västervik",
+            "latitude": 57.75771559999999,
+            "longitude": 16.6369759,
+            "formatted_address": "Västervik, Sweden"
+        },
+        "occupation": {
+            "occupation": "lektor",
+            "occupation_english": "lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Adolf",
+                "last_name": "Ryde",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "läroverksadjunkt",
+                    "occupation_english": "secondary school teacher",
+                    "hisco_code_swedish": "13200.0",
+                    "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Rosentwist",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1921,
+            "end_year": null,
+            "field": "matematik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Eksjö",
+        "latitude": 57.6172,
+        "longitude": 15.22155,
+        "formatted_address": "575 92 Eksjo, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1920",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1921",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hanna",
+            "last_name": "Olsson",
+            "gender": "Female",
+            "birth_date": "00-00-1900",
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Jöns",
+                    "last_name": "Olsson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "fabrikör",
+                        "occupation_english": "manufacturer"
+                    }
+                },
+                {
+                    "first_name": "Bengta",
+                    "last_name": "Mattisson",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1928",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "A contribution to the theory of linear homogeneous geometric difference equations (q-difference equations)",
+            "year": "1921",
+            "type": "akademisk avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Arithmetical continued fractions",
+            "year": "1926",
+            "type": "övrigt",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

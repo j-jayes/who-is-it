@@ -1,0 +1,217 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1951,
+            "end_year": 1952,
+            "organization": "Enhörningen",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1954,
+            "end_year": null,
+            "organization": "Kiruna",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1955,
+            "end_year": null,
+            "organization": "Orust",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1956,
+            "end_year": null,
+            "organization": "Hunnebostrand",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1957,
+            "end_year": null,
+            "organization": "Scheele",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1959,
+            "end_year": null,
+            "organization": "Lejonet",
+            "location": {
+                "name": "Skövde",
+                "latitude": 58.3902782,
+                "longitude": 13.8461208,
+                "formatted_address": "Skövde, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Apotekare",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": "Kronan",
+            "location": {
+                "name": "Hudiksvall",
+                "latitude": 61.7273909,
+                "longitude": 17.107401,
+                "formatted_address": "Hudiksvall, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "R",
+        "last_name": "Samuelsson",
+        "middle_name": "Wilgott",
+        "gender": "Male",
+        "birth_date": "12-09-1930",
+        "birth_place": {
+            "name": "Skärhamn, Göteborgs och Bohus Län",
+            "latitude": 57.99105739999999,
+            "longitude": 11.5482426,
+            "formatted_address": "Skärhamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "Apotekare",
+            "occupation_english": "Pharmacist",
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist",
+            "hisco_code_english": "41030.0",
+            "hisco_description_english": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Robert",
+                "last_name": "Samuelsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmann",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Elemina",
+                "last_name": "Hansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hudiksvall",
+        "latitude": 61.7273909,
+        "longitude": 17.107401,
+        "formatted_address": "Hudiksvall, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1950",
+            "institution": "Uddevalla"
+        },
+        {
+            "degree": "Receptarie",
+            "degree_level": "Bachelor's",
+            "year": "1954",
+            "institution": "None"
+        },
+        {
+            "degree": "Apotekarexamen",
+            "degree_level": "Master's",
+            "year": "1959",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Britta",
+            "last_name": "Malke",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Erik",
+                    "last_name": "Malke",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Bankdirektör",
+                        "occupation_english": "Bank Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "44140.0",
+                        "hisco_description_english": "Stock Broker"
+                    }
+                },
+                {
+                    "first_name": "Greta",
+                    "last_name": "Wergel",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Maria",
+                "last_name": "Samuelsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1964"
+            },
+            {
+                "first_name": "Birgitta",
+                "last_name": "Samuelsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1966"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

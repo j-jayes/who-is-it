@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1947,
+            "organization": "Asea Ludvika",
+            "location": {
+                "name": "Ludvika",
+                "latitude": 60.152358,
+                "longitude": 15.191639,
+                "formatted_address": "Ludvika, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "assistent",
+            "start_year": 1947,
+            "end_year": 1948,
+            "organization": "KTH",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1947,
+            "end_year": 1948,
+            "organization": "Nobelinst för fysik",
+            "country_code": "SWE"
+        },
+        {
+            "position": "tillförordnad professor",
+            "start_year": 1955,
+            "organization": "KTH",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1955,
+            "organization": "Asea Västerås",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "överingenjör och chef för atomkraftavdelningen",
+            "start_year": 1958,
+            "end_year": 1962,
+            "organization": "Asea Västerås",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "försäljningschef och vice verkställande direktör",
+            "start_year": 1962,
+            "organization": "Asea Västerås",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Curt",
+        "last_name": "Mileikowsky",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "01-05-1923",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gregor",
+                "last_name": "M",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Margit",
+                "last_name": "Wallis",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "institution": "KTH",
+            "department": "fysik",
+            "start_year": 1953,
+            "end_year": null,
+            "field": "fysik"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulla",
+            "last_name": "Varenius",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Birger",
+                    "last_name": "V",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Elsa",
+                    "last_name": "Husberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1947",
+        "divorce_year": null,
+        "children": null
+    },
+    "publications": [
+        {
+            "title": "Vetenskapliga och tekniska skrifter",
+            "year": "None",
+            "type": "None",
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ]
+}

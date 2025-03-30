@@ -1,0 +1,182 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1891,
+            "end_year": 1892,
+            "organization": "Ersta sjukhus",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Karantänläkare",
+            "start_year": 1893,
+            "end_year": 1895,
+            "organization": "Fejan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Läkare",
+            "start_year": 1896,
+            "end_year": 1898,
+            "organization": "Dövstuminstitutet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1899,
+            "end_year": null,
+            "organization": "Hålahult",
+            "location": {
+                "name": "Hålahult, Örebro Län",
+                "latitude": 59.43872589999999,
+                "longitude": 15.1143388,
+                "formatted_address": "718 94 Hålahult, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Waller",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "10-04-1856",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överläkare",
+            "occupation_english": "Senior Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Waller",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kamrer",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Betty",
+                "last_name": "Waller",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hålahult, Örebro Län",
+        "latitude": 59.43872589999999,
+        "longitude": 15.1143388,
+        "formatted_address": "718 94 Hålahult, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Medicine Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1886",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "Medicine Licentiat",
+            "degree_level": "Master's",
+            "year": "1891",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elisabeth",
+            "last_name": "Björkman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "E. G.",
+                    "last_name": "B.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Förste Sekreterare",
+                        "occupation_english": "First Secretary",
+                        "hisco_code_swedish": "32120.0",
+                        "hisco_description_swedish": "Stenographic Secretary",
+                        "hisco_code_english": "32120.0",
+                        "hisco_description_english": "Stenographic Secretary"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Fresk",
+                    "middle_name": "Vendela Helena",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1893",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "Medicine Hedersdoktor",
+            "institution": "Uppsala Universitet",
+            "year": "1917"
+        }
+    ],
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1899"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1899"
+        }
+    ]
+}

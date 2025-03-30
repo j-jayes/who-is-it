@@ -1,0 +1,192 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1924,
+            "end_year": 1929,
+            "organization": "Lunds Universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Assistent i oorganisk kemi",
+            "start_year": 1930,
+            "end_year": 1937,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Speciallärare i kemi",
+            "start_year": 1931,
+            "end_year": 1937,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Laboratorieföreståndare",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "AB Bofors Nobelkrut",
+            "location": {
+                "name": "Bofors",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Troell",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "01-06-1896",
+        "birth_place": {
+            "name": "Eslöv",
+            "latitude": 55.8391198,
+            "longitude": 13.3033914,
+            "formatted_address": "Eslöv, Sweden"
+        },
+        "occupation": {
+            "occupation": "Filosofie Doktor",
+            "occupation_english": "Doctor of Philosophy",
+            "hisco_code_swedish": "-1.0",
+            "hisco_description_swedish": "Missing, no title",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Olsson Troell",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byggmästare",
+                    "occupation_english": "Building contractor",
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor",
+                    "hisco_code_english": "21240.0",
+                    "hisco_description_english": "Contractor"
+                }
+            },
+            {
+                "first_name": "Ottilda",
+                "last_name": "Nyqvist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Bofors",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Filosofie Doktor i kemi",
+            "degree_level": "Doctorate",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Dahlström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "None",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Gradualavhandling",
+            "year": "None",
+            "type": "avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Diverse skrifter i kemi ämnen",
+            "year": "None",
+            "type": "skrift",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1929-1930"
+        }
+    ]
+}

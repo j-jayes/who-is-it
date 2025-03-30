@@ -1,0 +1,216 @@
+{
+    "career": [
+        {
+            "position": "Tjänstgöring",
+            "start_year": 1936,
+            "end_year": 1939,
+            "organization": "Häradshövdinge",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tjänstgöring",
+            "start_year": 1939,
+            "organization": "Handelsdepartementet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kansliråd",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Handelsdepartementet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Expert",
+            "start_year": 1949,
+            "end_year": 1954,
+            "organization": "Utredning angående Sveriges handelsavtalsförhandlingar",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Expert",
+            "start_year": 1949,
+            "organization": "Utredning rör det mindre och medelstora tonnaget",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ledamot",
+            "start_year": 1949,
+            "organization": "Sjöfartsorganisationsutredningen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Hartvig",
+        "middle_name": "Åke",
+        "gender": "Male",
+        "birth_date": "27-07-1909",
+        "birth_place": {
+            "name": "Eskilstuna",
+            "latitude": 59.37124859999999,
+            "longitude": 16.5098045,
+            "formatted_address": "Eskilstuna, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kansliråd",
+            "occupation_english": "Counsellor",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator",
+            "hisco_code_english": "30000.0",
+            "hisco_description_english": "Clerical or Related Worker, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Jöns",
+                "last_name": "Hartvig",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Provinsialläkare",
+                    "occupation_english": "Provincial Doctor",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician"
+                }
+            },
+            {
+                "first_name": "Brita",
+                "last_name": "Källmark",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska penninglotteriet aktiebolag"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Juridik kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1935",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sara",
+            "last_name": "Henrekson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gustaf",
+                    "last_name": "Henrekson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Godsägare",
+                        "occupation_english": "Estate Owner",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Hedvig",
+                    "last_name": "Andersson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1944",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1948"
+        },
+        {
+            "country": {
+                "name": "Rom",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Geneve",
+                "latitude": 46.2043907,
+                "longitude": 6.1431577,
+                "formatted_address": "Geneva, Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

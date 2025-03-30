@@ -1,0 +1,127 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Malmfors",
+        "middle_name": "Gustav",
+        "gender": "Male",
+        "birth_date": "11-10-1919",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "associate professor",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Einar",
+                "last_name": "Malmfors",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bankkamrer",
+                    "occupation_english": "bank treasurer",
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Matilda",
+                "last_name": "Gustafsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "associate professor",
+            "institution": "KTH",
+            "department": null,
+            "start_year": 1945,
+            "end_year": null,
+            "field": "elektronik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1945",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lisa",
+            "last_name": "Nejman",
+            "gender": "Female",
+            "birth_date": "17-00-1917",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Isak",
+                    "last_name": "Nejman",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "direktör",
+                        "occupation_english": "director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Flora",
+                    "last_name": "Rakovsky",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1942",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Determination of orbits in the field of a magnetic dipole",
+            "year": "1945",
+            "type": "doktorsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

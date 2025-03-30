@@ -1,0 +1,169 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1901,
+            "end_year": 1902,
+            "organization": "tekniska högskolan i Karlsruhe",
+            "location": {
+                "name": "Karlsruhe",
+                "latitude": 49.0068901,
+                "longitude": 8.4036527,
+                "formatted_address": "76 Karlsruhe, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "ritare och ingenjör",
+            "start_year": 1902,
+            "end_year": 1904,
+            "organization": null,
+            "location": {
+                "name": "U. S. A.",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "praktiserande arkitekt",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "arkitekt",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": "byggnadsstyrelsen",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gustav",
+        "last_name": "Holmdahl",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "14-10-1879",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "arkitekt",
+            "occupation_english": "architect",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Svante",
+                "last_name": "Holmdahl",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kontraktsprost",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Larsson-Laurell",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "speciallärare",
+            "position_english": null,
+            "institution": "tekniska högskolan",
+            "department": null,
+            "start_year": 1915,
+            "end_year": null,
+            "field": "arkitektonisk formlära"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "andra pris",
+            "field": "arkitektur",
+            "year": "1937",
+            "significance": null,
+            "recognized_by": "tävlingen om nybyggnad för tekniska högskolan i Stockholm"
+        }
+    ],
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "ledamot av styrelsen",
+            "organization": "svenska teknologföreningen"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "avgångsexamen",
+            "degree_level": "Master's",
+            "year": "1899",
+            "institution": "Chalmers"
+        },
+        {
+            "degree": "avgångsexamen",
+            "degree_level": "Master's",
+            "year": "1901",
+            "institution": "tekniska högskolan i Karlsruhe"
+        },
+        {
+            "degree": "k. medalj",
+            "degree_level": "Schooling",
+            "year": "1908",
+            "institution": "konstakademins byggnadsskola"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "U. S. A.",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1922"
+        }
+    ]
+}

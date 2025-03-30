@@ -1,0 +1,201 @@
+{
+    "career": [
+        {
+            "position": "repetitör",
+            "start_year": 1940,
+            "end_year": 1944,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "kapellmästare",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "hovkapellmästare",
+            "start_year": 1953,
+            "end_year": null,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "gästdirigent",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Konsertföreningen",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "gästdirigent",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Konsertföreningen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Evert",
+        "last_name": "Ehrling",
+        "middle_name": "Sixten",
+        "gender": "Male",
+        "birth_date": "03-04-1918",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "'hov'kapellmästare, pianist",
+            "occupation_english": "Court conductor, pianist",
+            "hisco_code_swedish": "17140.0",
+            "hisco_description_swedish": "Instrumentalist",
+            "hisco_code_english": "36040.0",
+            "hisco_description_english": "Bus Conductor"
+        },
+        "parents": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Ehrling",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Emilia",
+                "last_name": "Lundgren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1936",
+            "institution": "None"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "musikkonservatoriet i Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunnel",
+            "last_name": "Lindgren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "premiärdansös",
+                "occupation_english": "principal dancer",
+                "hisco_code_swedish": "17230.0",
+                "hisco_description_swedish": "Dancer"
+            },
+            "parents": null
+        },
+        "marriage_year": "1947",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "LMA 1956"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1946"
+        }
+    ]
+}

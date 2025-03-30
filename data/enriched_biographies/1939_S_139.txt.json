@@ -1,0 +1,227 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1895,
+            "end_year": 1896,
+            "organization": "Deutsche Bank",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1896,
+            "end_year": 1898,
+            "organization": "Comptoir national d’escompte",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1898,
+            "end_year": 1907,
+            "organization": "Industri Kreditaktiebolaget",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1907,
+            "end_year": 1910,
+            "organization": "Skandinaviska Kreditaktiebolaget",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "kamrerare",
+            "start_year": 1910,
+            "end_year": 1911,
+            "organization": "Skaraborgs Enskilda Banks Stockholmskontor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "kassadirektör",
+            "start_year": 1911,
+            "end_year": 1916,
+            "organization": "Skaraborgs Enskilda Banks Stockholmskontor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1916,
+            "end_year": 1938,
+            "organization": "Skaraborgs Enskilda Banks Stockholmskontor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Schuberth",
+        "middle_name": "Nils Oscar",
+        "gender": "Male",
+        "birth_date": "02-07-1876",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "före detta läroverksadjunkt",
+            "occupation_english": "former senior master",
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "O.",
+                "last_name": "S.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "plåtslagarmästare",
+                    "occupation_english": "master tinsmith",
+                    "hisco_code_swedish": "87310.0",
+                    "hisco_description_swedish": "SheetMetal Worker, General",
+                    "hisco_code_english": "87340.0",
+                    "hisco_description_english": "Tinsmith"
+                }
+            },
+            {
+                "first_name": "Nina",
+                "last_name": "Lychou",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "Skaraborgs Enskilda Banks Stockholmskontor"
+        },
+        {
+            "position": "i bankens centralstyrelse",
+            "organization": "Skaraborgs Enskilda Banks Stockholmskontor"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Stockholms Konsertförenings stiftelse",
+            "role": "vice ordförande",
+            "start_year": 1933,
+            "end_year": null
+        },
+        {
+            "committee_name": "Stockholms Konsertförenings arbetsutskott",
+            "role": "ordförande",
+            "start_year": 1933,
+            "end_year": null
+        },
+        {
+            "committee_name": "förvaltningsutskottet",
+            "role": "ledamot",
+            "start_year": 1933,
+            "end_year": null,
+            "organization": "Kungliga Musikaliska Akademien"
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1895",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ada",
+            "last_name": "Gripensvärd",
+            "gender": "Female",
+            "birth_date": "1878",
+            "parents": [
+                {
+                    "first_name": "Otto",
+                    "last_name": "Gripensvärd",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kapten",
+                        "occupation_english": "captain",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "4215.0",
+                        "hisco_description_english": "Ship's Master (Sea)"
+                    }
+                },
+                {
+                    "first_name": "Hilda",
+                    "last_name": "Hörstadius",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1901",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "LMA"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

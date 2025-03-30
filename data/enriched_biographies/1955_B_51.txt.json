@@ -1,0 +1,163 @@
+{
+    "career": [
+        {
+            "position": "sjuksköterskeskola",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Röda Korset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "översköterska",
+            "start_year": 1921,
+            "end_year": 1922,
+            "organization": "Volksheilstätte Grimmenstein",
+            "location": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT"
+        },
+        {
+            "position": "husmoder",
+            "start_year": 1923,
+            "end_year": 1926,
+            "organization": "S:t Eriks sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "föreståndarinna",
+            "start_year": 1927,
+            "end_year": 1928,
+            "organization": "sällskapet Barnavård",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "husmoder",
+            "start_year": 1929,
+            "end_year": 1939,
+            "organization": "Sabbatsbergs sjukhus",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1940,
+            "end_year": 1954,
+            "organization": "Stiftelsen Rödakorshemmet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1940,
+            "end_year": 1954,
+            "organization": "Svenska Röda korsets sjuksköterskeskola",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Eva Ulrika",
+        "last_name": "Beck-Friis",
+        "middle_name": "Ulla",
+        "gender": "Female",
+        "birth_date": "16-03-1894",
+        "birth_place": {
+            "name": "Kristianstad",
+            "latitude": 56.0293936,
+            "longitude": 14.1566778,
+            "formatted_address": "Kristianstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "föreståndarinna",
+            "occupation_english": "Superintendent",
+            "hisco_code_swedish": "21000.0",
+            "hisco_description_swedish": "Manager, Specialisation Unknown",
+            "hisco_code_english": "22000.0",
+            "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Lave",
+                "last_name": "Beck-Friis",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "hovjägmästare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21230.0",
+                    "hisco_description_swedish": "Farm Manager"
+                }
+            },
+            {
+                "first_name": "Adriana",
+                "last_name": "De Geer af Finspong",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "RK:s"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1946"
+        }
+    ]
+}

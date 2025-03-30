@@ -1,0 +1,121 @@
+{
+    "career": [
+        {
+            "position": "försäkringstjänsteman",
+            "start_year": 1890,
+            "end_year": 1906,
+            "organization": "Återförsäkringsbolaget Atlas",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1907,
+            "end_year": null,
+            "organization": "Återförsäkringsbolaget Atlas",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Vice Verkställande Direktör",
+            "start_year": 1912,
+            "end_year": null,
+            "organization": "Återförsäkringsbolaget Atlas",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1913,
+            "end_year": 1941,
+            "organization": "Återförsäkringsbolaget Atlas",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carel",
+        "last_name": "Meyjes",
+        "middle_name": "Albrecht",
+        "gender": "Male",
+        "birth_date": "25-07-1870",
+        "birth_place": {
+            "name": "Almelo, Holland",
+            "latitude": 52.3670267,
+            "longitude": 6.668491899999999,
+            "formatted_address": "Almelo, Netherlands"
+        },
+        "occupation": {
+            "occupation": "försäkringsdirektör",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Jan",
+                "last_name": "Meyjes",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "redare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "van Everdingen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "None",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Gymnasium",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Gymnasium i Holland"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

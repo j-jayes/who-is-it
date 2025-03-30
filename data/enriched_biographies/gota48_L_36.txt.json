@@ -1,0 +1,174 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Eskilstuna Jernmanufaktur Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Hans Helsen & Co.",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Elektrokemiska Aktiebolag",
+            "location": {
+                "name": "Bohus",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Västsvenska Mejeriernas Centralförbund",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Landegren",
+        "middle_name": "Bengt",
+        "gender": "Male",
+        "birth_date": "01-11-1908",
+        "birth_place": {
+            "name": "Eskilstuna",
+            "latitude": 59.37124859999999,
+            "longitude": 16.5098045,
+            "formatted_address": "Eskilstuna, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kamrer",
+            "occupation_english": "Comptroller",
+            "hisco_code_swedish": "11010.0",
+            "hisco_description_swedish": "Accountant, General"
+        },
+        "parents": [
+            {
+                "first_name": "B. L.",
+                "last_name": "None",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Revisor",
+                    "occupation_english": "Auditor",
+                    "hisco_code_swedish": "11020.0",
+                    "hisco_description_swedish": "Auditor",
+                    "hisco_code_english": "33110.0",
+                    "hisco_description_english": "Bookkeeper, General"
+                }
+            },
+            {
+                "first_name": "Ebba",
+                "last_name": "Landahl",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "None"
+        },
+        {
+            "degree": "Ekonomisk Examen",
+            "degree_level": "Bachelor's",
+            "year": "1900",
+            "institution": "Handelshögskolan i Göteborg"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Barbro",
+            "last_name": "Necander",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1900",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1929"
+        }
+    ]
+}

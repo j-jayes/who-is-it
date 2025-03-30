@@ -1,0 +1,192 @@
+{
+    "career": [
+        {
+            "position": "Stipendiat",
+            "start_year": 1944,
+            "end_year": 1947,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Engagerad",
+            "start_year": 1947,
+            "end_year": 1974,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Pedagog",
+            "start_year": 1981,
+            "end_year": 1994,
+            "organization": "Östermalms lilla operaskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verksam",
+            "start_year": 1994,
+            "organization": "Opera Viva",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Margareta",
+        "last_name": "Bergström",
+        "middle_name": "Hichens",
+        "gender": "Female",
+        "birth_date": "12-06-1906",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Operasångerska",
+            "occupation_english": "Opera Singer",
+            "hisco_code_swedish": "17145.0",
+            "hisco_description_swedish": "Singer",
+            "hisco_code_english": "17145.0",
+            "hisco_description_english": "Singer"
+        },
+        "parents": [
+            {
+                "first_name": "Richard",
+                "last_name": "Bergström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kammarråd",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Jenny",
+                "last_name": "Glimstedt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Musikalisk Akademi",
+            "degree_level": "Schooling",
+            "year": "1941-1943",
+            "institution": "Musikalisk Akademi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sven",
+            "last_name": "Kärde",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Rektor",
+                "occupation_english": null,
+                "hisco_code_swedish": "13940.0",
+                "hisco_description_swedish": "Head Teacher"
+            },
+            "parents": null
+        },
+        "marriage_year": "1947",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Helsingfors",
+                "latitude": 60.16985569999999,
+                "longitude": 24.938379,
+                "formatted_address": "Helsinki, Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Edinburgh",
+                "latitude": 55.953252,
+                "longitude": -3.188267,
+                "formatted_address": "Edinburgh, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

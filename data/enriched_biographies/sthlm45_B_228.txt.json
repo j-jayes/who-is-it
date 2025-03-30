@@ -1,0 +1,121 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Bo Viktor",
+        "last_name": "Beskow",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "13-02-1906",
+        "birth_place": {
+            "name": "Djursholm",
+            "latitude": 59.39707249999999,
+            "longitude": 18.0903005,
+            "formatted_address": "Djursholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Natanael",
+                "last_name": "Beskow",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "teologie doktor",
+                    "occupation_english": "Doctor of Theology",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Elsa",
+                "last_name": "Maartman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "första pris i Bonniernd:s tävling (utsmyckning i alfresco av flicklärov. i Stockholm)",
+            "field": "Kaos-Kosmosr",
+            "year": "1939",
+            "significance": null,
+            "recognized_by": "Bonniernd"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Zita",
+            "last_name": "Närd",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1927",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Rom",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ITA",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Portugal",
+                "latitude": 39.39987199999999,
+                "longitude": -8.224454,
+                "formatted_address": "Portugal"
+            },
+            "country_code": "PRT",
+            "year": "1933"
+        }
+    ]
+}

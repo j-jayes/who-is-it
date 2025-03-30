@@ -1,0 +1,118 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Fredrik",
+        "last_name": "Frisendahl",
+        "middle_name": "A",
+        "gender": "Male",
+        "birth_date": "05-07-1891",
+        "birth_place": {
+            "name": "Ådalsliden, Västernorrlands Län",
+            "latitude": 63.44667849999999,
+            "longitude": 16.8903451,
+            "formatted_address": "881 70 Ådalsliden, Sweden"
+        },
+        "occupation": {
+            "occupation": "skulptör",
+            "occupation_english": "sculptor",
+            "hisco_code_swedish": "16120.0",
+            "hisco_description_swedish": "Sculptor",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Viktor",
+                "last_name": "Frisendahl",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kontraktsprost",
+                    "occupation_english": "rural dean",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "37030.0",
+                    "hisco_description_english": "Postman"
+                }
+            },
+            {
+                "first_name": "Lydia",
+                "last_name": "Lindahl",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Timmerflottare",
+            "field": "skulptur",
+            "year": "1940",
+            "significance": "stor grupp uppställd i Ångermanälven vid Sollefteå",
+            "recognized_by": null
+        },
+        {
+            "title": "porträttbyster",
+            "field": "skulptur",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "djurskulpturer",
+            "field": "skulptur",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "Härnösand",
+            "institution": "Härnösand"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1920-1921"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1921-1922"
+        }
+    ]
+}

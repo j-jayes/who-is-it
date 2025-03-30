@@ -1,0 +1,196 @@
+{
+    "career": [
+        {
+            "position": "Juridik kandidat",
+            "start_year": 1938,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tingstjänstgöring",
+            "start_year": 1938,
+            "end_year": 1941
+        },
+        {
+            "position": "Fiskal",
+            "start_year": 1942,
+            "organization": "Svea Hovrätt",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tingssekreterare",
+            "start_year": 1942,
+            "end_year": 1945
+        },
+        {
+            "position": "Adjungerad ledamot",
+            "start_year": 1947,
+            "organization": "Svea Hovrätt",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Assessor",
+            "start_year": 1949
+        },
+        {
+            "position": "Revisionssekreterare",
+            "start_year": 1954
+        },
+        {
+            "position": "Hovrättsråd",
+            "start_year": 1957,
+            "organization": "Svea Hovrätt",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tf sekreterare",
+            "start_year": 1946,
+            "end_year": 1948,
+            "organization": "Arbetsdomstolen"
+        },
+        {
+            "position": "Lagstiftningsuppdrag",
+            "start_year": 1949,
+            "end_year": 1953,
+            "organization": "Justitiedepartementet"
+        },
+        {
+            "position": "Tf Rådman",
+            "start_year": 1954,
+            "end_year": 1955,
+            "organization": "Stockholms Tingsrätt",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tf Byråchef",
+            "start_year": 1955,
+            "end_year": 1956,
+            "organization": "Justitiekanslerämbetet"
+        },
+        {
+            "position": "Byråchef",
+            "start_year": 1957,
+            "end_year": 1960,
+            "organization": "Militieombudsmanämbetet"
+        },
+        {
+            "position": "Ställföreträdande Militieombudsman",
+            "start_year": 1961,
+            "organization": "Militieombudsmanämbetet"
+        },
+        {
+            "position": "Medlare",
+            "start_year": 1961,
+            "organization": "Äktenskapstvister"
+        },
+        {
+            "position": "Ordförande",
+            "start_year": 1962,
+            "organization": "Militärstraffsakkunniga"
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Thyresson",
+        "gender": "Male",
+        "birth_date": "09-01-1912",
+        "birth_place": {
+            "name": "Västerås",
+            "latitude": 59.60990049999999,
+            "longitude": 16.5448091,
+            "formatted_address": "Västerås, Sweden"
+        },
+        "occupation": {
+            "occupation": "Hovrättsråd",
+            "occupation_english": "Councilor of Appeal",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "Hjalmar",
+                "last_name": "Thyresson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Rektor",
+                    "occupation_english": "Principal",
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher",
+                    "hisco_code_english": "37040.0",
+                    "hisco_description_english": "Messenger"
+                }
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Ekelund",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Jonson",
+            "gender": "Female",
+            "birth_date": null,
+            "occupation": {
+                "occupation": "Filosofie Magister",
+                "occupation_english": "Master of Arts",
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title"
+            },
+            "parents": [
+                {
+                    "first_name": "Per",
+                    "last_name": "Jonson",
+                    "middle_name": "Abr",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Bergsingenjör",
+                        "occupation_english": "Mining Engineer",
+                        "hisco_code_swedish": "2710.0",
+                        "hisco_description_swedish": "Mining Engineer, General"
+                    }
+                },
+                {
+                    "first_name": "Elsa",
+                    "last_name": "Mossberg",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1939"
+    }
+}

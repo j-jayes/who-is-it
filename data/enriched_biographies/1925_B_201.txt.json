@@ -1,0 +1,164 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Blomberg",
+        "middle_name": "Henrik",
+        "gender": "Male",
+        "birth_date": "08-04-1879",
+        "birth_place": {
+            "name": "Svanhals, Östergötlands Län",
+            "latitude": 58.3245733,
+            "longitude": 14.8045509,
+            "formatted_address": "596 95 Svanshals, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Blomberg",
+                "middle_name": "E",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Bertha",
+                "last_name": "Skarin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "föreläsare i konstnärlig perspektivlära",
+            "position_english": "lecturer in artistic perspective",
+            "institution": "Althins målarskola",
+            "department": null,
+            "start_year": 1904,
+            "end_year": 1909,
+            "field": null
+        },
+        {
+            "position": "föreläsare i konstnärlig perspektivlära",
+            "position_english": "lecturer in artistic perspective",
+            "institution": "Konstskolan",
+            "department": null,
+            "start_year": 1920,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "föreningen för olympisk kortdistansskjutning",
+            "role": "sekreterare",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1897",
+            "institution": "Strängnäs läroverk"
+        },
+        {
+            "degree": "konstakademi",
+            "degree_level": "Bachelor's",
+            "year": "1903-1910",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Deltog i VII olympiska spelen i Antwerpen 1920, Skm g."
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1909-1910"
+        }
+    ]
+}

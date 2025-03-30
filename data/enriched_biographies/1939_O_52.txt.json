@@ -1,0 +1,206 @@
+{
+    "career": [
+        {
+            "position": "folkskollärare",
+            "start_year": 1920,
+            "organization": "Visby"
+        },
+        {
+            "position": "folkskollärare",
+            "start_year": 1921,
+            "end_year": 1930,
+            "organization": "Falkenberg"
+        },
+        {
+            "position": "övningsskollärare",
+            "start_year": 1930,
+            "end_year": 1931,
+            "organization": "Växjö folkskollärarseminarium"
+        },
+        {
+            "position": "överlärare",
+            "start_year": 1931,
+            "organization": "Stocksund"
+        },
+        {
+            "position": "förbundssekreterare",
+            "start_year": 1933,
+            "organization": "Svenska överlänförbundet"
+        }
+    ],
+    "person": {
+        "first_name": "Stellan",
+        "last_name": "Orrgård",
+        "middle_name": "Fredrik Albert",
+        "gender": "Male",
+        "birth_date": "03-05-1900",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "överlärare",
+            "occupation_english": "Senior Teacher",
+            "hisco_code_swedish": "13000.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown",
+            "hisco_code_english": "13990.0",
+            "hisco_description_english": "Other Teachers"
+        },
+        "parents": [
+            {
+                "first_name": "Albin",
+                "last_name": "Olsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "möbelhandlare",
+                    "occupation_english": "furniture dealer",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Selma",
+                "last_name": "Nordlund",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Svenska scoutrådets förtjänstmärke"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Hallandskretsen av Svenska folkskollärareföreningen",
+            "role": "sekreterare",
+            "start_year": 1923,
+            "end_year": 1930
+        },
+        {
+            "committee_name": "Södra Roslagskretsen av Svenska folkskollärareföreningen",
+            "role": "ordförande",
+            "start_year": 1934,
+            "end_year": 1935
+        },
+        {
+            "committee_name": "Stockholmstraktens överlärarförening",
+            "role": "vice ordförande",
+            "start_year": 1934
+        },
+        {
+            "committee_name": "Stockholmstraktens överlärarförenings lärobokskommitté",
+            "role": "vice ordförande",
+            "start_year": 1933
+        },
+        {
+            "committee_name": "Danderyds kyrkobröderkår",
+            "role": "ordförande",
+            "start_year": 1937
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "kårchef",
+            "organization": "Stocksunds scoutkår"
+        }
+    ],
+    "current_location": {
+        "name": "Stocksund",
+        "latitude": 59.3841662,
+        "longitude": 18.0478685,
+        "formatted_address": "Stocksund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "folkskoleexamen",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "Växjö"
+        },
+        {
+            "degree": "folkskollärare",
+            "degree_level": "Bachelor's",
+            "year": "1920",
+            "institution": "Visby"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1927",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ester",
+            "last_name": "Gardner",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "Petersson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "lantbrukare",
+                        "occupation_english": "farmer",
+                        "hisco_code_swedish": "61110.0",
+                        "hisco_description_swedish": "General Farmer",
+                        "hisco_code_english": "61110.0",
+                        "hisco_description_english": "General Farmer"
+                    }
+                },
+                {
+                    "first_name": "Elmina",
+                    "last_name": "Hansson",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1925",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "High School Entrance-tests and the Work of the Primary School",
+            "year": "1937",
+            "type": "book"
+        },
+        {
+            "title": "Folkskolans geografi nummer 1",
+            "year": "1936",
+            "type": "book",
+            "signature": "Carlson-Orrgård"
+        },
+        {
+            "title": "Till frågan om personlighetsfostrans filosofiska förutsättningar",
+            "year": "1935",
+            "type": "article",
+            "volumes": "i festskrift till Axel Herrlin"
+        },
+        {
+            "title": "Nordiska museet",
+            "year": "1937",
+            "type": "article"
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,192 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": 1930,
+            "organization": "AB Elektrolux",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Egen konsult",
+            "start_year": 1931,
+            "end_year": 1934,
+            "organization": "Konsult verksamhet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": "AB Isoflex",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Thore",
+        "last_name": "ELFVING",
+        "middle_name": "Martin",
+        "gender": "Male",
+        "birth_date": "11-11-1901",
+        "birth_place": {
+            "name": "Vansbro",
+            "latitude": 60.5099434,
+            "longitude": 14.2253417,
+            "formatted_address": "Vansbro, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Sven",
+                "last_name": "E",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Handlare",
+                    "occupation_english": "Trader",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "44140.0",
+                    "hisco_description_english": "Stock Broker"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svensk Kylteknik från"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Teknisk nämnd",
+            "role": "Ledamot",
+            "start_year": 1901,
+            "end_year": null,
+            "organization": "Svensk Kylteknik",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Nockeby",
+        "latitude": 59.3273899,
+        "longitude": 17.9260272,
+        "formatted_address": "Nockeby, Bromma, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "Falun"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "Ingen angiven",
+            "institution": "Kungliga Tekniska Högskolan (el)"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Brita",
+            "last_name": "Hemberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Målning",
+        "Tekning"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Viktminskning vid kyl- och fryslagring och något om val av batterityp i samband därmed",
+            "year": "1942",
+            "type": "Trycksak",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

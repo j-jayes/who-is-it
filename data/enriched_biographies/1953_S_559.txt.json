@@ -1,0 +1,214 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1920,
+            "end_year": 1920,
+            "organization": "Geofysiska institutionen, Bergen",
+            "location": {
+                "name": "Bergen",
+                "latitude": 60.39126279999999,
+                "longitude": 5.3220544,
+                "formatted_address": "Bergen, Norway"
+            },
+            "country_code": null
+        },
+        {
+            "position": "docent",
+            "start_year": 1925,
+            "end_year": 1936,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lektor",
+            "start_year": 1936,
+            "organization": "Västerås högre allmänna läroverk",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "rektor",
+            "start_year": 1949,
+            "organization": null,
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Frans",
+        "last_name": "Stenström",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "07-10-1899",
+        "birth_place": {
+            "name": "Norrköping",
+            "latitude": 58.587745,
+            "longitude": 16.192421,
+            "formatted_address": "Norrköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "rektor, lektor",
+            "occupation_english": null
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Stenström",
+                "middle_name": "Aug.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kassör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "33135.0",
+                    "hisco_description_swedish": "Cashier, Office or Cash Desk"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Johnson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "doc.",
+            "position_english": "docent",
+            "institution": "Uppsala universitet",
+            "department": null,
+            "start_year": 1925,
+            "end_year": 1936,
+            "field": "matematik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Uppsala studentkår",
+            "role": "ordförande",
+            "start_year": 1930,
+            "end_year": 1931,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Västerås",
+        "latitude": 59.60990049999999,
+        "longitude": 16.5448091,
+        "formatted_address": "Västerås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1920",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1922",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1923",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1925",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Modin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Helge",
+                    "last_name": "Modin",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "skogschef",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "21230.0",
+                        "hisco_description_swedish": "Farm Manager"
+                    }
+                },
+                {
+                    "first_name": "Gerda",
+                    "last_name": "Wallmark",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1933",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Synthet. Unters:en d. Systems von 27 Geraden einer Fläche dritter Ord-nung",
+            "year": "1925",
+            "type": "arbete",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Das Geradensyst. d. kub. Fläche",
+            "year": "1927",
+            "type": "arbete",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

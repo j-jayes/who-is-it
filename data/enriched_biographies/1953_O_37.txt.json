@@ -1,0 +1,225 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1925,
+            "end_year": 1928,
+            "organization": "Sabbatsbergs sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1925,
+            "end_year": 1928,
+            "organization": "Serafimerlasarettet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "assistent",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": "Gävle lasarett",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1928,
+            "end_year": 1931,
+            "organization": "öronavdelningen i Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "öronavdelningen å Falu lasarett",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Olaison",
+        "middle_name": "Fridolf",
+        "gender": "Male",
+        "birth_date": "30-07-1895",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "lasarettsläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Carl-August",
+                "last_name": "Olaison",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "tandläkare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "6310.0",
+                    "hisco_description_swedish": "Dentist, General"
+                }
+            },
+            {
+                "first_name": "Alfrida",
+                "last_name": "Lindberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Falun",
+        "latitude": 60.60646000000001,
+        "longitude": 15.6355,
+        "formatted_address": "Falun, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine licentiate",
+            "degree_level": "Doctorate",
+            "year": "1925",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maud",
+            "last_name": "Kungsman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gustav",
+                    "last_name": "Kungsman",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "hemägare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "77610.0",
+                        "hisco_description_swedish": "Baker, General"
+                    }
+                },
+                {
+                    "first_name": "Sylvia",
+                    "last_name": "Andersson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1942",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "ett flertal medicinska artiklar",
+            "year": "None",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

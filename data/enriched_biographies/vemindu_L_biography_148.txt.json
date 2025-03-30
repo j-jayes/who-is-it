@@ -1,0 +1,188 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1908,
+            "end_year": 1913,
+            "organization": "Göteborgs Bank",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Bokhållare",
+            "start_year": 1913,
+            "organization": "Smaländska med flera provinsers hypoteksförening",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Kassör",
+            "start_year": 1923,
+            "organization": "Smaländska med flera provinsers hypoteksförening",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Kamrerare",
+            "start_year": 1924,
+            "organization": "Smaländska med flera provinsers hypoteksförening",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Hypoteks-kamrerare",
+            "start_year": 1913,
+            "organization": "Smaländska med flera provinsers hypoteksförening",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Oscar",
+        "last_name": "Liljefors",
+        "middle_name": "Reinhold",
+        "gender": "Male",
+        "birth_date": "16-01-1889",
+        "birth_place": null,
+        "occupation": {
+            "occupation": "Hypoteks-kamrerare",
+            "occupation_english": "Mortgage Clerk",
+            "hisco_code_swedish": "11010.0",
+            "hisco_description_swedish": "Accountant, General"
+        },
+        "parents": [
+            {
+                "first_name": "H",
+                "last_name": "Liljefors",
+                "middle_name": "P",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fabrikör",
+                    "occupation_english": "Manufacturer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Egnahemsnämnden",
+            "role": "Ledamot",
+            "start_year": 1932,
+            "end_year": 1933,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Taxeringsnämnden",
+            "role": "Ledamot",
+            "start_year": 1937,
+            "end_year": 1940,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Växjö",
+        "latitude": 56.8790044,
+        "longitude": 14.8058522,
+        "formatted_address": "Växjö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1908",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ebba",
+            "last_name": "Lindén",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Friluftsliv",
+        "Segling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1908"
+        }
+    ]
+}

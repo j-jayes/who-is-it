@@ -1,0 +1,182 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1915,
+            "organization": "Statens Handelskommission"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1917,
+            "organization": "Statens Handelskommission"
+        },
+        {
+            "position": "Ombud",
+            "start_year": 1917,
+            "organization": "Statens Handelskommission",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            }
+        },
+        {
+            "position": "Handelsattaché",
+            "start_year": 1918,
+            "organization": "Beskickningen",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            }
+        },
+        {
+            "position": "Handelsråd",
+            "start_year": 1923
+        },
+        {
+            "position": "Konsul",
+            "start_year": 1936,
+            "location": {
+                "name": "Calcutta",
+                "latitude": 22.5743545,
+                "longitude": 88.3628734,
+                "formatted_address": "Kolkata, West Bengal, India"
+            }
+        },
+        {
+            "position": "Konsul",
+            "start_year": 1940,
+            "location": {
+                "name": "Montreal",
+                "latitude": 45.5018869,
+                "longitude": -73.56739189999999,
+                "formatted_address": "Montreal, QC, Canada"
+            }
+        },
+        {
+            "position": "Konsul (Generalkonsul)",
+            "start_year": 1941,
+            "location": {
+                "name": "Prag",
+                "latitude": 50.0755381,
+                "longitude": 14.4378005,
+                "formatted_address": "Prague, Czechia"
+            }
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Löwenhard",
+        "middle_name": "Sigurd Natanael",
+        "gender": "Male",
+        "birth_date": "13-11-1889",
+        "birth_place": {
+            "name": "Nässjö",
+            "latitude": 57.65303549999999,
+            "longitude": 14.6967247,
+            "formatted_address": "Nässjö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Generalkonsul",
+            "occupation_english": "Consul General",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "20210.0",
+            "hisco_description_english": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "Hugo",
+                "last_name": "Löwenhard",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Undlöjtnant",
+                    "occupation_english": "Second Lieutenant",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Wadner",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Sakkunnig vid förhandlingar om handels- och sjöfitraktat",
+            "field": "Handel",
+            "year": "1926",
+            "recognized_by": "Tyskland"
+        },
+        {
+            "title": "Sveriges ombud vid internationella pälskongressen",
+            "field": "Handel",
+            "year": "1930",
+            "recognized_by": "Leipzig"
+        },
+        {
+            "title": "Skiljedomare rörande ekonomiska avtal",
+            "field": "Ekonomi",
+            "year": "1935",
+            "recognized_by": "Tyskland och Ryssland"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Prag",
+        "latitude": 50.0755381,
+        "longitude": 14.4378005,
+        "formatted_address": "Prague, Czechia"
+    },
+    "education": [
+        {
+            "degree": "Diplomexamen",
+            "degree_level": "Bachelor's",
+            "year": "1915",
+            "institution": "Stockholms Handelshögskola"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Bern",
+                "latitude": 46.9479739,
+                "longitude": 7.4474468,
+                "formatted_address": "Bern, Switzerland"
+            },
+            "year": "1918"
+        },
+        {
+            "country": {
+                "name": "Bern",
+                "latitude": 46.9479739,
+                "longitude": 7.4474468,
+                "formatted_address": "Bern, Switzerland"
+            },
+            "year": "1919"
+        }
+    ]
+}

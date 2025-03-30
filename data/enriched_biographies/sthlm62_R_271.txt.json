@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Intendent",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "Naturhistoriska riksmuseet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Rudebeck",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "30-10-1913",
+        "birth_place": {
+            "name": "Helsingborg",
+            "latitude": 56.0464674,
+            "longitude": 12.6945121,
+            "formatted_address": "Helsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "intendent",
+            "occupation_english": null,
+            "hisco_code_swedish": "22000.0",
+            "hisco_description_swedish": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Edvard",
+                "last_name": "Rudebeck",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bankdirektör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Ingeborg",
+                "last_name": "Brandel",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lund",
+            "department": null,
+            "start_year": 1950,
+            "end_year": null,
+            "field": "zoologi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Sveriges ornitologiska förening"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Sveriges ornitologiska förening",
+            "role": "Styrelseledamot",
+            "start_year": 1945,
+            "end_year": 1953,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Sveriges ornitologiska förening",
+            "role": "Styrelseledamot",
+            "start_year": 1959,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Sydafrikanska ornitologiska föreningen sektion för systematik",
+            "role": "Ordförande",
+            "start_year": 1956,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1948",
+            "institution": "None"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1950",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Wingstrand",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Eric",
+                    "last_name": "Wingstrand",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "nämndeman",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "12910.0",
+                        "hisco_description_swedish": "Jurist (except Lawyer, Judge or Solicitor)"
+                    }
+                },
+                {
+                    "first_name": "Elisabeth",
+                    "last_name": "Karlman",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1950",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Studies ön Bird Migration",
+            "year": "1950",
+            "type": "doktorsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Sydafrika",
+                "latitude": -30.559482,
+                "longitude": 22.937506,
+                "formatted_address": "South Africa"
+            },
+            "country_code": "ZAF",
+            "year": "1950-1951"
+        },
+        {
+            "country": {
+                "name": "Bechuanaland",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "BWA",
+            "year": "1956"
+        },
+        {
+            "country": {
+                "name": "Angola",
+                "latitude": -11.202692,
+                "longitude": 17.873887,
+                "formatted_address": "Angola"
+            },
+            "country_code": "AGO",
+            "year": "1956"
+        }
+    ]
+}

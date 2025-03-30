@@ -1,0 +1,218 @@
+{
+    "career": [
+        {
+            "position": "läkareförordnande",
+            "start_year": 1934,
+            "end_year": 1938,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "extra läkare och underläkare",
+            "start_year": 1938,
+            "end_year": 1941,
+            "organization": "Ystads lasarett",
+            "location": {
+                "name": "Ystad",
+                "latitude": 55.4295051,
+                "longitude": 13.8200308,
+                "formatted_address": "Ystad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1941,
+            "end_year": 1943,
+            "organization": "Sandträsks sanatorium",
+            "location": {
+                "name": "Sandträsk",
+                "latitude": 66.123034,
+                "longitude": 21.3240016,
+                "formatted_address": "961 92 Sandträsk, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1943,
+            "end_year": 1945,
+            "organization": "lungklin Epidemisjukhuset och Flensburgska barnsjukhuset samt hud- och könsklin Malmö allmänna sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "extra provinsialläkare",
+            "start_year": 1946,
+            "end_year": 1950,
+            "organization": "Gärsnäs distrikt",
+            "location": {
+                "name": "Gärsnäs",
+                "latitude": 55.55091470000001,
+                "longitude": 14.1756804,
+                "formatted_address": "272 61 Gärsnäs, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "praktiserande läkare",
+            "start_year": 1950,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Bataljonsläkare",
+            "start_year": 1947,
+            "end_year": 1961,
+            "organization": "flk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "skolläkare",
+            "start_year": 1950,
+            "end_year": 1966,
+            "organization": "Malmö folkskolor och Slottsstadens läroverk",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Follin",
+        "middle_name": "O A",
+        "gender": "Male",
+        "birth_date": "29-06-1901",
+        "birth_place": {
+            "name": "Klippan, Kristiansstads Län",
+            "latitude": 56.1348998,
+            "longitude": 13.1290409,
+            "formatted_address": "Klippan, Sweden"
+        },
+        "occupation": {
+            "occupation": "praktiserande läkare",
+            "occupation_english": "practicing physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "August",
+                "last_name": "Follin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "distriktsveterinär",
+                    "occupation_english": "district veterinarian",
+                    "hisco_code_swedish": "6510.0",
+                    "hisco_description_swedish": "Veterinarian, General",
+                    "hisco_code_english": "6510.0",
+                    "hisco_description_english": "Veterinarian, General"
+                }
+            },
+            {
+                "first_name": "Yelva",
+                "last_name": "Bergström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1919",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1925",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1934",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Hagelin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Wilhelm",
+                    "last_name": "Hagelin",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "provinsialläkare",
+                        "occupation_english": "provincial doctor",
+                        "hisco_code_swedish": "6105.0",
+                        "hisco_description_swedish": "General Physician"
+                    }
+                },
+                {
+                    "first_name": "Walberg",
+                    "last_name": "Lilliestierna",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

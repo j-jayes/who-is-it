@@ -1,0 +1,177 @@
+{
+    "career": [
+        {
+            "position": "officer",
+            "start_year": 1905,
+            "end_year": 1918,
+            "organization": "A 4",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "kapten",
+            "start_year": 1918,
+            "end_year": 1922,
+            "organization": "None",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "i reserv",
+            "start_year": 1922,
+            "end_year": 1945,
+            "organization": "None",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "major",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "None",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Aspirant",
+            "start_year": 1918,
+            "end_year": 1920,
+            "organization": "Generalstaben",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1922,
+            "end_year": 1948,
+            "organization": "försäkringsaktiebolaget Fylgia Sundsvall",
+            "location": {
+                "name": "Sundsvall",
+                "latitude": 62.390811,
+                "longitude": 17.306927,
+                "formatted_address": "Sundsvall, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "K",
+        "last_name": "Bergengren",
+        "middle_name": "Gösta",
+        "gender": "Male",
+        "birth_date": "05-12-1883",
+        "birth_place": {
+            "name": "Östersund",
+            "latitude": 63.1766832,
+            "longitude": 14.6360681,
+            "formatted_address": "Östersund, Sweden"
+        },
+        "occupation": {
+            "occupation": "fd major",
+            "occupation_english": null,
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Bergengren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "grosshandlare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)"
+                }
+            },
+            {
+                "first_name": "Matilda",
+                "last_name": "Sjölund",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1903",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Hall",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Arvid",
+                    "last_name": "Hall",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "fondmäklare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "44140.0",
+                        "hisco_description_swedish": "Stock Broker"
+                    }
+                },
+                {
+                    "first_name": "Laura",
+                    "last_name": "Carlsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1915",
+        "divorce_year": null,
+        "children": null
+    },
+    "honors": [
+        "Riddare av Svärdsorden"
+    ],
+    "leadership_roles": [
+        "Ordförande Norrlands travsällskap sedan 1931"
+    ],
+    "military_service": null
+}

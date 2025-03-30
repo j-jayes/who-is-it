@@ -1,0 +1,184 @@
+{
+    "career": [
+        {
+            "position": "Ritare",
+            "start_year": 1911,
+            "organization": "Orenstein & Koppel, Arthur Koppel AG",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Ritare och konstruktör",
+            "start_year": 1912,
+            "end_year": 1915,
+            "organization": "AB Nydqvist & Holm",
+            "location": {
+                "name": "Trollhättan",
+                "latitude": 58.28348939999999,
+                "longitude": 12.2858206,
+                "formatted_address": "Trollhättan, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konstruktör och ritkontorschef",
+            "start_year": 1916,
+            "end_year": 1918,
+            "organization": "Etuna Jernmanufaktur AB",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ritkontorschef och verkstadsingenjör",
+            "start_year": 1919,
+            "end_year": 1921,
+            "organization": "Nord Kullager AB",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konstruktör",
+            "start_year": 1922,
+            "end_year": 1923,
+            "organization": "A O Smith Corp",
+            "location": {
+                "name": "Milwaukee",
+                "latitude": 43.0410344,
+                "longitude": -87.9096783,
+                "formatted_address": "Milwaukee, WI, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Ritkontorschef",
+            "start_year": 1924,
+            "end_year": null,
+            "organization": "Köping Mekaniska Verkstads AB",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Emerik",
+        "last_name": "Westberg",
+        "middle_name": "Gunnar",
+        "gender": "Male",
+        "birth_date": "28-02-1888",
+        "birth_place": {
+            "name": "Ekeby, Gotland",
+            "latitude": 57.5951085,
+            "longitude": 18.5146791,
+            "formatted_address": "621 70 Ekeby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Westberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Gezelius",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "Ordförande",
+            "organization": "Brandstyrelsen"
+        },
+        {
+            "role": "Ledamot",
+            "organization": "Folkskolestyrelsen"
+        }
+    ],
+    "current_location": {
+        "name": "Köping",
+        "latitude": 59.5120962,
+        "longitude": 15.9945102,
+        "formatted_address": "Köping, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Signe",
+            "last_name": "Edberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "Rådhusrätten",
+            "position": "Sakkunnig vid sjöförklaring",
+            "start_year": 1900,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1910"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1911"
+        }
+    ]
+}

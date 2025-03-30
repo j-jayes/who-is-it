@@ -1,0 +1,213 @@
+{
+    "career": [
+        {
+            "position": "Extra Lärare",
+            "start_year": 1924,
+            "end_year": 1925,
+            "organization": "Mora Kommunala Mellanskola",
+            "location": {
+                "name": "Mora",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vikarierande Lektor",
+            "start_year": 1931,
+            "end_year": 1932,
+            "organization": "Kalmar",
+            "location": {
+                "name": "Kalmar",
+                "latitude": 56.6634447,
+                "longitude": 16.356779,
+                "formatted_address": "Kalmar, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1933,
+            "end_year": null,
+            "organization": "Eksjö Högre Allmänna Läroverk",
+            "location": {
+                "name": "Eksjö",
+                "latitude": 57.6172,
+                "longitude": 15.22155,
+                "formatted_address": "575 92 Eksjo, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor i historia och geografi",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Skövde Högre Allmänna Läroverk",
+            "location": {
+                "name": "Skövde",
+                "latitude": 58.3902782,
+                "longitude": 13.8461208,
+                "formatted_address": "Skövde, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Walfrid",
+        "last_name": "Holst",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "12-06-1897",
+        "birth_place": {
+            "name": "Kristianstad",
+            "latitude": 56.0293936,
+            "longitude": 14.1566778,
+            "formatted_address": "Kristianstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lektor",
+            "occupation_english": "Lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Holst",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Elna",
+                "last_name": "Bengtsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Skövde",
+        "latitude": 58.3902782,
+        "longitude": 13.8461208,
+        "formatted_address": "Skövde, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1915",
+            "institution": "Kristianstad"
+        },
+        {
+            "degree": "Filosofie Magister",
+            "degree_level": "Master's",
+            "year": "1921",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Filosofie Licentiat",
+            "degree_level": "Doctorate",
+            "year": "1929",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Filosofie Doktor",
+            "degree_level": "Doctorate",
+            "year": "1931",
+            "institution": "Lund"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Carl Gustaf Tessin under rese-, riksdagsmanna- o. de tid. beskickningsåren",
+            "year": "1931",
+            "type": "Avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Carl Gustaf Tessin, en grandseigneur från 1700-talet",
+            "year": "1936",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Statslivet i Frihetstidens tecken o. Svea Rikes lag i band VI av Sv. folket genom tiderna",
+            "year": "1938",
+            "type": "Kapitel i bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": null
+        }
+    ]
+}

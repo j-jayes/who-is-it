@@ -1,0 +1,200 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Högfeldt",
+        "middle_name": "Robert",
+        "gender": "Male",
+        "birth_date": "13-02-1894",
+        "birth_place": {
+            "name": "Eindhoven, Holland",
+            "latitude": 51.42314229999999,
+            "longitude": 5.462289699999999,
+            "formatted_address": "Eindhoven, Netherlands"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Rich.",
+                "last_name": "H.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ingenjör",
+                    "occupation_english": "engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Signe",
+                "last_name": "Petersson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Düsseldorf"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Paris"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Dagmar",
+            "last_name": "Blix",
+            "gender": "Female",
+            "birth_date": "None",
+            "parents": [
+                {
+                    "first_name": "Wilh.",
+                    "last_name": "B.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kapten",
+                        "occupation_english": "captain",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "4215.0",
+                        "hisco_description_english": "Ship's Master (Sea)"
+                    }
+                },
+                {
+                    "first_name": "Fanny",
+                    "last_name": "Nordahl",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1928",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "En Högfeldtbok",
+            "year": "1937",
+            "type": "book"
+        },
+        {
+            "title": "Familjeliv",
+            "year": "1938",
+            "type": "book"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Breslau",
+                "latitude": 51.10929480000001,
+                "longitude": 17.0386019,
+                "formatted_address": "Wrocław, Poland"
+            },
+            "country_code": "POL"
+        },
+        {
+            "country": {
+                "name": "Leipzig",
+                "latitude": 51.3396955,
+                "longitude": 12.3730747,
+                "formatted_address": "04 Leipzig, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Frankfurt am Main",
+                "latitude": 50.1109221,
+                "longitude": 8.6821267,
+                "formatted_address": "Frankfurt, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Bremen",
+                "latitude": 53.07929619999999,
+                "longitude": 8.8016937,
+                "formatted_address": "28 Bremen, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Chicago",
+                "latitude": 41.8781136,
+                "longitude": -87.6297982,
+                "formatted_address": "Chicago, IL, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT"
+        }
+    ]
+}

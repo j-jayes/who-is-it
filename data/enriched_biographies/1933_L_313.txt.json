@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "Arkitekt i Överintendentsämbetet",
+            "start_year": 1905,
+            "organization": "Överintendentsämbetet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Intendent i Byggnadsstyrelsen",
+            "start_year": 1919,
+            "organization": "Byggnadsstyrelsen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1906,
+            "organization": "Slöjdföreningens skola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vice professor",
+            "start_year": 1916,
+            "organization": "Konsthögskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Charles",
+        "last_name": "Lindholm",
+        "middle_name": "August Teodor",
+        "gender": "Male",
+        "birth_date": "21-08-1870",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Arkitekt, vice professor, intendent",
+            "occupation_english": "Architect, vice professor, superintendent",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Nicol",
+                "last_name": "Lindholm",
+                "middle_name": "Alfred",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kamrer",
+                    "occupation_english": "Treasurer",
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Amalia",
+                "last_name": "Roos af Hjelmsäter",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Chalmers",
+            "degree_level": "Bachelor's",
+            "year": "1890",
+            "institution": "Chalmers"
+        },
+        {
+            "degree": "Konstakademien",
+            "degree_level": "Schooling",
+            "year": "1894",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Beda",
+            "last_name": "Lindgren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1870",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "LFrKA 1916"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1899"
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": "1899"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1899"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1901"
+        }
+    ]
+}

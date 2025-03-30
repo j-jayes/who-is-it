@@ -1,0 +1,222 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1933,
+            "end_year": 1935,
+            "organization": "Apoteket Kronan",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1936,
+            "end_year": 1937,
+            "organization": "Apoteket Kronan",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1939,
+            "end_year": 1942,
+            "organization": "Apoteket Kronan",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Apotekare",
+            "start_year": 1942,
+            "end_year": 1955,
+            "organization": "Apoteket Vita Björnen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Assistent i galenisk farmaci",
+            "start_year": 1947,
+            "end_year": 1953,
+            "organization": "Farmaceutiska institutet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Apoteksinspektör",
+            "start_year": 1955,
+            "end_year": 1961,
+            "organization": "Statens farmaceutiska laboratorium",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1961,
+            "organization": "Apoteket Kronan",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Källrot",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "21-01-1913",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Apotekare",
+            "occupation_english": "Pharmacist",
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist",
+            "hisco_code_english": "41030.0",
+            "hisco_description_english": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Johannes",
+                "last_name": "Karlsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Trädgårdsmästare",
+                    "occupation_english": "Gardener",
+                    "hisco_code_swedish": "61270.0",
+                    "hisco_description_swedish": "Horticultural Farmer",
+                    "hisco_code_english": "62700.0",
+                    "hisco_description_english": "Nursery Workers and Gardeners"
+                }
+            },
+            {
+                "first_name": "Tekla",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Borås",
+        "latitude": 57.72103500000001,
+        "longitude": 12.939819,
+        "formatted_address": "Borås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1932",
+            "institution": "None"
+        },
+        {
+            "degree": "Apotekarexamen",
+            "degree_level": "Master's",
+            "year": "1939",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Adin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Henry",
+                    "last_name": "A",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Apotekare",
+                        "occupation_english": "Pharmacist",
+                        "hisco_code_swedish": "6710.0",
+                        "hisco_description_swedish": "Pharmacist",
+                        "hisco_code_english": "41030.0",
+                        "hisco_description_english": "Working Proprietor (Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Ruth",
+                    "last_name": "Bengtsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1941",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Källrot",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Björn",
+                "last_name": "Källrot",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1945"
+            },
+            {
+                "first_name": "Birgitta",
+                "last_name": "Källrot",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1949"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

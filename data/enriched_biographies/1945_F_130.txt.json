@@ -1,0 +1,192 @@
+{
+    "career": [
+        {
+            "position": "Amanuens och underkirurg",
+            "start_year": 1905,
+            "end_year": 1908,
+            "organization": "Akademiska sjukhuset",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lasarettsläkare (Tf.)",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Filipstad",
+                "latitude": 59.7139973,
+                "longitude": 14.1698445,
+                "formatted_address": "Filipstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1910,
+            "end_year": 1939,
+            "organization": null,
+            "location": {
+                "name": "Filipstad",
+                "latitude": 59.7139973,
+                "longitude": 14.1698445,
+                "formatted_address": "Filipstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Före detta lasarettsläkare",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Fredga",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "25-10-1874",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lasarettsläkare",
+            "occupation_english": "Hospital doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Fredga",
+                "middle_name": "Aug.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Handlare",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Lotten",
+                "last_name": "Dahlberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Riddare av Kungliga Vasaorden",
+        "Hedersledamot Värmlands nation Uppsala 1930"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1892",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1905",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elin",
+            "last_name": "Cassel",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Per",
+                    "last_name": "Cassel",
+                    "middle_name": "Aug.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Brukspatron",
+                        "occupation_english": "Ironworks owner",
+                        "hisco_code_swedish": "21220.0",
+                        "hisco_description_swedish": "Production Manager (except Farm)"
+                    }
+                },
+                {
+                    "first_name": "Josefina",
+                    "last_name": "Ramberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1900",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "Leipzig",
+                "latitude": 51.3396955,
+                "longitude": 12.3730747,
+                "formatted_address": "04 Leipzig, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1909"
+        }
+    ]
+}

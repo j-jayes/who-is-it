@@ -1,0 +1,353 @@
+{
+    "career": [
+        {
+            "position": "pastorsadjunkt",
+            "start_year": 1919,
+            "end_year": 1920,
+            "organization": "Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "kyrkoherde",
+            "start_year": 1923,
+            "organization": "Vänge-Läby",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "tillförordnad kontraktsprost",
+            "start_year": 1921,
+            "end_year": 1924,
+            "organization": "Ulleråkers kontrakt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1930,
+            "end_year": 1935,
+            "organization": "Fjellstedtska skolan",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "domprost",
+            "start_year": 1935,
+            "organization": "Göteborg",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "biskop",
+            "start_year": 1936,
+            "end_year": 1947,
+            "organization": "Visby stift",
+            "location": {
+                "name": "Visby",
+                "latitude": 57.6348,
+                "longitude": 18.29484,
+                "formatted_address": "Visby, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "biskop",
+            "start_year": 1947,
+            "organization": "Linköpings stift",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "extra ordinarie hovpredikant",
+            "start_year": 1939,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "David",
+        "last_name": "Ysander",
+        "middle_name": "Torsten",
+        "gender": "Male",
+        "birth_date": "10-03-1893",
+        "birth_place": {
+            "name": "Tölö, Hallands Län",
+            "latitude": 57.4999686,
+            "longitude": 12.083335,
+            "formatted_address": "Tölö, Sweden"
+        },
+        "occupation": {
+            "occupation": "biskop, extra ordinarie hovpredikant",
+            "occupation_english": null,
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Bengt",
+                "last_name": "Ysander",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kyrkoherde",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Amanda",
+                "last_name": "Wetterquist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala universitet",
+            "department": null,
+            "start_year": 1933,
+            "end_year": 1935,
+            "field": "teologiska prenotioner och teologisk encyklopedi"
+        }
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska kyrkans missionsstyrelse",
+            "role": "ledamot",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Svenska kyrkan",
+            "significance": null
+        },
+        {
+            "committee_name": "Svenska kyrkans sjömansvårdsstyrelse",
+            "role": "ledamot",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Svenska kyrkan",
+            "significance": null
+        },
+        {
+            "committee_name": "Svenska institutets råd",
+            "role": "ledamot",
+            "start_year": 1948,
+            "end_year": null,
+            "organization": "Svenska institutet",
+            "significance": null
+        },
+        {
+            "committee_name": "Allmänna svenska prästföreningen",
+            "role": "ordförande",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Sveriges prästförbund",
+            "role": "ordförande",
+            "start_year": 1954,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "current_location": {
+        "name": "Linköping",
+        "latitude": 58.41080700000001,
+        "longitude": 15.6213727,
+        "formatted_address": "Linköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1915",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "teologie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1919",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "teologie licentiat",
+            "degree_level": "Master's",
+            "year": "1925",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "teologie doktor",
+            "degree_level": "Doctorate",
+            "year": "1933",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ebba",
+            "last_name": "Key-Åberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Algot",
+                    "last_name": "Key-Åberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "professor",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "13100.0",
+                        "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Ellen",
+                    "last_name": "Åman",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1923",
+        "divorce_year": null,
+        "children": null
+    },
+    "publications": [
+        {
+            "title": "Missionen — Guds hemlighet",
+            "year": "1932",
+            "type": "book"
+        },
+        {
+            "title": "Hasidismen",
+            "year": "1933",
+            "type": "book"
+        },
+        {
+            "title": "Förkunnelsen och förkunnaren",
+            "year": "1934",
+            "type": "book",
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Herdabrev",
+            "year": "1937",
+            "type": "other"
+        },
+        {
+            "title": "I Göteborgs domkyrka",
+            "year": "1937",
+            "type": "book"
+        },
+        {
+            "title": "Från Visby S:ta Maria",
+            "year": "1941",
+            "type": "book"
+        },
+        {
+            "title": "De hundra kyrkornas ö",
+            "year": "1941",
+            "type": "book"
+        },
+        {
+            "title": "Konfirmationsundervisningen",
+            "year": "1942",
+            "type": "book"
+        },
+        {
+            "title": "Lyckans villkor",
+            "year": "1944",
+            "type": "book"
+        },
+        {
+            "title": "Folkförsoningen och vedergällningen",
+            "year": "1944",
+            "type": "book"
+        },
+        {
+            "title": "Ur Gotlands kyrkoliv efter 1645 (Gotland)",
+            "year": "1945",
+            "type": "book"
+        },
+        {
+            "title": "Herdabrev",
+            "year": "1947",
+            "type": "other"
+        },
+        {
+            "title": "Vägen till Livet",
+            "year": "1950",
+            "type": "book"
+        },
+        {
+            "title": "Vid Domen och Blåkyrkan",
+            "year": "1951",
+            "type": "book"
+        },
+        {
+            "title": "Folkkyrka och kyrkfolk",
+            "year": "1955",
+            "type": "book"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Polen",
+                "latitude": 51.919438,
+                "longitude": 19.145136,
+                "formatted_address": "Poland"
+            },
+            "country_code": "POL",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Ukraina",
+                "latitude": 48.379433,
+                "longitude": 31.16558,
+                "formatted_address": "Ukraine"
+            },
+            "country_code": "UKR",
+            "year": "1921"
+        }
+    ]
+}

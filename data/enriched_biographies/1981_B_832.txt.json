@@ -1,0 +1,114 @@
+{
+    "career": [
+        {
+            "position": "attaché",
+            "start_year": 1945,
+            "organization": "Utrikesdepartementet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Förste sekreterare",
+            "start_year": 1955,
+            "organization": "Utrikesdepartementet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1962,
+            "organization": "Sveriges Industriförbund",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "G.",
+        "last_name": "Braunerhielm",
+        "middle_name": "Erik E",
+        "gender": "Male",
+        "birth_date": "28-12-1921",
+        "birth_place": {
+            "name": "Karlskrona",
+            "latitude": 56.161224,
+            "longitude": 15.5869,
+            "formatted_address": "Karlskrona, Sweden"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Braunerhielm",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kommendör",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Ekman",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Juridisk kandidat",
+            "degree_level": "Master's",
+            "year": "1945",
+            "institution": "Stockholms Universitet"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Sverige och den gemensamma marknaden",
+            "year": "1964",
+            "type": "bok"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "country": {
+                "name": "Washington",
+                "latitude": 38.9071923,
+                "longitude": -77.0368707,
+                "formatted_address": "Washington, DC, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "country": {
+                "name": "Ankara",
+                "latitude": 39.9333635,
+                "longitude": 32.8597419,
+                "formatted_address": "Ankara, Türkiye"
+            },
+            "country_code": "TUR"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT"
+        }
+    ]
+}

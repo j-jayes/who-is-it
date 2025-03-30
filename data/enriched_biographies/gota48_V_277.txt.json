@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1914,
+            "end_year": 1923,
+            "organization": "Stockholms stadshus nybyggnad",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra arkitekt",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Stockholms stads byggnadsnämnd",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tjänstgörande arkitekt utom stat",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Byggnadsstyrelsen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Praktiserande arkitekt",
+            "start_year": 1925,
+            "end_year": 1930,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Stadsarkitekt",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Halmstad",
+            "location": {
+                "name": "Halmstad",
+                "latitude": 56.6743748,
+                "longitude": 12.8577884,
+                "formatted_address": "Halmstad, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Anders",
+        "last_name": "Wetterqvist",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "03-03-1891",
+        "birth_place": {
+            "name": "Tegneby, Göteborgs och Bohus Län",
+            "latitude": 58.13333299999999,
+            "longitude": 11.583333,
+            "formatted_address": "473 97 Tegneby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Stadsarkitekt",
+            "occupation_english": "City Architect",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Emil",
+                "last_name": "Wetterqvist",
+                "middle_name": "Fredrik",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Folkskollärare",
+                    "occupation_english": "Primary School Teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Andersson",
+                "middle_name": "Charlotta",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Sthlms stads utställningskommitté",
+            "role": "Ledamot",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": "Göteborgsutställningen",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Halmstad",
+        "latitude": 56.6743748,
+        "longitude": 12.8577884,
+        "formatted_address": "Halmstad, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1910",
+            "institution": "Högre realläroverket i Göteborg"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1913",
+            "institution": "Chalmers Tekniska Högskola"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1914",
+            "institution": "Kungliga Tekniska Högskolan (A)"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "Kungliga Konsthögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Zaida",
+            "last_name": "Rådberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1932",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Örjan",
+                "last_name": "Wetterqvist",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1933"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Wetterqvist",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Rom",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ITA",
+            "year": "1930"
+        }
+    ]
+}

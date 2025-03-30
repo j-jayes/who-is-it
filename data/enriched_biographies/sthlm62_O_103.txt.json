@@ -1,0 +1,111 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1929,
+            "organization": "Operaskolan"
+        },
+        {
+            "position": "Sopran",
+            "start_year": 1930,
+            "end_year": 1954,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Sångpedagog",
+            "start_year": 1951
+        }
+    ],
+    "person": {
+        "first_name": "Astrid",
+        "last_name": "Ohlson",
+        "middle_name": "V",
+        "gender": "Female",
+        "birth_date": "21-05-1904",
+        "birth_place": {
+            "name": "Elgin, Illinois, USA",
+            "latitude": 42.0354084,
+            "longitude": -88.2825668,
+            "formatted_address": "Elgin, IL, USA"
+        },
+        "occupation": {
+            "occupation": "Operasångerska",
+            "occupation_english": "Opera Singer",
+            "hisco_code_swedish": "17145.0",
+            "hisco_description_swedish": "Singer",
+            "hisco_code_english": "17145.0",
+            "hisco_description_english": "Singer"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Ohlson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Urfabrikör",
+                    "occupation_english": "Watch Manufacturer"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Rundgren",
+                "gender": "Female"
+            }
+        ]
+    },
+    "achievements": [
+        {
+            "title": "Sophie i Rosenkavaljeren",
+            "field": "Opera"
+        },
+        {
+            "title": "Philine i Mignon",
+            "field": "Opera"
+        },
+        {
+            "title": "Martha",
+            "field": "Opera"
+        },
+        {
+            "title": "Nattens drottning i Trollflöjten",
+            "field": "Opera"
+        },
+        {
+            "title": "Rosina i Barberaren i Sevilla",
+            "field": "Opera"
+        },
+        {
+            "title": "Lakmé",
+            "field": "Opera"
+        },
+        {
+            "title": "Dockan i Hoffmans äventyr",
+            "field": "Opera"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Christian",
+            "last_name": "Helin",
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Direktör",
+                "occupation_english": "Director",
+                "hisco_code_swedish": "21110.0",
+                "hisco_description_swedish": "General Manager",
+                "hisco_code_english": "21000.0",
+                "hisco_description_english": "Manager, Specialisation Unknown"
+            }
+        },
+        "marriage_year": "1931"
+    }
+}

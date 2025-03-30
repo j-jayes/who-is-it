@@ -1,0 +1,146 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Gerda",
+        "last_name": "Nordling",
+        "middle_name": "Carolina",
+        "gender": "Female",
+        "birth_date": "28-05-1875",
+        "birth_place": {
+            "name": "Hälsingborg",
+            "latitude": 64.1386294,
+            "longitude": 19.5225599,
+            "formatted_address": "922 93 Hälsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "målarinna, grafiker",
+            "occupation_english": "painter, graphic artist",
+            "hisco_code_swedish": "93120.0",
+            "hisco_description_swedish": "Building Painter"
+        },
+        "parents": [
+            {
+                "first_name": "Joh:s",
+                "last_name": "Jönsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "possessor",
+                    "occupation_english": "landowner",
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge"
+                }
+            },
+            {
+                "first_name": "Elina",
+                "last_name": "Ramberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelsemedlem",
+            "organization": "föreningen originalträsnitt"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ramlösabrunn",
+        "latitude": 56.0233304,
+        "longitude": 12.7450135,
+        "formatted_address": "Ramlösa health resort, Södra Brunnsvägen, 256 54 Helsingborg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1903-1904",
+            "institution": "Konstakademien"
+        },
+        {
+            "degree": "etsarskola",
+            "degree_level": "Schooling",
+            "year": "1910-1913",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Johan",
+            "last_name": "Nordling",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "författare",
+                "occupation_english": "author",
+                "hisco_code_swedish": "15120.0",
+                "hisco_description_swedish": "Author",
+                "hisco_code_english": "15120.0",
+                "hisco_description_english": "Author"
+            },
+            "parents": null
+        },
+        "marriage_year": "1902",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

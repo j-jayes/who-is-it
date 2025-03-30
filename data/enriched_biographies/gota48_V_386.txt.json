@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1904,
+            "end_year": 1906,
+            "organization": "Gust. F. Bratt & Co.",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1906,
+            "end_year": 1910,
+            "organization": "Fredr. Corin & Co.",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Fondavdelning",
+            "start_year": 1910,
+            "end_year": 1913,
+            "organization": "Göteborgs Bank Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Fondchef",
+            "start_year": 1914,
+            "end_year": 1920,
+            "organization": "Firma Thenberg & Kinde",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Egen försäkringsbyrå",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "David",
+        "last_name": "Wiman",
+        "middle_name": "Leopold",
+        "gender": "Male",
+        "birth_date": "06-08-1884",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "N.",
+                "last_name": "Wiman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kassör",
+                    "occupation_english": "Treasurer",
+                    "hisco_code_swedish": "33135.0",
+                    "hisco_description_swedish": "Cashier, Office or Cash Desk"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Wennberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "GV:sOIM",
+        "Försäkrings Aktiebolag Nordens ftjM",
+        "Livförsäkringsbolaget Nordstjernan-Nordens GM"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Brottkärr",
+        "latitude": 57.60083299999999,
+        "longitude": 11.932778,
+        "formatted_address": "436 58 Brottkärr, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Mogenhetsexamen",
+            "degree_level": "Schooling",
+            "year": "1902",
+            "institution": "Göteborgs högre latinläroverk"
+        },
+        {
+            "degree": "Göteborgs Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1903",
+            "institution": "Göteborgs Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ellen",
+            "last_name": "Larson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Gösta",
+                "last_name": "Wiman",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1918"
+            },
+            {
+                "first_name": "Gunnar",
+                "last_name": "Wiman",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1919"
+            },
+            {
+                "first_name": "Else-Marie",
+                "last_name": "Wiman",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1921"
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Wiman",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1923"
+            },
+            {
+                "first_name": "Brita",
+                "last_name": "Wiman",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1930"
+            }
+        ]
+    },
+    "hobbies": [
+        "tennis",
+        "trädgårdsskötsel"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Grekland",
+                "latitude": 39.074208,
+                "longitude": 21.824312,
+                "formatted_address": "Greece"
+            },
+            "country_code": "GRC",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1912"
+        }
+    ]
+}

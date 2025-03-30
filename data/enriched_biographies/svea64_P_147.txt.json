@@ -1,0 +1,272 @@
+{
+    "career": [
+        {
+            "position": "provisorialläkare",
+            "start_year": 1929,
+            "end_year": 1931,
+            "organization": "olika distrikt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "läkarförordnande",
+            "start_year": 1931,
+            "end_year": 1932,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1933,
+            "end_year": null,
+            "organization": "Kristianstads lasarett med avdelning",
+            "location": {
+                "name": "Kristianstad",
+                "latitude": 56.0293936,
+                "longitude": 14.1566778,
+                "formatted_address": "Kristianstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Sundsvalls sanatorium",
+            "location": {
+                "name": "Sundsvall",
+                "latitude": 62.390811,
+                "longitude": 17.306927,
+                "formatted_address": "Sundsvall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Sahlgrenska sjukhuset med kliniken",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "tillförordnad provinsialläkare",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "Vaggeryd",
+            "location": {
+                "name": "Vaggeryd",
+                "latitude": 57.4989621,
+                "longitude": 14.1486297,
+                "formatted_address": "Vaggeryd, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "tillförordnad förste stadsläkare",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Sala",
+            "location": {
+                "name": "Sala",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "tillförordnad förste provinsialläkare",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Norrbottens Län",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "extra provinsialläkare",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Kristdala",
+            "location": {
+                "name": "Kristdala",
+                "latitude": 57.3997682,
+                "longitude": 16.1997081,
+                "formatted_address": "572 73 Kristdala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "provinsialläkare",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Ljungsbro",
+            "location": {
+                "name": "Ljungsbro",
+                "latitude": 58.50655769999999,
+                "longitude": 15.5084429,
+                "formatted_address": "Ljungsbro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "provinsialläkare",
+            "start_year": 1957,
+            "end_year": null,
+            "organization": "Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "biträdande länsläkare",
+            "start_year": 1957,
+            "end_year": null,
+            "organization": "Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "G",
+        "last_name": "Piltz",
+        "middle_name": "Georg",
+        "gender": "Male",
+        "birth_date": "20-12-1900",
+        "birth_place": {
+            "name": "Östra Fågelvik, Värmlands Län",
+            "latitude": 59.4182348,
+            "longitude": 13.7332154,
+            "formatted_address": "655 94 Östra Fågelvik, Sweden"
+        },
+        "occupation": {
+            "occupation": "provinsialläkare",
+            "occupation_english": "Provincial Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustav",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kyrkoherde",
+                    "occupation_english": "Vicar",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Terese",
+                "last_name": "Piltz",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "Karlstad"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1925",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1930",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna-Lisa",
+            "last_name": "Edling",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Holdo",
+                    "last_name": "E",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "häradshövding",
+                        "occupation_english": "District Judge",
+                        "hisco_code_swedish": "12210.0",
+                        "hisco_description_swedish": "Judge"
+                    }
+                },
+                {
+                    "first_name": "Elsa",
+                    "last_name": "Lundberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1934",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Piltz",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1936"
+            },
+            {
+                "first_name": "Marianne",
+                "last_name": "Piltz",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Georg",
+                "last_name": "Piltz",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1946"
+            }
+        ]
+    },
+    "hobbies": [
+        "musik",
+        "konst",
+        "trädgårdsskötsel"
+    ],
+    "honors": [
+        "Riddare av Nordstjärneorden"
+    ],
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

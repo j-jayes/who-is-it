@@ -1,0 +1,168 @@
+{
+    "career": [
+        {
+            "position": "civilingenjör",
+            "start_year": 1928,
+            "organization": "Telefonaktiebolaget L. M. Ericsson",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "byråingenjör",
+            "start_year": 1942,
+            "organization": "Järnvägsstyrelsen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Herman",
+        "last_name": "Linderoth",
+        "middle_name": "Martin",
+        "gender": "Male",
+        "birth_date": "25-12-1901",
+        "birth_place": {
+            "name": "Stjärnsund, Kopparbergs Län",
+            "latitude": 60.4333012,
+            "longitude": 16.2117374,
+            "formatted_address": "776 74 Stjärnsund, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Herman",
+                "last_name": "Linderoth",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fabrikör",
+                    "occupation_english": "manufacturer"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Johansson",
+                "middle_name": "Kristina",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Elev",
+            "degree_level": "Schooling",
+            "year": "1921",
+            "institution": "elektroteknisk fackskola, Västerås"
+        },
+        {
+            "degree": "Elev",
+            "degree_level": "Schooling",
+            "year": "1923",
+            "institution": "tekniska privatskolan i Göteborg"
+        },
+        {
+            "degree": "spec:stud.",
+            "degree_level": "Schooling",
+            "year": "1925",
+            "institution": "Kungliga Tekniska Högskolan"
+        },
+        {
+            "degree": "ordinarie studerande",
+            "degree_level": "Schooling",
+            "year": "1928",
+            "institution": "Kungliga Tekniska Högskolan"
+        },
+        {
+            "degree": "avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1928",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Westerberg",
+            "middle_name": "Maj-Lis",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Eva",
+                "last_name": "Kristina",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1944"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "New Zealand",
+                "latitude": -40.900557,
+                "longitude": 174.885971,
+                "formatted_address": "New Zealand"
+            },
+            "country_code": "NZL",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1933"
+        }
+    ]
+}

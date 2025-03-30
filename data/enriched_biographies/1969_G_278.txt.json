@@ -1,0 +1,181 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Gustafsson",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "09-08-1916",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Gustafsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "järnvägstjänsteman",
+                    "occupation_english": "railway official",
+                    "hisco_code_swedish": "39960.0",
+                    "hisco_description_swedish": "Railway Clerk"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Grahn",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Associate Professor",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1948,
+            "end_year": 1961,
+            "field": "histologi"
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1961,
+            "end_year": null,
+            "field": "medicinsk symbiosforskning"
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "odontologie hedersdoktor Malmö 1959"
+    ],
+    "board_memberships": [],
+    "committee_memberships": [
+        {
+            "committee_name": "statens medicinska forskningsråd",
+            "role": "sekreterare",
+            "start_year": 1963,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "forskningsnämnden",
+            "role": "ordförande",
+            "start_year": 1965,
+            "end_year": null,
+            "organization": "Riksföreningen mot cancer",
+            "significance": null
+        }
+    ],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1956",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1956",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ebba",
+            "last_name": "Örström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "tandläkare",
+                "occupation_english": "dentist",
+                "hisco_code_swedish": "6310.0",
+                "hisco_description_swedish": "Dentist, General",
+                "hisco_code_english": "6310.0",
+                "hisco_description_english": "Dentist, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Sven",
+                    "last_name": "Örström",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "överläkare",
+                        "occupation_english": "chief physician",
+                        "hisco_code_swedish": "6105.0",
+                        "hisco_description_swedish": "General Physician",
+                        "hisco_code_english": "6100.0",
+                        "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Hilma",
+                    "last_name": "Nilsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "medicine licentiat",
+                        "occupation_english": "Licentiate of Medicine",
+                        "hisco_code_swedish": "6100.0",
+                        "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+                        "hisco_code_english": "6100.0",
+                        "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1947",
+        "divorce_year": null,
+        "children": []
+    },
+    "hobbies": [],
+    "honorary_titles": [],
+    "honors": [
+        "Ledamot av Vetenskapsakademien 1968"
+    ],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Skrifter i medicin och odontologi",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1959"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Bertil",
+        "last_name": "Almgren",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "27-09-1918",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Oscar",
+                "last_name": "Almgren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Professor",
+                    "occupation_english": "Professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Bertha",
+                "last_name": "Söderquist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1946,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1955,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1955,
+            "end_year": 1965,
+            "field": "Nordisk fornkunskap"
+        },
+        {
+            "position": "Universitetslektor",
+            "position_english": "University Lecturer",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1962,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1965,
+            "end_year": null,
+            "field": "Nordisk och jämförande fornkunskap"
+        }
+    ],
+    "achievements": [],
+    "awards": [],
+    "board_memberships": [],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Henning",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Bengt",
+                    "last_name": "Henning",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Lisen",
+                    "last_name": "Dalgren",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1947",
+        "divorce_year": null,
+        "children": []
+    },
+    "hobbies": [],
+    "honorary_titles": [],
+    "honors": [
+        "KorrLDAl",
+        "LVSU",
+        "LNSS"
+    ],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Bronsnycklar och djurornamentik",
+            "year": "1955",
+            "type": "doktorsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "tidskrupps",
+            "year": "None",
+            "type": "None",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Grekland",
+                "latitude": 39.074208,
+                "longitude": 21.824312,
+                "formatted_address": "Greece"
+            },
+            "country_code": "GRC",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Persien",
+                "latitude": 32.427908,
+                "longitude": 53.688046,
+                "formatted_address": "Iran"
+            },
+            "country_code": "IRN",
+            "year": "1958"
+        },
+        {
+            "country": {
+                "name": "Persien",
+                "latitude": 32.427908,
+                "longitude": 53.688046,
+                "formatted_address": "Iran"
+            },
+            "country_code": "IRN",
+            "year": "1959"
+        }
+    ]
+}

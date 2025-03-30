@@ -1,0 +1,228 @@
+{
+    "career": [
+        {
+            "position": "attaché",
+            "start_year": 1904,
+            "organization": "London",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "attaché",
+            "start_year": 1904,
+            "organization": "Paris",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "andre sekreterare",
+            "start_year": 1906,
+            "organization": "utrikesdepartementet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "förste sekreterare",
+            "start_year": 1908,
+            "organization": "utrikesdepartementet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "legationssekreterare",
+            "start_year": 1912,
+            "organization": "Washington",
+            "location": {
+                "name": "Washington, D.C.",
+                "latitude": 38.9071923,
+                "longitude": -77.0368707,
+                "formatted_address": "Washington, DC, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "legationssekreterare",
+            "start_year": 1916,
+            "organization": "Kristiania",
+            "location": {
+                "name": "Kristiania",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "position": "legationsråds namn",
+            "start_year": 1916,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "förste legationssekreterare",
+            "start_year": 1918,
+            "organization": "Paris",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "tillförordnad förste legationssekreterare",
+            "start_year": 1919,
+            "organization": "Köpenhamn",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "position": "legationsråd",
+            "start_year": 1921,
+            "organization": "Peking",
+            "location": {
+                "name": "Peking",
+                "latitude": 39.904211,
+                "longitude": 116.407395,
+                "formatted_address": "Beijing, China"
+            },
+            "country_code": "CHN"
+        },
+        {
+            "position": "legationsråd",
+            "start_year": 1924,
+            "organization": "London",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "i disponibilitet",
+            "start_year": 1927,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "ministerresidents namn",
+            "start_year": 1927,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "konungens handsekreterare",
+            "start_year": 1938,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "kabinetskammarherre",
+            "start_year": 1938,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Claes",
+        "last_name": "Bonde",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "04-03-1878",
+        "birth_place": {
+            "name": "Västra Vingåker, Södermanlands Län",
+            "latitude": 59.0531314,
+            "longitude": 15.8784765,
+            "formatted_address": "Storgatan 70, 643 30 Vingåker, Sweden"
+        },
+        "occupation": {
+            "occupation": "greve, ministerresident, kabinettskammarherre",
+            "occupation_english": "Count, Minister Resident, Cabinet Chamberlain",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Trolle-Bonde",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "godsägare, greve",
+                    "occupation_english": "estate owner, count",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Ewa",
+                "last_name": "Leijonhufvud",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "friherrinna",
+                    "occupation_english": "baroness",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "juridik utrikes kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1904",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

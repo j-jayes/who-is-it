@@ -1,0 +1,222 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1875,
+            "end_year": 1885,
+            "organization": "Looström och komp.",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1886,
+            "end_year": 1888,
+            "organization": "Looström och komp.",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "vrkesstud.",
+            "start_year": 1886,
+            "end_year": null,
+            "organization": "Leipzig",
+            "location": null,
+            "country_code": "DEU"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1888,
+            "end_year": 1889,
+            "organization": "Hasse V. Tullberg",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1889,
+            "end_year": 1891,
+            "organization": "H. Sandberg",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1892,
+            "end_year": 1895,
+            "organization": "H. Sandberg",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "delägare",
+            "start_year": 1891,
+            "end_year": 1892,
+            "organization": "Carlsson och Lindqvist",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1895,
+            "end_year": null,
+            "organization": "aktiebolag Sandbergs bokhandel",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Lindqvist",
+        "middle_name": "Ferdinand",
+        "gender": "Male",
+        "birth_date": "27-04-1862",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "bokhandlare, direktör",
+            "occupation_english": "bookseller, director",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Lars",
+                "last_name": "Lindqvist",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "vaktmästare i Ägir",
+                    "occupation_english": "janitor in Ägir",
+                    "hisco_code_swedish": "55130.0",
+                    "hisco_description_swedish": "Janitor"
+                }
+            },
+            {
+                "first_name": "Ghrist.",
+                "last_name": "Boman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "svenska sortimentsbokhandlareföreningens Stockholmskrets",
+            "role": "ordförande",
+            "start_year": 1895,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "svenska bokhandelsskolan",
+            "role": "ordförande",
+            "start_year": 1895,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "understödsföreningen för svenska bokhandlare",
+            "role": "kassaförvaltare",
+            "start_year": 1895,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Danderyd",
+        "latitude": 59.4059401,
+        "longitude": 18.0256382,
+        "formatted_address": "Danderyd, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Ebba",
+            "last_name": "Ewerlöf",
+            "middle_name": "Sofia Heloise",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gust.",
+                    "last_name": "Ewerlöf",
+                    "middle_name": "Ax.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "bokhandlare",
+                        "occupation_english": "bookseller",
+                        "hisco_code_swedish": "41030.0",
+                        "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                        "hisco_code_english": "41030.0",
+                        "hisco_description_english": "Working Proprietor (Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Ebba",
+                    "last_name": "Pagander",
+                    "middle_name": "Gust.",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1912",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

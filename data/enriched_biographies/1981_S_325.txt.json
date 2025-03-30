@@ -1,0 +1,152 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1965,
+            "organization": "Dagens Nyheter",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1969,
+            "end_year": 1970,
+            "organization": "Dagens Nyheter",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Sven-Erik",
+        "last_name": "Sjöberg",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "12-06-1943",
+        "birth_place": {
+            "name": "Trelleborg",
+            "latitude": null,
+            "longitude": null,
+            "formatted_address": null
+        },
+        "occupation": {
+            "occupation": "fotograf",
+            "occupation_english": "photographer",
+            "hisco_code_swedish": "16310.0",
+            "hisco_description_swedish": "Photographer, General",
+            "hisco_code_english": "16310.0",
+            "hisco_description_english": "Photographer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Sjöberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fastförvalt",
+                    "occupation_english": "property manager"
+                }
+            },
+            {
+                "first_name": "Astrid",
+                "last_name": "Jönsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Anna-Lisa",
+            "last_name": "Bäckman",
+            "gender": "Female",
+            "occupation": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Olika böcker med bildmaterial",
+            "year": "None",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Vietnam",
+                "latitude": 14.058324,
+                "longitude": 108.277199,
+                "formatted_address": "Vietnam"
+            },
+            "country_code": "VNM",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Kambodja",
+                "latitude": 12.565679,
+                "longitude": 104.990963,
+                "formatted_address": "Cambodia"
+            },
+            "country_code": "KHM",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Sydamerika",
+                "latitude": -8.783195,
+                "longitude": -55.491477,
+                "formatted_address": "South America"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

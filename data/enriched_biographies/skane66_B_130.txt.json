@@ -1,0 +1,213 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1952,
+            "end_year": 1953,
+            "organization": "Aktiebolaget Skånska Ättikfabriken",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1956,
+            "end_year": 1958,
+            "organization": "Aktiebolaget Mataki",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": "Högre allmänna läroverket Ängelholm",
+            "location": {
+                "name": "Ängelholm",
+                "latitude": 56.245748,
+                "longitude": 12.863881,
+                "formatted_address": "Ängelholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": "Tekniska gymnasiet Helsingborg",
+            "location": {
+                "name": "Helsingborg",
+                "latitude": 56.0464674,
+                "longitude": 12.6945121,
+                "formatted_address": "Helsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1964,
+            "end_year": null,
+            "organization": "Högre allmänna läroverket Helsingborg",
+            "location": {
+                "name": "Helsingborg",
+                "latitude": 56.0464674,
+                "longitude": 12.6945121,
+                "formatted_address": "Helsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt",
+            "start_year": 1965,
+            "end_year": null,
+            "organization": "Grundskolan Helsingborg",
+            "location": {
+                "name": "Helsingborg",
+                "latitude": 56.0464674,
+                "longitude": 12.6945121,
+                "formatted_address": "Helsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt",
+            "start_year": 1966,
+            "end_year": null,
+            "organization": "Försök och försöksverksamhet i skolan",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bert",
+        "last_name": "Berg",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "14-02-1934",
+        "birth_place": {
+            "name": "Helsingborg",
+            "latitude": 56.0464674,
+            "longitude": 12.6945121,
+            "formatted_address": "Helsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Adjunkt",
+            "occupation_english": "Lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Otto",
+                "last_name": "Berg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Målaremästare",
+                    "occupation_english": "Master painter",
+                    "hisco_code_swedish": "93120.0",
+                    "hisco_description_swedish": "Building Painter",
+                    "hisco_code_english": "93120.0",
+                    "hisco_description_english": "Building Painter"
+                }
+            },
+            {
+                "first_name": "Adéle",
+                "last_name": "Johansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Helsingborg",
+        "latitude": 56.0464674,
+        "longitude": 12.6945121,
+        "formatted_address": "Helsingborg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1952",
+            "institution": "Tekniska gymnasiet Helsingborg"
+        },
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1961",
+            "institution": "Lunds universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Vivi-Anne",
+            "last_name": "Gidlund",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Karl",
+                    "last_name": "Gidlund",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Gjutare",
+                        "occupation_english": "Founder",
+                        "hisco_code_swedish": "72500.0",
+                        "hisco_description_swedish": "Metal Moulder or Coremaker, Specialisation Unknown",
+                        "hisco_code_english": "72000.0",
+                        "hisco_description_english": "Metal Processor, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Svea",
+                    "last_name": "Bondesson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1957",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Cecilia",
+                "last_name": "Berg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1963"
+            },
+            {
+                "first_name": "Christina",
+                "last_name": "Berg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1964"
+            }
+        ]
+    },
+    "hobbies": [
+        "fiske"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "Löjtnant i pansartruppernas reserv.",
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

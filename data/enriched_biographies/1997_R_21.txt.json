@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Geolog",
+            "start_year": 1946,
+            "end_year": 1947,
+            "organization": "Grönland",
+            "location": {
+                "name": "Grönland",
+                "latitude": 71.706936,
+                "longitude": -42.604303,
+                "formatted_address": "Greenland"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Professor",
+            "start_year": 1952,
+            "end_year": 1961,
+            "organization": "Chicago Universitet",
+            "location": {
+                "name": "Chicago",
+                "latitude": 41.8781136,
+                "longitude": -87.6297982,
+                "formatted_address": "Chicago, IL, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Visiting Professor i geologi",
+            "start_year": 1959,
+            "end_year": 1960,
+            "organization": "Escola de Minas Ouvo Preto",
+            "location": {
+                "name": "Brazilien",
+                "latitude": -14.235004,
+                "longitude": -51.92528,
+                "formatted_address": "Brazil"
+            },
+            "country_code": "BRA"
+        },
+        {
+            "position": "Professor i geologi, särskilt petrografi och mineralogi",
+            "start_year": 1961,
+            "end_year": 1983,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Ramberg",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "15-03-1917",
+        "birth_place": {
+            "name": "Trondheim",
+            "latitude": 63.4305149,
+            "longitude": 10.3950528,
+            "formatted_address": "Trondheim, Norway"
+        },
+        "occupation": {
+            "occupation": "Professor emeritus",
+            "occupation_english": "Professor Emeritus",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ragnvald",
+                "last_name": "Ramberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Tandläkare",
+                    "occupation_english": "Dentist",
+                    "hisco_code_swedish": "6310.0",
+                    "hisco_description_swedish": "Dentist, General",
+                    "hisco_code_english": "6310.0",
+                    "hisco_description_english": "Dentist, General"
+                }
+            },
+            {
+                "first_name": "Olga",
+                "last_name": "Pettersen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Doktor Philosophiae",
+            "degree_level": "Doctorate",
+            "year": "1946",
+            "institution": "Oslo Universitet"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Marie-Louise",
+            "last_name": "Schistad",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Olaf",
+                    "last_name": "Schistad",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Byggmästare",
+                        "occupation_english": "Building contractor",
+                        "hisco_code_swedish": "21240.0",
+                        "hisco_description_swedish": "Contractor",
+                        "hisco_code_english": "21240.0",
+                        "hisco_description_english": "Contractor"
+                    }
+                },
+                {
+                    "first_name": "Ragna",
+                    "last_name": "Stöeng",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1942",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i mineralogi-petrologi och geodynamik",
+            "year": "None",
+            "type": "Vetenskapliga publikationer",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Grönland",
+                "latitude": 71.706936,
+                "longitude": -42.604303,
+                "formatted_address": "Greenland"
+            },
+            "country_code": "GRL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Brazilien",
+                "latitude": -14.235004,
+                "longitude": -51.92528,
+                "formatted_address": "Brazil"
+            },
+            "country_code": "BRA",
+            "year": null
+        }
+    ]
+}

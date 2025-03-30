@@ -1,0 +1,211 @@
+{
+    "career": [
+        {
+            "position": "Kyrkoadjunkt",
+            "start_year": 1955,
+            "end_year": 1956,
+            "organization": "Luleå domkyrkoförsamling",
+            "location": {
+                "name": "Luleå",
+                "latitude": 65.584819,
+                "longitude": 22.1567026,
+                "formatted_address": "Luleå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Gamlestads församling",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kortedala församling",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "E",
+        "last_name": "Erling",
+        "middle_name": "Torgny",
+        "gender": "Male",
+        "birth_date": "04-12-1928",
+        "birth_place": {
+            "name": "Lund",
+            "latitude": 55.7046601,
+            "longitude": 13.1910073,
+            "formatted_address": "Lund, Sweden"
+        },
+        "occupation": {
+            "occupation": "Komminister",
+            "occupation_english": "Curate",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Ernst",
+                "last_name": "E",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kontraktsprost",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Marie",
+                "last_name": "Schad",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Kyrkofullmäktige",
+            "role": "Ledamot",
+            "start_year": 1963,
+            "end_year": null,
+            "organization": "Göteborg",
+            "significance": null
+        },
+        {
+            "committee_name": "Kortedala kyrkostämma",
+            "role": "Vice ordförande",
+            "start_year": 1964,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Kortedala kyrkoråd",
+            "role": "Vice ordförande",
+            "start_year": 1964,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1949",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "Teologie kandidat",
+            "degree_level": "Master's",
+            "year": "1954",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gerd",
+            "last_name": "Staxäng",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Ernst",
+                    "last_name": "S",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Riksdagsman",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "20110.0",
+                        "hisco_description_swedish": "Legislative Official"
+                    }
+                },
+                {
+                    "first_name": "Annie",
+                    "last_name": "Fredriksson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1961",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Valdemar",
+                "last_name": "Erling",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1963"
+            },
+            {
+                "first_name": "Torbjörn",
+                "last_name": "Erling",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1964"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Israel",
+                "latitude": 31.046051,
+                "longitude": 34.851612,
+                "formatted_address": "Israel"
+            },
+            "country_code": "ISR",
+            "year": "1951"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1963"
+        }
+    ]
+}

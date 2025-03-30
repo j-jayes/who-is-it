@@ -1,0 +1,62 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Brita",
+        "last_name": "Hertzberg",
+        "middle_name": null,
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "se",
+            "last_name": "denna",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "marriage_year": "1932",
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Budapest",
+                "latitude": 47.497912,
+                "longitude": 19.040235,
+                "formatted_address": "Budapest, Hungary"
+            },
+            "country_code": "HUN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "La Scala Milano",
+                "latitude": 45.4673504,
+                "longitude": 9.189731199999999,
+                "formatted_address": "Teatro alla Scala, V. Filodrammatici, 2, 20121 Milano MI, Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Barcelona",
+                "latitude": 41.3873974,
+                "longitude": 2.168568,
+                "formatted_address": "Barcelona, Spain"
+            },
+            "country_code": "ESP",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

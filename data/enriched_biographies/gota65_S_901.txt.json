@@ -1,0 +1,208 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": 1946,
+            "organization": "Broströms-koncernen",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "William Cory aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Direktör och konsult",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": "Svenska BP olje aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Magistratsbesiktningsman",
+            "start_year": 1948,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Söderström",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "21-12-1900",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Skeppsmäklare",
+            "occupation_english": "Ship Broker",
+            "hisco_code_swedish": "44190.0",
+            "hisco_description_swedish": "Other Insurance, Real Estate and Securities Salesmen",
+            "hisco_code_english": "44140.0",
+            "hisco_description_english": "Stock Broker"
+        },
+        "parents": [
+            {
+                "first_name": "Albert",
+                "last_name": "Söderström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Civiljägmästare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21230.0",
+                    "hisco_description_swedish": "Farm Manager"
+                }
+            },
+            {
+                "first_name": "Thyra",
+                "last_name": "Lysander",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Marknadsundersökning",
+            "field": "Flaskgas",
+            "year": "1936-1939",
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Göteborgs högre samskola",
+            "degree_level": "Schooling",
+            "year": "1919",
+            "institution": "Göteborgs högre samskola"
+        },
+        {
+            "degree": "Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Björnbom",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "John",
+                    "last_name": "Björnbom",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Thyberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1934",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Kerstin",
+                "last_name": "Söderström",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1944"
+            }
+        ]
+    },
+    "hobbies": [
+        "värmeteknik",
+        "schack",
+        "ridning",
+        "segling",
+        "trädgårdsskötsel"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1920-1925"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1920-1925"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1920-1925"
+        }
+    ]
+}

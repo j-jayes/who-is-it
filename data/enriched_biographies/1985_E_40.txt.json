@@ -1,0 +1,39 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Rolf",
+        "last_name": "Edling",
+        "middle_name": "E S",
+        "gender": "Male",
+        "birth_date": "30-11-1943",
+        "birth_place": {
+            "name": "Bombay",
+            "latitude": 19.0759837,
+            "longitude": 72.8776559,
+            "formatted_address": "Mumbai, Maharashtra, India"
+        },
+        "occupation": {
+            "occupation": "filosofie kandidat, legitimerad tandläkare",
+            "occupation_english": "Bachelor of Arts, Licensed Dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Stig",
+                "last_name": "E",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            }
+        ]
+    }
+}

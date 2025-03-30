@@ -1,0 +1,150 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Astri",
+        "last_name": "Taube",
+        "middle_name": "Linnéa Matilda",
+        "gender": "Female",
+        "birth_date": "09-12-1898",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "skulptris",
+            "occupation_english": "sculptor",
+            "hisco_code_swedish": "16120.0",
+            "hisco_description_swedish": "Sculptor",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Herman",
+                "last_name": "Bergman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "hovkonstgjutare",
+                    "occupation_english": "Royal Court Art Foundryman",
+                    "hisco_code_swedish": "16190.0",
+                    "hisco_description_swedish": "Other Sculptors, Painters and Related Artists"
+                }
+            },
+            {
+                "first_name": "Melen",
+                "last_name": "Tholff",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Gosshuvud, brons, Nationalmuseum",
+            "field": "Skulptur",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Porträtt av Selma Lagerlöf",
+            "field": "Skulptur",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Porträtt av Grevinnan Mathilda",
+            "field": "Skulptur",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Elev av Milles",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Elev av Bourdelle",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Konstakademins skulpturskola",
+            "degree_level": "Schooling",
+            "year": "1921",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Florens",
+                "latitude": 43.7699685,
+                "longitude": 11.2576706,
+                "formatted_address": "Florence, Metropolitan City of Florence, Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Rom",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Neapel",
+                "latitude": 40.8517746,
+                "longitude": 14.2681244,
+                "formatted_address": "Naples, Metropolitan City of Naples, Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

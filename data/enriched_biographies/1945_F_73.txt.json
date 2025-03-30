@@ -1,0 +1,201 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1937,
+            "end_year": 1943,
+            "organization": "föreningen Skogsarbetarnas arbetsstudieavdelning",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1943,
+            "organization": "Sandvikens Jernverks aktiebolag",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bo",
+        "last_name": "Flodman",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "04-12-1912",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "civiljägmästare",
+            "occupation_english": null,
+            "hisco_code_swedish": "21230.0",
+            "hisco_description_swedish": "Farm Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Victor",
+                "last_name": "Flodman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "sekreterare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "30000.0",
+                    "hisco_description_swedish": "Clerical or Related Worker, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Blenda",
+                "last_name": "Svanfeldt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Sandviken",
+        "latitude": 60.621607,
+        "longitude": 16.775918,
+        "formatted_address": "Sandviken, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1932",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Skogshögskolan",
+            "degree_level": "Bachelor's",
+            "year": "1937",
+            "institution": "Skogshögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulla",
+            "last_name": "Wejdling",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "00-00-1914",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Sten",
+                    "last_name": "Wejdling",
+                    "middle_name": "Eskil",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "intendent",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "22000.0",
+                        "hisco_description_swedish": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Märtha",
+                    "last_name": "Aurell",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "artiklar och uppsatser om skogsbrukets och -arbetets rationalisering",
+            "year": "None",
+            "type": "artikel",
+            "editions": null,
+            "publisher": "Landets utredningsinstitut",
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "artiklar och uppsatser om virkestransporter med häst med mera",
+            "year": "None",
+            "type": "artikel",
+            "editions": null,
+            "publisher": "Norrlands skogsvårdsförbunds tidskrift",
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1939"
+        }
+    ]
+}

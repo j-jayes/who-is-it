@@ -1,0 +1,119 @@
+{
+    "career": [
+        {
+            "position": "lektor",
+            "start_year": 1926,
+            "organization": "Karolinska högre allmänna läroverket i Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1939,
+            "end_year": 1949,
+            "organization": "högre allmänna läroverket",
+            "location": {
+                "name": "Strängnäs",
+                "latitude": 59.37745229999999,
+                "longitude": 17.0321193,
+                "formatted_address": "Strängnäs, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lektor",
+            "start_year": 1949,
+            "end_year": 1951,
+            "organization": "högre allmänna läroverket",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lektor i matematik och fysik",
+            "start_year": 1951,
+            "organization": "högre allmänna läroverket å Östermalm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Bertil",
+        "last_name": "Malmrot",
+        "middle_name": "Axelsson",
+        "gender": "Male",
+        "birth_date": "25-11-1893",
+        "birth_place": {
+            "name": "Örebro",
+            "latitude": 59.2752626,
+            "longitude": 15.2134105,
+            "formatted_address": "Örebro, Sweden"
+        },
+        "occupation": {
+            "occupation": "lektor",
+            "occupation_english": "lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "M",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "byggmästare",
+                    "occupation_english": "Building Contractor",
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor",
+                    "hisco_code_english": "21240.0",
+                    "hisco_description_english": "Contractor"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Fseger",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1925
+        }
+    ],
+    "publications": [
+        {
+            "title": "Sur tme formule de M. Fujivara",
+            "year": "1918",
+            "type": "article"
+        },
+        {
+            "title": "Studien über Gruppen, deren Ordnung ein Produkt von sechs Primzahlen ist (gradualavhandling)",
+            "year": "1925",
+            "type": "dissertation"
+        }
+    ],
+    "travels": null
+}

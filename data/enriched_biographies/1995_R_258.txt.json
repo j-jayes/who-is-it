@@ -1,0 +1,114 @@
+{
+    "career": [
+        {
+            "position": "Tjänstgörande läkare",
+            "start_year": 1957,
+            "end_year": 1961,
+            "organization": "Lasarettet Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tjänstgörande läkare",
+            "start_year": 1961,
+            "end_year": 1970,
+            "organization": "Lasarettet Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1970,
+            "end_year": 1973,
+            "organization": "Lasarettet Lidköping",
+            "location": {
+                "name": "Lidköping",
+                "latitude": 58.5035047,
+                "longitude": 13.1570768,
+                "formatted_address": "Lidköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chefsläkare",
+            "start_year": 1973,
+            "end_year": 1994,
+            "organization": "Öronkliniken Kärnsjukhuset Skövde",
+            "location": {
+                "name": "Skövde",
+                "latitude": 58.3902782,
+                "longitude": 13.8461208,
+                "formatted_address": "Skövde, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Rundcrantz",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "29-12-1904",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent",
+            "occupation_english": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Rundcrantz",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Civilingenjör",
+                    "occupation_english": "Civil Engineer",
+                    "hisco_code_swedish": "2210.0",
+                    "hisco_description_swedish": "Civil Engineer, General"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Johansson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1969,
+            "field": "Öron-, näs- och halssjukdomar"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Läroböcker i öron-, näs- och halssjukdomar",
+            "year": "None",
+            "type": "Läroböcker"
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,214 @@
+{
+    "career": [
+        {
+            "position": "Praktiserande läkare förordnande",
+            "start_year": 1948,
+            "end_year": 1950,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Läkare öronavdelning",
+            "start_year": 1950,
+            "end_year": 1952,
+            "organization": "Bodens Garnisonssjukhus",
+            "location": {
+                "name": "Boden",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Läkare kirurgiska avdelning",
+            "start_year": 1950,
+            "end_year": 1952,
+            "organization": "Bodens Garnisonssjukhus",
+            "location": {
+                "name": "Boden",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare kirurgiska avdelning",
+            "start_year": 1952,
+            "end_year": 1955,
+            "organization": "Växjö lasarett",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Andre underläkare kirurgiska avdelning",
+            "start_year": 1955,
+            "end_year": 1960,
+            "organization": "Uddevalla lasarett",
+            "location": {
+                "name": "Uddevalla",
+                "latitude": 58.3498003,
+                "longitude": 11.935649,
+                "formatted_address": "Uddevalla, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande överläkare kirurgiska kliniken",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": "Bollnäs lasarett",
+            "location": {
+                "name": "Bollnäs",
+                "latitude": 61.34837950000001,
+                "longitude": 16.3942685,
+                "formatted_address": "Bollnäs, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "T",
+        "last_name": "Åslund",
+        "middle_name": "Harry",
+        "gender": "Male",
+        "birth_date": "07-12-1917",
+        "birth_place": {
+            "name": "Oslo",
+            "latitude": 59.9138688,
+            "longitude": 10.7522454,
+            "formatted_address": "Oslo, Norway"
+        },
+        "occupation": {
+            "occupation": "Biträdande överläkare",
+            "occupation_english": "Assistant chief physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Olaf",
+                "last_name": "Åslund",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmann",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Karla",
+                "last_name": "Karlsen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Bollnäs",
+        "latitude": 61.34837950000001,
+        "longitude": 16.3942685,
+        "formatted_address": "Bollnäs, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1937",
+            "institution": "Oslo"
+        },
+        {
+            "degree": "Norsk läkarexamen",
+            "degree_level": "Doctorate",
+            "year": "1949",
+            "institution": "Norge"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1959",
+            "institution": "Göteborg"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Asta",
+            "last_name": "Nielsen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Ludvig",
+                    "last_name": "Nielsen",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Fabrikägare",
+                        "occupation_english": "Factory owner",
+                        "hisco_code_swedish": "21220.0",
+                        "hisco_description_swedish": "Production Manager (except Farm)"
+                    }
+                },
+                {
+                    "first_name": "Ragna",
+                    "last_name": "Levig",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1948",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Kari",
+                "last_name": "Anita",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1949"
+            },
+            {
+                "first_name": "Jan",
+                "last_name": "Olaf",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1950"
+            }
+        ]
+    },
+    "hobbies": [
+        "fiske",
+        "golf",
+        "curling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

@@ -1,0 +1,76 @@
+{
+    "career": [
+        {
+            "position": "Överläkare",
+            "start_year": 1953,
+            "organization": "Gbg"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Leissner",
+        "middle_name": "Herman",
+        "gender": "Male",
+        "birth_date": "27-12-1904",
+        "birth_place": {
+            "name": "Djursholm",
+            "latitude": 59.39707249999999,
+            "longitude": 18.0903005,
+            "formatted_address": "Djursholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överläkare, docent",
+            "occupation_english": "Senior Physician, docent",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Engelbrekt",
+                "last_name": "Leissner",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Vice Häradshövding",
+                    "occupation_english": "District Court Judge",
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge",
+                    "hisco_code_english": "12210.0",
+                    "hisco_description_english": "Judge"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Andersson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Göteborgs Universitet",
+            "department": "radiologi, gynekologi",
+            "start_year": 1953,
+            "field": "radiologi, gynekologi"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Medicine Licentiat",
+            "degree_level": "Master's",
+            "year": "1930",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine Doktor",
+            "degree_level": "Doctorate",
+            "year": "1950",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": null,
+    "military_service": null,
+    "publications": null,
+    "travels": null
+}

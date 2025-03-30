@@ -1,0 +1,198 @@
+{
+    "career": [
+        {
+            "position": "Kyrkoadjunkt",
+            "start_year": 1943,
+            "organization": "S:ta Clara",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Komminister",
+            "start_year": 1943,
+            "organization": "Oscar, Lidingö, S:t Matteus",
+            "location": {
+                "name": "Lidingö",
+                "latitude": 59.36295999999999,
+                "longitude": 18.1468,
+                "formatted_address": "Lidingö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Marinpredikant",
+            "start_year": 1944,
+            "end_year": 1945,
+            "organization": "Stockholms örlogsstation",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kyrkoadjunkt",
+            "start_year": 1946,
+            "organization": "Katarina",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Komminister",
+            "start_year": 1955,
+            "organization": "Katarina",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Predikant",
+            "start_year": 1955,
+            "organization": "Södersjukhus eftervårdssjukhus",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1960,
+            "organization": "Stockholms stadsmission",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1954,
+            "organization": "Stockholms stadsmission",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Fartygspastor",
+            "start_year": 1952,
+            "organization": "Kryssaren Gotland",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Reseledare",
+            "start_year": 1955,
+            "organization": null,
+            "location": {
+                "name": "Palestina och Egypten",
+                "latitude": 26.820553,
+                "longitude": 30.802498,
+                "formatted_address": "Egypt"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "K",
+        "last_name": "Dahlin",
+        "middle_name": "Arne",
+        "gender": "Male",
+        "birth_date": "01-10-1910",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Pastor",
+            "occupation_english": "Pastor",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        }
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1938",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Teologie filosofie examen",
+            "degree_level": "Bachelor's",
+            "year": "1940",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Teologie kandidat",
+            "degree_level": "Master's",
+            "year": "1943",
+            "institution": "Okänd"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Västindien",
+                "latitude": 18.2345027,
+                "longitude": -66.4108475,
+                "formatted_address": "West Indies"
+            },
+            "country_code": "None",
+            "year": "1952"
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1952"
+        },
+        {
+            "country": {
+                "name": "Palestina",
+                "latitude": 31.952162,
+                "longitude": 35.233154,
+                "formatted_address": "Palestine"
+            },
+            "country_code": "PSE",
+            "year": "1955"
+        },
+        {
+            "country": {
+                "name": "Egypten",
+                "latitude": 26.820553,
+                "longitude": 30.802498,
+                "formatted_address": "Egypt"
+            },
+            "country_code": "EGY",
+            "year": "1955"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1958"
+        }
+    ]
+}

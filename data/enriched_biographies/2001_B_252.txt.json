@@ -1,0 +1,192 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Bergström",
+        "middle_name": "L W",
+        "gender": "Male",
+        "birth_date": "06-07-1935",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Bergström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "avdelningschef",
+                    "occupation_english": "department manager",
+                    "hisco_code_swedish": "22110.0",
+                    "hisco_description_swedish": "Clerical Supervisor, General",
+                    "hisco_code_english": "22000.0",
+                    "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Leila",
+                "last_name": "Willig",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "affärsinnehavare",
+                    "occupation_english": "business owner",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Göteborgs universitet",
+            "start_year": 1973,
+            "field": "biokemi"
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Göteborgs universitet",
+            "start_year": 1973,
+            "field": "biokemi"
+        },
+        {
+            "position": "särskild forskare",
+            "position_english": "special researcher",
+            "institution": "naturvetenskapliga forskningsrådet",
+            "start_year": 1976,
+            "end_year": 1983,
+            "field": "ekologisk kemi"
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Göteborgs universitet",
+            "start_year": 1983,
+            "field": "etologisk kemi"
+        },
+        {
+            "position": "föreståndare",
+            "position_english": "Director",
+            "institution": "Uppsala universitets ekologiska station",
+            "start_year": 1971,
+            "end_year": 1985,
+            "field": "kemiavdelningen"
+        },
+        {
+            "position": "föreståndare",
+            "position_english": "Director",
+            "institution": "Göteborgs universitets institution för kemisk ekologi",
+            "start_year": 1973,
+            "end_year": null,
+            "field": "kemisk ekologi"
+        },
+        {
+            "position": "gästprofessor",
+            "position_english": "visiting professor",
+            "institution": "University of Texas",
+            "start_year": 1976,
+            "end_year": null
+        },
+        {
+            "position": "gästprofessor",
+            "position_english": "visiting professor",
+            "institution": "University of California, Berkeley",
+            "start_year": 1994,
+            "end_year": null
+        }
+    ],
+    "achievements": [],
+    "awards": [],
+    "board_memberships": [],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": [],
+    "honors": [
+        "LWS 1985",
+        "LVA 1994"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": [
+        "presid Int Soc Chemical Ecology 1985-1986"
+    ],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "skrifter i etologisk kemi och kemisk ekologi",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "country": {
+                "name": "Japan",
+                "latitude": 36.204824,
+                "longitude": 138.252924,
+                "formatted_address": "Japan"
+            },
+            "country_code": "JPN"
+        }
+    ]
+}

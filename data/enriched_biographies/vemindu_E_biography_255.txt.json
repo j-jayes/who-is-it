@@ -1,0 +1,183 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1913,
+            "end_year": 1915,
+            "organization": "Brättne Pappersbruk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1917,
+            "end_year": 1920,
+            "organization": "Munktells Verkstads Aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1920,
+            "end_year": 1922,
+            "organization": "Griffons Aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen företagare",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": "K G Eriksson & Co",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Eriksson",
+        "middle_name": "Georg",
+        "gender": "Male",
+        "birth_date": "05-12-1894",
+        "birth_place": {
+            "name": "Höganäs",
+            "latitude": 56.2006388,
+            "longitude": 12.5553288,
+            "formatted_address": "Höganäs, Sweden"
+        },
+        "occupation": {
+            "occupation": "Grosshandlare",
+            "occupation_english": null,
+            "hisco_code_swedish": "41020.0",
+            "hisco_description_swedish": "Working Proprietor (Wholesale Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "Eriksson",
+                "middle_name": "G",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Tågmästare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "22230.0",
+                    "hisco_description_swedish": "Railway Service Supervisor"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Enmark",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Pappersgrossistförbundet",
+            "role": "Revisor",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lidingö-Brevik",
+        "latitude": 59.3482218,
+        "longitude": 18.2068607,
+        "formatted_address": "Brevik, Lidingö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Realexamen",
+            "degree_level": "Schooling",
+            "year": "1911",
+            "institution": "Helsingborg"
+        },
+        {
+            "degree": "Examen från Helsingborgs högre handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Helsingborgs högre handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Johansson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Tennis"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1935"
+        }
+    ]
+}

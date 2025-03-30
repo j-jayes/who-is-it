@@ -1,0 +1,153 @@
+{
+    "career": [
+        {
+            "position": "Medarbetare",
+            "start_year": 1939,
+            "end_year": 1939,
+            "organization": "Frankrike",
+            "location": null,
+            "country_code": "FRA"
+        },
+        {
+            "position": "Medarbetare",
+            "start_year": 1946,
+            "end_year": 1946,
+            "organization": "Danmark",
+            "location": null,
+            "country_code": "DNK"
+        },
+        {
+            "position": "Medarbetare",
+            "start_year": 1946,
+            "end_year": 1946,
+            "organization": "Finland",
+            "location": null,
+            "country_code": "FIN"
+        },
+        {
+            "position": "Free lancer medarbetare",
+            "start_year": 1941,
+            "organization": "Tidningar och tidskrifter",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Föreläsare i filosofi",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "Göteborgs högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1944,
+            "end_year": 1947,
+            "organization": "Svensk-ryska föreningen",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Bertil",
+        "last_name": "Nydahl",
+        "middle_name": "Anders Torsten",
+        "gender": "Male",
+        "birth_date": "17-05-1916",
+        "birth_place": {
+            "name": "Örslösa, Skaraborgs Län",
+            "latitude": 58.5055845,
+            "longitude": 13.0025704,
+            "formatted_address": "531 97 Örslösa, Sweden"
+        },
+        "occupation": {
+            "occupation": "Filosofie licentiat",
+            "occupation_english": null,
+            "hisco_code_swedish": "-1.0",
+            "hisco_description_swedish": "Missing, no title"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1936",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1941",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1944",
+            "institution": "Okänd"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1946"
+        }
+    ]
+}

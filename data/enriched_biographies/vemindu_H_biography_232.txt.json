@@ -1,0 +1,148 @@
+{
+    "career": [
+        {
+            "position": "Praktikant",
+            "start_year": 1923,
+            "end_year": 1928,
+            "organization": "mekanisk verkstad och träbearbetningsindustri",
+            "location": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Europarepresentant",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": "I F Laucks, Inc",
+            "location": {
+                "name": "Seattle, Wash",
+                "latitude": 47.6061389,
+                "longitude": -122.3328481,
+                "formatted_address": "Seattle, WA, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "AB Lauxein-Casco",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Hellman",
+        "middle_name": "Petrus",
+        "gender": "Male",
+        "birth_date": "29-10-1898",
+        "birth_place": null,
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "H",
+                "last_name": "Hellman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Näslund",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "AB Lauxein-Casco"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "AB Si-Ko"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Formalin AB"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Saltsjö-Duvnäs",
+        "latitude": 59.3008006,
+        "longitude": 18.1982809,
+        "formatted_address": "131 50 Saltsjö-Duvnäs, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Ingenjör",
+            "degree_level": "Schooling",
+            "year": "1923",
+            "institution": "Tekniska Gymnasiet Örebro (maskinteknik)"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "Golf",
+        "Skidor",
+        "Jakt"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None"
+        },
+        {
+            "country": {
+                "name": "Nordamerika",
+                "latitude": 54.5259614,
+                "longitude": -105.2551187,
+                "formatted_address": "North America"
+            },
+            "country_code": "None"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Harling",
+        "middle_name": "W",
+        "gender": "Male",
+        "birth_date": "07-06-1920",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Isac",
+                "last_name": "Harling",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "postmästare",
+                    "occupation_english": "postmaster",
+                    "hisco_code_swedish": "22220.0",
+                    "hisco_description_swedish": "Postmaster",
+                    "hisco_code_english": "22220.0",
+                    "hisco_description_english": "Postmaster"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Engdahl",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie licentiat",
+            "institution": "Bergianska trädgården",
+            "start_year": 1946
+        },
+        {
+            "position": "filosofie doktor",
+            "institution": "Bergianska trädgården",
+            "start_year": 1951
+        },
+        {
+            "position": "amanuens",
+            "institution": "Bergianska trädgården",
+            "start_year": 1950,
+            "end_year": 1952
+        },
+        {
+            "position": "docent",
+            "institution": "Stockholms universitet",
+            "department": "botanik",
+            "start_year": 1951,
+            "end_year": 1963
+        },
+        {
+            "position": "professor",
+            "institution": "Göteborgs universitet",
+            "department": "systematisk botanik",
+            "start_year": 1964
+        }
+    ],
+    "achievements": [],
+    "awards": [],
+    "board_memberships": [],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Hovas",
+        "latitude": 57.611389,
+        "longitude": 11.939167,
+        "formatted_address": "436 50 Hovås, Sweden"
+    },
+    "education": [],
+    "family": {
+        "spouse": {
+            "first_name": "Ann-Mari",
+            "last_name": "Hummerhielm",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gustaf",
+                    "last_name": "Hummerhielm",
+                    "gender": "Male"
+                },
+                {
+                    "first_name": "Regina",
+                    "last_name": "Fjaestad",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1953"
+    },
+    "hobbies": [],
+    "honorary_titles": [],
+    "honors": [],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Skrifter i morfologisk o systematisk botanik",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Ecuador",
+                "latitude": -1.831239,
+                "longitude": -78.18340599999999,
+                "formatted_address": "Ecuador"
+            },
+            "country_code": "ECU",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Peru",
+                "latitude": -9.189967,
+                "longitude": -75.015152,
+                "formatted_address": "Peru"
+            },
+            "country_code": "PER",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Chile",
+                "latitude": -35.675147,
+                "longitude": -71.542969,
+                "formatted_address": "Chile"
+            },
+            "country_code": "CHL",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Nordafr",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1952"
+        },
+        {
+            "country": {
+                "name": "Ecuador",
+                "latitude": -1.831239,
+                "longitude": -78.18340599999999,
+                "formatted_address": "Ecuador"
+            },
+            "country_code": "ECU",
+            "year": "1958"
+        },
+        {
+            "country": {
+                "name": "Galapagosöarna",
+                "latitude": -0.3831059167914707,
+                "longitude": -90.42333442620028,
+                "formatted_address": "Galápagos Islands, Ecuador"
+            },
+            "country_code": "None",
+            "year": "1958"
+        },
+        {
+            "country": {
+                "name": "Ecuador",
+                "latitude": -1.831239,
+                "longitude": -78.18340599999999,
+                "formatted_address": "Ecuador"
+            },
+            "country_code": "ECU",
+            "year": "1968"
+        },
+        {
+            "country": {
+                "name": "Brasilien",
+                "latitude": -14.235004,
+                "longitude": -51.92528,
+                "formatted_address": "Brazil"
+            },
+            "country_code": "BRA",
+            "year": "1968"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "career": [
+        {
+            "position": "ingenjör",
+            "start_year": 1918,
+            "end_year": 1923,
+            "organization": "fabrik i Sverige, Tyskland och Amerika",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "ingenjör",
+            "start_year": 1923,
+            "end_year": 1931,
+            "organization": "Kalmar ångkvärn",
+            "location": {
+                "name": "Kalmar",
+                "latitude": 56.6634447,
+                "longitude": 16.356779,
+                "formatted_address": "Kalmar, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överingenjör och teknisk chef",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Aktiebolaget Ivvarn-intress.",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Hagberg",
+        "middle_name": "Sven Oscar",
+        "gender": "Male",
+        "birth_date": "21-01-1894",
+        "birth_place": {
+            "name": "Ivävsjö, Jönköpings Län",
+            "latitude": 57.3708434,
+            "longitude": 14.3439173,
+            "formatted_address": "Jonkoping County, Sweden"
+        },
+        "occupation": {
+            "occupation": "överingenjör",
+            "occupation_english": "Senior Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "S.",
+                "last_name": "Hagberg",
+                "middle_name": "E.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kyrkoherde",
+                    "occupation_english": "pastor",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Agnes",
+                "last_name": "Bergh",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Jönköpings"
+        },
+        {
+            "degree": "civilingenjör",
+            "degree_level": "Master's",
+            "year": "1916",
+            "institution": "Tekniska Högskolan"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "---",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

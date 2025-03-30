@@ -1,0 +1,192 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Anshelm",
+        "last_name": "Schultzberg",
+        "middle_name": "Leonard",
+        "gender": "Male",
+        "birth_date": "28-09-1862",
+        "birth_place": {
+            "name": "Falun",
+            "latitude": 60.60646000000001,
+            "longitude": 15.6355,
+            "formatted_address": "Falun, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Fabian",
+                "last_name": "Schultzberg",
+                "middle_name": "Tobias",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fotograf",
+                    "occupation_english": "photographer",
+                    "hisco_code_swedish": "16310.0",
+                    "hisco_description_swedish": "Photographer, General",
+                    "hisco_code_english": "16310.0",
+                    "hisco_description_english": "Photographer, General"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Leverin",
+                "middle_name": "Teresia",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "medalj i Paris Salon 1891",
+        "medalj i Munchen 1905",
+        "LFrKA 1900",
+        "hedersledamot i Vestmanland-Dala nation, Uppsala"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "svenska konstnärsföreningen",
+            "role": "ordförande",
+            "start_year": 1920,
+            "end_year": 1927,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "svensk-ungerska sällskapet",
+            "role": "ordförande",
+            "start_year": 1924,
+            "end_year": 1930,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "tekniska skolan",
+            "degree_level": "Schooling",
+            "year": "1882",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "elev",
+            "degree_level": "Schooling",
+            "year": "1882",
+            "institution": "Perséus"
+        },
+        {
+            "degree": "konstakademin",
+            "degree_level": "Schooling",
+            "year": "1886",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "akademi kungliga medaljen",
+            "degree_level": "Schooling",
+            "year": "1886",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Rådström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1907",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [],
+    "honorary_titles": [],
+    "honors": [],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [],
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

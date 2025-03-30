@@ -1,0 +1,90 @@
+{
+    "career": [
+        {
+            "position": "Diplomingenjör",
+            "start_year": 1945,
+            "organization": "A Ahlström OY",
+            "location": {
+                "name": "Åbo",
+                "latitude": 60.45175039999999,
+                "longitude": 22.2485771,
+                "formatted_address": "Turku, Finland"
+            },
+            "country_code": "FIN"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1945,
+            "end_year": 1959,
+            "organization": "A Ahlström OY",
+            "location": {
+                "name": "Åbo",
+                "latitude": 60.45175039999999,
+                "longitude": 22.2485771,
+                "formatted_address": "Turku, Finland"
+            },
+            "country_code": "FIN"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1959,
+            "end_year": 1963,
+            "organization": "SCA Matfors"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1964,
+            "end_year": 1967,
+            "organization": "SCAs Kramforsgrupp"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1967,
+            "end_year": 1970,
+            "organization": "Aschaffenburger Zellstoffwerke AG"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1970,
+            "end_year": 1971,
+            "organization": "Papierwerke Waldhof-Aschaffenburg"
+        },
+        {
+            "position": "Disponent och platschef",
+            "start_year": 1972,
+            "end_year": 1981,
+            "organization": "SCA Matfors"
+        }
+    ],
+    "person": {
+        "first_name": "Gertrud",
+        "last_name": "Jacobsson",
+        "gender": "Female"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Maj-Lis",
+            "last_name": "Grandell",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Väinö",
+                    "last_name": "Grandell",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Inköpschef",
+                        "hisco_code_swedish": "42230.0",
+                        "hisco_description_swedish": "Purchasing Agent"
+                    }
+                },
+                {
+                    "first_name": "Anna-Lisa",
+                    "last_name": "Lindquist",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1946"
+    }
+}

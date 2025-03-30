@@ -1,0 +1,181 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "B",
+        "last_name": "Möller",
+        "middle_name": "Ingegerd",
+        "gender": "Female",
+        "birth_date": "28-09-1921",
+        "birth_place": {
+            "name": "Vålådalen, Jämtlands Län",
+            "latitude": 63.14835660000001,
+            "longitude": 12.9663721,
+            "formatted_address": "837 75 Vålådalen, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Olof",
+                "last_name": "Möller",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Elly",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Offentliga utsmyckningar",
+            "field": "Konst",
+            "year": null,
+            "significance": "Utsmyckningar i Blackebergs och Huddinge sjukhus, Riksbanken Stockholm, T-banestation Fridhemsplan, Sveriges Geologiska Undersökning Uppsala, Folkets park Kiruna.",
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Grünewalds målarskola",
+            "degree_level": "Schooling",
+            "year": "1946-1947",
+            "institution": "Grünewalds målarskola"
+        },
+        {
+            "degree": "Otto Skölds målarskola",
+            "degree_level": "Schooling",
+            "year": "1947-1948",
+            "institution": "Otto Skölds målarskola"
+        },
+        {
+            "degree": "Konstakademin Köpenhamn",
+            "degree_level": "Schooling",
+            "year": "1949",
+            "institution": "Konstakademin Köpenhamn"
+        },
+        {
+            "degree": "Académie Libre",
+            "degree_level": "Schooling",
+            "year": "1950-1952",
+            "institution": "Académie Libre"
+        },
+        {
+            "degree": "Konststudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Utlandet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Dagboksbilder från Island",
+            "year": "1977",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Nära marken",
+            "year": "1980",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Polen",
+                "latitude": 51.919438,
+                "longitude": 19.145136,
+                "formatted_address": "Poland"
+            },
+            "country_code": "POL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Island",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ISL",
+            "year": null
+        }
+    ]
+}

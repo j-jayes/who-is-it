@@ -1,0 +1,220 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1912,
+            "end_year": 1914,
+            "organization": "Karlshamn",
+            "location": {
+                "name": "Karlshamn",
+                "latitude": 56.170303,
+                "longitude": 14.863073,
+                "formatted_address": "Karlshamn, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1917,
+            "end_year": 1919,
+            "organization": "Linde",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1917,
+            "end_year": 1919,
+            "organization": "Smedjebacken",
+            "location": {
+                "name": "Smedjebacken",
+                "latitude": 60.1431933,
+                "longitude": 15.4159915,
+                "formatted_address": "Smedjebacken, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1917,
+            "end_year": 1919,
+            "organization": "Svärdsjö",
+            "location": {
+                "name": "Svärdsjö",
+                "latitude": 60.74080979999999,
+                "longitude": 15.9049241,
+                "formatted_address": "790 23 Svärdsjö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1919,
+            "end_year": 1928,
+            "organization": "Finspång",
+            "location": {
+                "name": "Finspång",
+                "latitude": 58.7074884,
+                "longitude": 15.773595,
+                "formatted_address": "Finspång, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1928,
+            "end_year": 1936,
+            "organization": "Trosa",
+            "location": {
+                "name": "Trosa",
+                "latitude": 58.902655,
+                "longitude": 17.5494638,
+                "formatted_address": "Trosa, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1935,
+            "end_year": 1940,
+            "organization": "Apoteket Hjorten",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vikarierande tjänstgöring",
+            "start_year": 1940,
+            "organization": "Olika apotek",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sara",
+        "last_name": "Lundborg",
+        "middle_name": "Ottilia Margareta",
+        "gender": "Female",
+        "birth_date": "26-10-1893",
+        "birth_place": {
+            "name": "Västra Torsås, Kronobergs Län",
+            "latitude": 56.6927274,
+            "longitude": 14.5674354,
+            "formatted_address": "342 53 Västra Torsås, Sweden"
+        },
+        "occupation": {
+            "occupation": "Farmacie kandidat, Fru",
+            "occupation_english": null,
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist"
+        },
+        "parents": [
+            {
+                "first_name": "Erfiamd",
+                "last_name": "Fries",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)"
+                }
+            },
+            {
+                "first_name": "Ottilia",
+                "last_name": "Gedda",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Södra Skånska Lottaförbundet",
+            "role": "Ordförande",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "Ledamot",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1912",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "Farmacie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1916",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hans",
+            "last_name": "Lundborg",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Apotekare",
+                "occupation_english": null,
+                "hisco_code_swedish": "6710.0",
+                "hisco_description_swedish": "Pharmacist"
+            },
+            "parents": null
+        },
+        "marriage_year": "1915",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Okänd",
+                "last_name": "Lundborg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": null
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Landstormsförtjänstgmedalj i guld med lagerkrans",
+        "Riksförbundet Sveriges Lottakårers förtjänstgmedalj i guld"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

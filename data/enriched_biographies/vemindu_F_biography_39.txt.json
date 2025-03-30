@@ -1,0 +1,196 @@
+{
+    "career": [
+        {
+            "position": "Riksbokstjänsteman",
+            "start_year": 1910,
+            "end_year": 1919,
+            "organization": "Riksbokstjänsten",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1919,
+            "end_year": 1931,
+            "organization": "AB Hov-juv K Anderson",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "AB Nya bryggeriet",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Ferien",
+        "middle_name": "Hugo Vilhelm",
+        "gender": "Male",
+        "birth_date": "08-01-1891",
+        "birth_place": {
+            "name": "Norra Solberga, Jönköpings Län",
+            "latitude": 57.7215622,
+            "longitude": 14.8429263,
+            "formatted_address": "Norra Solberga Kyrka 1, 571 92 Nässjö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "A Ph",
+                "last_name": "Ferien",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Godsägare",
+                    "occupation_english": "Estate Owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Anna Maria",
+                "last_name": "Törnlund",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "AB Nya bryggeriet i Borås"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Kinna Bryggeri AB"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "AB Borås Nya korkfabrik"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "AB Kvarteret Priamus"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "AB Svenljunga hotel"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Borås och Sjuhäradsbygdens konstförening"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Riksföreningen för Bildande Konst"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Fristad",
+        "latitude": 57.824945,
+        "longitude": 13.007778,
+        "formatted_address": "513 34 Fristad, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1909",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Handelshögskolan",
+            "degree_level": "Bachelor's",
+            "year": "1918-1919",
+            "institution": "Handelshögskolan"
+        },
+        {
+            "degree": "Versuchs- und Lehranstalt für Brauerei",
+            "degree_level": "Bachelor's",
+            "year": "1936-1937",
+            "institution": "Versuchs- und Lehranstalt für Brauerei Berlin"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Marianne",
+            "last_name": "Westermark",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

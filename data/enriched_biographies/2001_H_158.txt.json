@@ -1,0 +1,188 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1964,
+            "end_year": 1965,
+            "organization": "Försäkringsaktiebolaget Skandia-Thule",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1967,
+            "end_year": 1970,
+            "organization": "Utrikespolitiska institutet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ledarskribent",
+            "start_year": 1972,
+            "end_year": 1974,
+            "organization": "Dagens Nyheter",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Korrespondent",
+            "start_year": 1974,
+            "end_year": 1980,
+            "organization": "Dagens Nyheter",
+            "location": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Säkerhetspolitisk skribent",
+            "start_year": 1981,
+            "end_year": 1985,
+            "organization": "Dagens Nyheter",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Korrespondent",
+            "start_year": 1986,
+            "end_year": 1989,
+            "organization": "Dagens Nyheter",
+            "location": {
+                "name": "Sovjetunionen",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Utrikeschef",
+            "start_year": 1989,
+            "end_year": 1993,
+            "organization": "Dagens Nyheter",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Redaktionsledning",
+            "start_year": 1991,
+            "end_year": 1993,
+            "organization": "Dagens Nyheter",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ambassadör och presschef",
+            "start_year": 1993,
+            "end_year": 1996,
+            "organization": "Utrikesdepartementet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Minister",
+            "start_year": 1996,
+            "end_year": null,
+            "organization": "Rom",
+            "location": {
+                "name": "Rom",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ITA"
+        }
+    ],
+    "person": {
+        "first_name": "P",
+        "last_name": "Hamrin",
+        "middle_name": "Harald",
+        "gender": "Male",
+        "birth_date": "05-03-1939",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Agne",
+                "last_name": "Hamrin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Redaktör",
+                    "occupation_english": "Editor",
+                    "hisco_code_swedish": "15920.0",
+                    "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+                    "hisco_code_english": "15120.0",
+                    "hisco_description_english": "Author"
+                }
+            },
+            {
+                "first_name": "Grete",
+                "last_name": "Müllermeister",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Stockholm",
+            "department": null,
+            "start_year": 1976,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Between Bolshevism and Revisionism",
+            "year": "1975",
+            "type": "Doktorsavhandling",
+            "editions": null
+        },
+        {
+            "title": "Flera böcker om Sovjetunionen",
+            "year": "None",
+            "type": "Böcker",
+            "editions": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Moskva",
+                "latitude": 55.755826,
+                "longitude": 37.6173,
+                "formatted_address": "Moscow, Russia"
+            },
+            "country_code": "RUS",
+            "year": "1960-1961"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1965-1966"
+        }
+    ]
+}

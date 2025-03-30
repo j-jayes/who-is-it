@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "biträdande ingenjör",
+            "start_year": 1927,
+            "end_year": 1930,
+            "organization": "Telegrafverket",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "ingenjörsassistent",
+            "start_year": 1930,
+            "end_year": 1936,
+            "organization": "Telegrafstyrelsens linjebyrå",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "tillförordnad byråingenjör",
+            "start_year": 1930,
+            "end_year": 1936,
+            "organization": "Telegrafstyrelsens linjebyrå",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "byråingenjör",
+            "start_year": 1936,
+            "end_year": 1939,
+            "organization": "Telegrafstyrelsens linjebyrå",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "förste byråingenjör",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Rönnblom",
+        "middle_name": "Otto",
+        "gender": "Male",
+        "birth_date": "07-09-1900",
+        "birth_place": {
+            "name": "Burträsk, Västerbottens Län",
+            "latitude": 64.5197907,
+            "longitude": 20.6566774,
+            "formatted_address": "937 31 Burträsk, Sweden"
+        },
+        "occupation": {
+            "occupation": "förste byråingenjör",
+            "occupation_english": "First Office Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Rönnblom",
+                "middle_name": "Otto",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Hulda",
+                "last_name": "Lindberg",
+                "middle_name": "Charlotta",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "RVO"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1922",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1926",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ruth",
+            "last_name": "Forsman",
+            "middle_name": "Nanny Ingeborg",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1927",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Sten",
+                "last_name": "Rönnblom",
+                "middle_name": "Olov",
+                "gender": "Male",
+                "birth_year": "1929"
+            },
+            {
+                "first_name": "Greta",
+                "last_name": "Rönnblom",
+                "middle_name": "Ingeborg",
+                "gender": "Female",
+                "birth_year": "1933"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Handbok om telegrafverket",
+            "year": "1933",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1942"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1942"
+        }
+    ]
+}

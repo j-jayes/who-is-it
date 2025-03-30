@@ -1,0 +1,158 @@
+{
+    "career": [
+        {
+            "position": "pastoradjunkt",
+            "start_year": 1916,
+            "organization": "Jakobs församling",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            }
+        },
+        {
+            "position": "ungdomssekreterare",
+            "start_year": 1918,
+            "organization": "Svenska kyrkans diakonistyrelse"
+        },
+        {
+            "position": "resesekreterare",
+            "start_year": 1920,
+            "organization": "Svenska kyrkans diakonistyrelse"
+        },
+        {
+            "position": "komminister",
+            "start_year": 1924,
+            "organization": "Heliga trefaldighets församling",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            }
+        },
+        {
+            "position": "kyrkoherde",
+            "start_year": 1935
+        },
+        {
+            "position": "extra ordinarie hovpredikant",
+            "start_year": 1934,
+            "end_year": 1943
+        },
+        {
+            "position": "biskop",
+            "start_year": 1938,
+            "organization": "Luleå stift"
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Jonzon",
+        "middle_name": "Ivar Johannes",
+        "gender": "Male",
+        "birth_date": "19-02-1888",
+        "birth_place": {
+            "name": "Bollnäs, Gävleborgs Län",
+            "latitude": 61.34837950000001,
+            "longitude": 16.3942685,
+            "formatted_address": "Bollnäs, Sweden"
+        },
+        "occupation": {
+            "occupation": "biskop",
+            "occupation_english": "bishop",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Gösta",
+                "last_name": "Jonzon",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kontraktsprost",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Nanna",
+                "last_name": "Swanbeck",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "teologie kandidat",
+            "institution": "Uppsala universitet",
+            "start_year": 1912,
+            "field": "teologi"
+        },
+        {
+            "position": "teologie licentiat",
+            "institution": "Uppsala universitet",
+            "start_year": 1920,
+            "field": "teologi"
+        },
+        {
+            "position": "teologie doktor",
+            "institution": "Uppsala universitet",
+            "start_year": 1935,
+            "field": "teologi"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "kyrkomötet",
+            "role": "vald ledamot",
+            "start_year": 1926
+        },
+        {
+            "committee_name": "kyrkomötet",
+            "role": "vald ledamot",
+            "start_year": 1929
+        },
+        {
+            "committee_name": "kyrkomötet",
+            "role": "vald ledamot",
+            "start_year": 1932
+        },
+        {
+            "committee_name": "kyrkomötet",
+            "role": "vald ledamot",
+            "start_year": 1934
+        },
+        {
+            "committee_name": "kyrkomötet",
+            "role": "vald ledamot",
+            "start_year": 1936
+        }
+    ],
+    "publications": [
+        {
+            "title": "Hur blir man en kristen?",
+            "year": "1922",
+            "type": "bok"
+        },
+        {
+            "title": "Kristendomens huvudstycken",
+            "year": "1926",
+            "type": "bok"
+        },
+        {
+            "title": "Paavo Ruotsalainens fromhet",
+            "year": "1935",
+            "type": "akademisk avhandling"
+        },
+        {
+            "title": "Herdabrev",
+            "year": "1938",
+            "type": "bok"
+        }
+    ],
+    "travels": null
+}

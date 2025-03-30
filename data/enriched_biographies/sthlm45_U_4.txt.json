@@ -1,0 +1,201 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1903,
+            "end_year": 1907,
+            "organization": "Serafimerlasarettet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Läkare",
+            "start_year": 1906,
+            "end_year": null,
+            "organization": "Polikliniken för ögonsjukdomar",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Praktiserande ögonläkare",
+            "start_year": 1906,
+            "end_year": null,
+            "organization": "Stockholm",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Konsulterande ögonläkare",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "S:t Eriks sjukhus",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Tandläkarinstitutets kirurgiska avdelning",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gerda",
+        "last_name": "Uddgren",
+        "middle_name": "Sofia",
+        "gender": "Female",
+        "birth_date": null,
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Praktiserande läkare",
+            "occupation_english": "Practicing physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Fredrik",
+                "last_name": "U",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Sofia",
+                "last_name": "Kristina Abrahamson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1896",
+            "institution": "None"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1900",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1904",
+            "institution": "None"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1919",
+            "institution": "None"
+        },
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1923",
+            "institution": "Hudiksvalls högre allmänna läroverk"
+        },
+        {
+            "degree": "Tandläkarexamen",
+            "degree_level": "Bachelor's",
+            "year": "1929",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margareta",
+            "last_name": "Gullberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1941",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

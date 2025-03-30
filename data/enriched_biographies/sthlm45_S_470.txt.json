@@ -1,0 +1,144 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1935,
+            "end_year": 1936,
+            "organization": "Karolinska Institutets farmakologiska avdelning",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Docent",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": "Karolinska Institutet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Docentstipendiat",
+            "start_year": 1936,
+            "end_year": 1942,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Laborator",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Karolinska Sjukhuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Läkare",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Riksidrottsförbundets poliklinik",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Johan S",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "11-03-1907",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Johan S",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bankdirektör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Dagmar",
+                "last_name": "Louise Hansen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1936,
+            "end_year": null,
+            "field": "patologisk fysiologi"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Ett 60-tal uppsatser i fysiologiska och patologisk-fysiologiska ämnen",
+            "year": "None",
+            "type": "uppsats",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1938"
+        }
+    ]
+}

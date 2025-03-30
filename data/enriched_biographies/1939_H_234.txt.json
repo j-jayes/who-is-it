@@ -1,0 +1,188 @@
+{
+    "career": [
+        {
+            "position": "läkare",
+            "start_year": 1925,
+            "end_year": 1926,
+            "organization": "professor Gösta Forssells röntgeninstitut",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "läkare",
+            "start_year": 1928,
+            "end_year": 1933,
+            "organization": "Sophiahemmets röntgeninstitut",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lasarettunderläkare",
+            "start_year": 1933,
+            "end_year": null,
+            "organization": "lasarettet i Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "biträdande överläkare",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "lasarettet i Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Hellmer",
+        "middle_name": "Valentin",
+        "gender": "Male",
+        "birth_date": "17-07-1898",
+        "birth_place": {
+            "name": "Hälsingborg",
+            "latitude": 64.1386294,
+            "longitude": 19.5225599,
+            "formatted_address": "922 93 Hälsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "medicine doktor, docent",
+            "occupation_english": "Medical Doctor, Docent",
+            "hisco_code_swedish": "6100.0",
+            "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Sven",
+                "last_name": "Helmer",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "löjtnant",
+                    "occupation_english": "Lieutenant",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Gerda",
+                "last_name": "Tydeli",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "universitet i Lund",
+            "department": null,
+            "start_year": 1935,
+            "end_year": null,
+            "field": "röntgendiagnostik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Master's",
+            "year": "1919",
+            "institution": "Lund"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1928",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Torborg",
+            "last_name": "Westberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "null",
+            "birth_place": {
+                "name": "null",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Hugo",
+                    "last_name": "Westberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "jägmästare",
+                        "occupation_english": "Master Forester",
+                        "hisco_code_swedish": "21230.0",
+                        "hisco_description_swedish": "Farm Manager",
+                        "hisco_code_english": "63110.0",
+                        "hisco_description_english": "Logger (General)"
+                    }
+                },
+                {
+                    "first_name": "Hilma",
+                    "last_name": "Sundström",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1924",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "ett antal skrifter i medicinsk röntgendiagnostik (spec. rörande matsmältningskanal och bensystem)",
+            "year": "None",
+            "type": "skrifter",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

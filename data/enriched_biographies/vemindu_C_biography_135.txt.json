@@ -1,0 +1,198 @@
+{
+    "career": [
+        {
+            "position": "Kontorist",
+            "start_year": 1925,
+            "end_year": 1926,
+            "organization": "Skånska Lantmännens Centralförening",
+            "location": {
+                "name": "Helsingborg",
+                "latitude": 56.0464674,
+                "longitude": 12.6945121,
+                "formatted_address": "Helsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Försäljare och resande",
+            "start_year": 1927,
+            "end_year": null,
+            "organization": "Firma Fredrik Lindahl",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Representant",
+            "start_year": 1928,
+            "end_year": null,
+            "organization": "Berg & Co Mekaniska Verkstad",
+            "location": {
+                "name": "Ullersäter",
+                "latitude": 59.454393,
+                "longitude": 15.4509508,
+                "formatted_address": "718 92 Ullersäter, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Representant",
+            "start_year": 1929,
+            "end_year": 1931,
+            "organization": "AB Lindholmen-Motala",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Grundare",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Egen firma i kontorsmateriel och papper engros, firma L Clifford",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör och styrelseordförande",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "L Clifford & Co AB",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Lennart",
+        "last_name": "Clifford",
+        "middle_name": "Stig Janne Artur",
+        "gender": "Male",
+        "birth_date": "13-04-1907",
+        "birth_place": {
+            "name": "Helsingborg",
+            "latitude": 56.0464674,
+            "longitude": 12.6945121,
+            "formatted_address": "Helsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Clifford",
+                "middle_name": "C",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapten",
+                    "occupation_english": "Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Kontorsvarufirmors Köpmannaförening"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hindås",
+        "latitude": 57.7036372,
+        "longitude": 12.4460308,
+        "formatted_address": "438 53 Hindås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Handelsgymnasium",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Helsingborgs Hall"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Westerberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Smalfilmning"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1930"
+        }
+    ]
+}

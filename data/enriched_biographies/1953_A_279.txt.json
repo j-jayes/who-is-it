@@ -1,0 +1,179 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Arbman",
+        "middle_name": "Holger",
+        "gender": "Male",
+        "birth_date": "08-09-1904",
+        "birth_place": {
+            "name": "Bettna, Södermanlands Län",
+            "latitude": 58.90764369999999,
+            "longitude": 16.6355222,
+            "formatted_address": "642 62 Bettna, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Emanuel",
+                "last_name": "Arbman",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "apotekare",
+                    "occupation_english": "pharmacist",
+                    "hisco_code_swedish": "6710.0",
+                    "hisco_description_swedish": "Pharmacist",
+                    "hisco_code_english": "41030.0",
+                    "hisco_description_english": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Ester",
+                "last_name": "Bergwall",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1931
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1937
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala Universitet",
+            "start_year": 1937
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Stockholms Högskola",
+            "start_year": 1941
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Lunds Universitet",
+            "department": "förhistorisk och medeltida arkeologi",
+            "start_year": 1945
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1931",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1931",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1937",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Dagny",
+            "last_name": "Ljungh",
+            "gender": "Female",
+            "birth_date": "1908",
+            "parents": [
+                {
+                    "first_name": "Hjalmar",
+                    "last_name": "Ljungh",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "ingenjör",
+                        "occupation_english": "engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Tullia",
+                    "last_name": "Centerwall",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1932",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Schweden und das karolingische Reich",
+            "year": "1937",
+            "type": "book"
+        },
+        {
+            "title": "Birka, Sveriges äldsta handelsstad",
+            "year": "1939",
+            "type": "book"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Grekland",
+                "latitude": 39.074208,
+                "longitude": 21.824312,
+                "formatted_address": "Greece"
+            },
+            "country_code": "GRC"
+        },
+        {
+            "country": {
+                "name": "Normandie",
+                "latitude": 48.87987039999999,
+                "longitude": 0.1712529,
+                "formatted_address": "Normandy, France"
+            },
+            "country_code": "FRA",
+            "year": "1951"
+        }
+    ]
+}

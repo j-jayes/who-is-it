@@ -1,0 +1,168 @@
+{
+    "career": [
+        {
+            "position": "Anställd hos lantbrukarförbundets byggnadsförening",
+            "start_year": 1942,
+            "end_year": 1944,
+            "organization": "Lantbrukarförbundets Byggnadsförening",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Länsarkitektkontoret",
+            "start_year": 1944,
+            "end_year": 1945,
+            "organization": "Länsarkitektkontoret i Älvsborgs Län",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Stadsarkitekt",
+            "start_year": 1945,
+            "organization": "Trollhättan",
+            "location": {
+                "name": "Trollhättan",
+                "latitude": 58.28348939999999,
+                "longitude": 12.2858206,
+                "formatted_address": "Trollhättan, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Struve",
+        "middle_name": "Thorvald",
+        "gender": "Male",
+        "birth_date": "20-06-1918",
+        "birth_place": {
+            "name": "Karlskoga",
+            "latitude": 59.32863399999999,
+            "longitude": 14.536414,
+            "formatted_address": "Karlskoga, Sweden"
+        },
+        "occupation": {
+            "occupation": "Stadsarkitekt",
+            "occupation_english": "City Architect",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Giuseppe",
+                "last_name": "Struve",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Eleonora",
+                "last_name": "Gillberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "Medlem",
+            "organization": "Rotaryklubben"
+        }
+    ],
+    "current_location": {
+        "name": "Trollhättan",
+        "latitude": 58.28348939999999,
+        "longitude": 12.2858206,
+        "formatted_address": "Trollhättan, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1936",
+            "institution": "Chalmers Tekniska Institut"
+        },
+        {
+            "degree": "Chalmers Tekniska Högskola (arkitekt)",
+            "degree_level": "Master's",
+            "year": "1941",
+            "institution": "Chalmers Tekniska Högskola"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1939"
+        }
+    ]
+}

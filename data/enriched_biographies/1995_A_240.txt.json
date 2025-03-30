@@ -1,0 +1,143 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1960,
+            "end_year": 1964,
+            "organization": "Musikhögskolan Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Hovsångerska",
+            "start_year": 1985,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Laila",
+        "last_name": "Andersson",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "30-03-1941",
+        "birth_place": {
+            "name": "Lösen, Blekinge Län",
+            "latitude": 56.2,
+            "longitude": 15.683333,
+            "formatted_address": "371 94 Lösen, Sweden"
+        },
+        "occupation": {
+            "occupation": "Hovsångerska",
+            "occupation_english": "Court Singer",
+            "hisco_code_swedish": "17145.0",
+            "hisco_description_swedish": "Singer"
+        },
+        "parents": [
+            {
+                "first_name": "Einar",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Margit",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Ulf",
+            "last_name": "Palme",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Regissör, Skådespelare",
+                "occupation_english": "Director, Actor"
+            },
+            "parents": null
+        },
+        "marriage_year": "1984"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Israel",
+                "latitude": 31.046051,
+                "longitude": 34.851612,
+                "formatted_address": "Israel"
+            },
+            "country_code": "ISR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

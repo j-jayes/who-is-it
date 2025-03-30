@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1890,
+            "end_year": 1898,
+            "organization": "Firma Aug. Magnusson",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1898,
+            "end_year": 1920,
+            "organization": "Firma Aug. Magnusson",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1920,
+            "organization": "Aktiebolaget Aug. Magnusson",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Magnusson",
+        "middle_name": "August",
+        "gender": "Male",
+        "birth_date": "17-02-1870",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Aug.",
+                "last_name": "Magnusson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Manufakturhandlare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Clary",
+                "last_name": "Wilson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Examen",
+            "degree_level": "Schooling",
+            "year": "1885",
+            "institution": "6:e 2"
+        },
+        {
+            "degree": "Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1886",
+            "institution": "Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gerda",
+            "last_name": "Hasselgren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "L. C.",
+                    "last_name": "Hasselgren",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Protokollssekreterare",
+                        "occupation_english": "Protocol Secretary",
+                        "hisco_code_swedish": "31090.0",
+                        "hisco_description_swedish": "Government Executive Officials Not Elsewhere Classified",
+                        "hisco_code_english": "31090.0",
+                        "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                    }
+                },
+                {
+                    "first_name": "Lydia",
+                    "last_name": "Kempff",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1902",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1886"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1886"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1886"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1890"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1890"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1890"
+        }
+    ]
+}

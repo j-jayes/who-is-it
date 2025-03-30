@@ -1,0 +1,170 @@
+{
+    "career": [
+        {
+            "position": "Auktoriserad Revisor",
+            "start_year": 1933,
+            "organization": "Stockholms Handelskammare",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konsult",
+            "start_year": 1933,
+            "organization": "Industriförbundets Revisionsbyrå",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ledamot",
+            "start_year": 1941,
+            "organization": "Lidingö stads revisionskommune",
+            "location": {
+                "name": "Lidingö",
+                "latitude": 59.36295999999999,
+                "longitude": 18.1468,
+                "formatted_address": "Lidingö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Björn",
+        "last_name": "Raaschou",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "17-06-1906",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Auktoriserad Revisor",
+            "occupation_english": "Authorized Auditor",
+            "hisco_code_swedish": "11020.0",
+            "hisco_description_swedish": "Auditor",
+            "hisco_code_english": "11010.0",
+            "hisco_description_english": "Accountant, General"
+        },
+        "parents": [
+            {
+                "first_name": "Theodor",
+                "last_name": "Raaschou",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bankdirektör",
+                    "occupation_english": "Bank Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "44140.0",
+                    "hisco_description_english": "Stock Broker"
+                }
+            },
+            {
+                "first_name": "Elsa",
+                "last_name": "Raaschou",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1924",
+            "institution": "Lidingö"
+        },
+        {
+            "degree": "Examen",
+            "degree_level": "Bachelor's",
+            "year": "1928",
+            "institution": "Handelshögskolan i Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ruth",
+            "last_name": "Skoglund",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1930",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Sydafrika",
+                "latitude": -30.559482,
+                "longitude": 22.937506,
+                "formatted_address": "South Africa"
+            },
+            "country_code": "ZAF",
+            "year": null
+        }
+    ]
+}

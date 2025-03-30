@@ -1,0 +1,127 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1921,
+            "end_year": 1923,
+            "organization": "Öronavdelningen, Serafimerlasarettet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie",
+            "start_year": 1922,
+            "end_year": 1925,
+            "organization": "Öronavdelningen, Sabbatsbergs sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Läkare",
+            "start_year": 1925,
+            "end_year": 1930,
+            "organization": "Kronprinsessan Lovisas vårdanstalt",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Ygberg",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "26-07-1894",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Praktiserande läkare",
+            "occupation_english": "Practicing physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "H",
+                "last_name": "Ygberg",
+                "middle_name": "O A",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Förste stadsingenjör",
+                    "occupation_english": "First city engineer",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Eugenie",
+                "last_name": "Ahlgren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "committee_memberships": [
+        {
+            "committee_name": "Trafiksäkerhetskommittén",
+            "role": "Ledamot",
+            "start_year": 1945,
+            "end_year": 1948,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Medlem",
+            "organization": "Kungliga Automobil Klubben"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Skrifter i medicin, trafiksäkerhets- och högertrafikfrågor samt rådjursvård",
+            "year": "None",
+            "type": "Övrigt",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

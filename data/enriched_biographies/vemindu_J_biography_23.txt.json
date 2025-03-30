@@ -1,0 +1,188 @@
+{
+    "career": [
+        {
+            "position": "Innehavare",
+            "start_year": 1906,
+            "end_year": 1917,
+            "organization": "Malmö Mjölk Steriliserings AB",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1917,
+            "organization": "Malmö Mjölk Steriliserings AB",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ägare",
+            "start_year": 1901,
+            "end_year": null,
+            "organization": "Visby Elektriska Byrå",
+            "location": {
+                "name": "Visby",
+                "latitude": 57.6348,
+                "longitude": 18.29484,
+                "formatted_address": "Visby, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Olof",
+        "last_name": "Jacobsson",
+        "middle_name": "Hilding",
+        "gender": "Male",
+        "birth_date": "04-05-1901",
+        "birth_place": {
+            "name": "Visby",
+            "latitude": 57.6348,
+            "longitude": 18.29484,
+            "formatted_address": "Visby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Köpman",
+            "occupation_english": "Merchant",
+            "hisco_code_swedish": "41025.0",
+            "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+            "hisco_code_english": "41025.0",
+            "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "O",
+                "last_name": "Jacobsson",
+                "middle_name": "E",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Johansson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "AB Medeen & Wetterlund"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Visby",
+        "latitude": 57.6348,
+        "longitude": 18.29484,
+        "formatted_address": "Visby, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Visby hal",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Visby Högre Allmänna Läroverk"
+        },
+        {
+            "degree": "Handelskola",
+            "degree_level": "Schooling",
+            "year": "1899",
+            "institution": "Handelskola"
+        },
+        {
+            "degree": "Mejeriskola",
+            "degree_level": "Schooling",
+            "year": "1904-1905",
+            "institution": "Alnarps Mejeriskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Hallin",
+            "gender": "Female",
+            "occupation": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Idrott"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Riksidrottsförbundets förtjänsttecken",
+        "Odd Fellow"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Polen",
+                "latitude": 51.919438,
+                "longitude": 19.145136,
+                "formatted_address": "Poland"
+            },
+            "country_code": "POL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        }
+    ]
+}

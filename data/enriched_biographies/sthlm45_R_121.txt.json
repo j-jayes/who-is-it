@@ -1,0 +1,183 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1916,
+            "end_year": 1921,
+            "organization": "Sigrid Rudebecks lärarinneseminarium",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "tandläkare",
+            "start_year": 1927,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "assistent",
+            "start_year": 1927,
+            "end_year": 1931,
+            "organization": "Tandläkarinstitutet kirurgiska avdelning",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "assistent",
+            "start_year": 1931,
+            "end_year": 1933,
+            "organization": "Tandläkarinstitutet protésavdelning",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Helga",
+        "last_name": "Richnau",
+        "middle_name": "Irene Maria",
+        "gender": "Female",
+        "birth_date": null,
+        "birth_place": {
+            "name": "Laxå, Örebro Län",
+            "latitude": 58.9819967,
+            "longitude": 14.6238408,
+            "formatted_address": "Laxå, Sweden"
+        },
+        "occupation": {
+            "occupation": "tandläkare",
+            "occupation_english": "dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Fröberg",
+                "middle_name": "Johan",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "gårdsägare",
+                    "occupation_english": "farm owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Emilia",
+                "last_name": "Lindquist",
+                "middle_name": "Maria",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1912",
+            "institution": "Karlstad"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Schooling",
+            "year": "1916",
+            "institution": "Sigrid Rudebecks lärarinneseminarium"
+        },
+        {
+            "degree": "Tandläkarexamen",
+            "degree_level": "Doctorate",
+            "year": "1927",
+            "institution": "Tandläkarinstitutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunnar",
+            "last_name": "Richnau",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "praktiserande läkare",
+                "occupation_english": "practicing doctor",
+                "hisco_code_swedish": "6105.0",
+                "hisco_description_swedish": "General Physician"
+            },
+            "parents": null
+        },
+        "marriage_year": "1932",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "En studie i tandporslinets historia",
+            "year": "1935",
+            "type": "article",
+            "editions": null,
+            "publisher": "Svensk tandläkartidskrift",
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1933"
+        }
+    ]
+}

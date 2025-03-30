@@ -1,0 +1,125 @@
+{
+    "career": [
+        {
+            "position": "sakkunnig",
+            "start_year": 1979,
+            "organization": "SB"
+        },
+        {
+            "position": "ledarskribent",
+            "start_year": 1980,
+            "organization": "UNT"
+        },
+        {
+            "position": "borgarrådssekreterare",
+            "start_year": 1980,
+            "end_year": 1986,
+            "organization": "Stockholms stadskansli",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "informationschef",
+            "start_year": 1986,
+            "end_year": 1991,
+            "organization": "SBC"
+        },
+        {
+            "position": "landstingsråd",
+            "start_year": 1991,
+            "organization": "Stockholms läns landsting",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Andres",
+        "last_name": "Käärik",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "27-01-1954",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "landstingsråd",
+            "occupation_english": "county councilor",
+            "hisco_code_swedish": "20110.0",
+            "hisco_description_swedish": "Legislative Official"
+        },
+        "parents": [
+            {
+                "first_name": "Kaljo",
+                "last_name": "Käärik",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "teknologie licentiat",
+                    "occupation_english": "Licentiate of Technology",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Aino",
+                "last_name": "Mathiesen",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "professor",
+                    "occupation_english": "professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            }
+        ]
+    },
+    "political_positions": [
+        {
+            "organization": "Landstingsled",
+            "position": "ledamot",
+            "start_year": 1985
+        },
+        {
+            "organization": "folkpartiet liberalerna Stockholm",
+            "position": "ordförande",
+            "start_year": 1991
+        }
+    ],
+    "publications": [
+        {
+            "title": "Husbondens röst",
+            "year": "1981",
+            "type": "book"
+        },
+        {
+            "title": "Höger om",
+            "year": "1982",
+            "type": "book"
+        },
+        {
+            "title": "För frihet och rättvisa",
+            "year": "1982",
+            "type": "book"
+        },
+        {
+            "title": "Alla tiders FPU",
+            "year": "1984",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

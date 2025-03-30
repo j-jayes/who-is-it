@@ -1,0 +1,127 @@
+{
+    "career": [
+        {
+            "position": "Assistent",
+            "start_year": 1925,
+            "end_year": 1926,
+            "location": {
+                "name": "Eslöv",
+                "latitude": 55.8391198,
+                "longitude": 13.3033914,
+                "formatted_address": "Eslöv, Sweden"
+            }
+        },
+        {
+            "position": "Praktik",
+            "start_year": 1926,
+            "organization": "Eslöv",
+            "location": {
+                "name": "Eslöv",
+                "latitude": 55.8391198,
+                "longitude": 13.3033914,
+                "formatted_address": "Eslöv, Sweden"
+            }
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Ström",
+        "middle_name": "Valter",
+        "gender": "Male",
+        "birth_date": "30-11-1900",
+        "birth_place": {
+            "name": "Eslöv",
+            "latitude": 55.8391198,
+            "longitude": 13.3033914,
+            "formatted_address": "Eslöv, Sweden"
+        },
+        "occupation": {
+            "occupation": "tandläkare",
+            "occupation_english": "dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Tom",
+                "last_name": "Ström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bankdirektör",
+                    "occupation_english": "bank director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "44140.0",
+                    "hisco_description_english": "Stock Broker"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Miillern",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Eslöv",
+        "latitude": 55.8391198,
+        "longitude": 13.3033914,
+        "formatted_address": "Eslöv, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1919",
+            "institution": "Eslöv"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1923",
+            "institution": "Lund"
+        },
+        {
+            "degree": "tandläkarexamen",
+            "degree_level": "Master's",
+            "year": "1925",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Thyra",
+            "last_name": "Engström",
+            "gender": "Female",
+            "occupation": null
+        },
+        "marriage_year": "1926",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Tom",
+                "last_name": "Ström",
+                "gender": "Male",
+                "birth_year": "1943"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

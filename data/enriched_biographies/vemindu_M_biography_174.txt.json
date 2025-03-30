@@ -1,0 +1,159 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1915,
+            "end_year": 1919,
+            "organization": "Aktiebolaget A F Holm",
+            "location": {
+                "name": "Kavlas",
+                "latitude": 22.8235692,
+                "longitude": 72.2423008,
+                "formatted_address": "Kavla, Gujarat, India"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1919,
+            "end_year": 1921,
+            "organization": "Firma Otto Dahlén",
+            "location": {
+                "name": "Broddetorp",
+                "latitude": 58.3053065,
+                "longitude": 13.6079892,
+                "formatted_address": "521 98 Broddetorp, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kassör",
+            "start_year": 1921,
+            "end_year": 1922,
+            "organization": "Ångbryggeri Aktiebolag Svea",
+            "location": {
+                "name": "Filipstad",
+                "latitude": 59.7139973,
+                "longitude": 14.1698445,
+                "formatted_address": "Filipstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Bokförare",
+            "start_year": 1922,
+            "end_year": 1923,
+            "organization": "Westergötl Yllefabriks Aktiebolag",
+            "location": {
+                "name": "Tidan",
+                "latitude": 58.5739538,
+                "longitude": 14.0045851,
+                "formatted_address": "549 31 Tidan, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kontorschef",
+            "start_year": 1924,
+            "end_year": null,
+            "organization": "Smålands Yllefabrik Aktiebolag",
+            "location": {
+                "name": "Lagan",
+                "latitude": 25.8749786,
+                "longitude": 87.4925837,
+                "formatted_address": "Lagan, Bihar 854330, India"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Möllgård",
+        "middle_name": "Valfrid",
+        "gender": "Male",
+        "birth_date": "28-03-1897",
+        "birth_place": {
+            "name": "Tidan, Skaraborgs Län",
+            "latitude": 58.5739538,
+            "longitude": 14.0045851,
+            "formatted_address": "549 31 Tidan, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kontorschef",
+            "occupation_english": "Office Manager",
+            "hisco_code_swedish": "22110.0",
+            "hisco_description_swedish": "Clerical Supervisor, General",
+            "hisco_code_english": "22000.0",
+            "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Magnus",
+                "last_name": "Magnusson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpro",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "99999.0",
+                    "hisco_description_swedish": "Unspecified worktitle or several titles"
+                }
+            },
+            {
+                "first_name": "Abida",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lagan",
+        "latitude": 25.8749786,
+        "longitude": 87.4925837,
+        "formatted_address": "Lagan, Bihar 854330, India"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Kjällberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1941"
+        }
+    ]
+}

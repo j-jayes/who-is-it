@@ -1,0 +1,222 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Rennerfelt",
+        "middle_name": "Gustav",
+        "gender": "Male",
+        "birth_date": "14-10-1906",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ivar",
+                "last_name": "Rennerfelt",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "överingenjör",
+                    "occupation_english": "chief engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Forsbäck",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Göteborgs högskola",
+            "department": null,
+            "start_year": 1937,
+            "end_year": 1941,
+            "field": "botanik"
+        },
+        {
+            "position": "laborator",
+            "position_english": "laboratory technician",
+            "institution": "Göteborgs högskola",
+            "department": null,
+            "start_year": 1937,
+            "end_year": 1941,
+            "field": "botanik"
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Stockholms högskola",
+            "department": null,
+            "start_year": 1942,
+            "end_year": null,
+            "field": "botanik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stocksund",
+        "latitude": 59.3841662,
+        "longitude": 18.0478685,
+        "formatted_address": "Stocksund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1925",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1929",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1933",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1937",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga-Brita",
+            "last_name": "Rell",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Josef",
+                    "last_name": "Rell",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "konsthandlare",
+                        "occupation_english": "art dealer",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Anny",
+                    "last_name": "Almquist",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1934",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Undersökning över kräftpest",
+            "year": "1936",
+            "type": "other",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Svampinfektionen i våt slipmassa",
+            "year": "1937",
+            "type": "other",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Kemikaliebehandling av slipmassa",
+            "year": "1941",
+            "type": "other",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Tallkärnvedens motståndskraft mot rotsvampar",
+            "year": "1943",
+            "type": "other",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1907,
+            "end_year": 1913,
+            "organization": "A Forssbergs Herrekip",
+            "location": {
+                "name": "Mora",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Resande",
+            "start_year": 1914,
+            "end_year": 1918,
+            "organization": "AB Bröd Ohlsén",
+            "location": {
+                "name": "Orsa",
+                "latitude": 61.11581570000001,
+                "longitude": 14.6303809,
+                "formatted_address": "Orsa, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ägare",
+            "start_year": 1919,
+            "organization": "Manufaktur-, damkapp- och herrekiperingsaffär Aug Larsson",
+            "location": {
+                "name": "Orsa",
+                "latitude": 61.11581570000001,
+                "longitude": 14.6303809,
+                "formatted_address": "Orsa, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "August",
+        "last_name": "Larsson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "07-01-1891",
+        "birth_place": {
+            "name": "Orsa",
+            "latitude": 61.11581570000001,
+            "longitude": 14.6303809,
+            "formatted_address": "Orsa, Sweden"
+        },
+        "occupation": {
+            "occupation": "Klädeshandlare",
+            "occupation_english": "Cloth merchant",
+            "hisco_code_swedish": "41030.0",
+            "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+            "hisco_code_english": "41025.0",
+            "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Lars",
+                "last_name": "Jonsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byggnadssnickare Sjöns",
+                    "occupation_english": "Construction carpenter",
+                    "hisco_code_swedish": "95410.0",
+                    "hisco_description_swedish": "Carpenter, General",
+                    "hisco_code_english": "95410.0",
+                    "hisco_description_english": "Carpenter, General"
+                }
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Persson",
+                "middle_name": "Bränd",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Orsa",
+        "latitude": 61.11581570000001,
+        "longitude": 14.6303809,
+        "formatted_address": "Orsa, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Folkskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingeborg",
+            "last_name": "Lilliestierna",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "None",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Strömfiske",
+        "Jakt"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1920"
+        }
+    ]
+}

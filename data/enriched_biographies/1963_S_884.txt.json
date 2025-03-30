@@ -1,0 +1,112 @@
+{
+    "career": [
+        {
+            "position": "adjunkt",
+            "start_year": 1930,
+            "organization": "Högre allmänna läroverket i Jönköping",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lektor",
+            "start_year": 1934,
+            "end_year": 1948,
+            "organization": "Högre allmänna läroverket för flickor i Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lektor",
+            "start_year": 1948,
+            "end_year": 1957,
+            "organization": "Högre allmänna läroverket i Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1935,
+            "end_year": 1957,
+            "organization": "Högre allmänna läroverket för gossar i Hälsingborg",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Swenne",
+        "middle_name": "Hakon",
+        "gender": "Male",
+        "birth_date": "30-05-1892",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "filosofie doktor, före detta rektor",
+            "occupation_english": "Doctor of Philosophy, Former Principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Swenson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "handlare",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Louise",
+                "last_name": "Johansson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "institution": "None",
+            "start_year": 1934
+        }
+    ],
+    "publications": [
+        {
+            "title": "Svenska adelns ekonomiska privilegier 1612-1651",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": null
+}

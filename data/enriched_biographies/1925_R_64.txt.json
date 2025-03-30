@@ -1,0 +1,265 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "None",
+        "last_name": "None",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": null,
+        "birth_place": null,
+        "occupation": null,
+        "parents": null
+    },
+    "academic_positions": [
+        {
+            "position": "etnograf",
+            "position_english": "Ethnographer",
+            "institution": "Riksmuseum",
+            "department": "avdelningen",
+            "start_year": 1905,
+            "end_year": 1906,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "i religionshistoria",
+            "department": null,
+            "start_year": 0,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "tillförordnad professor",
+            "position_english": "Acting Professor",
+            "institution": "i teologisk encyklopedi och prenotioner",
+            "department": null,
+            "start_year": 1912,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "i teologisk encyklopedi och prenotioner",
+            "department": null,
+            "start_year": 1916,
+            "end_year": null,
+            "field": "teologi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "vice ordförande",
+            "organization": "Fjellstedtska skolan"
+        },
+        {
+            "position": "ordförande",
+            "organization": "Lindellska fonden"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "större konsistorium",
+            "role": "ledamot",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "mindre konsistorium",
+            "role": "ledamot",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [],
+    "current_location": null,
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "teologie doktor",
+            "degree_level": "Doctorate",
+            "year": "1917",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Annie",
+            "last_name": "Ekeroth",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "G.",
+                    "last_name": "Ekeroth",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "ingenjör",
+                        "occupation_english": "engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Wahlstedt",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1908",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [],
+    "honors": [],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Om uppkomsten av sakrament, måltid.",
+            "year": "1908",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Källskrifter till lapparnas mytologi",
+            "year": "1910",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "De nordiska lapparnas religion",
+            "year": "1912",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Zarathustras religionshistoriska ställning",
+            "year": "1914",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Säby ödeskyrka",
+            "year": "1920",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Den folkliga vidskepelsen och den svenska katekesen",
+            "year": "1921",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Kristendom och religionerna",
+            "year": "1924",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1910"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1910"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1910"
+        }
+    ]
+}

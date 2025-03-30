@@ -1,0 +1,57 @@
+{
+    "career": [
+        {
+            "position": "Scenograf",
+            "start_year": 1973,
+            "organization": "Dramaten",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Norén",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": null,
+        "birth_place": null,
+        "occupation": {
+            "occupation": "Scenograf",
+            "occupation_english": "Set Designer"
+        }
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Polen",
+                "latitude": 51.919438,
+                "longitude": 19.145136,
+                "formatted_address": "Poland"
+            },
+            "country_code": "POL"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        }
+    ]
+}

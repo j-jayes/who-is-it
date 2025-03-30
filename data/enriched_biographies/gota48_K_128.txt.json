@@ -1,0 +1,244 @@
+{
+    "career": [
+        {
+            "position": "Extra ordinarie notarie",
+            "start_year": 1927,
+            "organization": "Svea hovrätt",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie notarie",
+            "start_year": 1927,
+            "end_year": 1929,
+            "organization": "Stockholms rådhusrätt",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie tjänsteman",
+            "start_year": 1928,
+            "organization": "Överståthållarämbetet för polisärenden",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Amanuens",
+            "start_year": 1932,
+            "organization": "Överståthållarämbetet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Notarie",
+            "start_year": 1932,
+            "organization": "Överståthållarämbetet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Stadsfiskal",
+            "start_year": 1932,
+            "organization": "Överståthållarämbetet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Polisassistent",
+            "start_year": 1932,
+            "organization": "Överståthållarämbetet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Polisdomare",
+            "start_year": 1932,
+            "organization": "Överståthållarämbetet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Polissekreterare",
+            "start_year": 1932,
+            "organization": "Överståthållarämbetet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Vice krigsfiskal",
+            "start_year": 1933,
+            "organization": "Särskilda krigsrätten i Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vice krigsfiskal",
+            "start_year": 1933,
+            "organization": "Kustflottan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Polismästare",
+            "start_year": 1934,
+            "organization": "Norrköping",
+            "location": {
+                "name": "Norrköping",
+                "latitude": 58.587745,
+                "longitude": 16.192421,
+                "formatted_address": "Norrköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Luftskyddschef",
+            "start_year": 1934,
+            "organization": "Norrköping",
+            "location": {
+                "name": "Norrköping",
+                "latitude": 58.587745,
+                "longitude": 16.192421,
+                "formatted_address": "Norrköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tjänstgöring",
+            "start_year": 1934,
+            "end_year": 1935,
+            "organization": "Omröstningskommissionen i Saar",
+            "location": {
+                "name": "Saar",
+                "latitude": 49.3964234,
+                "longitude": 7.0229607,
+                "formatted_address": "Saarland, 66, Germany"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Kleberg",
+        "middle_name": "Gillis",
+        "gender": "Male",
+        "birth_date": "25-12-1899",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Polismästare",
+            "occupation_english": "Chief of Police",
+            "hisco_code_swedish": "58220.0",
+            "hisco_description_swedish": "Policeman and other Maintainers of Law and Order (except Military)"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Kleberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Häradsskrivare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "31030.0",
+                    "hisco_description_swedish": "Tax Assessor"
+                }
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Anderson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1918",
+            "institution": "Göteborgs högre latinläroverk"
+        },
+        {
+            "degree": "Juridik kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1927",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Reuter",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "John",
+                "last_name": "Kleberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1930"
+            },
+            {
+                "first_name": "Märta",
+                "last_name": "Kleberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1932"
+            },
+            {
+                "first_name": "Klas",
+                "last_name": "Kleberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1936"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Kleberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1941"
+            }
+        ]
+    },
+    "honors": [
+        "Riddare av Vasaorden (RVO)",
+        "Riddare av Finska Vita Rosorden av 1 klass (RFinlVROlkl)",
+        "Finlands Frihetskorsets 3:e klass med k (FFrK3k;l)",
+        "Finska skyddskårens förtjänsttecken (FPftjk)",
+        "Finska Sportförtjänsttecken (FSftjk)",
+        "3 guldmedaljer av 2 storleken med mera (3 GM 2 SM m. m.)"
+    ],
+    "leadership_roles": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

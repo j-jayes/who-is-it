@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "Ritare",
+            "start_year": 1900,
+            "end_year": 1904,
+            "organization": "ASEA",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1907,
+            "end_year": 1909,
+            "organization": "ASEA",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1909,
+            "end_year": 1911,
+            "organization": "AEG",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Ritare",
+            "start_year": 1911,
+            "end_year": null,
+            "organization": "Järnvägsstyrelsen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Frans",
+        "last_name": "Sandvall",
+        "middle_name": "Gotthard",
+        "gender": "Male",
+        "birth_date": "26-12-1885",
+        "birth_place": {
+            "name": "Surahammar, Västmanlands Län",
+            "latitude": 59.70722619999999,
+            "longitude": 16.2268409,
+            "formatted_address": "Surahammar, Sweden"
+        },
+        "occupation": {
+            "occupation": "elektroingenjör",
+            "occupation_english": null
+        },
+        "parents": [
+            {
+                "first_name": "Lärs-Erik",
+                "last_name": "Sandvall",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "byggmästare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Ersson",
+                "middle_name": "Mathilda",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ålsten",
+        "latitude": 59.32339140000001,
+        "longitude": 17.9490937,
+        "formatted_address": "Ålsten, Bromma, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Schooling",
+            "year": "1907",
+            "institution": "Tekniska elementarskolan i Örebro"
+        },
+        {
+            "degree": "Tekniska Högskolan i Charlottenburg",
+            "degree_level": "Schooling",
+            "year": "1909-1910",
+            "institution": "Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Siri",
+            "last_name": "Österberg",
+            "middle_name": "Märta Annette",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1914",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Lärs-Erik",
+                "last_name": "Sandvall",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1915"
+            },
+            {
+                "first_name": "Märta",
+                "last_name": "Sandvall",
+                "middle_name": "Elisabet",
+                "gender": "Female",
+                "birth_year": "1917"
+            },
+            {
+                "first_name": "Anna-Brita",
+                "last_name": "Sandvall",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1920"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1914,
+            "end_year": 1919,
+            "organization": "Aktiebolag Bofors Nobelkrut",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1925,
+            "end_year": 1930,
+            "organization": "Kramfors Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Svenska Cellulosa Aktiebolag",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Fineman",
+        "middle_name": "Ludvig",
+        "gender": "Male",
+        "birth_date": "19-02-1892",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Fineman",
+                "middle_name": "Gottfrid",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Filosofie Doktor",
+                    "occupation_english": "Doctor of Philosophy",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Ebba",
+                "last_name": "af Geijerstam",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1910",
+            "institution": "Karlstad"
+        },
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1913",
+            "institution": "Chalmers Tekniska Högskola, Göteborg"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hildegard",
+            "last_name": "Vogel",
+            "middle_name": "Emilia Margareta",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Carl",
+                "last_name": "Fineman",
+                "middle_name": "Olof Gottfrid",
+                "gender": "Male",
+                "birth_year": "1931"
+            },
+            {
+                "first_name": "Carl",
+                "last_name": "Fineman",
+                "middle_name": "Gunnar Hilder",
+                "gender": "Male",
+                "birth_year": "1934"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "Underlöjtnant Skaraborgs regementes reserv 1913, löjtnant 1917, kapten Älvsborgs regementes reserv 1943.",
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1921"
+        }
+    ]
+}

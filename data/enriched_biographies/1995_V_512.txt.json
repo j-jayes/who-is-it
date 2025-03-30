@@ -1,0 +1,155 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Hemming",
+        "last_name": "Virgin",
+        "middle_name": "I",
+        "gender": "Male",
+        "birth_date": "19-10-1810",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor emeritus",
+            "occupation_english": "professor emeritus",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ivar",
+                "last_name": "Virgin",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "överdirektör",
+                    "occupation_english": "Director General",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Gadd",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Stockholm",
+            "start_year": 1846
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Lund",
+            "start_year": 1851
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lund",
+            "start_year": 1851,
+            "end_year": 1858
+        },
+        {
+            "position": "laborator",
+            "position_english": "laboratory technician",
+            "institution": "Lantbrukshögskolan",
+            "start_year": 1858,
+            "end_year": 1862
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Göteborg",
+            "department": "fysiologisk botanik",
+            "start_year": 1862,
+            "end_year": 1883,
+            "field": "fysiologisk botanik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Statens naturvetenskapliga forskningsråd",
+            "role": "ledamot",
+            "start_year": 1865,
+            "end_year": 1871
+        },
+        {
+            "committee_name": "fakultetsberedningen",
+            "role": "ledamot",
+            "start_year": 1871,
+            "end_year": 1876,
+            "organization": "matematik och naturvetenskap"
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i cellfysiologiska ämnen",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1853"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1854"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1872"
+        }
+    ]
+}

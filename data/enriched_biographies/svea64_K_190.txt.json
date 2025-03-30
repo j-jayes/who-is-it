@@ -1,0 +1,234 @@
+{
+    "career": [
+        {
+            "position": "Formgivare",
+            "start_year": 1942,
+            "end_year": 1943,
+            "organization": "Aktiebolaget Bolinder-Munktell",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Formgivare",
+            "start_year": 1943,
+            "end_year": 1946,
+            "organization": "Aktiebolaget Alka",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande chef",
+            "start_year": 1946,
+            "end_year": 1949,
+            "organization": "Aktiebolaget Hultsfreds mekaniska verkstad",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef serviceavdelning",
+            "start_year": 1949,
+            "end_year": 1953,
+            "organization": "Handelsbolaget Slipmaterialaffären",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Försäljningsingenjör",
+            "start_year": 1953,
+            "end_year": 1958,
+            "organization": "Handelsbolaget Slipmaterialaffären",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare avdelningskontor",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "Handelsbolaget Slipmaterialaffären",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Rektor och lärare",
+            "start_year": 1947,
+            "end_year": 1949,
+            "organization": "Hultsfreds yrkesskola",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Kroon",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "10-12-1915",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "Håkan",
+                "last_name": "Kroon",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Affärsinnehavare",
+                    "occupation_english": "Business owner",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Ester",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "SALF",
+            "role": "Styrledamot",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "Linköping",
+            "significance": null
+        },
+        {
+            "committee_name": "SALF",
+            "role": "Vice ordförande",
+            "start_year": 1947,
+            "end_year": 1949,
+            "organization": "Hultsfred",
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Medlem",
+            "organization": "Skånegillet Örebro"
+        }
+    ],
+    "current_location": {
+        "name": "Örebro",
+        "latitude": 59.2752626,
+        "longitude": 15.2134105,
+        "formatted_address": "Örebro, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1948",
+            "institution": "NKI Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Alice",
+            "last_name": "Hansson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Alfred",
+                    "last_name": "Hansson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Skorstensbyggare",
+                        "occupation_english": "Chimney builder",
+                        "hisco_code_english": "95910.0",
+                        "hisco_description_english": "Housebuilder, General"
+                    }
+                },
+                {
+                    "first_name": "Edith",
+                    "last_name": "Andersson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Lars",
+                "last_name": "Kroon",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Lill",
+                "last_name": "Kroon",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "hobbies": [
+        "gymnastik",
+        "friluftsliv",
+        "snickeri"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

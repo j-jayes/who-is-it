@@ -1,0 +1,177 @@
+{
+    "career": [
+        {
+            "position": "Bryggmästarexamen",
+            "start_year": 1932,
+            "organization": "Kinna bryggeri Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Bryggare",
+            "start_year": 1933,
+            "end_year": 1935,
+            "organization": "Grönskog",
+            "location": {
+                "name": "Nybro",
+                "latitude": 56.7437998,
+                "longitude": 15.9086806,
+                "formatted_address": "Nybro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Bryggare",
+            "start_year": 1935,
+            "end_year": 1941,
+            "organization": "Gällivare ångbryggeri",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Bryggare",
+            "start_year": 1941,
+            "organization": "Luleå bryggeri",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Praktikant",
+            "start_year": 1907,
+            "end_year": 1919,
+            "organization": "Öl firmor",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1919,
+            "end_year": 1937,
+            "organization": "Aktiebolaget Säfsnäs Handelsförening",
+            "location": {
+                "name": "Fredriksberg",
+                "latitude": 55.677069,
+                "longitude": 12.513321,
+                "formatted_address": "Frederiksberg, Denmark"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Handlande",
+            "start_year": 1937,
+            "organization": "Firma Evald Sandholm",
+            "location": {
+                "name": "Nora",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Alf",
+        "last_name": "Sandgren",
+        "middle_name": "Gunnar",
+        "gender": "Male",
+        "birth_date": "03-11-1905",
+        "birth_place": {
+            "name": "Halmstad",
+            "latitude": 56.6743748,
+            "longitude": 12.8577884,
+            "formatted_address": "Halmstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Bryggmästare",
+            "occupation_english": "Brewmaster",
+            "hisco_code_swedish": "77810.0",
+            "hisco_description_swedish": "Brewer, General"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Sandgren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kamrer",
+                    "occupation_english": "Comptroller",
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Elfvin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Luleå",
+        "latitude": 65.584819,
+        "longitude": 22.1567026,
+        "formatted_address": "Luleå, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Bryggmästarexamen",
+            "degree_level": "Master's",
+            "year": "None",
+            "institution": "Hochschule für Landwirtschaft und Brauerei i Weihenstephan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Blomquist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1928-1931"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1931"
+        }
+    ]
+}

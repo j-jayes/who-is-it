@@ -1,0 +1,221 @@
+{
+    "career": [
+        {
+            "position": "underläkare",
+            "start_year": 1940,
+            "end_year": 1945,
+            "organization": "läkarförordnande",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1946,
+            "end_year": 1952,
+            "organization": "öronkliniken Karolinska sjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "biträdande överläkare",
+            "start_year": 1952,
+            "end_year": 1960,
+            "organization": "öronavdelningen Borås lasarett",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": "öronkliniken Gävle lasarett",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "N",
+        "last_name": "Nilsson",
+        "middle_name": "Gunnar",
+        "gender": "Male",
+        "birth_date": "02-07-1916",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "överläkare",
+            "occupation_english": "chief physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Edvard",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "överkonstapel",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "58220.0",
+                    "hisco_description_swedish": "Policeman and other Maintainers of Law and Order (except Military)"
+                }
+            },
+            {
+                "first_name": "Emmy",
+                "last_name": "Jönsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Hörselfrämjandets förtjänstguldmedalj"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Gestriklands läkareförening",
+            "role": "sekreterare",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "ordförande",
+            "organization": "Hörselfrämjandet Gävle"
+        }
+    ],
+    "current_location": {
+        "name": "Gävle",
+        "latitude": 60.6748796,
+        "longitude": 17.1412726,
+        "formatted_address": "Gävle, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1935",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1938",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1944",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1952",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Olzén",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Emanuel",
+                    "last_name": "Olzén",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "sjökapten",
+                        "occupation_english": "sea captain",
+                        "hisco_code_swedish": "4217.0",
+                        "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                        "hisco_code_english": "4215.0",
+                        "hisco_description_english": "Ship's Master (Sea)"
+                    }
+                },
+                {
+                    "first_name": "Willy",
+                    "last_name": "Hogesteeger",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1941",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Hans",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1946"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "Stadsfullmäktige",
+            "position": "ledamot",
+            "start_year": 1967,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Skrifter i otologi",
+            "year": "Okänt",
+            "type": "Okänt",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,190 @@
+{
+    "career": [
+        {
+            "position": "Järnvägsbyggare",
+            "start_year": 1927,
+            "end_year": 1932,
+            "organization": "Nydqvist & Holm, Kampsax",
+            "location": {
+                "name": "Mindre Asien",
+                "latitude": 39.0003722,
+                "longitude": 32.0000366,
+                "formatted_address": "Փոքր Ասիա, Yüzükbaşı, 06900 Polatlı/Ankara, Türkiye"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1932,
+            "end_year": 1938,
+            "organization": "A/S Franki Fundering",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "AB Hydraulisk Påltryckning",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Tage",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "10-01-1903",
+        "birth_place": {
+            "name": "Köpenhamn",
+            "latitude": 55.6760968,
+            "longitude": 12.5683371,
+            "formatted_address": "Copenhagen, Denmark"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "O",
+                "last_name": "H",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överstelöjtnant",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer"
+                }
+            },
+            {
+                "first_name": "H",
+                "last_name": "Tage-Hansen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Ägare",
+            "organization": "A/S C T Winkel"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1921",
+            "institution": "Aarhus katedralskola"
+        },
+        {
+            "degree": "Cand. Polyt.",
+            "degree_level": "Master's",
+            "year": "1926",
+            "institution": "Danmarks Tekniska Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inge",
+            "last_name": "Bournonville Stub",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Diverse artiklar i svenska och danska tidskrifter",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Turkiet",
+                "latitude": 38.963745,
+                "longitude": 35.243322,
+                "formatted_address": "Türkiye"
+            },
+            "country_code": "TUR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

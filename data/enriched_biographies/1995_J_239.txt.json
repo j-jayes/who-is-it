@@ -1,0 +1,117 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Folke",
+        "last_name": "Josephson",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "17-01-1934",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hugo",
+                "last_name": "Josephson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "direktör",
+                    "occupation_english": "director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Märta",
+                "last_name": "Brundin",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Uppsala universitet",
+            "start_year": 1970,
+            "field": "None"
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala universitet",
+            "start_year": 1972,
+            "field": "None"
+        },
+        {
+            "position": "extraordinarie docent",
+            "position_english": "Associate Professor",
+            "institution": "Uppsala universitet",
+            "department": "jämförande språkforskning",
+            "start_year": 1972,
+            "end_year": 1981,
+            "field": "sanskrit med jämförande språkforskning"
+        },
+        {
+            "position": "förste assistent",
+            "position_english": "First Assistant",
+            "institution": "Uppsala universitet",
+            "start_year": 1981,
+            "end_year": 1983,
+            "field": "None"
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "Göteborgs universitet",
+            "start_year": 1983,
+            "field": "jämförande språkforskning med sanskrit"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter i jämförande indoeuropeisk språkforskning, hettitologi",
+            "field": "språkforskning"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Judith",
+            "last_name": "O’Brien",
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "parents": [
+                {
+                    "first_name": "J",
+                    "last_name": "J",
+                    "gender": "Male"
+                },
+                {
+                    "first_name": "Ellen",
+                    "last_name": "O’Brien",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1964"
+    }
+}

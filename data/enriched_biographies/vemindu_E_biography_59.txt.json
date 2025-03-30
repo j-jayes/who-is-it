@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Underlöjtnant",
+            "start_year": 1905,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Löjtnant",
+            "start_year": 1907,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kapten",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "I reserv",
+            "start_year": 1921,
+            "end_year": 1940,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Waxholms Nya Ångfartygs Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Waxholms Hotell Aktiebolag",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Oscar",
+        "last_name": "Ekebohm",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "01-12-1884",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör, Före detta Kapten",
+            "occupation_english": null
+        },
+        "parents": [
+            {
+                "first_name": "D",
+                "last_name": "Ekebohm",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökaptent",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Ramström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Verkställande styrelseledamot",
+            "organization": "Skärgårds- och Mälarflottans Rederiförening"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Allmänna Sjöfartsföreningen"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Livbåtskommittén",
+            "role": "Ordförande",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Svenska Allmänna Sjöfartsföreningen",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Brita",
+            "last_name": "Sundström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Vasaorden",
+        "Riddare av S:t Olofsorden 1kl",
+        "Riddare av Preussiska Röda Örns Orden 4kl"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "string",
+            "year": "1902"
+        },
+        {
+            "country": {
+                "name": "Marocko",
+                "latitude": 31.791702,
+                "longitude": -7.092619999999999,
+                "formatted_address": "Morocco"
+            },
+            "country_code": "MAR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tunisien",
+                "latitude": 33.886917,
+                "longitude": 9.537499,
+                "formatted_address": "Tunisia"
+            },
+            "country_code": "TUN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Turkiet",
+                "latitude": 38.963745,
+                "longitude": 35.243322,
+                "formatted_address": "Türkiye"
+            },
+            "country_code": "TUR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Västindien",
+                "latitude": 18.2345027,
+                "longitude": -66.4108475,
+                "formatted_address": "West Indies"
+            },
+            "country_code": "string",
+            "year": "1938"
+        }
+    ]
+}

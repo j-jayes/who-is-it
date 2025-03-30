@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "läkareförordnande",
+            "start_year": 1939,
+            "end_year": 1944,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1945,
+            "end_year": 1949,
+            "organization": "Lunds lasarett",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1945,
+            "end_year": 1949,
+            "organization": "Lunds lasarett",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1950,
+            "end_year": null,
+            "organization": "Växjö lasarett",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "S",
+        "last_name": "THELIN",
+        "middle_name": "A Rurik",
+        "gender": "Male",
+        "birth_date": "11-01-1911",
+        "birth_place": {
+            "name": "Växjö",
+            "latitude": 56.8790044,
+            "longitude": 14.8058522,
+            "formatted_address": "Växjö, Sweden"
+        },
+        "occupation": {
+            "occupation": "överläkare",
+            "occupation_english": "Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Arvid",
+                "last_name": "Thelin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "läroverksadjunkt",
+                    "occupation_english": "Senior Master",
+                    "hisco_code_swedish": "13200.0",
+                    "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Carlheim-Gyllenskiöld",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Riddare av Nordstjärneorden (RNO)"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Växjö",
+        "latitude": 56.8790044,
+        "longitude": 14.8058522,
+        "formatted_address": "Växjö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1930",
+            "institution": "Växjö"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1935",
+            "institution": "Lund"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1941",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulla",
+            "last_name": "Bengtson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "John",
+                    "last_name": "Bengtson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Thyra",
+                    "last_name": "Hansson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1939",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ulrika",
+                "last_name": "Thelin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Thelin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Ingegerd",
+                "last_name": "Thelin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Thelin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1946"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

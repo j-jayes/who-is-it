@@ -1,0 +1,136 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1926,
+            "end_year": 1934,
+            "organization": "Elektrolux",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överingenjör",
+            "start_year": 1934,
+            "organization": "Motala fabrik",
+            "location": {
+                "name": "Motala",
+                "latitude": 58.5380335,
+                "longitude": 15.0470936,
+                "formatted_address": "Motala, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ebbe",
+        "last_name": "Svensson",
+        "middle_name": "Gustav",
+        "gender": "Male",
+        "birth_date": "12-03-1902",
+        "birth_place": {
+            "name": "Gamleby",
+            "latitude": 57.89316029999999,
+            "longitude": 16.4060887,
+            "formatted_address": "594 30 Gamleby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överingenjör",
+            "occupation_english": "Chief Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "G",
+                "last_name": "Svensson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kantor",
+                    "occupation_english": "Cantor",
+                    "hisco_code_swedish": "17150.0",
+                    "hisco_description_swedish": "Vocal Group Conductor"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Liljeberg",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "AB Arctie"
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Stadsfullmäktige",
+            "organization": "Motala"
+        }
+    ],
+    "current_location": {
+        "name": "Motala",
+        "latitude": 58.5380335,
+        "longitude": 15.0470936,
+        "formatted_address": "Motala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1925",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunhild",
+            "last_name": "Holmqvist",
+            "gender": "Female"
+        }
+    },
+    "hobbies": [
+        "Tennis",
+        "Bridge"
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1935"
+        }
+    ]
+}

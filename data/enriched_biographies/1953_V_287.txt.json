@@ -1,0 +1,156 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Betelseminariet i Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "K.F.U.M:s sekreterarinstitut",
+            "start_year": 1921,
+            "end_year": 1922,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "K.F.U.M:s sekreterarinstitut",
+            "start_year": 1925,
+            "end_year": 1928,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ansvarig utgivare",
+            "start_year": 1945,
+            "end_year": 1950,
+            "organization": "Svenska Morgonbladet",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Westin",
+        "middle_name": "Gunnar",
+        "gender": "Male",
+        "birth_date": "20-11-1890",
+        "birth_place": {
+            "name": "Torp, Västernorrlands Län",
+            "latitude": 59.47473650000001,
+            "longitude": 15.8246139,
+            "formatted_address": "731 96 Torp, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gullick",
+                "last_name": "Westin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Hemmansägare",
+                    "occupation_english": "Homestead Owner",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Thalén",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": "Kyrkohistoria",
+            "start_year": 1930,
+            "end_year": null,
+            "field": "Kyrkohistoria"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1937,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Kyrkohistorisk forskningsresa",
+            "field": "Kyrkohistoria",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1929-1930"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

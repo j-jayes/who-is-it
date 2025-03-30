@@ -1,0 +1,227 @@
+{
+    "career": [
+        {
+            "position": "tidningspojke",
+            "start_year": 1886,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Iowa",
+                "latitude": 41.8780025,
+                "longitude": -93.097702,
+                "formatted_address": "Iowa, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "arbetare",
+            "start_year": 1892,
+            "end_year": null,
+            "organization": "fabrik",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "arbetare",
+            "start_year": 1892,
+            "end_year": null,
+            "organization": "slakteri",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "elev",
+            "start_year": 1908,
+            "end_year": 1909,
+            "organization": "skulpturskola",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        }
+    ],
+    "person": {
+        "first_name": "David",
+        "last_name": "Edström",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": null,
+        "birth_place": {
+            "name": "Småland",
+            "latitude": null,
+            "longitude": null,
+            "formatted_address": null
+        },
+        "occupation": {
+            "occupation": "bildhuggare",
+            "occupation_english": "sculptor",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": null
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "teknisk skola",
+            "degree_level": "Schooling",
+            "year": "Okänt",
+            "institution": "Tekniska Skolan"
+        },
+        {
+            "degree": "Konstakademin",
+            "degree_level": "Schooling",
+            "year": "Okänt",
+            "institution": "Konstakademin"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Levertin",
+            "middle_name": "Fredrika",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Vilh.",
+                    "last_name": "Levertin",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "konsthandlare",
+                        "occupation_english": "art dealer",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Sof.",
+                    "last_name": "Davidson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1902",
+        "divorce_year": "1907"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Fiat lux",
+            "year": "Okänt",
+            "type": "skulptur",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Rhapsodie",
+            "year": "Okänt",
+            "type": "skulptur",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Två själar",
+            "year": "Okänt",
+            "type": "skulptur",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Sfinx",
+            "year": "Okänt",
+            "type": "skulptur",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Irland",
+                "latitude": 53.77975540000001,
+                "longitude": -7.3055309,
+                "formatted_address": "Ireland"
+            },
+            "country_code": "IRL",
+            "year": null
+        }
+    ]
+}

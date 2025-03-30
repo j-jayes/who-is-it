@@ -1,0 +1,176 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1919,
+            "end_year": 1926,
+            "organization": "ab Formator",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1926,
+            "end_year": 1927,
+            "organization": "ab Pythagoras",
+            "location": {
+                "name": "Norrtälje",
+                "latitude": 59.7595841,
+                "longitude": 18.7013584,
+                "formatted_address": "Norrtälje, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1927,
+            "end_year": 1937,
+            "organization": "Köpings mekaniska verkstads aktiebolag",
+            "location": {
+                "name": "Köping",
+                "latitude": 59.5120962,
+                "longitude": 15.9945102,
+                "formatted_address": "Köping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "ab Volvo (Pentaverken)",
+            "location": {
+                "name": "Skövde",
+                "latitude": 58.3902782,
+                "longitude": 13.8461208,
+                "formatted_address": "Skövde, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl Richard",
+        "last_name": "Skövde",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "08-11-1900",
+        "birth_place": {
+            "name": "Eskilstuna",
+            "latitude": 59.37124859999999,
+            "longitude": 16.5098045,
+            "formatted_address": "Eskilstuna, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Carl Richard",
+                "last_name": "Skövde",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "öververkmästare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "22610.0",
+                    "hisco_description_swedish": "Production Supervisor or Foreman, General"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Sjöstedt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Skövde",
+        "latitude": 58.3902782,
+        "longitude": 13.8461208,
+        "formatted_address": "Skövde, Sweden"
+    },
+    "education": [
+        {
+            "degree": "maskinfackskola",
+            "degree_level": "Schooling",
+            "year": "1919",
+            "institution": "Eskilstuna"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lilly",
+            "last_name": "Carlson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1903",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1947"
+        }
+    ]
+}

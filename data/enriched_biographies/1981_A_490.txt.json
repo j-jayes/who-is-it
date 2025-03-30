@@ -1,0 +1,119 @@
+{
+    "career": [
+        {
+            "position": "Medicin licentiat",
+            "start_year": 1928,
+            "organization": "Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Olika läkförordnanden",
+            "start_year": 1929,
+            "end_year": 1936
+        },
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1937,
+            "location": {
+                "name": "Östersund",
+                "latitude": 63.1766832,
+                "longitude": 14.6360681,
+                "formatted_address": "Östersund, Sweden"
+            }
+        },
+        {
+            "position": "Extra läkare för öronsjukdomar",
+            "start_year": 1939,
+            "organization": "Lasarett",
+            "location": {
+                "name": "Östersund",
+                "latitude": 63.1766832,
+                "longitude": 14.6360681,
+                "formatted_address": "Östersund, Sweden"
+            }
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1940,
+            "end_year": 1964
+        }
+    ],
+    "person": {
+        "first_name": "Rolf",
+        "last_name": "Aust",
+        "middle_name": "M F",
+        "gender": "Male",
+        "birth_date": "22-04-1899",
+        "birth_place": {
+            "name": "Långedrag, Göteborgs och Bohus Län",
+            "latitude": 57.66944400000001,
+            "longitude": 11.855556,
+            "formatted_address": "426 76 Långedrag, Sweden"
+        },
+        "occupation": {
+            "occupation": "Före detta överläkare",
+            "occupation_english": "Former Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "7990.0",
+            "hisco_description_english": "Other Medical, Dental, Veterinary and Related Workers"
+        },
+        "parents": [
+            {
+                "first_name": "Rudolf",
+                "last_name": "Aust",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": "Manager",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Gertrud",
+                "last_name": "Nilsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Kersti",
+            "last_name": "Berlin",
+            "gender": "Female",
+            "birth_date": "01-01-1910",
+            "parents": [
+                {
+                    "first_name": "Richard",
+                    "last_name": "Berlin",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Anna-Lisa",
+                    "last_name": "Berlin",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1933"
+    },
+    "publications": null,
+    "travels": null
+}

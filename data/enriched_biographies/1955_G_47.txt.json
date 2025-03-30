@@ -1,0 +1,192 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1925,
+            "end_year": 1931,
+            "organization": "Lunds lasarett och Sahlgrenska sjukhuset",
+            "location": {
+                "name": "Lund och Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Örebro lasarett, ögonavdelningen",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Fritz",
+        "last_name": "Geffcken",
+        "middle_name": "Ivar",
+        "gender": "Male",
+        "birth_date": "28-06-1895",
+        "birth_place": {
+            "name": "Västerstad, Malmöhus Län",
+            "latitude": 55.7735531,
+            "longitude": 13.6406035,
+            "formatted_address": "242 97 Västerstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lasarettsläkare",
+            "occupation_english": "Hospital Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Örebro",
+        "latitude": 59.2752626,
+        "longitude": 15.2134105,
+        "formatted_address": "Örebro, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1923",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Dagny",
+            "last_name": "Nyquist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Oskar",
+                    "last_name": "Nyquist",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Provinsialläkare",
+                        "occupation_english": "District Medical Officer",
+                        "hisco_code_swedish": "6105.0",
+                        "hisco_description_swedish": "General Physician",
+                        "hisco_code_english": "31090.0",
+                        "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                    }
+                },
+                {
+                    "first_name": "Judith",
+                    "last_name": "Hallgren",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1925",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1950"
+        }
+    ]
+}

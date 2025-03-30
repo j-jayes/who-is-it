@@ -1,0 +1,295 @@
+{
+    "career": [
+        {
+            "position": "Meteorolog och magnetiker",
+            "start_year": 1901,
+            "end_year": 1903,
+            "organization": "Svenska sydpolsexpeditionen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1907,
+            "end_year": 1916,
+            "organization": "Göteborgs högre samskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1910,
+            "end_year": null,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1915,
+            "end_year": null,
+            "organization": "Högre lärarinneseminariet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor",
+            "start_year": 1916,
+            "end_year": 1940,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Föreläsare",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Föreläsare",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Göteborgs Universitet",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Anders",
+        "last_name": "Bodman",
+        "middle_name": "Gustaf",
+        "gender": "Male",
+        "birth_date": "05-08-1875",
+        "birth_place": {
+            "name": "Råneå, Norrbottens Län",
+            "latitude": 65.8567851,
+            "longitude": 22.2889188,
+            "formatted_address": "955 31 Råneå, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "G",
+                "last_name": "Bodman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Provinzialläkare",
+                    "occupation_english": "Provincial physician",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician",
+                    "hisco_code_english": "6100.0",
+                    "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Ekström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Chalmers Tekniska Högskola",
+            "department": "Oorganisk kemi med mineralogi och geologi",
+            "start_year": 1916,
+            "end_year": 1940,
+            "field": "Kemi, mineralogi, geologi"
+        }
+    ],
+    "board_memberships": [
+        {
+            "position": "Ledamot",
+            "organization": "Göteborgs slöjdförenings skola"
+        },
+        {
+            "position": "Styrelseordförande",
+            "organization": "Göteborgs slöjdförenings skola"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Göteborgs stadsbibliotek"
+        },
+        {
+            "position": "Ordförande",
+            "organization": "Lokala styrelsen Göteborgs högre allmänna läroverk för flickor"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Tekniska samfundet i Göteborg",
+            "role": "Sekreterare",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Sällskapet Gnistan",
+            "role": "Sekreterare",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Göteborg",
+            "significance": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1893",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1897",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1901",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1906",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Bodman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Släktforskning",
+        "Filateli"
+    ],
+    "honors": [
+        "Riddare av Nordstjärneorden",
+        "Odd Fellow",
+        "Hedersledamot Västmanland-Dala nation Uppsala",
+        "Hedersledamot Chalmers studentkår Göteborg",
+        "Idrottsmärke i guld"
+    ],
+    "publications": [
+        {
+            "title": "Göteborg äldre industri",
+            "year": "1923",
+            "type": "Book"
+        },
+        {
+            "title": "Fabriker och industri i gamla Göteborg",
+            "year": "1925",
+            "type": "Book"
+        },
+        {
+            "title": "Göteborgs industrihistoria i siffror 1747—1920",
+            "year": "1926",
+            "type": "Book"
+        },
+        {
+            "title": "Eneroth & Co och dess föregångare",
+            "year": "1930",
+            "type": "Book"
+        },
+        {
+            "title": "Sockerbolaget i Göteborg 1808—1934",
+            "year": "1934",
+            "type": "Book"
+        },
+        {
+            "title": "Carnegie Porterbryggeri 1812—1938",
+            "year": "1938",
+            "type": "Book"
+        },
+        {
+            "title": "Chalmers Tekniska Institut, Matrikel 1829—1929",
+            "year": "1929",
+            "type": "Book"
+        },
+        {
+            "title": "Chalmers Tekniska Institut 1829—1929",
+            "year": "1929",
+            "type": "Book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Tekniska Samfundet i Göteborg 1882—1932",
+            "year": "1932",
+            "type": "Book"
+        },
+        {
+            "title": "En del Odd Fellow-litteratur",
+            "year": "1936",
+            "type": "Book"
+        },
+        {
+            "title": "Kemiska, meteorologiska, petrografiska och geologiska skrifter och uppsatser",
+            "year": "0000",
+            "type": "Article"
+        }
+    ]
+}

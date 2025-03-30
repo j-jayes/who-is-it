@@ -1,0 +1,185 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1948,
+            "end_year": null,
+            "organization": "Nordiska Kompaniet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Avdelningschef",
+            "start_year": 1952,
+            "end_year": null,
+            "organization": "Nordiska Kompaniet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1956,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "U",
+        "last_name": "BRATT",
+        "middle_name": "CARSTEN",
+        "gender": "Male",
+        "birth_date": "02-09-1924",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "B",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Bergvall",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1944",
+            "institution": "None"
+        },
+        {
+            "degree": "Göteborgs Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Göteborgs Handelsinstitut"
+        },
+        {
+            "degree": "Detaljhandelsstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "England"
+        },
+        {
+            "degree": "Detaljhandelsstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "USA"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märtha",
+            "last_name": "Björnstjerna",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1949",
+        "divorce_year": "1959",
+        "children": [
+            {
+                "first_name": "Mikael",
+                "last_name": "Bratt",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1949"
+            },
+            {
+                "first_name": "Marika",
+                "last_name": "Bratt",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1952"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "Reservofficersexamen 1947, löjtnant i kavalleriets reserv 1954",
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1948-1949"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1950-1951"
+        }
+    ]
+}

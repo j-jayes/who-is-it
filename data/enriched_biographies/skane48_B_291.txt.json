@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Undbryggmästare",
+            "start_year": 1930,
+            "end_year": 1933,
+            "organization": "Richters bryggeri",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Bryggmästare",
+            "start_year": 1933,
+            "end_year": 1937,
+            "organization": "Aktiebolag Klosteribryggeri",
+            "location": {
+                "name": "Ystad",
+                "latitude": 55.4295051,
+                "longitude": 13.8200308,
+                "formatted_address": "Ystad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Lunds Bryggeri Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Aktiebolag Apat. Mineralvattenfabrik",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl-Eric",
+        "last_name": "Borgenstierna",
+        "middle_name": "Robert Sträng",
+        "gender": "Male",
+        "birth_date": "05-01-1907",
+        "birth_place": {
+            "name": "Ystad",
+            "latitude": 55.4295051,
+            "longitude": 13.8200308,
+            "formatted_address": "Ystad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl-Roibert",
+                "last_name": "Borgenstierna",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Danielsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolag Malmö Förenade Bryggerier"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Skandinaviska Banken avdelningskontor"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Sveriges vattenfabrikers riksförbund"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Skolstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Högre allmänna läroverket i Ystad"
+        },
+        {
+            "degree": "Bryggeri högskolan",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "München"
+        },
+        {
+            "degree": "Skandinavisk bryggmästarexamen",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "Köpenhamn"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Olsen",
+            "middle_name": "Ragnhild Anna",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1927-1930"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1927-1930"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1927-1930"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1927-1930"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "career": [
+        {
+            "position": "Extra ordinarie tjänsteman",
+            "start_year": 1906,
+            "organization": "Riksbanken"
+        },
+        {
+            "position": "Tjänsteman av första graden vid avdelningskontoret",
+            "start_year": 1914,
+            "organization": "Riksbanken",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            }
+        },
+        {
+            "position": "Ordinarie i tjugoandra lönegraden",
+            "start_year": 1929,
+            "organization": "Riksbanken"
+        },
+        {
+            "position": "Kamrer i tjugofjärde lönegraden",
+            "start_year": 1938,
+            "organization": "Riksbanken",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            }
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1942,
+            "organization": "Riksbanken",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            }
+        }
+    ],
+    "person": {
+        "first_name": "Charles",
+        "last_name": "Arvall",
+        "middle_name": "Harry",
+        "gender": "Male",
+        "birth_date": "04-10-1886",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Riksbanksdirektör",
+            "occupation_english": "Director of the National Bank",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        }
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Inez",
+            "last_name": "Bhdberg",
+            "gender": "Female"
+        },
+        "marriage_year": "1921",
+        "children": [
+            {
+                "first_name": "Ingrid",
+                "last_name": "Arvall",
+                "gender": "Female",
+                "birth_year": "1922"
+            }
+        ]
+    },
+    "hobbies": [
+        "entomologi"
+    ],
+    "publications": null,
+    "travels": null
+}

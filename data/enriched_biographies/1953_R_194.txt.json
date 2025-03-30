@@ -1,0 +1,214 @@
+{
+    "career": [
+        {
+            "position": "Tjänstgörande vid Röda Korset",
+            "start_year": 1913,
+            "end_year": 1942,
+            "organization": "Röda Korset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verksam inom socialt arbete",
+            "start_year": 1913,
+            "end_year": 1942,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verksam inom upplysningsverksamhet",
+            "start_year": 1913,
+            "end_year": 1942,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nanna",
+        "last_name": "Rosenblad",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "09-12-1881",
+        "birth_place": {
+            "name": "Ekshärad, Värmlands Län",
+            "latitude": 60.172769,
+            "longitude": 13.4964549,
+            "formatted_address": "683 60 Ekshärad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Fröken",
+            "occupation_english": "Miss",
+            "hisco_code_swedish": "-1.0",
+            "hisco_description_swedish": "Missing, no title"
+        },
+        "parents": [
+            {
+                "first_name": "Victor",
+                "last_name": "Rosenblad",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Jägmästare",
+                    "occupation_english": "Master Forester",
+                    "hisco_code_swedish": "21230.0",
+                    "hisco_description_swedish": "Farm Manager",
+                    "hisco_code_english": "63110.0",
+                    "hisco_description_english": "Logger (General)"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Malmström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Sjuksköterskeexamen",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "Röda Korsets sjuksköterskeskola"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Hemmets sjuk- och olycksfallsvård",
+            "year": "1950",
+            "type": "book",
+            "editions": [
+                {
+                    "edition_number": "255:e",
+                    "year": "1950",
+                    "publisher": null,
+                    "notes": "tusende"
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Nutidens hälsovård i hem och skola",
+            "year": "None",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Hemtrevnad och vardagshygien",
+            "year": "None",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Lärobok i hälsovård",
+            "year": "None",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        }
+    ]
+}

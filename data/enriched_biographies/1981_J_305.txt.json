@@ -1,0 +1,196 @@
+{
+    "career": [
+        {
+            "position": "forskningsstatistiker",
+            "start_year": 1966,
+            "end_year": 1971,
+            "organization": "Educational Testing Service Princeton N J USA",
+            "location": {
+                "name": "Princeton, N J",
+                "latitude": 40.3503931,
+                "longitude": -74.6571416,
+                "formatted_address": "Princeton, NJ, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "gästprofessor",
+            "start_year": 1966,
+            "end_year": 1971,
+            "organization": "Princeton University",
+            "location": {
+                "name": "Princeton",
+                "latitude": 40.3503931,
+                "longitude": -74.6571416,
+                "formatted_address": "Princeton, NJ, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "professor i statistik",
+            "start_year": 1971,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "gästprofessor",
+            "start_year": 1976,
+            "end_year": 1977,
+            "organization": "University of Chicago",
+            "location": {
+                "name": "Chicago",
+                "latitude": 41.8781136,
+                "longitude": -87.6297982,
+                "formatted_address": "Chicago, IL, USA"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Jöreskog",
+        "middle_name": "Gustav",
+        "gender": "Male",
+        "birth_date": "25-04-1935",
+        "birth_place": {
+            "name": "Åmål",
+            "latitude": 25.7264714,
+            "longitude": -80.2442126,
+            "formatted_address": "3480 Main Hwy Suite 100, Miami, FL 33133, USA"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Johansson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lokförare",
+                    "occupation_english": "locomotive engineer",
+                    "hisco_code_swedish": "98320.0",
+                    "hisco_description_swedish": "Railway Engine Driver",
+                    "hisco_code_english": "98320.0",
+                    "hisco_description_english": "Railway Engine Driver"
+                }
+            },
+            {
+                "first_name": "Elsa",
+                "last_name": "Fredriksson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1963
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala Universitet",
+            "department": "statistik",
+            "start_year": 1963,
+            "end_year": 1966,
+            "field": "statistik"
+        },
+        {
+            "position": "universitetslektor",
+            "position_english": "university lecturer",
+            "institution": "Uppsala Universitet",
+            "department": "statistik",
+            "start_year": 1963,
+            "end_year": 1966,
+            "field": "statistik"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "statliga rådet för samhällsforskning",
+            "role": "Ledamot",
+            "start_year": 1973,
+            "end_year": 1976
+        }
+    ],
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elisabeth",
+            "last_name": "Reuterberg",
+            "gender": "Female",
+            "birth_date": "None",
+            "occupation": {
+                "occupation": "hushållslärare",
+                "occupation_english": "domestic science teacher",
+                "hisco_code_english": "13990.0",
+                "hisco_description_english": "Other Teachers"
+            },
+            "parents": [
+                {
+                    "first_name": "Gösta",
+                    "last_name": "Reuterberg",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kantor",
+                        "occupation_english": "cantor",
+                        "hisco_code_swedish": "17150.0",
+                        "hisco_description_swedish": "Vocal Group Conductor"
+                    }
+                },
+                {
+                    "first_name": "Magda",
+                    "last_name": "Svanstedt",
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "folkskollärare",
+                        "occupation_english": "primary school teacher",
+                        "hisco_code_swedish": "13320.0",
+                        "hisco_description_swedish": "FirstLevel Education Teacher",
+                        "hisco_code_english": "13020.0",
+                        "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1961"
+    },
+    "honors": [
+        "Ledamot av Vetenskapsakademien (LVA) 1974"
+    ],
+    "publications": [
+        {
+            "title": "Statistical Estimation in Factor Analysis",
+            "year": "1963",
+            "type": "doktorsavhandling"
+        },
+        {
+            "title": "Geological Factor Analysis",
+            "year": "1975",
+            "type": "None"
+        }
+    ],
+    "travels": null
+}

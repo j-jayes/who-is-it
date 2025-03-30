@@ -1,0 +1,261 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1920,
+            "end_year": 1921,
+            "organization": "Allmänna Barnbördshuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Amanuens och underkirurg",
+            "start_year": 1920,
+            "end_year": 1921,
+            "organization": "Akademiska sjukhuset",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tillförordnad underläkare",
+            "start_year": 1922,
+            "end_year": 1931,
+            "organization": "Lasarettet i Linköping",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1932,
+            "end_year": 1936,
+            "organization": "Lasarettet i Finspång",
+            "location": {
+                "name": "Finspång",
+                "latitude": 58.7074884,
+                "longitude": 15.773595,
+                "formatted_address": "Finspång, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": "Sundsvalls lasaretts kirurgiska avdelning",
+            "location": {
+                "name": "Sundsvall",
+                "latitude": 62.390811,
+                "longitude": 17.306927,
+                "formatted_address": "Sundsvall, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Styresman",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Sundsvalls lasarett",
+            "location": {
+                "name": "Sundsvall",
+                "latitude": 62.390811,
+                "longitude": 17.306927,
+                "formatted_address": "Sundsvall, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Richter",
+        "middle_name": "Gustav Albert Sölve",
+        "gender": "Male",
+        "birth_date": "30-06-1893",
+        "birth_place": {
+            "name": "Västervik",
+            "latitude": 57.75771559999999,
+            "longitude": 16.6369759,
+            "formatted_address": "Västervik, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lasarettsläkare",
+            "occupation_english": "Hospital Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "David",
+                "last_name": "Richter",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kamrer",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Emy",
+                "last_name": "Strömdahl",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1931,
+            "end_year": null,
+            "field": "Kirurgi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Västernorrlands Läkareförbund",
+            "role": "Ordförande",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Sundsvall",
+        "latitude": 62.390811,
+        "longitude": 17.306927,
+        "formatted_address": "Sundsvall, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Master's",
+            "year": "1915",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1919",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1931",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Tyra",
+            "last_name": "Rietz",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "01-01-1893",
+            "birth_place": {
+                "name": "Vadsten",
+                "latitude": 58.44760219999999,
+                "longitude": 14.8902335,
+                "formatted_address": "Vadstena, Sweden"
+            },
+            "occupation": {
+                "occupation": "Medicine licentiat",
+                "occupation_english": null,
+                "hisco_code_swedish": "6100.0",
+                "hisco_description_swedish": "Medical Doctor, Specialisation Unknown"
+            },
+            "parents": [
+                {
+                    "first_name": "Sven",
+                    "last_name": "Vadsten",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Provinsialläkare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "6105.0",
+                        "hisco_description_swedish": "General Physician"
+                    }
+                },
+                {
+                    "first_name": "Erika",
+                    "last_name": "Göthlin",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1920",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Om så kallad Trans-vesical prostatektomi",
+            "year": "1931",
+            "type": "Gradualavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

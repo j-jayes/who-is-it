@@ -1,0 +1,167 @@
+{
+    "career": [
+        {
+            "position": "Våningschef",
+            "start_year": 1900,
+            "organization": "hotell Phoenix",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "position": "Hovmästare",
+            "start_year": 1900,
+            "organization": "PUB aktiebolag",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Förste hovmästare",
+            "start_year": 1900,
+            "organization": "Kastenhof",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Restaurangchef",
+            "start_year": 1900,
+            "organization": "Falsterbohus",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1931,
+            "organization": "Eden hotel aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Charles",
+        "last_name": "Magnusson",
+        "middle_name": "M",
+        "gender": "Male",
+        "birth_date": "09-08-1900",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Magnusson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Förman",
+                    "occupation_english": "Foreman",
+                    "hisco_code_swedish": "22610.0",
+                    "hisco_description_swedish": "Production Supervisor or Foreman, General",
+                    "hisco_code_english": "22610.0",
+                    "hisco_description_english": "Production Supervisor or Foreman, General"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Nordlund",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

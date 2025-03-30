@@ -1,0 +1,130 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Gavleverken",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Berg & Co mekaniska verkstad Aktiebolag",
+            "location": {
+                "name": "Lindesberg",
+                "latitude": 59.5976983,
+                "longitude": 15.2229108,
+                "formatted_address": "Lindesberg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ivar",
+        "last_name": "Larsson",
+        "middle_name": "Olof Josef",
+        "gender": "Male",
+        "birth_date": "22-01-1913",
+        "birth_place": {
+            "name": "Gävle",
+            "latitude": 60.6748796,
+            "longitude": 17.1412726,
+            "formatted_address": "Gävle, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "E",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kassör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "33135.0",
+                    "hisco_description_swedish": "Cashier, Office or Cash Desk"
+                }
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Dybeck",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lindesberg",
+        "latitude": 59.5976983,
+        "longitude": 15.2229108,
+        "formatted_address": "Lindesberg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Örebro tekniska gymnasium",
+            "degree_level": "Schooling",
+            "year": "1933",
+            "institution": "Örebro tekniska gymnasium"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kristina",
+            "last_name": "Larsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1938"
+        }
+    ]
+}

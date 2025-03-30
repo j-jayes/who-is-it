@@ -1,0 +1,237 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1928,
+            "end_year": 1932,
+            "organization": "Karlstads lasarett",
+            "location": {
+                "name": "Karlstad",
+                "latitude": 59.4021806,
+                "longitude": 13.5114977,
+                "formatted_address": "Karlstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1932,
+            "end_year": 1934,
+            "organization": "Halmstads lasarett",
+            "location": {
+                "name": "Halmstad",
+                "latitude": 56.6743748,
+                "longitude": 12.8577884,
+                "formatted_address": "Halmstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1934,
+            "end_year": 1935,
+            "organization": "Göteborgs BB",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Stadsläkare",
+            "start_year": 1935,
+            "end_year": 1954,
+            "organization": "Falkenberg",
+            "location": {
+                "name": "Falkenberg",
+                "latitude": 56.90273329999999,
+                "longitude": 12.4888013,
+                "formatted_address": "Falkenberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Provinsialläkare",
+            "start_year": 1954,
+            "end_year": null,
+            "organization": "Falkenbergs distrikt",
+            "location": {
+                "name": "Falkenberg",
+                "latitude": 56.90273329999999,
+                "longitude": 12.4888013,
+                "formatted_address": "Falkenberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Läkare",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": "Hall läns sinnesslöanstalt Heberg",
+            "location": {
+                "name": "Heberg",
+                "latitude": 56.8828299,
+                "longitude": 12.6280713,
+                "formatted_address": "311 96 Heberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Skolläkare",
+            "start_year": 1944,
+            "end_year": 1966,
+            "organization": "Läroverk",
+            "location": {
+                "name": "Falkenberg",
+                "latitude": 56.90273329999999,
+                "longitude": 12.4888013,
+                "formatted_address": "Falkenberg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Helldal",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "14-02-1900",
+        "birth_place": {
+            "name": "Falun",
+            "latitude": 60.60646000000001,
+            "longitude": 15.6355,
+            "formatted_address": "Falun, Sweden"
+        },
+        "occupation": {
+            "occupation": "Provinsialläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Cyrac",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Bertha",
+                "last_name": "Ericsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Hälsovårdsnämnden",
+            "role": "Ordförande",
+            "start_year": 1935,
+            "end_year": 1954,
+            "organization": "Falkenberg",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Falkenberg",
+        "latitude": 56.90273329999999,
+        "longitude": 12.4888013,
+        "formatted_address": "Falkenberg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1919",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1923",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1928",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maj",
+            "last_name": "Lundén",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Helge",
+                    "last_name": "Lundén",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Köpmän",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Hildegard",
+                    "last_name": "Creutzer",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1931",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Birgitta",
+                "last_name": "Helldal",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1932"
+            },
+            {
+                "first_name": "Agneta",
+                "last_name": "Helldal",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            }
+        ]
+    },
+    "hobbies": [
+        "golf"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

@@ -1,0 +1,209 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Otto",
+        "last_name": "Liljedahl",
+        "middle_name": "Ragnar",
+        "gender": "Male",
+        "birth_date": "10-02-1901",
+        "birth_place": {
+            "name": "Berg, Skaraborgs Län",
+            "latitude": 58.1089937,
+            "longitude": 11.8668524,
+            "formatted_address": "444 95 Berg, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ivar",
+                "last_name": "L.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "godsägare",
+                    "occupation_english": "estate owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Julia",
+                "last_name": "Cnattingius",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala universitet",
+            "department": "historia",
+            "start_year": 1933,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1923",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1931",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1934",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Svensk förvaltning i Livland 1617-1634",
+            "year": "1933",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "K. M:ts kansli från 1789 intill departementalreformen",
+            "year": "1935",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Estland",
+                "latitude": 58.595272,
+                "longitude": 25.013607,
+                "formatted_address": "Estonia"
+            },
+            "country_code": "EST",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Lettland",
+                "latitude": 56.879635,
+                "longitude": 24.603189,
+                "formatted_address": "Latvia"
+            },
+            "country_code": "LVA",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Litauen",
+                "latitude": 55.169438,
+                "longitude": 23.881275,
+                "formatted_address": "Lithuania"
+            },
+            "country_code": "LTU",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Estland",
+                "latitude": 58.595272,
+                "longitude": 25.013607,
+                "formatted_address": "Estonia"
+            },
+            "country_code": "EST",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Lettland",
+                "latitude": 56.879635,
+                "longitude": 24.603189,
+                "formatted_address": "Latvia"
+            },
+            "country_code": "LVA",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Polen",
+                "latitude": 51.919438,
+                "longitude": 19.145136,
+                "formatted_address": "Poland"
+            },
+            "country_code": "POL",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Estland",
+                "latitude": 58.595272,
+                "longitude": 25.013607,
+                "formatted_address": "Estonia"
+            },
+            "country_code": "EST",
+            "year": "1936"
+        }
+    ]
+}

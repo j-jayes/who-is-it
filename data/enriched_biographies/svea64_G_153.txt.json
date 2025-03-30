@@ -1,0 +1,223 @@
+{
+    "career": [
+        {
+            "position": "läkareförordnande",
+            "start_year": 1940,
+            "end_year": 1943,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "2:e underläkare",
+            "start_year": 1943,
+            "end_year": 1946,
+            "organization": "Söderhamns lasarett",
+            "location": {
+                "name": "Söderhamn",
+                "latitude": 61.3055762,
+                "longitude": 17.0628102,
+                "formatted_address": "Söderhamn, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "1:e underläkare",
+            "start_year": 1943,
+            "end_year": 1946,
+            "organization": "Söderhamns lasarett",
+            "location": {
+                "name": "Söderhamn",
+                "latitude": 61.3055762,
+                "longitude": 17.0628102,
+                "formatted_address": "Söderhamn, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "tuberkulosavdelningen Löwenströmska lasarettet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "extra läkare",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "Stockholms epidemisjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "provinsialläkare",
+            "start_year": 1948,
+            "end_year": null,
+            "organization": "Njurunda västra distrikt",
+            "location": {
+                "name": "Njurunda",
+                "latitude": 62.27070439999999,
+                "longitude": 17.3718572,
+                "formatted_address": "Njurunda, 862 40 Njurunda, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "provinsialläkare",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "Heby",
+            "location": {
+                "name": "Heby",
+                "latitude": 59.93562610000001,
+                "longitude": 16.8690109,
+                "formatted_address": "Heby, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Grundgård",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "13-08-1909",
+        "birth_place": {
+            "name": "Älvdalen, Kopparbergs Län",
+            "latitude": 61.22730600000001,
+            "longitude": 14.0419871,
+            "formatted_address": "Älvdalen, Sweden"
+        },
+        "occupation": {
+            "occupation": "provinsialläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Lars",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kronojägare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "63220.0",
+                    "hisco_description_swedish": "Forest Supervisor"
+                }
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Olsson",
+                "middle_name": "Smeds",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Heby",
+        "latitude": 59.93562610000001,
+        "longitude": 16.8690109,
+        "formatted_address": "Heby, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1928",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1933",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1939",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inez",
+            "last_name": "Carlson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Birger",
+                    "last_name": "Carlson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "hamnkapten",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "22290.0",
+                        "hisco_description_swedish": "Other Transport and Communications Supervisors"
+                    }
+                },
+                {
+                    "first_name": "Agnes",
+                    "last_name": "Christianson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Åsa",
+                "last_name": "Grundgård",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Ragna",
+                "last_name": "Grundgård",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Ylva",
+                "last_name": "Grundgård",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1944"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

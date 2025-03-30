@@ -1,0 +1,183 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1930,
+            "organization": "Aktiebolag Svenska Telbyrån",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1943,
+            "organization": "Göteborgskontoret, Aktiebolag Svenska Telbyrån",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Tamm",
+        "middle_name": "Göran Mauritz Adolf",
+        "gender": "Male",
+        "birth_date": "17-01-1911",
+        "birth_place": null,
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Tamm",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byråingenjör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ingeborg",
+                "last_name": "Axell",
+                "middle_name": "Emelia",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Lärare",
+            "position_english": "Teacher",
+            "institution": "Handelshögskolan",
+            "department": null,
+            "start_year": 1943,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Metall Fabriks Aktiebolag C. C. Sporrong & Go."
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Göteborgs reklamförening"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1930",
+            "institution": "Djursholm"
+        },
+        {
+            "degree": "DHIS",
+            "degree_level": "Bachelor's",
+            "year": "1932",
+            "institution": "DHIS"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Jaco-baeus",
+            "middle_name": "Lykke",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Sebastian",
+                "last_name": "Tamm",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1936"
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Tamm",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Göran",
+                "last_name": "Tamm",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1942"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Diktsamling",
+            "year": "1942",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Storbritannien",
+                "latitude": 55.378051,
+                "longitude": -3.435973,
+                "formatted_address": "United Kingdom"
+            },
+            "country_code": "GBR",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Storbritannien",
+                "latitude": 55.378051,
+                "longitude": -3.435973,
+                "formatted_address": "United Kingdom"
+            },
+            "country_code": "GBR",
+            "year": "1932"
+        }
+    ]
+}

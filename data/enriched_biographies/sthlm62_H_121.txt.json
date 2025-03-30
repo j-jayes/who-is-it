@@ -1,0 +1,212 @@
+{
+    "career": [
+        {
+            "position": "Tecknare",
+            "start_year": 1916,
+            "end_year": 1919,
+            "organization": "Tidens Tegn och Dagbladet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Medarbetare",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Politiken",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Medarbetare",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Dagens Nyheter",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Medarbetare",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Vi",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Medarbetare",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Harpers litterära magasin",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Adolf",
+        "last_name": "Hallman",
+        "middle_name": "R",
+        "gender": "Male",
+        "birth_date": "01-03-1893",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Tecknare, författare",
+            "occupation_english": "Illustrator, author",
+            "hisco_code_swedish": "15120.0",
+            "hisco_description_swedish": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Fredrik H",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Arbetare",
+                    "occupation_english": "Worker",
+                    "hisco_code_swedish": "99900.0",
+                    "hisco_description_swedish": "Worker, No Further Information",
+                    "hisco_code_english": "94990.0",
+                    "hisco_description_english": "Other Production and Related Workers Not Elsewhere Classified"
+                }
+            },
+            {
+                "first_name": "Dorotea",
+                "last_name": "H",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Rom",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1914-1916",
+            "institution": "Valand"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Edith",
+            "last_name": "Ludwig",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Johannes",
+                    "last_name": "L",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Fabriksägare",
+                        "occupation_english": "Factory owner",
+                        "hisco_code_swedish": "21220.0",
+                        "hisco_description_swedish": "Production Manager (except Farm)"
+                    }
+                },
+                {
+                    "first_name": "h",
+                    "last_name": "h",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1933",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Köpenhamn",
+            "year": "1944",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "New York",
+            "year": "1956",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

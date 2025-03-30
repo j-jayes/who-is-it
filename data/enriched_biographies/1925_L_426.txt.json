@@ -1,0 +1,192 @@
+{
+    "career": [
+        {
+            "position": "Musikelev",
+            "start_year": 1907,
+            "end_year": 1909,
+            "organization": "Första livgrenadjärregementet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Violin",
+            "start_year": 1910,
+            "end_year": null,
+            "organization": "Göteborgs Orkesterförening",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Dirigent",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Blüthnerorkestern från Berlin",
+            "location": {
+                "name": "Malmö och Lund samt i Berlin",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Kapellmästare",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": "Lunds Universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gerhard",
+        "last_name": "Lundqvist",
+        "middle_name": "Vilhelm",
+        "gender": "Male",
+        "birth_date": "14-04-1894",
+        "birth_place": {
+            "name": "Skänninge",
+            "latitude": 58.3954378,
+            "longitude": 15.0862189,
+            "formatted_address": "596 31 Skänninge, Sweden"
+        },
+        "occupation": {
+            "occupation": "Universitetskapellmästare",
+            "occupation_english": "University Conductor",
+            "hisco_code_swedish": "17135.0",
+            "hisco_description_swedish": "Orchestra and Band Conductor",
+            "hisco_code_english": "36040.0",
+            "hisco_description_english": "Bus Conductor"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Lundqvist",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kakelugnsmakare",
+                    "occupation_english": "Tile stove maker",
+                    "hisco_code_swedish": "95130.0",
+                    "hisco_description_swedish": "Firebrick Layer",
+                    "hisco_code_english": "89210.0",
+                    "hisco_description_english": "Potter, General"
+                }
+            },
+            {
+                "first_name": "Hulda",
+                "last_name": "Peterson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Musikvolontär",
+            "degree_level": "Schooling",
+            "year": "1907",
+            "institution": "Första livgrenadjärregementet"
+        },
+        {
+            "degree": "Violin",
+            "degree_level": "Schooling",
+            "year": "1909",
+            "institution": "Musikkonservatoriet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Amsterdam",
+                "latitude": 52.3675734,
+                "longitude": 4.9041389,
+                "formatted_address": "Amsterdam, Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1924"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        }
+    ]
+}

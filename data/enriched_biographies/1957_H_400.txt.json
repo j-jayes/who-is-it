@@ -1,0 +1,138 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "John",
+        "last_name": "Hertz",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "03-10-1906",
+        "birth_place": {
+            "name": "Köpenhamn",
+            "latitude": 55.6760968,
+            "longitude": 12.5683371,
+            "formatted_address": "Copenhagen, Denmark"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Robert",
+                "last_name": "Hertz",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "tandläkare",
+                    "occupation_english": "dentist",
+                    "hisco_code_swedish": "6310.0",
+                    "hisco_description_swedish": "Dentist, General",
+                    "hisco_code_english": "6310.0",
+                    "hisco_description_english": "Dentist, General"
+                }
+            },
+            {
+                "first_name": "Mimi",
+                "last_name": "Restcrff",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "tandläkarhögskolan Stockholm",
+            "department": null,
+            "start_year": 1954,
+            "end_year": null,
+            "field": "specifik kirurgi"
+        }
+    ],
+    "achievements": null,
+    "awards": [],
+    "board_memberships": [],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "tandläkarexamen",
+            "degree_level": "Doctorate",
+            "year": "1934",
+            "institution": "Köpenhamn"
+        },
+        {
+            "degree": "doktor medicine",
+            "degree_level": "Doctorate",
+            "year": "1935",
+            "institution": "Köpenhamn"
+        }
+    ],
+    "family": null,
+    "hobbies": [],
+    "honorary_titles": [],
+    "honors": [
+        "Hedersledamot Hollywood Academy of Medicine 1955",
+        "Founder Fellow International College of Surgeons 1947"
+    ],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Studier över Fracturhelingen med saerligt Henblik paa Betydningen av Kostens Vitaminhold",
+            "year": "1935",
+            "type": "gradualavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ön Goitre arid Allied Diseases",
+            "year": "1947",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Kirurgiens historia",
+            "year": "1955",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

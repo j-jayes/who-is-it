@@ -1,0 +1,254 @@
+{
+    "career": [
+        {
+            "position": "Korrespondent",
+            "start_year": 1914,
+            "end_year": 1919,
+            "organization": "Rydboholms Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1919,
+            "end_year": 1920,
+            "organization": "Svenska Handelskammaren",
+            "location": {
+                "name": "Chicago",
+                "latitude": 41.8781136,
+                "longitude": -87.6297982,
+                "formatted_address": "Chicago, IL, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Försäljningschef",
+            "start_year": 1920,
+            "end_year": 1941,
+            "organization": "Aktiebolaget Merinos",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Kilsunds Aktiebolag",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Aktiebolaget Merinos",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Anderson",
+        "middle_name": "Axel Arthur",
+        "gender": "Male",
+        "birth_date": "11-09-1894",
+        "birth_place": {
+            "name": "Skara",
+            "latitude": 58.3860128,
+            "longitude": 13.4393282,
+            "formatted_address": "Skara, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Anderson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmannen",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Hulda",
+                "last_name": "Johansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Kilsunds Aktiebolag"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolaget Merinos"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolaget Borås Klädnadstygsfabrik"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Kamgarnspinneri Aktiebolag"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Avtalsförhandlingar",
+            "role": "Sakkunnig",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Italien",
+            "significance": null
+        },
+        {
+            "committee_name": "Statens Industrikommission",
+            "role": "Sakkunnig",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Ordförande",
+            "organization": "IF Elfsborg"
+        },
+        {
+            "role": "Ordförande",
+            "organization": "Föreningen för idrottens främjande i Borås"
+        }
+    ],
+    "current_location": {
+        "name": "Borås",
+        "latitude": 57.72103500000001,
+        "longitude": 12.939819,
+        "formatted_address": "Borås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Skara"
+        },
+        {
+            "degree": "Göteborgs Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1914",
+            "institution": "Göteborgs Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Resi",
+            "last_name": "Svensson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1923",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Enni",
+                "last_name": "Anderson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1923"
+            },
+            {
+                "first_name": "Jan-Arta",
+                "last_name": "Anderson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1928"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "RVO 1942",
+        "Riksidrottsförbundets GM",
+        "Västergötlands Idrottsförbund",
+        "Rydboholms IF",
+        "IF Elfsborgs",
+        "Idrottstrustens GM"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1919"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

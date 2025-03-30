@@ -1,0 +1,181 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": 1925,
+            "organization": "Skandinaviska Banken Aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Bankir",
+            "start_year": 1925,
+            "end_year": 1931,
+            "organization": "C. Bert Lilja & Co.",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ränte- och kapitalförsäkringsanställd",
+            "start_year": 1931,
+            "end_year": 1933,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1933,
+            "end_year": 1937,
+            "organization": "Kungliga Automobil Klubben",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Generalsekreterare",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "Kungliga Automobil Klubben",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Harry",
+        "last_name": "Bucht",
+        "middle_name": "Georg",
+        "gender": "Male",
+        "birth_date": "04-04-1898",
+        "birth_place": {
+            "name": "Wasa",
+            "latitude": null,
+            "longitude": null,
+            "formatted_address": null
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Karl",
+                "last_name": "Bucht",
+                "middle_name": "Georg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Konsul",
+                    "occupation_english": "Consul",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator",
+                    "hisco_code_english": "20210.0",
+                    "hisco_description_english": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Gertrud",
+                "last_name": "Hartman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1917",
+            "institution": "Djursholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lisa",
+            "last_name": "Bodman",
+            "middle_name": "Maria",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1924",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Vasaorden 1943",
+        "Finlands Frihetskors av fjärde klass med svärd 1918",
+        "Finlands Frihetskors av fjärde klass 1940",
+        "Finlands Frihetsmedalj av första klass 1918",
+        "Finska minnesmedaljen 1918",
+        "Finska minnesmedaljen 1940",
+        "Tammerforsmedaljen"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

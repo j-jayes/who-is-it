@@ -1,0 +1,193 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1905,
+            "end_year": 1909,
+            "organization": "olika företag",
+            "location": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "chaufförskola och drosktrafikföretag",
+            "start_year": 1910,
+            "end_year": 1915,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "försäljningschef",
+            "start_year": 1915,
+            "end_year": 1923,
+            "organization": "AMI",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "innehavare",
+            "start_year": 1923,
+            "end_year": 1932,
+            "organization": "automobilfirma Nelson",
+            "location": {
+                "name": "Ystad",
+                "latitude": 55.4295051,
+                "longitude": 13.8200308,
+                "formatted_address": "Ystad, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "innehavare",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "firma Carl Nelson",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Nelson",
+        "middle_name": "Julius",
+        "gender": "Male",
+        "birth_date": "29-10-1888",
+        "birth_place": {
+            "name": "Tomelilla, Kristianstads Län",
+            "latitude": 55.54188869999999,
+            "longitude": 13.9538845,
+            "formatted_address": "Tomelilla, Sweden"
+        },
+        "occupation": {
+            "occupation": "direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Fordhandelsföreningen"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Skånes bilverkstadsförening, avdelning I"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hälsingborg",
+        "latitude": 64.1386294,
+        "longitude": 19.5225599,
+        "formatted_address": "922 93 Hälsingborg, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Hilma",
+            "last_name": "Glatz",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1920",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Jan",
+                "last_name": "Nelson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1921"
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Nelson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1922"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

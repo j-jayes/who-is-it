@@ -1,0 +1,165 @@
+{
+    "career": [
+        {
+            "position": "konstnär",
+            "start_year": 1916,
+            "organization": "Orrefors glasbruk",
+            "location": {
+                "name": "Orrefors",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "konstnärlig ledare",
+            "start_year": 1916,
+            "organization": "Orrefors glasbruk",
+            "location": {
+                "name": "Orrefors",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "konstnär",
+            "start_year": 1924,
+            "organization": "Lessebo pappersbruk",
+            "location": {
+                "name": "Lessebo",
+                "latitude": 56.75126419999999,
+                "longitude": 15.2700008,
+                "formatted_address": "Lessebo, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Gate",
+        "middle_name": "Oskar Simon",
+        "gender": "Male",
+        "birth_date": "10-03-1883",
+        "birth_place": {
+            "name": "Fågelås, Skaraborgs Län",
+            "latitude": 58.26749029999999,
+            "longitude": 14.2649924,
+            "formatted_address": "544 94 Norra Fågelås, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Oskar",
+                "last_name": "Jonsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Sofia",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Orrefors",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "konstindustriella skolan",
+            "degree_level": "Schooling",
+            "year": "1902-1905",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "konstakademien",
+            "degree_level": "Schooling",
+            "year": "1905-1909",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ellen",
+            "last_name": "Olsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1919",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        }
+    ]
+}

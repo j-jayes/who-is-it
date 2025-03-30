@@ -1,0 +1,140 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1916,
+            "organization": "AB Separator",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Assistent i mekanik",
+            "start_year": 1917,
+            "end_year": 1918,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1926,
+            "end_year": 1927,
+            "organization": "Stockholms stads yrkes- och lärlingsskola",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Danielsson",
+        "middle_name": "Johan Daniel",
+        "gender": "Male",
+        "birth_date": "08-08-1893",
+        "birth_place": {
+            "name": "Brunflo, Jämtlands Län",
+            "latitude": 63.077899,
+            "longitude": 14.829402,
+            "formatted_address": "834 31 Brunflo, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Danielsson",
+                "middle_name": "P",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Järnvägsman",
+                    "occupation_english": "Railway employee",
+                    "hisco_code_swedish": "39960.0",
+                    "hisco_description_swedish": "Railway Clerk",
+                    "hisco_code_english": "39960.0",
+                    "hisco_description_english": "Railway Clerk"
+                }
+            },
+            {
+                "first_name": "Jenny",
+                "last_name": "Gustafsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Höglandstorget",
+        "latitude": 59.3233234,
+        "longitude": 17.9397743,
+        "formatted_address": "Höglandstorget, 167 71 Bromma, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1912",
+            "institution": "Östersund"
+        },
+        {
+            "degree": "Examen",
+            "degree_level": "Bachelor's",
+            "year": "1916",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Lagergren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "career": [
+        {
+            "position": "Lektor",
+            "start_year": 1941,
+            "end_year": 1943,
+            "organization": "Århus universitet",
+            "location": {
+                "name": "Århus",
+                "latitude": 56.162939,
+                "longitude": 10.203921,
+                "formatted_address": "Aarhus, Denmark"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt",
+            "start_year": 1948,
+            "end_year": 1949,
+            "organization": "Karolinska hal, Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1949,
+            "organization": "Karolinska hal, Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1959,
+            "end_year": 1962,
+            "organization": "Nikolai hal",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1962,
+            "organization": "Karolinska hal",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Bergström",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "28-10-1918",
+        "birth_place": {
+            "name": "Örebro",
+            "latitude": 59.2752626,
+            "longitude": 15.2134105,
+            "formatted_address": "Örebro, Sweden"
+        },
+        "occupation": {
+            "occupation": "Rektor",
+            "occupation_english": "Principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "37040.0",
+            "hisco_description_english": "Messenger"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Bergström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": "Manager",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Pehrson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Sveriges radio",
+            "role": "Ombudsman",
+            "start_year": 1954,
+            "end_year": 1959,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Länsstyrelsen i Örebro län",
+            "role": "Föredragande i ärenden rörande psykologiskt försvar",
+            "start_year": 1956,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Örebro stads kulturvårdnadsnämnd",
+            "role": "Ordförande",
+            "start_year": 1957,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Örebro",
+        "latitude": 59.2752626,
+        "longitude": 15.2134105,
+        "formatted_address": "Örebro, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1939",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1941",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1949",
+            "institution": "Uppsala universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Öijer",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Hjalmar",
+                    "last_name": "Öijer",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Fabrikör",
+                        "occupation_english": "Manufacturer"
+                    }
+                },
+                {
+                    "first_name": "Elisabeth",
+                    "last_name": "Strandell",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1945",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ann",
+                "last_name": "Bergström",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1946"
+            },
+            {
+                "first_name": "Clas",
+                "last_name": "Bergström",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1950"
+            },
+            {
+                "first_name": "Britt",
+                "last_name": "Bergström",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1953"
+            }
+        ]
+    },
+    "hobbies": [
+        "litteraturkritik"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Jonas Lies väg till Gilje",
+            "year": "1949",
+            "type": "doktorsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": "COB",
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

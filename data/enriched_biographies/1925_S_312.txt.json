@@ -1,0 +1,117 @@
+{
+    "career": [
+        {
+            "position": "huvudredaktör",
+            "start_year": 1924,
+            "end_year": null,
+            "organization": "Hälsingborgs dagblad",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Malte",
+        "last_name": "Sommelius",
+        "middle_name": "Ove",
+        "gender": "Male",
+        "birth_date": "03-02-1896",
+        "birth_place": {
+            "name": "Hälsingborg",
+            "latitude": 64.1386294,
+            "longitude": 19.5225599,
+            "formatted_address": "922 93 Hälsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "huvudredaktör",
+            "occupation_english": null,
+            "hisco_code_swedish": "15920.0",
+            "hisco_description_swedish": "Editor, Newspapers and Periodicals"
+        },
+        "parents": [
+            {
+                "first_name": "Malte",
+                "last_name": "Sommelius",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fabriksdisponent",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21220.0",
+                    "hisco_description_swedish": "Production Manager (except Farm)"
+                }
+            },
+            {
+                "first_name": "Elvira",
+                "last_name": "Löthman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "jur. kand.",
+            "degree_level": "Master's",
+            "year": "1922",
+            "institution": "Lunds universitet"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

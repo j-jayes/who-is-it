@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "Anställd vid Gyldendalske Boghandel Nordiska Förlaget",
+            "start_year": 1934,
+            "end_year": 1939,
+            "organization": "Gyldendalske Boghandel Nordiska Förlaget",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Föreningen Nordens danska lektor vid Lunds universitet",
+            "start_year": 1940,
+            "end_year": 1947,
+            "organization": "Föreningen Norden",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Universitetslektor i danska språket vid Lunds universitet",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "Lunds universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ingrid",
+        "last_name": "Bruzelius",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "30-09-1908",
+        "birth_place": {
+            "name": "Aarhus, Danmark",
+            "latitude": 56.162939,
+            "longitude": 10.203921,
+            "formatted_address": "Aarhus, Denmark"
+        },
+        "occupation": {
+            "occupation": "Universitetslektor",
+            "occupation_english": "University Lecturer",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Sören",
+                "last_name": "Hoffmeyer",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Prokurist",
+                    "occupation_english": "Signatory",
+                    "hisco_code_swedish": "21300.0",
+                    "hisco_description_swedish": "Sales Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Helga",
+                "last_name": "Steensen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "ChrX:esFrM"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Selskab for nordisk filologi",
+            "role": "Sekreterare",
+            "start_year": 1932,
+            "end_year": 1936,
+            "organization": "Köpenhamn",
+            "significance": null
+        },
+        {
+            "committee_name": "Danske studerandes folke-forbundsforening",
+            "role": "Sekreterare",
+            "start_year": 1933,
+            "end_year": 1937,
+            "organization": "Köpenhamn",
+            "significance": null
+        },
+        {
+            "committee_name": "Utrikespolitiska föreningen",
+            "role": "Vice ordförande",
+            "start_year": 1940,
+            "end_year": 1942,
+            "organization": "Lund",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1927",
+            "institution": "None"
+        },
+        {
+            "degree": "Candidatus Magisterii",
+            "degree_level": "Master's",
+            "year": "1933",
+            "institution": "Köpenhamn"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anders",
+            "last_name": "Bruzelius",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Assessor",
+                "occupation_english": "Judge",
+                "hisco_code_swedish": "12210.0",
+                "hisco_description_swedish": "Judge"
+            },
+            "parents": null
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Om kanel (kaniael)",
+            "year": "1935",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Norskt och danskt uttal (tillsammans med Birger Brinch-Lund)",
+            "year": "1941",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Grenoble",
+                "latitude": 45.188529,
+                "longitude": 5.724524,
+                "formatted_address": "Grenoble, France"
+            },
+            "country_code": "FRA",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Geneva",
+                "latitude": 46.2043907,
+                "longitude": 6.1431577,
+                "formatted_address": "Geneva, Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1933"
+        }
+    ]
+}

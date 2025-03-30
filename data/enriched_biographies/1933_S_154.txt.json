@@ -1,0 +1,145 @@
+{
+    "career": [
+        {
+            "position": "Delägare",
+            "start_year": 1907,
+            "organization": "Nils Setterwalls advokatbyrå"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1914,
+            "organization": "Krigsförsäkringskommittén"
+        },
+        {
+            "position": "Ledamot",
+            "start_year": 1914,
+            "organization": "Statens handelskommission"
+        },
+        {
+            "position": "Föredragande",
+            "start_year": 1914,
+            "organization": "Statens handelskommission"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1915,
+            "end_year": 1916,
+            "organization": "Diplomatiska förhandlingar med England"
+        },
+        {
+            "position": "Sakkunnig",
+            "start_year": 1915,
+            "end_year": 1916,
+            "organization": "Diplomatiska förhandlingar med England"
+        },
+        {
+            "position": "Förhandlare",
+            "start_year": 1919,
+            "organization": "Förhandlingar med England angående beslagtagna varor och fartyg"
+        },
+        {
+            "position": "Rådgivare",
+            "start_year": 1917,
+            "end_year": 1919,
+            "organization": "Svenska beskickningen i London",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        }
+    ],
+    "person": {
+        "first_name": "Schönmeyr",
+        "last_name": "Sebardt",
+        "gender": "Male",
+        "birth_date": "18-07-1879",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "S.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Vice Häradshövding",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Lindeman",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Jur. kand.",
+            "degree_level": "Bachelor's",
+            "year": "1901",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Alice",
+            "last_name": "Collett",
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "parents": [
+                {
+                    "first_name": "Cathrinus",
+                    "last_name": "C.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Trafikinspektör",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "21960.0",
+                        "hisco_description_swedish": "Transport Operations Managers"
+                    }
+                },
+                {
+                    "first_name": "Josephine",
+                    "last_name": "Holmsen",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1907"
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        }
+    ]
+}

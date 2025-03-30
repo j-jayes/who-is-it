@@ -1,0 +1,92 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Tord",
+        "last_name": "Holme",
+        "middle_name": "E B",
+        "gender": "Male",
+        "birth_date": "27-09-1923",
+        "birth_place": {
+            "name": "Ystad",
+            "latitude": 55.4295051,
+            "longitude": 13.8200308,
+            "formatted_address": "Ystad, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor emeritus",
+            "occupation_english": "Professor Emeritus",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Berthold",
+                "last_name": "Holme",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "förrådsdirektör",
+                    "occupation_english": "supply depot director",
+                    "hisco_code_swedish": "39140.0",
+                    "hisco_description_swedish": "Storeroom Clerk",
+                    "hisco_code_english": "22000.0",
+                    "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ebba",
+                "last_name": "Bonnert",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Medicine licentiat",
+            "position_english": "Medical licentiate",
+            "institution": "KI",
+            "start_year": 1954
+        },
+        {
+            "position": "Medicine doktor",
+            "position_english": "Medical Doctor",
+            "institution": "KI",
+            "start_year": 1957
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "KI",
+            "start_year": 1957,
+            "field": "bakteriologi"
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "KI",
+            "start_year": 1973,
+            "end_year": 1993,
+            "field": "bakteriologi"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter i bakteriologi",
+            "field": "bakteriologi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ilmy",
+            "last_name": "Heijbroek",
+            "gender": "Female",
+            "birth_date": null
+        },
+        "marriage_year": "1952",
+        "divorce_year": "1978",
+        "children": null
+    },
+    "publications": null,
+    "travels": null
+}

@@ -1,0 +1,93 @@
+{
+    "career": [
+        {
+            "position": "Delägare",
+            "start_year": 1930,
+            "organization": "Aktiebolaget Joh Jerndahl",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Arne",
+        "last_name": "Nabseth",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "08-05-1893",
+        "birth_place": {
+            "name": "Rena, Norge",
+            "latitude": 61.1313062,
+            "longitude": 11.366369,
+            "formatted_address": "Rena, Norway"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        }
+    },
+    "education": [
+        {
+            "degree": "Oslo Handelsgymnasium",
+            "degree_level": "Schooling",
+            "year": "1911",
+            "institution": "Oslo Handelsgymnasium"
+        },
+        {
+            "degree": "Burdett College",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Burdett College"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Nordamerika",
+                "latitude": 54.5259614,
+                "longitude": -105.2551187,
+                "formatted_address": "North America"
+            },
+            "country_code": "NAM",
+            "year": null
+        }
+    ]
+}

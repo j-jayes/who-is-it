@@ -1,0 +1,111 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1951,
+            "end_year": 1953,
+            "organization": "Alice Lunds textilier",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1954,
+            "end_year": 1959,
+            "organization": "Ingrid Arlenborgs textilier",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Hemslöjdschef",
+            "start_year": 1959,
+            "end_year": null,
+            "organization": "Föreningen Bohusslöjd-Konstfliten, hemslöjden i Göteborgs och Bohus Län",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Timlärare",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "Slöjdföreningens skola",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ingrid",
+        "last_name": "Arlenborg",
+        "middle_name": "M A",
+        "gender": "Female",
+        "birth_date": "23-01-1926",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Textilkonstnärinna",
+            "occupation_english": "Textile artist",
+            "hisco_code_english": "16130.0",
+            "hisco_description_english": "Painter, Artist"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Arlenborg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Handlare",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Ottilia",
+                "last_name": "Gustavsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Slöjdföreningens skola",
+            "degree_level": "Schooling",
+            "year": "1951",
+            "institution": "Göteborg"
+        }
+    ],
+    "hobbies": [
+        "Golf"
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1954"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1954"
+        }
+    ]
+}

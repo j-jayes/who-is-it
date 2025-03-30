@@ -1,0 +1,179 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1929,
+            "end_year": 1935,
+            "organization": "Serafimerlasarettet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1929,
+            "end_year": 1935,
+            "organization": "Serafimerlasarettet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Maria",
+        "last_name": "Hellgren-Sjögren",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "28-08-1898",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Praktiserande läkare",
+            "occupation_english": "Practicing physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ulrik",
+                "last_name": "Hellgren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Medicine doktor",
+                    "occupation_english": "Medical Doctor",
+                    "hisco_code_swedish": "6100.0",
+                    "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+                    "hisco_code_english": "6100.0",
+                    "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Andrea",
+                "last_name": "Åhlander",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Jönköping",
+        "latitude": 57.78261370000001,
+        "longitude": 14.1617876,
+        "formatted_address": "Jönköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1918",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1922",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1928",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Henrik",
+            "last_name": "Sjögren",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Professor",
+                "occupation_english": "Professor",
+                "hisco_code_swedish": "13100.0",
+                "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                "hisco_code_english": "13100.0",
+                "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+            },
+            "parents": null
+        },
+        "marriage_year": "1928",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Gunvor",
+                "last_name": "Sjögren",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1934"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1928"
+        }
+    ]
+}

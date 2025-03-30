@@ -1,0 +1,182 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1905,
+            "organization": "Malmö Allmänna Sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Amanuens och Underkirurg",
+            "start_year": 1906,
+            "end_year": 1908,
+            "organization": "Serafimerlasarettet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tillförordnad Lasarettsläkare",
+            "start_year": 1909,
+            "organization": "Lasarettet i Lidköping",
+            "location": {
+                "name": "Lidköping",
+                "latitude": 58.5035047,
+                "longitude": 13.1570768,
+                "formatted_address": "Lidköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1918,
+            "organization": "Lasarettet i Lidköping",
+            "location": {
+                "name": "Lidköping",
+                "latitude": 58.5035047,
+                "longitude": 13.1570768,
+                "formatted_address": "Lidköping, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Waller",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "29-11-1875",
+        "birth_place": {
+            "name": "Önum, Skaraborgs Län",
+            "latitude": 58.245451,
+            "longitude": 12.9970434,
+            "formatted_address": "Önum Djäknagården 1, 534 91 Vara, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lasarettsläkare",
+            "occupation_english": "Hospital Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "L.",
+                "last_name": "P.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Godsägare",
+                    "occupation_english": "Estate Owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Andersson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lidköping",
+        "latitude": 58.5035047,
+        "longitude": 13.1570768,
+        "formatted_address": "Lidköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1900",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1905",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Modigh",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Ivar",
+                    "last_name": "M.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Järnvägstjänsteman",
+                        "occupation_english": "Railway Official",
+                        "hisco_code_swedish": "39960.0",
+                        "hisco_description_swedish": "Railway Clerk"
+                    }
+                },
+                {
+                    "first_name": "Ida",
+                    "last_name": "M.",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1910",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1928"
+        }
+    ]
+}

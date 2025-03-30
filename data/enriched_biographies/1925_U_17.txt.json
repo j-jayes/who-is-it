@@ -1,0 +1,199 @@
+{
+    "career": [
+        {
+            "position": "ingenjör",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": "Spännarhytte bruk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överingenjörsassistent",
+            "start_year": 1911,
+            "end_year": null,
+            "organization": "Järnkontoret",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lärare i metallurgi med mera",
+            "start_year": 1912,
+            "end_year": null,
+            "organization": "bergsskolan i Falun",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "hytt- och martiningenjör",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Nykroppa järnverk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överingenjör",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": "Nykroppa järnverk",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Helge",
+        "last_name": "Uhrus",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "10-01-1886",
+        "birth_place": {
+            "name": "Söderala, Gävleborgs Län",
+            "latitude": 61.28214730000001,
+            "longitude": 16.95946,
+            "formatted_address": "826 61 Söderala, Sweden"
+        },
+        "occupation": {
+            "occupation": "överingenjör",
+            "occupation_english": "chief engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Olov",
+                "last_name": "Uhrus",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "smedsmästare",
+                    "occupation_english": "master smith",
+                    "hisco_code_swedish": "83110.0",
+                    "hisco_description_swedish": "Blacksmith, General",
+                    "hisco_code_english": "83110.0",
+                    "hisco_description_english": "Blacksmith, General"
+                }
+            },
+            {
+                "first_name": "Hedvig",
+                "last_name": "Svensson",
+                "middle_name": "Sofia",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Nykroppa",
+        "latitude": 59.62326539999999,
+        "longitude": 14.3027897,
+        "formatted_address": "682 90 Nykroppa, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Bergsingenjör",
+            "degree_level": "Bachelor's",
+            "year": "1909",
+            "institution": "Tekniska högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lilly",
+            "last_name": "Ahlstedt",
+            "middle_name": "Maria",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Ahlstedt",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kontraktsprost",
+                        "occupation_english": "rural dean",
+                        "hisco_code_swedish": "14120.0",
+                        "hisco_description_swedish": "Minister of Religion",
+                        "hisco_code_english": "37030.0",
+                        "hisco_description_english": "Postman"
+                    }
+                },
+                {
+                    "first_name": "Evelyn",
+                    "last_name": "Tengzelins",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1914",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "uppsatser och föredrag i tekniska tidskrifter",
+            "year": "1913",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

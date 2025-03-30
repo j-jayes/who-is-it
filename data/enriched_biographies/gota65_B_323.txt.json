@@ -1,0 +1,245 @@
+{
+    "career": [
+        {
+            "position": "Vikarierande provinsialläkare",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "None",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1946,
+            "end_year": 1952,
+            "organization": "Medicinska tuberkulosavdelningen och medicinska avdelningen S:t Görans sjukhus",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Förste underläkare",
+            "start_year": 1953,
+            "end_year": null,
+            "organization": "Medicinska kliniken Serafimerlasarettet",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Biträdande överläkare",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "Medicinska kliniken Eskilstuna lasarett",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överläkare, styresman",
+            "start_year": 1963,
+            "end_year": null,
+            "organization": "Lasarettet Skövde",
+            "location": {
+                "name": "Skövde",
+                "latitude": 58.3902782,
+                "longitude": 13.8461208,
+                "formatted_address": "Skövde, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "SVEN-OLOF",
+        "last_name": "BERLIN",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "24-05-1918",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent, överläkare",
+            "occupation_english": "Docent, chief physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Allan",
+                "last_name": "Berlin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Civilingenjör",
+                    "occupation_english": "Civil engineer",
+                    "hisco_code_swedish": "2210.0",
+                    "hisco_description_swedish": "Civil Engineer, General"
+                }
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Flodman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1958,
+            "end_year": null,
+            "field": "invärtes medicin"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Skövde",
+        "latitude": 58.3902782,
+        "longitude": 13.8461208,
+        "formatted_address": "Skövde, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1937",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1940",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1945",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1957",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Claesson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "David",
+                    "last_name": "Claesson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Tillsynslärare",
+                        "occupation_english": "Supervisory teacher"
+                    }
+                },
+                {
+                    "first_name": "Alfhild",
+                    "last_name": "Englund",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1944",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Anita",
+                "last_name": "Berlin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1946"
+            },
+            {
+                "first_name": "Örjan",
+                "last_name": "Berlin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1948"
+            },
+            {
+                "first_name": "Gunnel",
+                "last_name": "Berlin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1953"
+            }
+        ]
+    },
+    "hobbies": [
+        "musik",
+        "konst"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Exudative tuberculous pleurisy",
+            "year": "1957",
+            "type": "doktorsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Skrifter om medicinsk tuberkulos, invärtes medicin och medicinsk statistik",
+            "year": "None",
+            "type": "None",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

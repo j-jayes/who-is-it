@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Fysiolog",
+            "start_year": 1951,
+            "end_year": 1956,
+            "organization": "London",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Anestesiolog",
+            "start_year": 1956,
+            "end_year": 1966,
+            "organization": "Akademiska sjukhuset Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anestesiolog",
+            "start_year": 1956,
+            "end_year": 1966,
+            "organization": "Centrallasarettet Östersund",
+            "location": {
+                "name": "Östersund",
+                "latitude": 63.1766832,
+                "longitude": 14.6360681,
+                "formatted_address": "Östersund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare anestesiavdelningen",
+            "start_year": 1966,
+            "end_year": 1990,
+            "organization": "Samariterhemmets sjukhus",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Basil",
+        "last_name": "Finer",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "25-09-1903",
+        "birth_place": {
+            "name": "London",
+            "latitude": 51.5072178,
+            "longitude": -0.1275862,
+            "formatted_address": "London, UK"
+        },
+        "occupation": {
+            "occupation": "Överläkare",
+            "occupation_english": "Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Finer",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Översättare",
+                    "occupation_english": "Translator",
+                    "hisco_code_swedish": "19530.0",
+                    "hisco_description_swedish": "Translator"
+                }
+            },
+            {
+                "first_name": "Freda",
+                "last_name": "Brodetsky",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "Folkskollärare",
+                    "occupation_english": "Elementary School Teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1971,
+            "end_year": null,
+            "field": "Anestesiologi och intensivvård"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska föreningen för klinisk och experimentell hypnos",
+            "role": "Ordförande",
+            "start_year": 1967,
+            "end_year": 1977,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "International Society for Clinical and Experimental Hypnosis",
+            "role": "Executive Secretary",
+            "start_year": 1969,
+            "end_year": 1973,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "VI internat hypnoskongr",
+            "role": "Generalsekreterare",
+            "start_year": 1973,
+            "end_year": null,
+            "organization": "Uppsala",
+            "significance": null
+        },
+        {
+            "committee_name": "International Association for the Study of Pain",
+            "role": "Grundande medlem",
+            "start_year": 1973,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Council of Representatives",
+            "role": "Ledamot",
+            "start_year": 1976,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Council, European Section, International Society for Hypnosis",
+            "role": "Ledamot",
+            "start_year": 1978,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "MB BS",
+            "degree_level": "Bachelor's",
+            "year": "1949",
+            "institution": "London"
+        },
+        {
+            "degree": "Dipl Anaesthesia",
+            "degree_level": "Master's",
+            "year": "1953",
+            "institution": "None"
+        },
+        {
+            "degree": "Fellow Fac of Anaesthetics Royal Coll of Surgeons",
+            "degree_level": "Doctorate",
+            "year": "1954",
+            "institution": "None"
+        },
+        {
+            "degree": "Leg läkare",
+            "degree_level": "Doctorate",
+            "year": "1959",
+            "institution": "Sverige"
+        },
+        {
+            "degree": "Medicine Doktor",
+            "degree_level": "Doctorate",
+            "year": "1970",
+            "institution": "Uppsala"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Skrifter om hypnos och smärta",
+            "year": "None",
+            "type": "Övrigt"
+        }
+    ]
+}

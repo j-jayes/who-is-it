@@ -1,0 +1,145 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Cassel",
+        "middle_name": "Arne",
+        "gender": "Male",
+        "birth_date": "26-02-1898",
+        "birth_place": {
+            "name": "Djursholm",
+            "latitude": 59.39707249999999,
+            "longitude": 18.0903005,
+            "formatted_address": "Djursholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustav",
+                "last_name": "Cassel",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "professor",
+                    "occupation_english": "professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Möller",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Statens Konstråd",
+            "role": "ledamot",
+            "start_year": 1955
+        },
+        {
+            "committee_name": "Konstnärernas Riksorganisation",
+            "role": "ordförande",
+            "start_year": 1956
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studiexamen",
+            "degree_level": "Schooling",
+            "year": "1916",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Dagny",
+            "last_name": "Cassel",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Hjalmar",
+                    "last_name": "Cassel",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "redaktör",
+                        "occupation_english": "editor",
+                        "hisco_code_swedish": "15920.0",
+                        "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+                        "hisco_code_english": "15120.0",
+                        "hisco_description_english": "Author"
+                    }
+                },
+                {
+                    "first_name": "Ingrid",
+                    "last_name": "Carlsson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1937"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Ledamot av Franska Konstakademien 1948"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA"
+        }
+    ]
+}

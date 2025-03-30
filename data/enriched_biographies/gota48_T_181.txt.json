@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Tandläkare",
+            "start_year": 1936,
+            "end_year": 1943,
+            "organization": "Egen praktik",
+            "location": {
+                "name": "Danderyd (Stocksund)",
+                "latitude": 59.3841662,
+                "longitude": 18.0478685,
+                "formatted_address": "Stocksund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tandläkare",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Egen praktik",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1942,
+            "end_year": 1943,
+            "organization": "Tandläkarinstitutet, kirurgiska avdelningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "President",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Societas Sanctae Apolloniae",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Trönnberg",
+        "middle_name": "Per Gunnar",
+        "gender": "Male",
+        "birth_date": "27-04-1904",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Tandläkare",
+            "occupation_english": "Dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1922",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1927",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "Tandläkare",
+            "degree_level": "Master's",
+            "year": "1931",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maria",
+            "last_name": "Skyttberg",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Sonja",
+                "last_name": "Trönnberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1937"
+            },
+            {
+                "first_name": "Stefan-Maria",
+                "last_name": "Trönnberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Olof",
+                "last_name": "Trönnberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Bernadette",
+                "last_name": "Trönnberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1945"
+            },
+            {
+                "first_name": "Erik",
+                "last_name": "Trönnberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Påvliga Laterankorset",
+        "Preussiska Röda Korsets förtjänstkors",
+        "Tyska militärmedaljen"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "S:ta Apollonia av Alexandria",
+            "year": "1943",
+            "type": "None"
+        },
+        {
+            "title": "Den romerska vägen",
+            "year": "1943",
+            "type": "None"
+        },
+        {
+            "title": "De weg naar Rome",
+            "year": "1946",
+            "type": "None",
+            "publisher": "Mechelen"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None"
+        },
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "None"
+        },
+        {
+            "country": {
+                "name": "Sydamerika",
+                "latitude": -8.783195,
+                "longitude": -55.491477,
+                "formatted_address": "South America"
+            },
+            "country_code": "None"
+        }
+    ]
+}

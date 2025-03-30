@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Fartygsläkare",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": "Svensk-amerikanska linjen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1919,
+            "end_year": 1921,
+            "organization": "Flera sjukhus",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Extra provinsialläkare",
+            "start_year": 1922,
+            "end_year": 1926,
+            "organization": "Töreboda distrikt",
+            "location": {
+                "name": "Töreboda",
+                "latitude": 58.7043445,
+                "longitude": 14.1260717,
+                "formatted_address": "Töreboda, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Förste provinsialläkare",
+            "start_year": 1927,
+            "end_year": null,
+            "organization": "Skaraborgs Län",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Förste provinsialläkare",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Östergötlands Län",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Byråchef",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Medicinalstyrelsen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Wranne",
+        "middle_name": "Hilmer",
+        "gender": "Male",
+        "birth_date": "27-04-1892",
+        "birth_place": {
+            "name": "Kalmar",
+            "latitude": 56.6634447,
+            "longitude": 16.356779,
+            "formatted_address": "Kalmar, Sweden"
+        },
+        "occupation": {
+            "occupation": "Förste provinsialläkare",
+            "occupation_english": "First provincial doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Gust.",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byggmästare",
+                    "occupation_english": "Builder",
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor",
+                    "hisco_code_english": "95910.0",
+                    "hisco_description_english": "Housebuilder, General"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Epideminämnd",
+            "role": "Ordförande",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Östergötlands Län",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Linköping",
+        "latitude": 58.41080700000001,
+        "longitude": 15.6213727,
+        "formatted_address": "Linköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1911",
+            "institution": "Kalmar"
+        },
+        {
+            "degree": "Medicine licentiate",
+            "degree_level": "Master's",
+            "year": "1919",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Hedin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "01-01-1901",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "John",
+                    "last_name": "H",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Disponent",
+                        "occupation_english": "Manager",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Lindmark",
+                    "last_name": "H.H.",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1922",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1931"
+        }
+    ]
+}

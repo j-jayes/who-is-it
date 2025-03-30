@@ -1,0 +1,181 @@
+{
+    "career": [
+        {
+            "position": "löjtnant",
+            "start_year": 1920,
+            "organization": "Väg- och vattenbyggnadskåren",
+            "country_code": "SWE"
+        },
+        {
+            "position": "kapten",
+            "start_year": 1928,
+            "organization": "Väg- och vattenbyggnadskåren",
+            "country_code": "SWE"
+        },
+        {
+            "position": "major",
+            "start_year": 1943,
+            "organization": "Väg- och vattenbyggnadskåren",
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1917,
+            "end_year": 1920,
+            "organization": "aktiebolaget Skånska Cementgjuteriet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1923,
+            "end_year": 1926,
+            "organization": "aktiebolaget Skånska Cementgjuteriet",
+            "location": {
+                "name": "Sundsvall",
+                "latitude": 62.390811,
+                "longitude": 17.306927,
+                "formatted_address": "Sundsvall, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "delägare",
+            "start_year": 1926,
+            "end_year": 1929,
+            "organization": "ingenjörsfirman Ragnar Larson & Co",
+            "location": {
+                "name": "Sundsvall",
+                "latitude": 62.390811,
+                "longitude": 17.306927,
+                "formatted_address": "Sundsvall, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "grundare",
+            "start_year": 1929,
+            "organization": "Byggnadsaktiebolaget Hallström & Hambræus & Nisses",
+            "country_code": "SWE"
+        },
+        {
+            "position": "delägare",
+            "start_year": 1929,
+            "organization": "Byggnadsaktiebolaget Hallström & Hambræus & Nisses",
+            "country_code": "SWE"
+        },
+        {
+            "position": "konsult",
+            "start_year": 1952,
+            "organization": "Byggnadsaktiebolaget Hallström & Hambræus & Nisses",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Hallström",
+        "middle_name": "Otto",
+        "gender": "Male",
+        "birth_date": "05-01-1892",
+        "birth_place": {
+            "name": "Köping",
+            "latitude": 59.5120962,
+            "longitude": 15.9945102,
+            "formatted_address": "Köping, Sweden"
+        },
+        "occupation": {
+            "occupation": "major, civilingenjör",
+            "occupation_english": "Major, Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Hallström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "disponent",
+                    "occupation_english": "Manager",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Arhusiander",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Saltsjö-Duvnäs",
+        "latitude": 59.3008006,
+        "longitude": 18.1982809,
+        "formatted_address": "131 50 Saltsjö-Duvnäs, Sweden"
+    },
+    "education": [
+        {
+            "degree": "civilingenjör",
+            "degree_level": "Master's",
+            "year": "1915",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Nanny",
+            "last_name": "Näslund",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Johan",
+                    "last_name": "Näslund",
+                    "middle_name": "Aug.",
+                    "gender": "Male"
+                },
+                {
+                    "first_name": "Kristina",
+                    "last_name": "Bylund",
+                    "middle_name": "Matilda",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1927"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1920-1923"
+        }
+    ]
+}

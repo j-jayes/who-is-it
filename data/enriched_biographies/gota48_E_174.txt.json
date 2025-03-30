@@ -1,0 +1,180 @@
+{
+    "career": [
+        {
+            "position": "Anställd å beräknings- och offertavdelningen",
+            "start_year": 1929,
+            "end_year": 1934,
+            "organization": "STAL",
+            "location": {
+                "name": "Finspång",
+                "latitude": 58.7074884,
+                "longitude": 15.773595,
+                "formatted_address": "Finspång, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd å ångtekniska avdelningen",
+            "start_year": 1934,
+            "end_year": 1935,
+            "organization": "Södra Sveriges Ångpanneförening",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1935,
+            "end_year": 1937,
+            "organization": "Maskinfackskolan",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande chef",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Aktiebolaget Davy Robertsons Maskinfabrik",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Ekstein",
+        "middle_name": "Gunnar",
+        "gender": "Male",
+        "birth_date": "13-08-1903",
+        "birth_place": {
+            "name": "Torshälla",
+            "latitude": 59.42129649999999,
+            "longitude": 16.4769698,
+            "formatted_address": "Torshälla, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "J. S.",
+                "last_name": "Ekstein",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fabrikör",
+                    "occupation_english": "Manufacturer"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Sjöberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studerade",
+            "degree_level": "Schooling",
+            "year": "1924",
+            "institution": "Maskinfackskolan i Eskilstuna"
+        },
+        {
+            "degree": "Studerade",
+            "degree_level": "Schooling",
+            "year": "1925-1929",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gertrud",
+            "last_name": "Lundqvist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1942",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Hans",
+                "last_name": "Ekstein",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1944"
+            },
+            {
+                "first_name": "Lars",
+                "last_name": "Ekstein",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1936"
+        }
+    ]
+}

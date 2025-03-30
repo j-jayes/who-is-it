@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1935,
+            "end_year": 1936,
+            "organization": "Nyboholms Aktiebolag Kvillsfors",
+            "location": {
+                "name": "Kvillsfors",
+                "latitude": 57.40332290000001,
+                "longitude": 15.5021311,
+                "formatted_address": "574 55 Kvillsfors, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör och Disponent",
+            "start_year": 1937,
+            "organization": "Hånsfors bränneri Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1937,
+            "organization": "Hånsfors red Aktiebolag",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sverker",
+        "last_name": "Brunius",
+        "middle_name": "Thorstensson",
+        "gender": "Male",
+        "birth_date": "11-10-1911",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Th",
+                "last_name": "Brunius",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Konsul",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Hildur",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Hånsfors bränneri Aktiebolag"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Hånsfors red Aktiebolag"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Nyboholms Aktiebolag"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Qvills bränneri Aktiebolag"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolag Ag.aff Assurans"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolag Hunnerstad"
+        },
+        {
+            "position": "Styrelsesuppleant",
+            "organization": "Th Brunius & Co Aktiebolag"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Kommunalfullmäktige",
+            "role": "Ledamot",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Töcksmark",
+            "significance": null
+        },
+        {
+            "committee_name": "Byggnadsnämnden",
+            "role": "Ledamot",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Töcksmark",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Töcksfors",
+        "latitude": 59.5075308,
+        "longitude": 11.8425511,
+        "formatted_address": "672 41 Töcksfors, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Realexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "CTH lägre avdelning",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Manchester University Techn Sect",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Manchester University"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Greta",
+            "last_name": "Hedén",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "None",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1936"
+        }
+    ]
+}

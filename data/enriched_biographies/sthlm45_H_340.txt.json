@@ -1,0 +1,191 @@
+{
+    "career": [
+        {
+            "position": "Biträdande sekreterare",
+            "start_year": 1942,
+            "organization": "riksheraldikerämbetet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medlem",
+            "start_year": 1924,
+            "end_year": 1937,
+            "organization": "Nordiska Familjebokens redaktion",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Redaktionssekreterare",
+            "start_year": 1927,
+            "end_year": 1937,
+            "organization": "Nordiska Familjebokens redaktion",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1937,
+            "organization": "Svenskt biografiskt lexikon",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1928,
+            "organization": "Personalhistoriska samfundet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1928,
+            "organization": "Personalhistorisk tidskrift",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Hildebrand",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "04-02-1893",
+        "birth_place": {
+            "name": "Lund",
+            "latitude": 55.7046601,
+            "longitude": 13.1910073,
+            "formatted_address": "Lund, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent",
+            "occupation_english": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hildemar",
+                "last_name": "Hildebrand",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Professor",
+                    "occupation_english": "Professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Gyllenkrok",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Stockholms Högskola",
+            "department": "Historiska",
+            "start_year": 1938,
+            "end_year": null,
+            "field": "Historia"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1920",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Kansliexamen",
+            "degree_level": "Bachelor's",
+            "year": "1921",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1935",
+            "institution": "Stockholms Högskola"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1939",
+            "institution": "Stockholms Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Wända",
+            "last_name": "Lilliesköld",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1925",
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

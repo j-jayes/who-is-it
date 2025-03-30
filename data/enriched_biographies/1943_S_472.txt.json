@@ -1,0 +1,26 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Strömgren",
+        "gender": "Male"
+    },
+    "publications": [
+        {
+            "title": "Universums utforskning",
+            "year": "1942",
+            "type": "Book"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        }
+    ]
+}

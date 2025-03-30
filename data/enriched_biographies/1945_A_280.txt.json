@@ -1,0 +1,76 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1999,
+            "organization": "Deutsche Kahneisen"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Asker",
+        "middle_name": "Edvard",
+        "gender": "Male",
+        "birth_date": "01-06-1899",
+        "birth_place": {
+            "name": "Gävle",
+            "latitude": 60.6748796,
+            "longitude": 17.1412726,
+            "formatted_address": "Gävle, Sweden"
+        },
+        "occupation": {
+            "occupation": "direktör",
+            "occupation_english": "director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Asker",
+                "middle_name": "Fredrik",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kapten",
+                    "occupation_english": "captain",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Ellen",
+                "last_name": "Cronstedt",
+                "middle_name": "Henriette",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

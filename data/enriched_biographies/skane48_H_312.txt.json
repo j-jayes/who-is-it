@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Extra ordinarie lärare",
+            "start_year": 1918,
+            "end_year": 1921,
+            "organization": "Samrealskolan i Åstorp",
+            "location": {
+                "name": "Åstorp",
+                "latitude": 56.134262,
+                "longitude": 12.945908,
+                "formatted_address": "Åstorp, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ordinarie ämneslärare",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "Samrealskolan i Åstorp",
+            "location": {
+                "name": "Åstorp",
+                "latitude": 56.134262,
+                "longitude": 12.945908,
+                "formatted_address": "Åstorp, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt i modersmål, tyska och engelska",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Samrealskolan i Åstorp",
+            "location": {
+                "name": "Åstorp",
+                "latitude": 56.134262,
+                "longitude": 12.945908,
+                "formatted_address": "Åstorp, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Seth",
+        "last_name": "Holmer",
+        "middle_name": "Arthur Valdemar",
+        "gender": "Male",
+        "birth_date": "23-03-1892",
+        "birth_place": {
+            "name": "Borgvattnet, Jämtlands Län",
+            "latitude": 63.42419929999999,
+            "longitude": 15.8227786,
+            "formatted_address": "844 95 Borgvattnet, Sweden"
+        },
+        "occupation": {
+            "occupation": "Läroverksadjunkt",
+            "occupation_english": null,
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Holmer",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Komminister",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Lovisa",
+                "last_name": "Holmer",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Folkskolestyrelsen",
+            "role": "Ledamot",
+            "start_year": 1931,
+            "end_year": 1942,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Åstorp",
+        "latitude": 56.134262,
+        "longitude": 12.945908,
+        "formatted_address": "Åstorp, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1911",
+            "institution": "Östersund"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1916",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1917",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Martha",
+            "last_name": "Finnberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1928",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Anna-Lisa",
+                "last_name": "Holmer",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1929"
+            },
+            {
+                "first_name": "Erik",
+                "last_name": "Holmer",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1932"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1932"
+        }
+    ]
+}

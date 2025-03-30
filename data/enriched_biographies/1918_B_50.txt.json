@@ -1,0 +1,160 @@
+{
+    "career": [
+        {
+            "position": "elektrisk ingenjör",
+            "start_year": 1892,
+            "end_year": 1904,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "konsulterande ingenjör",
+            "start_year": 1904,
+            "end_year": 1909,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lärare i elektroteknik",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": "Union University",
+            "location": {
+                "name": "Schenectady, N.Y.",
+                "latitude": 42.8143509,
+                "longitude": -73.93874199999999,
+                "formatted_address": "Schenectady, NY, USA"
+            },
+            "country_code": null
+        },
+        {
+            "position": "professor i elektroteknik",
+            "start_year": 1910,
+            "end_year": null,
+            "organization": "Illinois statsuniversitet",
+            "location": {
+                "name": "Urbana",
+                "latitude": 40.1105875,
+                "longitude": -88.2072697,
+                "formatted_address": "Urbana, IL, USA"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Berg",
+        "middle_name": "Julius",
+        "gender": "Male",
+        "birth_date": "07-01-1871",
+        "birth_place": {
+            "name": "Östersund",
+            "latitude": 63.1766832,
+            "longitude": 14.6360681,
+            "formatted_address": "Östersund, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ernst",
+                "last_name": "Berg",
+                "middle_name": "Vict. Gabr.",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Josefina",
+                "last_name": "Hamrén",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Urbana, Illinois",
+        "latitude": 40.1105875,
+        "longitude": -88.2072697,
+        "formatted_address": "Urbana, IL, USA"
+    },
+    "education": [
+        {
+            "degree": "utex. från tekniska högskolan",
+            "degree_level": "Bachelor's",
+            "year": "1892",
+            "institution": "tekniska högskolan"
+        },
+        {
+            "degree": "Doctor of Science",
+            "degree_level": "Doctorate",
+            "year": "1909",
+            "institution": "Union University"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gwendolen",
+            "last_name": "O'Brien",
+            "middle_name": "C",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": {
+                "name": "Watertown, N.Y.",
+                "latitude": 43.9725849,
+                "longitude": -75.90974299999999,
+                "formatted_address": "Watertown, NY 13601, USA"
+            },
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1904",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Electr. energy",
+            "year": "1908",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1892"
+        }
+    ]
+}

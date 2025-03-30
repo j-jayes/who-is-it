@@ -1,0 +1,170 @@
+{
+    "career": [
+        {
+            "position": "vävmästare",
+            "start_year": 1911,
+            "end_year": 1920,
+            "organization": "firma L. J. Wingqvist",
+            "location": {
+                "name": "Fritsla",
+                "latitude": 57.5577891,
+                "longitude": 12.7855095,
+                "formatted_address": "511 72 Fritsla, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "driftsledare",
+            "start_year": 1920,
+            "end_year": 1944,
+            "organization": "Drufvefors Väfveri Aktiebolag",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överingenjör",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Drufvefors Väfveri Aktiebolag",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Drufvefors Väfveri Aktiebolag",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "August",
+        "last_name": "Snickars",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "04-08-1882",
+        "birth_place": {
+            "name": "Närpes, Finland",
+            "latitude": 62.47283869999999,
+            "longitude": 21.3371527,
+            "formatted_address": "64200 Närpes, Finland"
+        },
+        "occupation": {
+            "occupation": "överingenjör",
+            "occupation_english": "chief engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Markus",
+                "last_name": "Snickars",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantmätare",
+                    "occupation_english": "surveyor",
+                    "hisco_code_swedish": "3020.0",
+                    "hisco_description_swedish": "Land Surveyor",
+                    "hisco_code_english": "44330.0",
+                    "hisco_description_english": "Appraiser"
+                }
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Ehrström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "ledamot av bolagsstyrelsen",
+            "organization": "Drufvefors Väfveri Aktiebolag"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Borås",
+        "latitude": 57.72103500000001,
+        "longitude": 12.939819,
+        "formatted_address": "Borås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Schooling",
+            "year": "okänt",
+            "institution": "Tekniska Industriskolan i Vasa, Finland"
+        },
+        {
+            "degree": "Vävskoleexamen",
+            "degree_level": "Schooling",
+            "year": "okänt",
+            "institution": "John Lennings vävskola i Norrköping"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

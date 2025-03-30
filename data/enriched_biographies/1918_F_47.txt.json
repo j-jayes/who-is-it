@@ -1,0 +1,133 @@
+{
+    "career": [
+        {
+            "position": "Komminister",
+            "start_year": 1868,
+            "organization": "Kimstad"
+        },
+        {
+            "position": "Regementspastor",
+            "start_year": 1871
+        },
+        {
+            "position": "Kyrkoherde",
+            "start_year": 1874,
+            "organization": "Östra Ryd"
+        },
+        {
+            "position": "Kyrkoherde",
+            "start_year": 1886,
+            "organization": "Vadstena"
+        },
+        {
+            "position": "Kontraktsprost",
+            "start_year": 1897
+        },
+        {
+            "position": "Folkskoleinspektör",
+            "start_year": 1881,
+            "end_year": 1892
+        },
+        {
+            "position": "Ordförande",
+            "start_year": 1887,
+            "organization": "Vadstena hospitalsdirektion"
+        },
+        {
+            "position": "Ordförande",
+            "start_year": 1887,
+            "organization": "Direktionen för dövstumskolan"
+        },
+        {
+            "position": "Stadsfullmäktiges ordförande",
+            "start_year": 1911
+        }
+    ],
+    "person": {
+        "first_name": "Rudolf",
+        "last_name": "Fjetterström",
+        "gender": "Male",
+        "birth_date": "18-12-1838",
+        "birth_place": {
+            "name": "Ekeby",
+            "latitude": 55.9996194,
+            "longitude": 12.967407,
+            "formatted_address": "267 76 Ekeby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kontraktsprost",
+            "occupation_english": "Rural Dean",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "37030.0",
+            "hisco_description_english": "Postman"
+        },
+        "parents": [
+            {
+                "first_name": "C.G.",
+                "last_name": "Fjetterström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Länsman",
+                    "occupation_english": "District administrator",
+                    "hisco_code_swedish": "31090.0",
+                    "hisco_description_swedish": "Government Executive Officials Not Elsewhere Classified"
+                }
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Wadsberg",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Teoretisk teologisk examen",
+            "degree_level": "Doctorate",
+            "year": "1860",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Praktisk teologisk examen",
+            "degree_level": "Doctorate",
+            "year": "1860",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hedvig",
+            "last_name": "Billstén",
+            "middle_name": "Livia Charlotta",
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "parents": [
+                {
+                    "first_name": "Karl",
+                    "last_name": "Billstén",
+                    "middle_name": "August",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Possessionat",
+                        "occupation_english": "Landowner",
+                        "hisco_code_swedish": "61110.0",
+                        "hisco_description_swedish": "General Farmer"
+                    }
+                },
+                {
+                    "first_name": "Vilhelmina",
+                    "last_name": "Hjorton",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1870"
+    }
+}

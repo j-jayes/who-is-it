@@ -1,0 +1,216 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1915,
+            "end_year": 1918,
+            "organization": "Aktiebolaget Stenberg & Ohlsons filialer",
+            "location": {
+                "name": "Örebro, Göteborg och Malmö",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1918,
+            "end_year": 1920,
+            "organization": "Firma P W Stenström",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "end_year": 1924,
+            "organization": null,
+            "location": {
+                "name": "Argentina",
+                "latitude": -38.416097,
+                "longitude": -63.61667199999999,
+                "formatted_address": "Argentina"
+            },
+            "country_code": "ARG"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1924,
+            "end_year": 1930,
+            "organization": null,
+            "location": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Import & Export Aktiebolag G & L Beijer",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktörsassistent",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Luleå",
+                "latitude": 65.584819,
+                "longitude": 22.1567026,
+                "formatted_address": "Luleå, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Aktiebolaget Luleå Kol- & Materialaffär",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Luleå Tegelbruks Aktiebolag",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Oscar",
+        "last_name": "Nylander",
+        "middle_name": "Bernhard",
+        "gender": "Male",
+        "birth_date": "01-01-1896",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "F",
+                "last_name": "Nylander",
+                "middle_name": "O",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Järnvägstjänsteman",
+                    "occupation_english": "Railway official",
+                    "hisco_code_swedish": "39960.0",
+                    "hisco_description_swedish": "Railway Clerk"
+                }
+            },
+            {
+                "first_name": "Ebba",
+                "last_name": "Sundblad",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Aktiebolaget Larsson & Lind i Luleå"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Norrbottens Småindustriförening"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Norrbottens lokala värderingsnämnd"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Argentina",
+                "latitude": -38.416097,
+                "longitude": -63.61667199999999,
+                "formatted_address": "Argentina"
+            },
+            "country_code": "ARG",
+            "year": "1920-1924"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1924-1930"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1941"
+        }
+    ]
+}

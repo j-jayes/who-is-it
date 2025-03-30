@@ -1,0 +1,208 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Sten",
+        "last_name": "Berg",
+        "middle_name": "Sture Christian",
+        "gender": "Male",
+        "birth_date": "27-11-1893",
+        "birth_place": {
+            "name": "Förslöv, Kristianstads Län",
+            "latitude": 56.3493945,
+            "longitude": 12.8151676,
+            "formatted_address": "269 72 Förslöv, Sweden"
+        },
+        "occupation": {
+            "occupation": "skulptör",
+            "occupation_english": "sculptor",
+            "hisco_code_swedish": "16120.0",
+            "hisco_description_swedish": "Sculptor",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "B.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "skräddarmästare",
+                    "occupation_english": "master tailor",
+                    "hisco_code_swedish": "79100.0",
+                    "hisco_description_swedish": "Tailor, Specialisation Unknown",
+                    "hisco_code_english": "79100.0",
+                    "hisco_description_english": "Tailor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Nilsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Landskapsmålare",
+            "field": "konst",
+            "recognized_by": "Nationalmuseum, Göteborgs museum, Malmö museum, Hälsingborgs museum, Philadelphia museum med flera"
+        },
+        {
+            "title": "Altare och krucifix",
+            "field": "konst",
+            "year": "1952",
+            "significance": "Gustaf Adolfs kyrka, Borås"
+        },
+        {
+            "title": "Altarskåp",
+            "field": "konst",
+            "significance": "Örs kyrka"
+        },
+        {
+            "title": "Altaröverstycke och krucifix",
+            "field": "konst",
+            "significance": "Mörlunda kyrka"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Förslövsholm",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1915-1919",
+            "institution": "Konsthögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Asen",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "målarinna",
+                "occupation_english": "painter",
+                "hisco_code_swedish": "93120.0",
+                "hisco_description_swedish": "Building Painter",
+                "hisco_code_english": "93120.0",
+                "hisco_description_english": "Building Painter"
+            },
+            "parents": [
+                {
+                    "first_name": "Mathias",
+                    "last_name": "A.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "köpman",
+                        "occupation_english": "merchant",
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Märtha Gravström",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1922",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1920-1921"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Grekland",
+                "latitude": 39.074208,
+                "longitude": 21.824312,
+                "formatted_address": "Greece"
+            },
+            "country_code": "GRC",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Egypten",
+                "latitude": 26.820553,
+                "longitude": 30.802498,
+                "formatted_address": "Egypt"
+            },
+            "country_code": "EGY",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Syrien",
+                "latitude": 34.80207499999999,
+                "longitude": 38.996815,
+                "formatted_address": "Syria"
+            },
+            "country_code": "SYR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Palestina",
+                "latitude": 31.952162,
+                "longitude": 35.233154,
+                "formatted_address": "Palestine"
+            },
+            "country_code": "PSE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1924-1930"
+        }
+    ]
+}

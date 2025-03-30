@@ -1,0 +1,152 @@
+{
+    "career": [
+        {
+            "position": "Prokurist",
+            "start_year": 1896,
+            "end_year": 1902,
+            "organization": "Josef Leja",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1902,
+            "end_year": 1912,
+            "organization": "Aktiebolaget Nordiska Kompaniet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Vice verkställande direktör",
+            "start_year": 1912,
+            "end_year": 1929,
+            "organization": "Aktiebolaget Nordiska Kompaniet",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Wennberg",
+        "middle_name": "Johan Adolf",
+        "gender": "Male",
+        "birth_date": "28-07-1867",
+        "birth_place": {
+            "name": "Lidköping",
+            "latitude": 58.5035047,
+            "longitude": 13.1570768,
+            "formatted_address": "Lidköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "E.",
+                "last_name": "Wennberg",
+                "middle_name": "O.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Rådman",
+                    "occupation_english": "Councilman",
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge",
+                    "hisco_code_english": "99910.0",
+                    "hisco_description_english": "Labourer"
+                }
+            },
+            {
+                "first_name": "Josefina",
+                "last_name": "Anderson-Adon",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1887",
+            "institution": "Göteborg"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Blanche",
+            "last_name": "Fanny",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1908",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1887"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1888"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1890"
+        }
+    ]
+}

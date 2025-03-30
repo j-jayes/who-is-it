@@ -1,0 +1,158 @@
+{
+    "career": [
+        {
+            "position": "överläkare",
+            "start_year": 1895,
+            "organization": "Maria sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1895,
+            "organization": "Sabbatsbergs sjukhus, kirurgiska avdelning II",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Rissler",
+        "middle_name": "Gottlieb",
+        "gender": "Male",
+        "birth_date": "21-01-1863",
+        "birth_place": {
+            "name": "Östersund",
+            "latitude": 63.1766832,
+            "longitude": 14.6360681,
+            "formatted_address": "Östersund, Sweden"
+        },
+        "occupation": {
+            "occupation": "överläkare",
+            "occupation_english": "chief physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Rissler",
+                "middle_name": "G.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "landssekreterare",
+                    "occupation_english": "county secretary",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Delin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1894,
+            "end_year": 1897,
+            "field": "kirurgi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1885",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1890",
+            "institution": "None"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1893",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sigrid",
+            "last_name": "Andersson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "Andersson",
+                    "middle_name": "Joh.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "professor",
+                        "occupation_english": "professor",
+                        "hisco_code_swedish": "13100.0",
+                        "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                        "hisco_code_english": "13100.0",
+                        "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Tigerhielm",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1895",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

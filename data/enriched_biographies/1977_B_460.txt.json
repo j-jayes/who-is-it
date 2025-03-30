@@ -1,0 +1,155 @@
+{
+    "career": [
+        {
+            "position": "adjunkt",
+            "start_year": 1932,
+            "organization": "hal f g Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            }
+        },
+        {
+            "position": "lektor",
+            "start_year": 1940,
+            "organization": "hal",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            }
+        },
+        {
+            "position": "lektor",
+            "start_year": 1954,
+            "end_year": 1968,
+            "organization": "Vasa hal",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            }
+        },
+        {
+            "position": "rektor",
+            "start_year": 1942,
+            "end_year": 1968,
+            "organization": "Katedralskolan",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            }
+        },
+        {
+            "position": "Tf undervisningsråd",
+            "start_year": 1940,
+            "end_year": 1943
+        }
+    ],
+    "person": {
+        "first_name": "K",
+        "last_name": "Bjerre",
+        "middle_name": "Birger",
+        "gender": "Male",
+        "birth_date": "23-07-1902",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "parents": [
+            {
+                "first_name": "Rasmus",
+                "last_name": "Bjerre",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "verkmästare",
+                    "occupation_english": "foreman",
+                    "hisco_code_swedish": "22610.0",
+                    "hisco_description_swedish": "Production Supervisor or Foreman, General",
+                    "hisco_code_english": "22610.0",
+                    "hisco_description_english": "Production Supervisor or Foreman, General"
+                }
+            },
+            {
+                "first_name": "Agnes",
+                "last_name": "Nielsen",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Lund",
+            "start_year": 1935
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lund",
+            "start_year": 1938,
+            "field": "nordiska språk"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Citaten i Kiplings Stalky & Co",
+            "year": "1923",
+            "type": "uppsats"
+        },
+        {
+            "title": "Den tredje markisen av Hertford",
+            "year": "1926",
+            "type": "uppsats"
+        },
+        {
+            "title": "Nord konjunktionsbildn I-Il",
+            "year": "1935-1938",
+            "type": "uppsats",
+            "volumes": "I-II"
+        },
+        {
+            "title": "Tvåsatsord-stäv",
+            "year": "1935",
+            "type": "uppsats"
+        },
+        {
+            "title": "Deutsche Texte für die Oberstufe",
+            "year": "1939",
+            "type": "lärobok"
+        },
+        {
+            "title": "English Texts for Higher Forms",
+            "year": "1946",
+            "type": "lärobok",
+            "publisher": "tills m G Ehlefors"
+        },
+        {
+            "title": "Exempelsaml t sv språkläran",
+            "year": "1951",
+            "type": "lärobok",
+            "publisher": "tills m a"
+        },
+        {
+            "title": "British and Amer Preparatory Texts",
+            "year": "1958",
+            "type": "lärobok",
+            "publisher": "tills m G Ehlefors"
+        },
+        {
+            "title": "Karen Blixen, Babettes gæstebud (skol-uppl)",
+            "year": "1964",
+            "type": "lärobok"
+        }
+    ],
+    "travels": null
+}

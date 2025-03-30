@@ -1,0 +1,126 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Janos",
+        "last_name": "Solyom",
+        "middle_name": "P",
+        "gender": "Male",
+        "birth_date": "26-10-1938",
+        "birth_place": {
+            "name": "Budapest",
+            "latitude": 47.497912,
+            "longitude": 19.040235,
+            "formatted_address": "Budapest, Hungary"
+        },
+        "occupation": {
+            "occupation": "konsertpianist",
+            "occupation_english": "concert pianist",
+            "hisco_code_swedish": "17140.0",
+            "hisco_description_swedish": "Instrumentalist",
+            "hisco_code_english": "17140.0",
+            "hisco_description_english": "Instrumentalist"
+        },
+        "parents": [
+            {
+                "first_name": "Stefan",
+                "last_name": "Solyom",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "juristdoktor",
+                    "occupation_english": "Doctor of Law",
+                    "hisco_code_swedish": "12000.0",
+                    "hisco_description_swedish": "Jurist, Specialization Unknown"
+                }
+            },
+            {
+                "first_name": "Magda",
+                "last_name": "Weill",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "pianostudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Béla Bartök-konservatoriet"
+        },
+        {
+            "degree": "kompositionsstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Béla Bartök-konservatoriet"
+        },
+        {
+            "degree": "dirigeringsstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Béla Bartök-konservatoriet"
+        },
+        {
+            "degree": "pianostudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Franz Liszt-akademin"
+        },
+        {
+            "degree": "kompositionsstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Franz Liszt-akademin"
+        },
+        {
+            "degree": "dirigeringsstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Franz Liszt-akademin"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1956"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1973"
+        }
+    ]
+}

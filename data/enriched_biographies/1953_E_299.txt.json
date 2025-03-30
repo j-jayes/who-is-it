@@ -1,0 +1,156 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1911,
+            "end_year": 1916,
+            "organization": "Göteborgs högre samskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor i latin och grekiska",
+            "start_year": 1916,
+            "end_year": 1926,
+            "organization": "Karlstads högre allmänna läroverk",
+            "location": {
+                "name": "Karlstad",
+                "latitude": 59.4021806,
+                "longitude": 13.5114977,
+                "formatted_address": "Karlstad, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor i latin och grekiska",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Norra latinläroverket",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1926,
+            "end_year": 1950,
+            "organization": "Norrköpings högre allmänna läroverk",
+            "location": {
+                "name": "Norrköping",
+                "latitude": 58.587745,
+                "longitude": 16.192421,
+                "formatted_address": "Norrköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Censor",
+            "start_year": 1951,
+            "end_year": null,
+            "organization": "Studentexamen",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Einar",
+        "last_name": "Engström",
+        "middle_name": "Berthold Theodor",
+        "gender": "Male",
+        "birth_date": "15-10-1884",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Före detta rektor, filosofie doktor",
+            "occupation_english": "Former Principal, Doctor of Philosophy",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "August",
+                "last_name": "Engström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Övningslärare",
+                    "occupation_english": "Teacher Training Instructor",
+                    "hisco_code_swedish": "13000.0",
+                    "hisco_description_swedish": "Teacher, Level and Subject Unknown",
+                    "hisco_code_english": "13990.0",
+                    "hisco_description_english": "Other Teachers"
+                }
+            },
+            {
+                "first_name": "Bertha",
+                "last_name": "Wallgren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Göteborgs högskola",
+            "department": null,
+            "start_year": 1911,
+            "end_year": 1916,
+            "field": "Latin"
+        }
+    ],
+    "political_positions": [
+        {
+            "organization": "Karlstads stadsfullmäktige",
+            "position": "Stadsfullmäktige",
+            "start_year": 1921,
+            "end_year": 1926,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "Norrköpings stadsfullmäktige",
+            "position": "Stadsfullmäktige",
+            "start_year": 1930,
+            "end_year": 1938,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "Norrköpings kyrkofullmäktige",
+            "position": "Kyrkofullmäktige",
+            "start_year": 1930,
+            "end_year": 1938,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Kommentar till den romerska regionskatalogen",
+            "year": "1910",
+            "type": "book"
+        },
+        {
+            "title": "Carmina latina epigraphica",
+            "year": "1911",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,235 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1915,
+            "end_year": 1917,
+            "organization": "Ädelfors",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tillförordnad gruvingenjör",
+            "start_year": 1915,
+            "end_year": null,
+            "organization": "Distrikt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tillförordnad bergmästare",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ordinarie bergmästare",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "August",
+        "last_name": "Hedlund",
+        "middle_name": "Filip",
+        "gender": "Male",
+        "birth_date": "14-01-1878",
+        "birth_place": {
+            "name": "Gåsinge, Södermanlands Län",
+            "latitude": 59.09889499999999,
+            "longitude": 17.213424,
+            "formatted_address": "Gåsinge, 646 93 Gnesta, Sweden"
+        },
+        "occupation": {
+            "occupation": "Bergmästare",
+            "occupation_english": "Mining Master",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "August",
+                "last_name": "Hedlund",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ramlösa",
+        "latitude": 56.0216112,
+        "longitude": 12.7429168,
+        "formatted_address": "Ramlösa, 256 57 Helsingborg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Schooling",
+            "year": "1902",
+            "institution": "Bergshögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Ålund",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Erik",
+                    "last_name": "Ålund",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Filosofie kandidat",
+                        "occupation_english": "Candidate of Philosophy",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "13100.0",
+                        "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Emma",
+                    "last_name": "Andersson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1908",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Västafrika",
+                "latitude": 13.531665,
+                "longitude": -2.4604145,
+                "formatted_address": "West Africa"
+            },
+            "country_code": "string",
+            "year": "1904"
+        },
+        {
+            "country": {
+                "name": "Västafrika",
+                "latitude": 13.531665,
+                "longitude": -2.4604145,
+                "formatted_address": "West Africa"
+            },
+            "country_code": "string",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "Västafrika",
+                "latitude": 13.531665,
+                "longitude": -2.4604145,
+                "formatted_address": "West Africa"
+            },
+            "country_code": "string",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Sibirien",
+                "latitude": 61.01370970000001,
+                "longitude": 99.1966559,
+                "formatted_address": "Siberia, Russia"
+            },
+            "country_code": "string",
+            "year": "1907"
+        },
+        {
+            "country": {
+                "name": "Madagaskar",
+                "latitude": -18.766947,
+                "longitude": 46.869107,
+                "formatted_address": "Madagascar"
+            },
+            "country_code": "string",
+            "year": "1910"
+        },
+        {
+            "country": {
+                "name": "Madagaskar",
+                "latitude": -18.766947,
+                "longitude": 46.869107,
+                "formatted_address": "Madagascar"
+            },
+            "country_code": "string",
+            "year": "1911"
+        },
+        {
+            "country": {
+                "name": "Colombia",
+                "latitude": 4.570868,
+                "longitude": -74.297333,
+                "formatted_address": "Colombia"
+            },
+            "country_code": "string",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Sibirien",
+                "latitude": 61.01370970000001,
+                "longitude": 99.1966559,
+                "formatted_address": "Siberia, Russia"
+            },
+            "country_code": "string",
+            "year": "1915"
+        },
+        {
+            "country": {
+                "name": "Kaukasien",
+                "latitude": 43.5851814,
+                "longitude": 45,
+                "formatted_address": "Caucasus"
+            },
+            "country_code": "string",
+            "year": "1916"
+        }
+    ]
+}

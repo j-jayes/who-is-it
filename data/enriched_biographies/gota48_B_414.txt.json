@@ -1,0 +1,208 @@
+{
+    "career": [
+        {
+            "position": "Elev vid apotek",
+            "start_year": 1915,
+            "end_year": 1917,
+            "organization": "Apoteket i Eksjö",
+            "location": {
+                "name": "Eksjö",
+                "latitude": 57.6172,
+                "longitude": 15.22155,
+                "formatted_address": "575 92 Eksjo, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Farmacie kandidat",
+            "start_year": 1918,
+            "end_year": 1919,
+            "organization": "Ostgöta Lejon",
+            "location": {
+                "name": "Norrköping",
+                "latitude": 58.587745,
+                "longitude": 16.192421,
+                "formatted_address": "Norrköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Farmacie kandidat",
+            "start_year": 1919,
+            "end_year": 1923,
+            "organization": "Visby",
+            "location": {
+                "name": "Visby",
+                "latitude": 57.6348,
+                "longitude": 18.29484,
+                "formatted_address": "Visby, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Farmacie kandidat",
+            "start_year": 1924,
+            "end_year": 1928,
+            "organization": null,
+            "location": {
+                "name": "Alingsås, Borrby och Hemse",
+                "latitude": 57.9300205,
+                "longitude": 12.5362113,
+                "formatted_address": "Alingsås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Legitimerad apotekare",
+            "start_year": 1929,
+            "end_year": 1940,
+            "organization": "Visby",
+            "location": {
+                "name": "Visby",
+                "latitude": 57.6348,
+                "longitude": 18.29484,
+                "formatted_address": "Visby, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Personlig Privilegierad",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Apoteket i Hemse",
+            "location": {
+                "name": "Hemse med filialapoteket i Klintehamn",
+                "latitude": 57.23730819999999,
+                "longitude": 18.3767003,
+                "formatted_address": "623 50 Hemse, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ada",
+        "last_name": "Block",
+        "middle_name": "Kristina Petronella",
+        "gender": "Female",
+        "birth_date": "07-11-1895",
+        "birth_place": {
+            "name": "Fröjel, Gotlands Län",
+            "latitude": 57.3354651,
+            "longitude": 18.190956,
+            "formatted_address": "623 55 Fröjel, Sweden"
+        },
+        "occupation": {
+            "occupation": "Apotekare",
+            "occupation_english": "Pharmacist",
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist",
+            "hisco_code_english": "41030.0",
+            "hisco_description_english": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Petter",
+                "last_name": "Pettersson",
+                "middle_name": "Reinhold Ferdinand",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapt",
+                    "occupation_english": "Sea Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Muldin",
+                "middle_name": "Christina",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Ledare av medicinalväxtinsamling",
+            "field": "Medicin",
+            "year": "1941",
+            "significance": null,
+            "recognized_by": "Gotland"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Sveriges kristliga farmaceutförbund",
+            "role": "Revisor i styrelsen",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hemse",
+        "latitude": 57.23730819999999,
+        "longitude": 18.3767003,
+        "formatted_address": "623 50 Hemse, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1915",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Farmacie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "None"
+        },
+        {
+            "degree": "Apotekarexamen",
+            "degree_level": "Master's",
+            "year": "1930",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Viktor",
+            "last_name": "Block",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Civilingenjör",
+                "occupation_english": "Civil Engineer",
+                "hisco_code_swedish": "2210.0",
+                "hisco_description_swedish": "Civil Engineer, General"
+            },
+            "parents": null
+        },
+        "marriage_year": "1923",
+        "divorce_year": "1940",
+        "children": null
+    },
+    "hobbies": [
+        "arkivforskning",
+        "samling av Gotlandslitteratur",
+        "gotländska antikviteter"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [],
+    "publications": null,
+    "travels": null
+}

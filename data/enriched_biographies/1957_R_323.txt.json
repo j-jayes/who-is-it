@@ -1,0 +1,238 @@
+{
+    "career": [
+        {
+            "position": "sekreterare",
+            "start_year": 1929,
+            "end_year": 1931,
+            "organization": "Farmaceutiska Institutets Studentkår",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1937,
+            "end_year": 1943,
+            "organization": "Apotek Kontrollaboratoriet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "lärare",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "Stockholms Lärlings- och Yrkesskolor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "ordförande",
+            "start_year": 1943,
+            "end_year": 1946,
+            "organization": "centralstyrelsen för Sveriges Farmacevtförbund",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "ledamot",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Svenska Läktsällskapet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "ledamot",
+            "start_year": 1953,
+            "end_year": null,
+            "organization": "hemvärnsrådet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "innehavare",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Apoteket Bävern",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Bertil",
+        "last_name": "Rönnmark",
+        "middle_name": "Vilhelm",
+        "gender": "Male",
+        "birth_date": "24-12-1905",
+        "birth_place": {
+            "name": "Jämshög, Blekinge Län",
+            "latitude": 56.2403103,
+            "longitude": 14.5308835,
+            "formatted_address": "293 72 Jämshög, Sweden"
+        },
+        "occupation": {
+            "occupation": "apotekare",
+            "occupation_english": "pharmacist",
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist",
+            "hisco_code_english": "41030.0",
+            "hisco_description_english": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Peter",
+                "last_name": "Rönnmark",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "apotekare",
+                    "occupation_english": "pharmacist",
+                    "hisco_code_swedish": "6710.0",
+                    "hisco_description_swedish": "Pharmacist",
+                    "hisco_code_english": "41030.0",
+                    "hisco_description_english": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Wretling",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1924",
+            "institution": "Kristianstad"
+        },
+        {
+            "degree": "farmaceutisk kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1928",
+            "institution": "Farmaceutiska Institutet"
+        },
+        {
+            "degree": "apotekare",
+            "degree_level": "Master's",
+            "year": "1931",
+            "institution": "Apotekarsocieteten"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ysabel",
+            "last_name": "Van Norman Games",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": {
+                "name": "California, USA",
+                "latitude": 36.778261,
+                "longitude": -119.4179324,
+                "formatted_address": "California, USA"
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Charles",
+                    "last_name": "Edgar G.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "ingenjör",
+                        "occupation_english": "engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Edith",
+                    "last_name": "Van Norman",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1946"
+        }
+    ]
+}

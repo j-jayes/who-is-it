@@ -1,0 +1,149 @@
+{
+    "career": [
+        {
+            "position": "Färgmästare",
+            "start_year": 1901,
+            "organization": "Lind & Co.",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Alvar",
+        "last_name": "Anderson",
+        "middle_name": "Leonard",
+        "gender": "Male",
+        "birth_date": "15-03-1901",
+        "birth_place": {
+            "name": "Borås",
+            "latitude": 57.72103500000001,
+            "longitude": 12.939819,
+            "formatted_address": "Borås, Sweden"
+        },
+        "occupation": {
+            "occupation": "Färgmästare",
+            "occupation_english": "Paint Master",
+            "hisco_code_swedish": "75622.0",
+            "hisco_description_swedish": "Yarn, Fabric or Garment Dyer"
+        },
+        "parents": [
+            {
+                "first_name": "Claes",
+                "last_name": "Anderson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fabrikör",
+                    "occupation_english": "Manufacturer"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Anderson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Ledamot av styrelsen",
+            "organization": "Lind & Co."
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Borås",
+        "latitude": 57.72103500000001,
+        "longitude": 12.939819,
+        "formatted_address": "Borås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Realexamen",
+            "degree_level": "Schooling",
+            "year": "1916",
+            "institution": "Borås högre allmänna läroverk"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lilly",
+            "last_name": "Söderlund",
+            "middle_name": "Astrid",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Kurt",
+                "last_name": "Anderson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1930"
+            },
+            {
+                "first_name": "Bengt",
+                "last_name": "Anderson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1935"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CSK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        }
+    ]
+}

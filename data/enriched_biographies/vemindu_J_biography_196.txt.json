@@ -1,0 +1,180 @@
+{
+    "career": [
+        {
+            "position": "Fabrikör",
+            "start_year": 1919,
+            "organization": "Jonsson & Kjellin",
+            "location": {
+                "name": "Kumla",
+                "latitude": 59.12653590000001,
+                "longitude": 15.1401053,
+                "formatted_address": "Kumla, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1934,
+            "organization": "AB Jonsson & Kjellin",
+            "location": {
+                "name": "Kumla",
+                "latitude": 59.12653590000001,
+                "longitude": 15.1401053,
+                "formatted_address": "Kumla, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1900,
+            "end_year": 1943,
+            "organization": "AB John A Fors",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Gävle-Dala lantmannaförbund",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustav",
+        "last_name": "Jonsson",
+        "middle_name": "Uno",
+        "gender": "Male",
+        "birth_date": "20-11-1889",
+        "birth_place": {
+            "name": "Kumla",
+            "latitude": 59.12653590000001,
+            "longitude": 15.1401053,
+            "formatted_address": "Kumla, Sweden"
+        },
+        "occupation": {
+            "occupation": "Fabrikör",
+            "occupation_english": "Manufacturer"
+        },
+        "parents": [
+            {
+                "first_name": "Gustav",
+                "last_name": "Jonsson",
+                "middle_name": "Alfred",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Lundholm",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Örebro",
+        "latitude": 59.2752626,
+        "longitude": 15.2134105,
+        "formatted_address": "Örebro, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Ina",
+            "last_name": "Sjöholm",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Jakt",
+        "Fiske"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Patriotiska Sällskapets Guldmedalj"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1938"
+        }
+    ]
+}

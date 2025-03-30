@@ -1,0 +1,203 @@
+{
+    "career": [
+        {
+            "position": "Underlöjtnant",
+            "start_year": 1914,
+            "organization": "Första Ingenjörregementets reserv",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Löjtnant",
+            "start_year": 1922,
+            "organization": "Första Ingenjörregementets reserv",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kapten",
+            "start_year": 1931,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1917,
+            "end_year": 1924,
+            "organization": "Aktiebolaget W Lärka Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör och delägare",
+            "start_year": 1924,
+            "organization": "Aktiebolaget W Lärka Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1924,
+            "organization": "Aktiebolaget W Lärka Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1924,
+            "organization": "Ångfartygs Aktiebolaget Gotland",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Jarl",
+        "last_name": "Lärka",
+        "middle_name": "Bertil",
+        "gender": "Male",
+        "birth_date": "25-11-1892",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kapten",
+            "occupation_english": "Captain",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "4215.0",
+            "hisco_description_english": "Ship's Master (Sea)"
+        },
+        "parents": [
+            {
+                "first_name": "W",
+                "last_name": "Lärka",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Ljungberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ålsten",
+        "latitude": 59.32339140000001,
+        "longitude": 17.9490937,
+        "formatted_address": "Ålsten, Bromma, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Ring I Östra Real",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "6-årigt Kurs för Sjökrigsskolan",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Sjöfartsstudier",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "Tyskland"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ebba",
+            "last_name": "Högfeldt",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Jakt",
+        "Fiske"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

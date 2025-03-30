@@ -1,0 +1,152 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1923,
+            "end_year": 1929,
+            "organization": "Universitetsbiblioteket i Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "förste bibliotekarie",
+            "start_year": 1929,
+            "end_year": 1940,
+            "organization": "Stockholms stadsbibliotek",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "stadsbibliotekarie",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Stockholms stadsbibliotek",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "professor i slaviska språk",
+            "start_year": 1940,
+            "end_year": 1941,
+            "organization": "Lunds universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "professor i slaviska språk (förordnad)",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Stockholms högskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Knut",
+        "last_name": "Knutsson",
+        "middle_name": "Peter",
+        "gender": "Male",
+        "birth_date": "05-03-1897",
+        "birth_place": {
+            "name": "Dalby, Malmöhus Län",
+            "latitude": 55.6648168,
+            "longitude": 13.3475569,
+            "formatted_address": "247 50 Dalby, Sweden"
+        },
+        "occupation": {
+            "occupation": "före detta professor, stadsbibliotekarie",
+            "occupation_english": "former professor, city librarian",
+            "hisco_code_swedish": "19120.0",
+            "hisco_description_swedish": "Librarian",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Knutsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "snickarmästare",
+                    "occupation_english": "master carpenter",
+                    "hisco_code_swedish": "95410.0",
+                    "hisco_description_swedish": "Carpenter, General",
+                    "hisco_code_english": "95410.0",
+                    "hisco_description_english": "Carpenter, General"
+                }
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Ohlquist",
+                "middle_name": "Maria",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1926,
+            "end_year": 1929,
+            "field": "slaviska språk"
+        }
+    ],
+    "publications": [
+        {
+            "title": "über die sogenannte zweite Palatalisierung in den slavischen Sprachen",
+            "year": "1926",
+            "type": "akademisk avhandling",
+            "editions": null
+        },
+        {
+            "title": "Die germanischen Lehnwörter im Slavischen vom Typus buky",
+            "year": "1929",
+            "type": "bok",
+            "editions": null
+        },
+        {
+            "title": "O ne’skolkich drevne-russkich pergament-nych otryvkach etc.",
+            "year": "1938",
+            "type": "artikel",
+            "editions": null,
+            "publisher": "Slavia"
+        },
+        {
+            "title": "tidskriftsartiklar",
+            "year": "None",
+            "type": "artikel",
+            "editions": null
+        }
+    ],
+    "travels": null
+}

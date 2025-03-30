@@ -1,0 +1,201 @@
+{
+    "career": [
+        {
+            "position": "Kontorist",
+            "start_year": 1910,
+            "end_year": 1916,
+            "organization": "Stidsvigs och Hälsingborgs Limfabriks Aktiebolag",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Byggnadschefsassistent",
+            "start_year": 1918,
+            "end_year": 1919,
+            "organization": null,
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ritningskonstruktör",
+            "start_year": 1919,
+            "end_year": 1925,
+            "organization": "Trollhättans kraftverks byggnadsbyrå",
+            "location": {
+                "name": "Trollhättan och Stockholm",
+                "latitude": 58.28348939999999,
+                "longitude": 12.2858206,
+                "formatted_address": "Trollhättan, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Revisor",
+            "start_year": 1919,
+            "end_year": 1926,
+            "organization": "Bäckebo Industri Aktiebolag",
+            "location": {
+                "name": "Lärje, Göteborg",
+                "latitude": 57.7592179,
+                "longitude": 11.9848602,
+                "formatted_address": "422 59 Lärje, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": "Eksjö Fabriks Bolag",
+            "location": {
+                "name": "Skillingaryd",
+                "latitude": 57.43058180000001,
+                "longitude": 14.0938696,
+                "formatted_address": "568 31 Skillingaryd, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Sonne",
+        "middle_name": "Eric",
+        "gender": "Male",
+        "birth_date": "15-05-1893",
+        "birth_place": {
+            "name": "Kellna, Kristianstads Län",
+            "latitude": null,
+            "longitude": null,
+            "formatted_address": null
+        },
+        "occupation": {
+            "occupation": "Ingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "Aug",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Skillingaryd",
+        "latitude": 57.43058180000001,
+        "longitude": 14.0938696,
+        "formatted_address": "568 31 Skillingaryd, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "Ängelholm och Hälsingborg"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Lindén",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Konst",
+        "Resor"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CSK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        }
+    ]
+}

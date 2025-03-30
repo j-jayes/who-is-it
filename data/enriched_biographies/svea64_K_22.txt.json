@@ -1,0 +1,189 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1933,
+            "end_year": 1933,
+            "organization": "röntgenavdelningen, Tandläkarhögskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "tandläkare",
+            "start_year": 1934,
+            "end_year": 1934,
+            "organization": "Göteborgs kommuns tandpoliklinik",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "vikarierande tandläkare",
+            "start_year": 1934,
+            "end_year": 1935,
+            "organization": "Ludvika",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "egen praktik",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Fagersta",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "LARS",
+        "last_name": "KARLBERG",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "01-09-1910",
+        "birth_place": {
+            "name": "Uddevalla",
+            "latitude": 58.3498003,
+            "longitude": 11.935649,
+            "formatted_address": "Uddevalla, Sweden"
+        },
+        "occupation": {
+            "occupation": "tandläkare",
+            "occupation_english": "dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Ludvig",
+                "last_name": "K",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "folkskollärare",
+                    "occupation_english": "primary school teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Theresia",
+                "last_name": "Lundén",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Fagersta",
+        "latitude": 59.989144,
+        "longitude": 15.8166418,
+        "formatted_address": "Fagersta, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1928",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "tandläkarexamen",
+            "degree_level": "Bachelor's",
+            "year": "1934",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Erichs",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Inge",
+                    "last_name": "E",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "generalkonsul",
+                        "occupation_english": "Consul General",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "20210.0",
+                        "hisco_description_english": "Government Administrator"
+                    }
+                },
+                {
+                    "first_name": "Siri",
+                    "last_name": "Weijsenburg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1940",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Christer",
+                "last_name": "Karlberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Agneta",
+                "last_name": "Karlberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1945"
+            },
+            {
+                "first_name": "Thomas",
+                "last_name": "Karlberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1948"
+            }
+        ]
+    },
+    "hobbies": [
+        "jakt",
+        "fiske",
+        "fotografering",
+        "konst"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

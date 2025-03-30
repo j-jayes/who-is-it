@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "Extra ordinarie adjunkt",
+            "start_year": 1947,
+            "organization": "Vasa realskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Extra ordinarie adjunkt",
+            "start_year": 1948,
+            "end_year": 1949,
+            "organization": "Högare allmänna läroverket",
+            "location": {
+                "name": "Östersund",
+                "latitude": 63.1766832,
+                "longitude": 14.6360681,
+                "formatted_address": "Östersund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Adjunkt",
+            "start_year": 1951,
+            "organization": "Burgårdens samrealskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Adjunkt",
+            "start_year": 1952,
+            "organization": "Högare allmänna läroverket",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Adjunkt i matematik, fysik och kemi",
+            "start_year": 1955,
+            "organization": "Högare allmänna läroverket",
+            "location": {
+                "name": "Kungälv",
+                "latitude": 57.86975400000001,
+                "longitude": 11.9740317,
+                "formatted_address": "Kungälv, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vikarierande lektor",
+            "start_year": 1964,
+            "organization": "Högare allmänna läroverket",
+            "location": {
+                "name": "Kungälv",
+                "latitude": 57.86975400000001,
+                "longitude": 11.9740317,
+                "formatted_address": "Kungälv, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sören",
+        "last_name": "Seden",
+        "middle_name": "A",
+        "gender": "Male",
+        "birth_date": "26-09-1918",
+        "birth_place": {
+            "name": "Granfors, Västerbottens Län",
+            "latitude": 65.3337311,
+            "longitude": 16.5161695,
+            "formatted_address": "Västerbotten County, Sweden"
+        },
+        "occupation": {
+            "occupation": "Läroverksadjunkt",
+            "occupation_english": "Upper secondary school teacher",
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+            "hisco_code_english": "13020.0",
+            "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+        },
+        "parents": [
+            {
+                "first_name": "Karl",
+                "last_name": "S",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Hemmansägare",
+                    "occupation_english": "Home owner",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Agnes",
+                "last_name": "Nilsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kungälv",
+        "latitude": 57.86975400000001,
+        "longitude": 11.9740317,
+        "formatted_address": "Kungälv, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1938",
+            "institution": "Härnösand"
+        },
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1947",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Runge",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Filosofie magister",
+                "occupation_english": "Master of Arts",
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title"
+            },
+            "parents": [
+                {
+                    "first_name": "Rickard",
+                    "last_name": "R",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Lantbrukare",
+                        "occupation_english": "Farmer",
+                        "hisco_code_swedish": "61110.0",
+                        "hisco_description_swedish": "General Farmer",
+                        "hisco_code_english": "61110.0",
+                        "hisco_description_english": "General Farmer"
+                    }
+                },
+                {
+                    "first_name": "Gertrud",
+                    "last_name": "Lundin",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1951",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Karin",
+                "last_name": "Seden",
+                "gender": "Female",
+                "birth_year": "1951"
+            },
+            {
+                "first_name": "Gunnar",
+                "last_name": "Seden",
+                "gender": "Male",
+                "birth_year": "1951"
+            },
+            {
+                "first_name": "Erik",
+                "last_name": "Seden",
+                "gender": "Male",
+                "birth_year": "1961"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

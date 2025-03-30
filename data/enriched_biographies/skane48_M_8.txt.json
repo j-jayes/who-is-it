@@ -1,0 +1,419 @@
+{
+    "career": [
+        {
+            "position": "smedlära",
+            "start_year": 1912,
+            "end_year": 1915,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "praktikant",
+            "start_year": 1916,
+            "end_year": 1917,
+            "organization": "Sjöbo Mekaniska Verkstad",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "praktikant",
+            "start_year": 1917,
+            "end_year": 1918,
+            "organization": "Hälsingborgs Skeppsvarv",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "praktikant",
+            "start_year": 1918,
+            "end_year": 1919,
+            "organization": "Elektromekano",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "montör",
+            "start_year": 1919,
+            "end_year": 1920,
+            "organization": "Amerikanska Motorimport Aktiebolag",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "instruktör",
+            "start_year": 1919,
+            "end_year": 1920,
+            "organization": "chaufförskola för Amerikanska Motorimport Aktiebolag",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "egen drosktrafik samt chaufförskola",
+            "start_year": 1920,
+            "end_year": 1922,
+            "organization": null,
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "egen busstrafik",
+            "start_year": 1922,
+            "end_year": 1935,
+            "organization": null,
+            "location": {
+                "name": "Jonstorp",
+                "latitude": 56.2243145,
+                "longitude": 12.6741639,
+                "formatted_address": "263 71 Jonstorp, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1935,
+            "end_year": 1941,
+            "organization": "Aktiebolag Kullens Omnibusstrafik",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "byråchef",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Statens Järnvägars Biltrafik, Hälsingborgs-sektionen",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Magnusson",
+        "middle_name": "Manfred",
+        "gender": "Male",
+        "birth_date": "31-01-1898",
+        "birth_place": {
+            "name": "Valleberga, Kristianstads Län",
+            "latitude": 55.428178,
+            "longitude": 14.0629096,
+            "formatted_address": "271 78 Valleberga, Sweden"
+        },
+        "occupation": {
+            "occupation": "direktör",
+            "occupation_english": "director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Magnus",
+                "last_name": "Månsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "maskinist",
+                    "occupation_english": "machinist",
+                    "hisco_code_swedish": "96910.0",
+                    "hisco_description_swedish": "Stationary Engine Operator, General",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Karna",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Sveriges Omnibusägares Riksförbund"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "kommunfullmäktige",
+            "role": "Ledamot",
+            "start_year": 1924,
+            "end_year": 1941,
+            "organization": "Jonstorp",
+            "significance": null
+        },
+        {
+            "committee_name": "skolstyrelse",
+            "role": "Ledamot",
+            "start_year": 1924,
+            "end_year": 1941,
+            "organization": "Jonstorp",
+            "significance": null
+        },
+        {
+            "committee_name": "vägstämmoombud",
+            "role": "vägstämmoombud",
+            "start_year": 1924,
+            "end_year": 1942,
+            "organization": "Luggude vägdistrikt",
+            "significance": null
+        },
+        {
+            "committee_name": "vägstämm",
+            "role": "ordförande",
+            "start_year": 1940,
+            "end_year": 1942,
+            "organization": "Luggude vägdistrikt",
+            "significance": null
+        },
+        {
+            "committee_name": "Skånes Omnibusägares Förbund",
+            "role": "ordförande",
+            "start_year": 1927,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Nordvästra Skånes Omnibusägares Förening",
+            "role": "ordförande",
+            "start_year": 1930,
+            "end_year": 1935,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Kullens med Luggude härads brandkårskrets",
+            "role": "sekreterare",
+            "start_year": 1930,
+            "end_year": 1934,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "olika utredningskommittéer",
+            "role": "Medlem",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": "Statens Järnvägars Biltrafik",
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "chef",
+            "organization": "Jonstorps frivilliga brandkår"
+        }
+    ],
+    "current_location": {
+        "name": "Hälsingborg",
+        "latitude": 64.1386294,
+        "longitude": 19.5225599,
+        "formatted_address": "922 93 Hälsingborg, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Julia",
+            "last_name": "Elmqvist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1922",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Brita",
+                "last_name": "Stavbrink",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1923"
+            },
+            {
+                "first_name": "Stiilm",
+                "last_name": "Stavbrink",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": null
+            }
+        ]
+    },
+    "hobbies": [
+        "motorsport",
+        "friluftsliv"
+    ],
+    "honorary_titles": [
+        {
+            "title": "Hedersledamot",
+            "institution": "Luggude härads brandkårskrets",
+            "year": "None"
+        }
+    ],
+    "honors": [
+        "Svenska brandkårsförbundets förtjänststecken",
+        "Civilförsvarets förtjänststecken",
+        "Skånska brandkårsförbundets diplom"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        }
+    ]
+}

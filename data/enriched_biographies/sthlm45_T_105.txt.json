@@ -1,0 +1,75 @@
+{
+    "career": [
+        {
+            "position": "kommitté",
+            "start_year": 1928,
+            "organization": "andra radiologkongressen i Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1933,
+            "end_year": 1942,
+            "organization": "Svenska Kryssarklubben"
+        },
+        {
+            "position": "vice ordförande",
+            "start_year": 1939,
+            "end_year": 1942,
+            "organization": "Svenska Kryssarklubben"
+        }
+    ],
+    "person": {
+        "first_name": "Okänd",
+        "last_name": "Okänd",
+        "gender": "Male"
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1935"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "end_year": 1926,
+            "organization": "Järnvägsstyrelsens elektrotekniska byrå",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1934,
+            "end_year": 1940,
+            "organization": "Statens Järnvägars huvudverkstad",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Järnvägsstyrelsens verkstadsbyrå",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gustav",
+        "last_name": "Nyblin",
+        "middle_name": "Sigvard",
+        "gender": "Male",
+        "birth_date": "27-08-1896",
+        "birth_place": {
+            "name": "Björnlunda, Södermanlands Län",
+            "latitude": 59.06608800000001,
+            "longitude": 17.1616906,
+            "formatted_address": "646 50 Björnlunda, Sweden"
+        },
+        "occupation": {
+            "occupation": "byråingenjör",
+            "occupation_english": "Bureau Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Ledamot av styrelsen",
+            "organization": "Örebro stads elverk"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1914",
+            "institution": "None"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1920",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1931"
+        }
+    ]
+}

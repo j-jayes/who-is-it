@@ -1,0 +1,251 @@
+{
+    "career": [
+        {
+            "position": "Extra läkare",
+            "start_year": 1923,
+            "end_year": 1923,
+            "organization": "Lunds hospital",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Assistansläkare",
+            "start_year": 1923,
+            "end_year": 1924,
+            "organization": "Borås lasarett",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tjänsteförrättande provinsialläkare",
+            "start_year": 1924,
+            "end_year": 1924,
+            "organization": "Tidaholms distrikt",
+            "location": {
+                "name": "Tidaholm",
+                "latitude": 58.1817692,
+                "longitude": 13.9594737,
+                "formatted_address": "Tidaholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tjänsteförrättande provinsialläkare",
+            "start_year": 1924,
+            "end_year": 1924,
+            "organization": "Älvsby distrikt",
+            "location": {
+                "name": "Älvsby",
+                "latitude": 65.6771363,
+                "longitude": 20.9928659,
+                "formatted_address": "Älvsbyn, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Järnvägsläkare",
+            "start_year": 1924,
+            "end_year": 1924,
+            "organization": "Linjen Långträsk-Hednoret",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tjänsteförrättande underläkare",
+            "start_year": 1925,
+            "end_year": 1925,
+            "organization": "Målilla sanatorium",
+            "location": {
+                "name": "Målilla",
+                "latitude": 57.3891396,
+                "longitude": 15.8162213,
+                "formatted_address": "577 74 Målilla, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kommunalt anställd läkare",
+            "start_year": 1925,
+            "end_year": 1927,
+            "organization": "Virserum",
+            "location": {
+                "name": "Virserum",
+                "latitude": 57.3199949,
+                "longitude": 15.5812344,
+                "formatted_address": "577 71 Virserum, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Municipalläkare",
+            "start_year": 1927,
+            "end_year": 1936,
+            "organization": "Virserum",
+            "location": {
+                "name": "Virserum",
+                "latitude": 57.3199949,
+                "longitude": 15.5812344,
+                "formatted_address": "577 71 Virserum, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Provinsialläkare",
+            "start_year": 1936,
+            "end_year": 1944,
+            "organization": "Juha distrikt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Provinsialläkare",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Ulricehamns distrikt",
+            "location": {
+                "name": "Ulricehamn",
+                "latitude": 57.7947889,
+                "longitude": 13.4205162,
+                "formatted_address": "Ulricehamn, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Viktor",
+        "last_name": "Arfwidsson",
+        "middle_name": "Emanuel",
+        "gender": "Male",
+        "birth_date": "09-02-1895",
+        "birth_place": {
+            "name": "Öalstorp, Älvsborgs Län",
+            "latitude": 57.6056953,
+            "longitude": 13.5119215,
+            "formatted_address": "514 60 Dalstorp, Sweden"
+        },
+        "occupation": {
+            "occupation": "Provinsialläkare",
+            "occupation_english": "Provincial Doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Arfwidsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kyrkoherde",
+                    "occupation_english": "Vicar",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Ahlenius",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ulricehamn",
+        "latitude": 57.7947889,
+        "longitude": 13.4205162,
+        "formatted_address": "Ulricehamn, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1914",
+            "institution": "Borås"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1923",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ruth",
+            "last_name": "Nathorst-Windahl",
+            "middle_name": "Maria Elisabeth",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1924",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Eva",
+                "last_name": "Arfwidsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1937"
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Arfwidsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Sten",
+                "last_name": "Arfwidsson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Agneta",
+                "last_name": "Arfwidsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1943"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

@@ -1,0 +1,237 @@
+{
+    "career": [
+        {
+            "position": "e lär",
+            "start_year": 1932,
+            "end_year": 1933,
+            "organization": "hal Kalmar",
+            "location": {
+                "name": "Kalmar",
+                "latitude": 56.6634447,
+                "longitude": 16.356779,
+                "formatted_address": "Kalmar, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "stiftsadjunkt",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Skara stift",
+            "location": {
+                "name": "Skara",
+                "latitude": 58.3860128,
+                "longitude": 13.4393282,
+                "formatted_address": "Skara, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "kyrkoadjunkt",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Vargön",
+            "location": {
+                "name": "Vargön",
+                "latitude": 58.35662159999999,
+                "longitude": 12.3888324,
+                "formatted_address": "468 30 Vargön, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "kyrkoherde",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "Börstig",
+            "location": {
+                "name": "Börstig",
+                "latitude": 57.992866,
+                "longitude": 13.463828,
+                "formatted_address": "Börstig, 523 77 Blidsberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "kyrkoherde",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": "Kinneveds past",
+            "location": {
+                "name": "Kinneved",
+                "latitude": 58.066667,
+                "longitude": 13.516667,
+                "formatted_address": "521 93 Kinneved, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "HENNING",
+        "last_name": "ANDERSSON",
+        "middle_name": "V",
+        "gender": "Male",
+        "birth_date": "22-05-1907",
+        "birth_place": {
+            "name": "Voxtorp, Kalmar län",
+            "latitude": 56.5396059,
+            "longitude": 16.1396462,
+            "formatted_address": "388 96 Voxtorp, Sweden"
+        },
+        "occupation": {
+            "occupation": "kyrkoherde",
+            "occupation_english": "parish priest",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Otto",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "folkskollärare och organist",
+                    "occupation_english": "primary school teacher and organist",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Lorentzon",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "kyrkofullmäktige",
+            "role": "Sekreterare",
+            "start_year": 1963,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "församlingsdelegationen",
+            "role": "ordförande",
+            "start_year": 1963,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Frökinds barnavårdsnämnd",
+            "role": "ledamot",
+            "start_year": 1952,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kinnarp",
+        "latitude": 58.07302379999999,
+        "longitude": 13.521514,
+        "formatted_address": "521 73 Kinnarp, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1926",
+            "institution": "Kalmar"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1930",
+            "institution": "Lund"
+        },
+        {
+            "degree": "teologie kandidat",
+            "degree_level": "Master's",
+            "year": "1936",
+            "institution": "None"
+        },
+        {
+            "degree": "prästvigd",
+            "degree_level": "Master's",
+            "year": "1937",
+            "institution": "Skara"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Kullenberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "00-00-1900",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Anton",
+                    "last_name": "Kullenberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": null
+                },
+                {
+                    "first_name": "Johanna",
+                    "last_name": "Ohlsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Bengt",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1938"
+            },
+            {
+                "first_name": "Inger-Christina",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Krister",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            }
+        ]
+    },
+    "hobbies": [
+        "musik"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

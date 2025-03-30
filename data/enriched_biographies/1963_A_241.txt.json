@@ -1,0 +1,165 @@
+{
+    "career": [
+        {
+            "position": "medarbetare",
+            "start_year": 1927,
+            "end_year": 1935,
+            "organization": "Arbetet Malmö, Aurora Ystad",
+            "location": {
+                "name": "Malmö, Ystad",
+                "latitude": 55.4295051,
+                "longitude": 13.8200308,
+                "formatted_address": "Ystad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1935,
+            "end_year": 1948,
+            "organization": "MT",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "London-korrespondent",
+            "start_year": 1942,
+            "end_year": 1946,
+            "organization": "MT",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "chef för utlandsredaktionen",
+            "start_year": 1946,
+            "end_year": 1948,
+            "organization": "MT",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "chef",
+            "start_year": 1948,
+            "organization": "Sveriges Radios utlandsredaktion",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Kurt",
+        "last_name": "Andersson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "06-08-1907",
+        "birth_place": {
+            "name": "Kristianstad",
+            "latitude": 56.0293936,
+            "longitude": 14.1566778,
+            "formatted_address": "Kristianstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "redaktör",
+            "occupation_english": "editor",
+            "hisco_code_swedish": "15920.0",
+            "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1928",
+            "institution": "Malmö"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Bachelor's",
+            "year": "1928-1929",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Bäckvall",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": null
+        }
+    ]
+}

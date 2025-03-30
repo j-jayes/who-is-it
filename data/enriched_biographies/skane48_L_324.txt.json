@@ -1,0 +1,167 @@
+{
+    "career": [
+        {
+            "position": "Anställd vid Statens Järnvägar",
+            "start_year": 1911,
+            "end_year": null,
+            "organization": "Statens Järnvägar",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Sektionschef",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Statens Järnvägar",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Förste Maskiningenjör",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Statens Järnvägar",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Frans",
+        "last_name": "Ljungfelt",
+        "middle_name": "Hugo",
+        "gender": "Male",
+        "birth_date": "28-10-1888",
+        "birth_place": {
+            "name": "Vellinge, Malmöhus Län",
+            "latitude": 55.47089279999999,
+            "longitude": 13.0199899,
+            "formatted_address": "Vellinge, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Frans",
+                "last_name": "Ljungfelt",
+                "middle_name": "G",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Mathilda",
+                "last_name": "Olhlsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Riddare av Vasaorden (RVO)"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1909",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1912",
+            "institution": "Kungliga Tekniska Högskolan (KTH)"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hertha",
+            "last_name": "von Below",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1916",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Herman",
+                "last_name": "Ljungfelt",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1918"
+            }
+        ]
+    },
+    "hobbies": [
+        "Tekniska problem",
+        "Segling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "string",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Västindien",
+                "latitude": 18.2345027,
+                "longitude": -66.4108475,
+                "formatted_address": "West Indies"
+            },
+            "country_code": "string",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "string",
+            "year": "1907"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "string",
+            "year": "1907"
+        }
+    ]
+}

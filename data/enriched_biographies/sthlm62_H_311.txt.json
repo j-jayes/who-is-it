@@ -1,0 +1,213 @@
+{
+    "career": [
+        {
+            "position": "2:e underläkare",
+            "start_year": 1945,
+            "organization": "Röntgenavdelningen, Serafimerlasarettet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tf underläkare och extra läkare",
+            "start_year": 1946,
+            "organization": "Medicinska avdelningen, Sabbatsbergs sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "2:e underläkare",
+            "start_year": 1948,
+            "organization": "Kliniska centrallaboratoriet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "1:e underläkare",
+            "start_year": 1948,
+            "organization": "Medicinska avdelningen, Södersjukhuset",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande överläkare",
+            "start_year": 1957,
+            "organization": "Medicinska avdelningen, Södersjukhuset",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Hedlund",
+        "middle_name": "G L",
+        "gender": "Male",
+        "birth_date": "01-11-1918",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent",
+            "occupation_english": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Hedlund",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpman",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Maja",
+                "last_name": "Eriksson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "start_year": 1961
+        }
+    ],
+    "publications": [
+        {
+            "title": "Ett 30-tal skrifter i cardiologi och invärtes medicin samt monografier över digitalisterapi och Erythropoies och blodkroppsmängd vid hjärtinsufficiens",
+            "year": "None",
+            "type": "Skrifter",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Basel",
+                "latitude": 47.5595986,
+                "longitude": 7.5885761,
+                "formatted_address": "Basel, Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1947"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1947"
+        },
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1947"
+        },
+        {
+            "country": {
+                "name": "Bryssel",
+                "latitude": 50.8260453,
+                "longitude": 4.3802052,
+                "formatted_address": "Brussels, Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1947"
+        },
+        {
+            "country": {
+                "name": "Rom",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ITA",
+            "year": "1947"
+        },
+        {
+            "country": {
+                "name": "Basel",
+                "latitude": 47.5595986,
+                "longitude": 7.5885761,
+                "formatted_address": "Basel, Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1960"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1960"
+        },
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1960"
+        },
+        {
+            "country": {
+                "name": "Bryssel",
+                "latitude": 50.8260453,
+                "longitude": 4.3802052,
+                "formatted_address": "Brussels, Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1960"
+        },
+        {
+            "country": {
+                "name": "Rom",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ITA",
+            "year": "1960"
+        }
+    ]
+}

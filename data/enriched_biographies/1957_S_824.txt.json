@@ -1,0 +1,215 @@
+{
+    "career": [
+        {
+            "position": "Assistent",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Bergianska stiftelsen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Stockholms borgarskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "S:t Eriks folkhögskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1927,
+            "end_year": null,
+            "organization": "Botaniska sällskapet Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Emil",
+        "last_name": "S.",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "21-06-1890",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Emil",
+                "last_name": "S.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Källarmästare",
+                    "occupation_english": "Cellar master",
+                    "hisco_code_swedish": "51030.0",
+                    "hisco_description_swedish": "Working Proprietor (Restaurant)",
+                    "hisco_code_english": "59990.0",
+                    "hisco_description_english": "Other Service Workers Not Elsewhere Classified"
+                }
+            },
+            {
+                "first_name": "Charlotta",
+                "last_name": "Bäckström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1921",
+            "institution": "Stockholm Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Clary",
+            "last_name": "Orre",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "01-01-1901",
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1932",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "Filosofie hedersdoktor",
+            "institution": "Stockholm Universitet",
+            "year": "1956"
+        }
+    ],
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Blommor",
+            "year": "1942",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Trädgårdsblommor",
+            "year": "1946",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Träd, buskar och ris",
+            "year": "1947",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Portugal",
+                "latitude": 39.39987199999999,
+                "longitude": -8.224454,
+                "formatted_address": "Portugal"
+            },
+            "country_code": "PRT",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1955"
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Antikvarie",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "Statens historiska museum",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Landsantikvarie",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "Gotlands län",
+            "location": {
+                "name": "Visby",
+                "latitude": 57.6348,
+                "longitude": 18.29484,
+                "formatted_address": "Visby, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Greta",
+        "last_name": "Arwidsson",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "05-07-1906",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "Landsantikvarie",
+            "occupation_english": "County Antiquarian",
+            "hisco_code_swedish": "19140.0",
+            "hisco_description_swedish": "Art Gallery and Museum Curator"
+        },
+        "parents": [
+            {
+                "first_name": "Ivar",
+                "last_name": "Arwidsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fiskeriassistent",
+                    "occupation_english": "Fisheries Assistant",
+                    "hisco_code_swedish": "64100.0",
+                    "hisco_description_swedish": "Fisherman, DeepSea or Inland and Coastal Water",
+                    "hisco_code_english": "64100.0",
+                    "hisco_description_english": "Fisherman, DeepSea or Inland and Coastal Water"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Jacobsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "Uppsala universitet",
+            "department": null,
+            "start_year": 1930,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Uppsala universitet",
+            "department": null,
+            "start_year": 1935,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala universitet",
+            "department": null,
+            "start_year": 1942,
+            "end_year": 1946,
+            "field": "Nordisk och jämförande fornkunskap"
+        },
+        {
+            "position": "Filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala universitet",
+            "department": null,
+            "start_year": 1943,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Visby",
+        "latitude": 57.6348,
+        "longitude": 18.29484,
+        "formatted_address": "Visby, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Die Gräberfußde von Valsgärde I: Valsgärde 6",
+            "year": "1942",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Vendelstile, Email u. Glas",
+            "year": "1942",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Norden",
+                "latitude": 53.59878519999999,
+                "longitude": 7.196716,
+                "formatted_address": "26506 Norden, Germany"
+            },
+            "country_code": "None",
+            "year": "1938-1939"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1938-1939"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1938-1939"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1938-1939"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1938-1939"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1938-1939"
+        }
+    ]
+}

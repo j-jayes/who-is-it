@@ -1,0 +1,221 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1914,
+            "end_year": 1917,
+            "organization": "Apoteket Kronan",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1918,
+            "end_year": 1920,
+            "organization": "Apoteket",
+            "location": {
+                "name": "Borlänge",
+                "latitude": 60.484304,
+                "longitude": 15.433969,
+                "formatted_address": "Borlänge, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1922,
+            "end_year": 1927,
+            "organization": "Apoteket",
+            "location": {
+                "name": "Borlänge",
+                "latitude": 60.484304,
+                "longitude": 15.433969,
+                "formatted_address": "Borlänge, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1927,
+            "end_year": 1929,
+            "organization": "Falken",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1929,
+            "end_year": 1939,
+            "organization": "Hjorten",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1941,
+            "end_year": 1943,
+            "organization": "Hjorten",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Apoteket",
+            "location": {
+                "name": "Bengtsfors",
+                "latitude": 59.028612,
+                "longitude": 12.226943,
+                "formatted_address": "Bengtsfors, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Maria",
+        "last_name": "Stage",
+        "middle_name": "Amalia Gullan",
+        "gender": "Female",
+        "birth_date": "06-02-1896",
+        "birth_place": {
+            "name": "Silvberg, Kopparbergs Län",
+            "latitude": 61.0219846,
+            "longitude": 15.2156338,
+            "formatted_address": "795 96 Silverberg, Sweden"
+        },
+        "occupation": {
+            "occupation": "apotekare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Hallmodin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bankkamrer",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Lina",
+                "last_name": "Bergstedt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Nykterhetsnämnd",
+            "role": "Ledamot",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Kyrkofullmäktige",
+            "role": "Ledamot",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Bengtsfors",
+        "latitude": 59.028612,
+        "longitude": 12.226943,
+        "formatted_address": "Bengtsfors, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1914",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Farmaceutisk kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "None"
+        },
+        {
+            "degree": "Apotekarexamen",
+            "degree_level": "Master's",
+            "year": "1941",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Oskar",
+            "last_name": "Stage",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "civilingenjör",
+                "occupation_english": null,
+                "hisco_code_swedish": "2210.0",
+                "hisco_description_swedish": "Civil Engineer, General"
+            },
+            "parents": null
+        },
+        "marriage_year": "1920",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Brita",
+                "last_name": "Stage",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1921"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

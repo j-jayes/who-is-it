@@ -1,0 +1,109 @@
+{
+    "career": [
+        {
+            "position": "hovrättsexamen",
+            "start_year": 1883,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "vice häradshövding",
+            "start_year": 1887
+        },
+        {
+            "position": "assessor",
+            "start_year": 1894,
+            "organization": "Svea hovrätt"
+        },
+        {
+            "position": "kansliråd och byråchef",
+            "start_year": 1895,
+            "organization": "Civil Departementet"
+        },
+        {
+            "position": "landssekreterare",
+            "start_year": 1905,
+            "organization": "Stockholms Län"
+        },
+        {
+            "position": "tillförordnad landshövding",
+            "start_year": 1919,
+            "end_year": 1920,
+            "organization": "Stockholms Län"
+        }
+    ],
+    "person": {
+        "first_name": "Daniel",
+        "last_name": "Ekelund",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "26-07-1859",
+        "birth_place": {
+            "name": "Karlstad",
+            "latitude": 59.4021806,
+            "longitude": 13.5114977,
+            "formatted_address": "Karlstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "landssekreterare",
+            "occupation_english": "county administrative secretary",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator",
+            "hisco_code_english": "30000.0",
+            "hisco_description_english": "Clerical or Related Worker, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "L. J. Fr.",
+                "last_name": "Ekelund",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kronofogde",
+                    "occupation_english": "district enforcement officer",
+                    "hisco_code_swedish": "31090.0",
+                    "hisco_description_swedish": "Government Executive Officials Not Elsewhere Classified"
+                }
+            },
+            {
+                "first_name": "Louise",
+                "last_name": "Sillen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "committee_memberships": [
+        {
+            "committee_name": "kommitten angående minderåriga och kvinnors arbete i industrin",
+            "role": "ledamot",
+            "start_year": 1899
+        },
+        {
+            "committee_name": "arsenikkommittén",
+            "role": "ledamot",
+            "start_year": 1902
+        },
+        {
+            "committee_name": "yrkesfarekommittén",
+            "role": "ledamot",
+            "start_year": 1906
+        }
+    ],
+    "political_positions": [
+        {
+            "organization": "angående administrativa besvärsförfarande",
+            "position": "sakkunnig",
+            "start_year": 1913
+        }
+    ],
+    "publications": null,
+    "travels": null
+}

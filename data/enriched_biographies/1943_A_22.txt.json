@@ -1,0 +1,285 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1901,
+            "end_year": 1909,
+            "organization": "Lunds privata elementarskola",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": "Växjö högre allmänna läroverk",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1916,
+            "end_year": 1926,
+            "organization": "Norrköpings högre allmänna läroverk",
+            "location": {
+                "name": "Norrköping",
+                "latitude": 58.587745,
+                "longitude": 16.192421,
+                "formatted_address": "Norrköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Högre latinläroverket å Norrmalm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1929,
+            "end_year": 1939,
+            "organization": "Högre latinläroverket å Norrmalm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Ahlberg",
+        "middle_name": "Wilhelm",
+        "gender": "Male",
+        "birth_date": "26-04-1874",
+        "birth_place": {
+            "name": "Gällstad, Älvsborgs Län",
+            "latitude": 57.66859969999999,
+            "longitude": 13.4328388,
+            "formatted_address": "523 60 Gällstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor, Före detta Rektor",
+            "occupation_english": "Professor, Former Rector",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher"
+        },
+        "parents": [
+            {
+                "first_name": "Aug.",
+                "last_name": "Ahlberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kontraktsprost",
+                    "occupation_english": "Rural Dean",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "37030.0",
+                    "hisco_description_english": "Postman"
+                }
+            },
+            {
+                "first_name": "Antoinette",
+                "last_name": "Gyzander",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1900,
+            "end_year": null,
+            "field": "Latin"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1941,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Läroverkssakkunniga",
+            "role": "Ordförande",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1894",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Filosofie Licentiat",
+            "degree_level": "Master's",
+            "year": "1899",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Filosofie Doktor",
+            "degree_level": "Doctorate",
+            "year": "1900",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elisabeth",
+            "last_name": "Malm",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Joh.",
+                    "last_name": "Malm",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Kontraktsprost",
+                        "occupation_english": "Rural Dean",
+                        "hisco_code_swedish": "14120.0",
+                        "hisco_description_swedish": "Minister of Religion",
+                        "hisco_code_english": "37030.0",
+                        "hisco_description_english": "Postman"
+                    }
+                },
+                {
+                    "first_name": "Emilie",
+                    "last_name": "Arnhamn",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1904",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Studia metrica et prosodiaca I-II",
+            "year": "1900",
+            "type": "Avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "De correptione iambica Plautina",
+            "year": "1901",
+            "type": "Avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "DurativeZeitbestimm. im Latein",
+            "year": "1906",
+            "type": "Avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Prolegomena in Sallustium",
+            "year": "1911",
+            "type": "Avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Latinsk grammatik",
+            "year": "1937",
+            "type": "Bok",
+            "editions": [
+                {
+                    "edition_number": "8",
+                    "year": "1937",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "C. Sallustii Crispi Catilina, Iugurtha, Orationes",
+            "year": "1919",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

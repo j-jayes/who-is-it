@@ -1,0 +1,123 @@
+{
+    "career": [
+        {
+            "position": "Anställd vid Svenska Radio Aktiebolag:s telefontekniska avdelning",
+            "start_year": 1928,
+            "end_year": 1931,
+            "organization": "Svenska Radio Aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd vid Telefonaktiebolaget L M Ericsson transmiss.tekniska avdelning",
+            "start_year": 1931,
+            "organization": "Telefonaktiebolaget L M Ericsson",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Rodhe",
+        "middle_name": "Magnus",
+        "gender": "Male",
+        "birth_date": "20-04-1905",
+        "birth_place": {
+            "name": "Undersvik, Gävleborgs Län",
+            "latitude": 61.6065232,
+            "longitude": 16.3191765,
+            "formatted_address": "821 67 Undersvik, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "M",
+                "last_name": "Rodhe",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Komminister",
+                    "occupation_english": "Curate",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Bertha",
+                "last_name": "Janson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Enebyberg",
+        "latitude": 59.43248120000001,
+        "longitude": 18.0391085,
+        "formatted_address": "Enebyberg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1923",
+            "institution": "Hudiksvall"
+        },
+        {
+            "degree": "KTH (E)",
+            "degree_level": "Bachelor's",
+            "year": "1924-1928",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Brittiska Indien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "IND",
+            "year": "1930"
+        }
+    ]
+}

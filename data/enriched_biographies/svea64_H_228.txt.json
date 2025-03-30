@@ -1,0 +1,147 @@
+{
+    "career": [
+        {
+            "position": "advokat",
+            "start_year": 1930,
+            "organization": "Nyköping",
+            "location": {
+                "name": "Nyköping",
+                "latitude": 58.75284389999999,
+                "longitude": 17.0091593,
+                "formatted_address": "Nyköping, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Herman",
+        "last_name": "Heilborn",
+        "middle_name": "D",
+        "gender": "Male",
+        "birth_date": "06-02-1905",
+        "birth_place": {
+            "name": "Sölvesborg",
+            "latitude": 56.0537433,
+            "longitude": 14.5796878,
+            "formatted_address": "Sölvesborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "advokat",
+            "occupation_english": "lawyer",
+            "hisco_code_swedish": "12110.0",
+            "hisco_description_swedish": "Lawyer",
+            "hisco_code_english": "73210.0",
+            "hisco_description_english": "Sawyer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Herman",
+                "last_name": "Heilborn",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "major",
+                    "occupation_english": "major",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Helga",
+                "last_name": "Eklund",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1923",
+            "institution": "Karlskrona"
+        },
+        {
+            "degree": "juristkandidat",
+            "degree_level": "Master's",
+            "year": "1927",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Edith",
+            "last_name": "Printz",
+            "middle_name": null,
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "Oscar",
+                    "last_name": "Printz",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "överingenjör",
+                        "occupation_english": "chief engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Marie",
+                    "last_name": "Le Grand",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1932",
+        "children": [
+            {
+                "first_name": "Anne-Marie",
+                "last_name": "Heilborn",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1934"
+            },
+            {
+                "first_name": "Christer",
+                "last_name": "Heilborn",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1935"
+            },
+            {
+                "first_name": "Madeleine",
+                "last_name": "Heilborn",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Staffan",
+                "last_name": "Heilborn",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "honors": [
+        "Ledamot av Sveriges Advokatsamfund (LSA) 1936"
+    ],
+    "political_positions": [
+        {
+            "organization": "Sveriges kreditbank Nyköping",
+            "position": "styrelseordförande",
+            "start_year": 1960,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        }
+    ]
+}

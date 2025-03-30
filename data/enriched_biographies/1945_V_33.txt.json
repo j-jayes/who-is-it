@@ -1,0 +1,216 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1900,
+            "organization": "riksbanken",
+            "location": {
+                "name": "Luleå",
+                "latitude": 65.584819,
+                "longitude": 22.1567026,
+                "formatted_address": "Luleå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1900,
+            "organization": "riksbanken",
+            "location": {
+                "name": "Nyköping",
+                "latitude": 58.75284389999999,
+                "longitude": 17.0091593,
+                "formatted_address": "Nyköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1900,
+            "organization": "riksbanken",
+            "location": {
+                "name": "Kristianstad",
+                "latitude": 56.0293936,
+                "longitude": 14.1566778,
+                "formatted_address": "Kristianstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1900,
+            "organization": "riksbanken",
+            "location": {
+                "name": "huvudkontoret",
+                "latitude": 64.75592499999999,
+                "longitude": 20.9556441,
+                "formatted_address": "Åsgatan 26, 931 40 Skellefteå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "kamrer",
+            "start_year": 1931,
+            "organization": "huvudkontoret",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "suppleant",
+            "start_year": 1934,
+            "end_year": 1937,
+            "organization": "riksbanken",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "bankråd",
+            "start_year": 1935,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "bankokommissarie",
+            "start_year": 1944,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "ställföreträdande sektionschef",
+            "start_year": 1944,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Harald",
+        "last_name": "Wahlgren",
+        "middle_name": "Robert",
+        "gender": "Male",
+        "birth_date": "20-03-1882",
+        "birth_place": {
+            "name": "Gudmundrå, Västernorrlands Län",
+            "latitude": 62.91444360000001,
+            "longitude": 17.7891194,
+            "formatted_address": "872 34 Gudmundrå, Sweden"
+        },
+        "occupation": {
+            "occupation": "bankokommissarie",
+            "occupation_english": "Bank Commissioner"
+        },
+        "parents": [
+            {
+                "first_name": "August",
+                "last_name": "Wahlgren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "tullförvaltare",
+                    "occupation_english": "Customs Manager",
+                    "hisco_code_swedish": "31040.0",
+                    "hisco_description_swedish": "Customs officer"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Ortman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Nockeby",
+        "latitude": 59.3273899,
+        "longitude": 17.9260272,
+        "formatted_address": "Nockeby, Bromma, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studieexamen",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Theres",
+            "last_name": "Granström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Victor",
+                    "last_name": "Granström",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kamrer",
+                        "occupation_english": "Comptroller",
+                        "hisco_code_swedish": "11010.0",
+                        "hisco_description_swedish": "Accountant, General"
+                    }
+                },
+                {
+                    "first_name": "Sofie",
+                    "last_name": "Strömberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1908",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1929"
+        }
+    ]
+}

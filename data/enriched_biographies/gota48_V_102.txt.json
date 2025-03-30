@@ -1,0 +1,147 @@
+{
+    "career": [
+        {
+            "position": "Tingstjänstgöring",
+            "start_year": 1934,
+            "end_year": 1936,
+            "organization": "Västmanlands Mellans domsaga",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Advokat",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Gösta Warborg advokatbyrå",
+            "location": {
+                "name": "Ulricehamn",
+                "latitude": 57.7947889,
+                "longitude": 13.4205162,
+                "formatted_address": "Ulricehamn, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Warborg",
+        "middle_name": "Wilhelm",
+        "gender": "Male",
+        "birth_date": "28-02-1907",
+        "birth_place": {
+            "name": "Umeå",
+            "latitude": 63.8258471,
+            "longitude": 20.2630354,
+            "formatted_address": "Umeå, Sweden"
+        },
+        "occupation": {
+            "occupation": "Advokat",
+            "occupation_english": "Lawyer",
+            "hisco_code_swedish": "12110.0",
+            "hisco_description_swedish": "Lawyer",
+            "hisco_code_english": "73210.0",
+            "hisco_description_english": "Sawyer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Wilhelm",
+                "last_name": "Warborg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Förste postassistent",
+                    "occupation_english": "First Postal Assistant",
+                    "hisco_code_swedish": "33170.0",
+                    "hisco_description_swedish": "Post Office Counter Clerk"
+                }
+            },
+            {
+                "first_name": "Amanda",
+                "last_name": "Tjulin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ulricehamn",
+        "latitude": 57.7947889,
+        "longitude": 13.4205162,
+        "formatted_address": "Ulricehamn, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1926",
+            "institution": "Umeå"
+        },
+        {
+            "degree": "Juridik kandidat",
+            "degree_level": "Master's",
+            "year": "1933",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "Musik",
+        "Komposition"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1932"
+        }
+    ]
+}

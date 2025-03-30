@@ -1,0 +1,277 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1922,
+            "end_year": 1923,
+            "organization": "SKF",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": 1926,
+            "organization": "AB",
+            "location": {
+                "name": "Luton och London",
+                "latitude": 51.5244145,
+                "longitude": -0.1719191,
+                "formatted_address": "Luton St, London NW8, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1926,
+            "end_year": 1928,
+            "organization": "Elektrolux Ltd",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1928,
+            "organization": "Nord Slangfabr, AB Spiralslang",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Göran",
+        "last_name": "Hjorth",
+        "middle_name": "Stig: Olof",
+        "gender": "Male",
+        "birth_date": "08-11-1901",
+        "birth_place": {
+            "name": "Sandviken",
+            "latitude": 60.621607,
+            "longitude": 16.775918,
+            "formatted_address": "Sandviken, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "B",
+                "last_name": "H",
+                "middle_name": "O",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bruksdisponent",
+                    "occupation_english": "Works Manager",
+                    "hisco_code_swedish": "21220.0",
+                    "hisco_description_swedish": "Production Manager (except Farm)",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Eva",
+                "last_name": "Göransson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Nord Slangfabr, AB Spiralslang"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Noellesche Handelsschule",
+            "degree_level": "Schooling",
+            "year": "1921-1922",
+            "institution": "Osnabruck"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna-Stina",
+            "last_name": "Cronquist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Bilåkning",
+        "jakt",
+        "hundar"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Skyttemedalj i brons",
+        "Skyttemedalj i silver",
+        "Skyttemedalj i guld"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1920-1922"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Irland",
+                "latitude": 53.77975540000001,
+                "longitude": -7.3055309,
+                "formatted_address": "Ireland"
+            },
+            "country_code": "IRL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1925-1928"
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CZE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Luxemburg",
+                "latitude": 49.815273,
+                "longitude": 6.129582999999999,
+                "formatted_address": "Luxembourg"
+            },
+            "country_code": "LUX",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

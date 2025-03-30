@@ -1,0 +1,37 @@
+{
+    "career": [
+        {
+            "position": "Kapten",
+            "start_year": 1874,
+            "organization": "Kungliga Kustartilleriet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Ekström",
+        "middle_name": "Gustaf Joel",
+        "gender": "Male",
+        "birth_date": "29-12-1874",
+        "birth_place": {
+            "name": "Fors församling",
+            "latitude": null,
+            "longitude": null,
+            "formatted_address": null
+        },
+        "occupation": {
+            "occupation": "Kapten",
+            "occupation_english": "Captain",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "4215.0",
+            "hisco_description_english": "Ship's Master (Sea)"
+        }
+    }
+}

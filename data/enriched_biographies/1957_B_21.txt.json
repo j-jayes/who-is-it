@@ -1,0 +1,188 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1899,
+            "end_year": 1901,
+            "organization": "Tomta lantbruksskola",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "inspektor",
+            "start_year": 1901,
+            "end_year": null,
+            "organization": "Uddarp",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "arrendator",
+            "start_year": 1901,
+            "end_year": 1921,
+            "organization": "Sörbytorp",
+            "location": {
+                "name": "Sorby socken",
+                "latitude": 58.14728239999999,
+                "longitude": 13.3682888,
+                "formatted_address": "521 56 Sörby, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "ägare",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "Sörbytorp",
+            "location": {
+                "name": "Sorby socken",
+                "latitude": 58.14728239999999,
+                "longitude": 13.3682888,
+                "formatted_address": "521 56 Sörby, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "ordförande",
+            "start_year": 1918,
+            "end_year": 1920,
+            "organization": "Kristianstads lasarettsdirektion",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Kjell",
+        "last_name": "Barnekow",
+        "middle_name": "Ragnar Mac-Dougall",
+        "gender": "Male",
+        "birth_date": "03-01-1877",
+        "birth_place": {
+            "name": "Newcastle, England",
+            "latitude": 54.978252,
+            "longitude": -1.61778,
+            "formatted_address": "Newcastle upon Tyne, UK"
+        },
+        "occupation": {
+            "occupation": "greve, godsägare",
+            "occupation_english": "count, landowner",
+            "hisco_code_swedish": "-1.0",
+            "hisco_description_swedish": "Missing, no title"
+        },
+        "parents": [
+            {
+                "first_name": "Adolf",
+                "last_name": "Barnekow",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "greve",
+                    "occupation_english": "count",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "-1.0",
+                    "hisco_description_english": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Lotten",
+                "last_name": "Duwall",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "friherrinna",
+                    "occupation_english": "baroness",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Första Kammaren",
+            "role": "ledamot",
+            "start_year": 1918,
+            "end_year": 1920,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Andra Kammaren",
+            "role": "ledamot",
+            "start_year": 1937,
+            "end_year": 1944,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Vinslöv",
+        "latitude": 56.1033485,
+        "longitude": 13.9129906,
+        "formatted_address": "288 31 Vinslöv, Sweden"
+    },
+    "education": [
+        {
+            "degree": "avgångsexamen",
+            "degree_level": "Schooling",
+            "year": "1897",
+            "institution": "Alnarp"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hanna",
+            "last_name": "Wadstein",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "A.",
+                    "last_name": "Wadstein",
+                    "middle_name": "P.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "filosofie doktor",
+                        "occupation_english": "Doctor of Philosophy",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "13100.0",
+                        "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "I.",
+                    "last_name": "Widegren",
+                    "middle_name": "L.",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1907",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Ledamot av Lantbruksakademien 1933"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

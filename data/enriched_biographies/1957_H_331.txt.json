@@ -1,0 +1,219 @@
+{
+    "career": [
+        {
+            "position": "överläkare",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Karolinska sjukhusets kirurgiska avdelning",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Hellström",
+        "middle_name": "Gustav Leonard",
+        "gender": "Male",
+        "birth_date": "25-06-1890",
+        "birth_place": {
+            "name": "Katrineholm",
+            "latitude": 58.99555109999999,
+            "longitude": 16.2054756,
+            "formatted_address": "Katrineholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustav",
+                "last_name": "Hellström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ingenjör",
+                    "occupation_english": "engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Karolina",
+                "last_name": "Österberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "medicin kandidat",
+            "position_english": "medical candidate",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1913,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "medicin licentiat",
+            "position_english": "medical licentiate",
+            "institution": "Stockholm",
+            "department": null,
+            "start_year": 1917,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "medicin doktor",
+            "position_english": "Doctor of Medicine",
+            "institution": "Stockholm",
+            "department": null,
+            "start_year": 1924,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Karolinska Institutet",
+            "department": "kirurgi",
+            "start_year": 1927,
+            "end_year": null,
+            "field": "kirurgi"
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Karolinska Institutet",
+            "department": "kirurgi",
+            "start_year": 1939,
+            "end_year": null,
+            "field": "kirurgi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Lisa",
+            "last_name": "Clarèus",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1918",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Hedersledamot",
+        "Medlem av ett flertal in- och utländska medicinska sällskap"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "ett 150-tal arbeten",
+            "year": "None",
+            "type": "arbete",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "elev",
+            "start_year": 1880,
+            "organization": "Gleerupska bokhandeln",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "litterärt biträde",
+            "start_year": 1884,
+            "end_year": 1892,
+            "organization": "P. A. Norstedt & söner",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1890,
+            "organization": "Nationalmuseums konstavdelning",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1895,
+            "end_year": 1904,
+            "organization": "Nationalmuseums konstavdelning",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "redaktionssekreterare",
+            "start_year": 1887,
+            "end_year": 1890,
+            "organization": "Ny Svensk Tidskrift",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "redaktör och utgivare",
+            "start_year": 1892,
+            "organization": "Ord och Bild",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "konsthistoriker",
+            "start_year": 1892,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Wåhlin",
+        "middle_name": "Ludvig",
+        "gender": "Male",
+        "birth_date": "14-07-1861",
+        "birth_place": {
+            "name": "Lund",
+            "latitude": 55.7046601,
+            "longitude": 13.1910073,
+            "formatted_address": "Lund, Sweden"
+        },
+        "occupation": {
+            "occupation": "skriftställare",
+            "occupation_english": "writer",
+            "hisco_code_swedish": "15120.0",
+            "hisco_description_swedish": "Author",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "C.",
+                "last_name": "Wåhlin",
+                "middle_name": "L.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "rektor",
+                    "occupation_english": "Principal",
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher",
+                    "hisco_code_english": "37040.0",
+                    "hisco_description_english": "Messenger"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Meyer",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1880",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hildur",
+            "last_name": "Hult",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "målarinna",
+                "occupation_english": "painter",
+                "hisco_code_swedish": "93120.0",
+                "hisco_description_swedish": "Building Painter",
+                "hisco_code_english": "93120.0",
+                "hisco_description_english": "Building Painter"
+            },
+            "parents": [
+                {
+                    "first_name": "C.",
+                    "last_name": "Hult",
+                    "middle_name": "G.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "ingenjör",
+                        "occupation_english": "engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1902",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "J.V.K. Wahlbom",
+            "year": "1901",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ernst Josephson",
+            "year": "1911",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": "I-II"
+        },
+        {
+            "title": "Ernst Josephson",
+            "year": "1912",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": "I-II"
+        }
+    ],
+    "travels": null
+}

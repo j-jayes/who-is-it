@@ -1,0 +1,131 @@
+{
+    "career": [
+        {
+            "position": "Musiker",
+            "start_year": 1970,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Göran",
+        "last_name": "Fristorp",
+        "middle_name": "K",
+        "gender": "Male",
+        "birth_date": "26-05-1948",
+        "birth_place": {
+            "name": "Skara",
+            "latitude": 58.3860128,
+            "longitude": 13.4393282,
+            "formatted_address": "Skara, Sweden"
+        },
+        "occupation": {
+            "occupation": "Musiker",
+            "occupation_english": "Musician",
+            "hisco_code_swedish": "17140.0",
+            "hisco_description_swedish": "Instrumentalist",
+            "hisco_code_english": "17140.0",
+            "hisco_description_english": "Instrumentalist"
+        },
+        "parents": [
+            {
+                "first_name": "Göte",
+                "last_name": "Fristorp",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byråinspektör",
+                    "occupation_english": "Bureau Inspector",
+                    "hisco_code_swedish": "39150.0",
+                    "hisco_description_swedish": "Weighing Clerk",
+                    "hisco_code_english": "22000.0",
+                    "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Inga",
+                "last_name": "Kjörck",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Vinnare i schlagerfestivalen",
+            "field": "Musik",
+            "year": "1973",
+            "significance": null,
+            "recognized_by": "FRISENDAHL 362"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Skillinge",
+        "latitude": 55.474,
+        "longitude": 14.280493,
+        "formatted_address": "Skillinge, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Framnäs musiklinje",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Framnäs"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "Göteborgs konservatorium"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": null
+        }
+    ]
+}

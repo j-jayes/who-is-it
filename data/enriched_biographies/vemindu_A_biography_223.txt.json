@@ -1,0 +1,233 @@
+{
+    "career": [
+        {
+            "position": "Affärsverksamhet",
+            "start_year": 1898,
+            "end_year": 1901,
+            "organization": "Hamburg",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Affärsverksamhet",
+            "start_year": 1902,
+            "end_year": null,
+            "organization": "London",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Affärsverksamhet",
+            "start_year": 1903,
+            "end_year": null,
+            "organization": "Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ägare",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Aktiebolaget O Annerstedt",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ägare",
+            "start_year": 1903,
+            "end_year": null,
+            "organization": "3 fastigheter Abrahamsberg",
+            "location": {
+                "name": "Abrahamsberg",
+                "latitude": 59.3328241,
+                "longitude": 17.9506008,
+                "formatted_address": "Abrahamsberg, Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Venezuelas konsul",
+            "start_year": 1929,
+            "end_year": 1937,
+            "organization": null,
+            "location": null,
+            "country_code": "VEN"
+        }
+    ],
+    "person": {
+        "first_name": "Otto",
+        "last_name": "Annerstedt",
+        "middle_name": "Gabriel Christophilos",
+        "gender": "Male",
+        "birth_date": "20-02-1880",
+        "birth_place": {
+            "name": "Bankeryd, Jönköpings Län",
+            "latitude": 57.8574137,
+            "longitude": 14.1312259,
+            "formatted_address": "Bankeryd, Sweden"
+        },
+        "occupation": {
+            "occupation": "Konsul",
+            "occupation_english": "Consul",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator",
+            "hisco_code_english": "20210.0",
+            "hisco_description_english": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Andersson",
+                "middle_name": "M",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Godsägare",
+                    "occupation_english": "Estate Owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Beckmanson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Jönköpings högre allmänna läroverk",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Jönköpings högre allmänna läroverk"
+        },
+        {
+            "degree": "Göteborgs handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Göteborgs handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gertrud",
+            "last_name": "Malmgren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Gymnastik",
+        "Golf",
+        "Tennis",
+        "Skidåkning",
+        "Skridskoåkning",
+        "Fiske"
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "DZA",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Mindre Asien",
+                "latitude": 39.0003722,
+                "longitude": 32.0000366,
+                "formatted_address": "Փոքր Ասիա, Yüzükbaşı, 06900 Polatlı/Ankara, Türkiye"
+            },
+            "country_code": "None",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Turkiet",
+                "latitude": 38.963745,
+                "longitude": 35.243322,
+                "formatted_address": "Türkiye"
+            },
+            "country_code": "TUR",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Grekland",
+                "latitude": 39.074208,
+                "longitude": 21.824312,
+                "formatted_address": "Greece"
+            },
+            "country_code": "GRC",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1935"
+        }
+    ]
+}

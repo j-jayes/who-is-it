@@ -1,0 +1,217 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1928,
+            "organization": "Mosaiska församlingen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Bibliotekarie",
+            "start_year": 1947,
+            "organization": "Mosaiska församlingen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreläsare",
+            "start_year": 1938,
+            "organization": "Stockholms Högskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Inspektör",
+            "start_year": 1945,
+            "organization": "Statens utlänningskommissions internatskola",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Abraham",
+        "last_name": "Brody",
+        "middle_name": "Åladår",
+        "gender": "Male",
+        "birth_date": "27-09-1901",
+        "birth_place": {
+            "name": "Ungern",
+            "latitude": 47.162494,
+            "longitude": 19.503304,
+            "formatted_address": "Hungary"
+        },
+        "occupation": {
+            "occupation": "Filosofie Doktor",
+            "occupation_english": "Doctor of Philosophy",
+            "hisco_code_swedish": "-1.0",
+            "hisco_description_swedish": "Missing, no title",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Henrik",
+                "last_name": "Brody",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Spannmålsexportör",
+                    "occupation_english": "Grain Exporter",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)"
+                }
+            },
+            {
+                "first_name": "Charlotte",
+                "last_name": "Brody",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1928",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie Licentiat",
+            "degree_level": "Master's",
+            "year": "1933",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie Doktor",
+            "degree_level": "Doctorate",
+            "year": "1936",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Gurewitsch",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "05-01-1905",
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1923",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Aaron Isaacs Minnen",
+            "year": "1932",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Der Misna-Traktat Tamid",
+            "year": "1936",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Development & shifting of motives in the Israelite-Jewish conceptions of clean and unclean",
+            "year": "1948",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Judarnas historia",
+            "year": "1950",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "AFR",
+            "year": null
+        }
+    ]
+}

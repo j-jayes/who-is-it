@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1926,
+            "end_year": 1928,
+            "organization": "Aktiebolaget Svensk Sprit",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1928,
+            "end_year": 1930,
+            "organization": "Aktiebolaget Nordisk Varuförmedling Nova",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Ford Motor Company Aktiebolaget",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Reklamchef",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Ford Motor Company Aktiebolaget",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Claes",
+        "last_name": "Livijn",
+        "middle_name": "Magnus Vilhelm",
+        "gender": "Male",
+        "birth_date": "03-12-1905",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Reklamchef",
+            "occupation_english": "Advertising Manager",
+            "hisco_code_swedish": "21300.0",
+            "hisco_description_swedish": "Sales Manager, Specialisation Unknown",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "C.",
+                "last_name": "Livijn",
+                "middle_name": "M.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Hhövd",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Ebba",
+                "last_name": "Frost",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Stockholms Reklamförening"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Pojkracer-klubben"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Fords Idrottsklubb"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Schartaus Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Schartaus Handelsinstitut"
+        },
+        {
+            "degree": "Handelshögskolan",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "Handelshögskolan"
+        },
+        {
+            "degree": "Universitet",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "Universitet i Rennes"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Astri",
+            "last_name": "Schultz",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Claes",
+                "last_name": "Livijn",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1940"
+            }
+        ]
+    },
+    "hobbies": [
+        "Konst",
+        "Grammofonskivor",
+        "Tennsoldater"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Artiklar i skilda ämnen i dags- och fackpressen",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Sydeuropa",
+                "latitude": 41.2745004,
+                "longitude": -1.2121322,
+                "formatted_address": "Southern Europe"
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

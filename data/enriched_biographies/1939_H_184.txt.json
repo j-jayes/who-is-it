@@ -1,0 +1,208 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1899,
+            "end_year": 1900,
+            "organization": "Akademiska Sjukhuset",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Amanuens",
+            "start_year": 1900,
+            "end_year": 1905,
+            "organization": "Sahlgrenska Sjukhuset",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Andra läkare",
+            "start_year": 1900,
+            "end_year": 1905,
+            "organization": "Sahlgrenska Sjukhuset",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1905,
+            "end_year": 1932,
+            "organization": "Sala",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ludvig",
+        "last_name": "Hedlund",
+        "middle_name": "Emil",
+        "gender": "Male",
+        "birth_date": "03-11-1867",
+        "birth_place": {
+            "name": "Ulricehamn",
+            "latitude": 57.7947889,
+            "longitude": 13.4205162,
+            "formatted_address": "Ulricehamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "Före detta lasarettsläkare",
+            "occupation_english": "Former hospital physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Ludvig",
+                "last_name": "Hedlund",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Regementsläkare",
+                    "occupation_english": "Regimental doctor",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician"
+                }
+            },
+            {
+                "first_name": "Emilia",
+                "last_name": "Neiglick",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Lasarettsläkareföreningen",
+            "role": "Sekreterare",
+            "start_year": 1924,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Svenska Lasarettsläkareföreningen",
+            "role": "Ordförande",
+            "start_year": 1930,
+            "end_year": 1935,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1890",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1896",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Peggy",
+            "last_name": "Granström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gustav",
+                    "last_name": "Granström",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Lina",
+                    "last_name": "v. Rijswijk",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1907",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "Västmanlands Länsting",
+            "position": "Landstingsman",
+            "start_year": 1923,
+            "end_year": 1926,
+            "focus_area": null,
+            "significance": null
+        },
+        {
+            "organization": "Västmanlands Länsting",
+            "position": "Landstingsman",
+            "start_year": 1930,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Huvudsakligen inom bukkirurgi",
+            "year": "None",
+            "type": "None",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

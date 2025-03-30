@@ -1,0 +1,317 @@
+{
+    "career": [
+        {
+            "position": "Intendent",
+            "start_year": 1903,
+            "end_year": 1904,
+            "organization": "Göteborgs Museum",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor",
+            "start_year": 1904,
+            "end_year": 1933,
+            "organization": "Riksmuseets Vertebratavdelning",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Prefekt",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Kristinebergs Zoologiska Station",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Lönnberg",
+        "middle_name": "Johan Einar",
+        "gender": "Male",
+        "birth_date": "24-12-1865",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Lönnberg",
+                "middle_name": "Johan",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Filosofie Doktor",
+                    "occupation_english": "Doctor of Philosophy",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Mathilda",
+                "last_name": "Stenhammar",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "fil.kand.",
+            "position_english": "filosofie kandidat",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1887,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "fil.lic.",
+            "position_english": "filosofie licentiat",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1890,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "fil.dr.",
+            "position_english": "filosofie doktor",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1891,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "doc.",
+            "position_english": "docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1891,
+            "end_year": 1903,
+            "field": "zoologi"
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "Sven Lovéns GM 1924",
+        "Wahlberg GM 1927",
+        "Heidenstamsfondens GM 1935"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Fiskeritjänsteman",
+            "role": "ledamot",
+            "start_year": 1891,
+            "end_year": 1903,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Natiskydds- och Jaktlagskommittén",
+            "role": "ledamot",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Styrelsen för Lars Hiertas Minne",
+            "role": "ledamot",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Vetenskapsakademien",
+            "role": "Preses",
+            "start_year": 1923,
+            "end_year": 1924,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Vetenskapsakademien",
+            "role": "Vice Preses",
+            "start_year": 1924,
+            "end_year": 1939,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Fries",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "01-01-1870",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "J.",
+                    "last_name": "Fries",
+                    "middle_name": "Otto",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Ingenjör",
+                        "occupation_english": "Engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Kristina",
+                    "last_name": "Sundborg",
+                    "middle_name": "Sofia",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1894",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "LVS 1902",
+        "LVA 1905",
+        "LLA 1905",
+        "LVVS 1919",
+        "LFS 1927",
+        "Ledamot och hedersledamot i ett 20-tal utländska vetenskapliga samfund"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Linnés föreläsningar över djurriket",
+            "year": "1913",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Atlas över djurriket",
+            "year": "1913",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Sveriges ryggradsdjur 1-3",
+            "year": "1914-1915",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": "1-3"
+        },
+        {
+            "title": "Svenska jaktboken I. Sveriges jaktbara djur",
+            "year": "1924",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": "I"
+        },
+        {
+            "title": "Svenska fåglar I-105",
+            "year": "1929",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": "I-105"
+        },
+        {
+            "title": "Svenska fåglars flyttning",
+            "year": "1935",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1892-1893"
+        },
+        {
+            "country": {
+                "name": "Kaspiska havet",
+                "latitude": 41.934977,
+                "longitude": 50.66894500000001,
+                "formatted_address": "Caspian Sea"
+            },
+            "country_code": "None",
+            "year": "1899"
+        },
+        {
+            "country": {
+                "name": "Brittiska Östafrika",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1910-1911"
+        }
+    ]
+}

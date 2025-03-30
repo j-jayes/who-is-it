@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "tjänsteman",
+            "start_year": 1939,
+            "end_year": 1945,
+            "organization": "Finbruken aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "tjänsteman",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "Grycksbo pappersbruk aktiebolag",
+            "location": {
+                "name": "Grycksbo",
+                "latitude": 60.6881289,
+                "longitude": 15.4843016,
+                "formatted_address": "790 20 Grycksbo, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "tjänsteman",
+            "start_year": 1946,
+            "end_year": 1948,
+            "organization": "Simpler & Blidberg",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "disponent",
+            "start_year": 1948,
+            "organization": "Göteborgskontoret Finbruken aktiebolag",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Nisser",
+        "middle_name": "R P",
+        "gender": "Male",
+        "birth_date": "27-10-1913",
+        "birth_place": {
+            "name": "Stora Skedvi, Kopparbergs Län",
+            "latitude": 60.40686150000001,
+            "longitude": 15.8030531,
+            "formatted_address": "783 92 Stora Skedvi, Sweden"
+        },
+        "occupation": {
+            "occupation": "disponent",
+            "occupation_english": "manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "William",
+                "last_name": "Nisser",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bruksdisponent",
+                    "occupation_english": "mill manager",
+                    "hisco_code_swedish": "21220.0",
+                    "hisco_description_swedish": "Production Manager (except Farm)",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Märta",
+                "last_name": "Hennings",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Vice ordförande",
+            "organization": "Grycksbo pappersbruk aktiebolag"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Taxeringsnämnd",
+            "role": "ledamot",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "Göteborg",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1934",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Kansliexamen",
+            "degree_level": "Bachelor's",
+            "year": "1936",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "DHS",
+            "degree_level": "Bachelor's",
+            "year": "1939",
+            "institution": "Handelshögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Marianne",
+            "last_name": "Ehmsen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Heinrich",
+                    "last_name": "Ehmsen",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "professor",
+                        "occupation_english": "professor",
+                        "hisco_code_swedish": "13100.0",
+                        "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                        "hisco_code_english": "13100.0",
+                        "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Hermine",
+                    "last_name": "Schneid",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Suzanne",
+                "last_name": "Nisser",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1946"
+            },
+            {
+                "first_name": "Eva",
+                "last_name": "Nisser",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1951"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "ProPGM",
+        "FFrM2kl",
+        "FMMmsv"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

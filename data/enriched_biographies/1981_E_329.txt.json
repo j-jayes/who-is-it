@@ -1,0 +1,100 @@
+{
+    "career": [
+        {
+            "position": "Chef för manufakturförsäljningen",
+            "start_year": 1915,
+            "organization": "Sandvikens Jernverks Aktiebolag",
+            "location": {
+                "name": "Sandviken",
+                "latitude": 60.621607,
+                "longitude": 16.775918,
+                "formatted_address": "Sandviken, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Eneström",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "20-08-1896",
+        "birth_place": {
+            "name": "Karlskrona",
+            "latitude": 56.161224,
+            "longitude": 15.5869,
+            "formatted_address": "Karlskrona, Sweden"
+        },
+        "occupation": {
+            "occupation": "intendent",
+            "occupation_english": "Superintendent",
+            "hisco_code_swedish": "22000.0",
+            "hisco_description_swedish": "Supervisor, Foreman or Inspector, Specialisation Unknown",
+            "hisco_code_english": "22000.0",
+            "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Henning",
+                "last_name": "Eneström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kommendör",
+                    "occupation_english": "Commander",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Magda",
+                "last_name": "Schiller",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Monark-Crescent Aktiebolag"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunvor",
+            "last_name": "Mellgren",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gunnar",
+                    "last_name": "Mellgren",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "disponent",
+                        "occupation_english": "Manager",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Dagmar",
+                    "last_name": "Spånberg",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1941"
+    },
+    "honors": null,
+    "languages_spoken": null,
+    "publications": null,
+    "travels": null
+}

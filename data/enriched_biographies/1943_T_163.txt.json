@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "Assistent",
+            "start_year": 1898,
+            "end_year": null,
+            "organization": "Lysekils bad",
+            "location": {
+                "name": "Lysekil",
+                "latitude": 58.27557299999999,
+                "longitude": 11.435558,
+                "formatted_address": "Lysekil, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Läkare",
+            "start_year": 1900,
+            "end_year": 1902,
+            "organization": "Sätra brunn",
+            "location": {
+                "name": "Sätra",
+                "latitude": 59.28882979999999,
+                "longitude": 17.9150581,
+                "formatted_address": "Sätra, Skärholmen, Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Läkare",
+            "start_year": 1906,
+            "end_year": 1910,
+            "organization": "Hjo bad",
+            "location": {
+                "name": "Hjo",
+                "latitude": 58.3070702,
+                "longitude": 14.2874663,
+                "formatted_address": "Hjo, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1901,
+            "end_year": 1902,
+            "organization": "A. Kellgren",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1911,
+            "end_year": 1914,
+            "organization": "Allmänna försörjningsinrättningens öra sjukhus",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Conrad",
+        "last_name": "Törngren",
+        "middle_name": "Axel",
+        "gender": "Male",
+        "birth_date": "23-12-1875",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Praktiserande läkare",
+            "occupation_english": "Practicing physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Moje",
+                "last_name": "Törngren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Professor",
+                    "occupation_english": "Professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Betty",
+                "last_name": "Noer",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1895",
+            "institution": "None"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Master's",
+            "year": "1899",
+            "institution": "None"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1906",
+            "institution": "None"
+        },
+        {
+            "degree": "medicine gymnastikdirektör",
+            "degree_level": "Doctorate",
+            "year": "1902",
+            "institution": "Gymnastiska Centralinstitutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Jolin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Severin",
+                    "last_name": "Jolin",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Professor",
+                        "occupation_english": "Professor",
+                        "hisco_code_swedish": "13100.0",
+                        "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                        "hisco_code_english": "13100.0",
+                        "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Julia",
+                    "last_name": "Carlson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1906",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

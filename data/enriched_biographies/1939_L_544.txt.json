@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1915,
+            "end_year": null,
+            "organization": "Statens Handelskommission",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Statens Handelskommission",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ombudsman",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Statens Handelskommission",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Handelsattaché",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": "Beskickningen i Berlin",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Handelsråd",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": "Beskickningen i Berlin",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Generalkonsul",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Calcutta",
+                "latitude": 22.5743545,
+                "longitude": 88.3628734,
+                "formatted_address": "Kolkata, West Bengal, India"
+            },
+            "country_code": "IND"
+        },
+        {
+            "position": "Sakkunnig",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Sveriges Ombud",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Internationella Pälskongressen",
+            "location": {
+                "name": "Leipzig",
+                "latitude": 51.3396955,
+                "longitude": 12.3730747,
+                "formatted_address": "04 Leipzig, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Skiljedomare",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Löwenhard",
+        "middle_name": "Sigurd Natanael",
+        "gender": "Male",
+        "birth_date": "13-11-1889",
+        "birth_place": {
+            "name": "Nässjö",
+            "latitude": 57.65303549999999,
+            "longitude": 14.6967247,
+            "formatted_address": "Nässjö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Generalkonsul",
+            "occupation_english": "Consul General",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "20210.0",
+            "hisco_description_english": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "Hugo",
+                "last_name": "Löwenhard",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Underlöjtnant",
+                    "occupation_english": "Second Lieutenant",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Wadner",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Calcutta",
+        "latitude": 22.5743545,
+        "longitude": 88.3628734,
+        "formatted_address": "Kolkata, West Bengal, India"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Stockholms Högskola"
+        },
+        {
+            "degree": "Diplomexamen",
+            "degree_level": "Bachelor's",
+            "year": "1915",
+            "institution": "Handelshögskolan"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Bern",
+                "latitude": 46.9479739,
+                "longitude": 7.4474468,
+                "formatted_address": "Bern, Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1918"
+        },
+        {
+            "country": {
+                "name": "Bern",
+                "latitude": 46.9479739,
+                "longitude": 7.4474468,
+                "formatted_address": "Bern, Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1919"
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "career": [
+        {
+            "position": "Innehavare",
+            "start_year": 1913,
+            "organization": "Firma Berndt G Berggren & Co",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1915,
+            "organization": "Firma Berndt G Berggren & Co",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1937,
+            "organization": "Frimurarelogen S:t Johannes Logen S:t Erik i Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Skattmästare",
+            "start_year": 1937,
+            "organization": "Frimurarelogen S:t Johannes Logen S:t Erik i Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Berndt",
+        "last_name": "Berggren",
+        "middle_name": "Gotthard",
+        "gender": "Male",
+        "birth_date": "04-03-1886",
+        "birth_place": {
+            "name": "Ystad",
+            "latitude": 55.4295051,
+            "longitude": 13.8200308,
+            "formatted_address": "Ystad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Grosshandlare",
+            "occupation_english": "Wholesaler",
+            "hisco_code_swedish": "41020.0",
+            "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+            "hisco_code_english": "41025.0",
+            "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "Berggren",
+                "middle_name": "A G",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Järnhandlare",
+                    "occupation_english": "Ironmonger",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41030.0",
+                    "hisco_description_english": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Forsberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Lunds Katedralskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Rossmann",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": "1940",
+        "children": null
+    },
+    "hobbies": [
+        "Det frivilliga försvaret"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Skyttemedalj i silver",
+        "Logens idrottsmedalj i guld",
+        "Stockholms Logeförbunds förtjänst - silvermedalj",
+        "Frimurare Sahlins Logekammare förtjänstmedalj i guldmedalj"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "Före detta löjtnant i reserven",
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Baltikum",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

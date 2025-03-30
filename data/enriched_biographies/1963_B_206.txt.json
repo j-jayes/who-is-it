@@ -1,0 +1,171 @@
+{
+    "career": [
+        {
+            "position": "Sekreterare",
+            "start_year": 1933,
+            "end_year": 1941,
+            "organization": "Grafiska sällskapet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1940,
+            "end_year": 1955,
+            "organization": "Sällskapet Nya Idun",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Annie",
+        "last_name": "Bergman",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "15-12-1889",
+        "birth_place": {
+            "name": "Liége",
+            "latitude": 50.6402286,
+            "longitude": 5.5689372,
+            "formatted_address": "Liège, Belgium"
+        },
+        "occupation": {
+            "occupation": "konstnärinna",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "William",
+                "last_name": "Bergman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "gen:major",
+                    "occupation_english": "Major General",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Ingeborg",
+                "last_name": "Billqvist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Etsningar och träsnitt",
+            "field": "Konst",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Illustrerat och författat barnböcker",
+            "field": "Litteratur",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Teckningar i dags- och veckopress",
+            "field": "Konst",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Teaterkarikatyrer",
+            "field": "Konst",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Porträtt, blomsterstycken och landskap i olja och akvarell",
+            "field": "Konst",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Konstakademin",
+            "degree_level": "Schooling",
+            "year": "1912",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": "1921"
+        }
+    ]
+}

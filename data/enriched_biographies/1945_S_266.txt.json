@@ -1,0 +1,213 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Sture",
+        "last_name": "Siwe",
+        "middle_name": "August",
+        "gender": "Male",
+        "birth_date": "23-01-1897",
+        "birth_place": {
+            "name": "Karlskrona",
+            "latitude": 56.161224,
+            "longitude": 15.5869,
+            "formatted_address": "Karlskrona, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Flaggmaskinist",
+                    "occupation_english": "Petty Officer",
+                    "hisco_code_swedish": "98220.0",
+                    "hisco_description_swedish": "Ship's Fireman",
+                    "hisco_code_english": "58330.0",
+                    "hisco_description_english": "NonCommissioned Officer"
+                }
+            },
+            {
+                "first_name": "Thilda",
+                "last_name": "Rydell",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1916,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "medicine licentiat",
+            "position_english": "Licentiate of Medicine",
+            "institution": "Stockholms Universitet",
+            "department": null,
+            "start_year": 1924,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "medicine doktor",
+            "position_english": "Doctor of Medicine",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1926,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent i anatomi",
+            "position_english": "Docent in Anatomy",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1927,
+            "end_year": null,
+            "field": "Anatomi"
+        },
+        {
+            "position": "docent i pediatrik",
+            "position_english": "Docent in Pediatrics",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1931,
+            "end_year": null,
+            "field": "Pediatrik"
+        },
+        {
+            "position": "professor i pediatrik",
+            "position_english": "Professor in Pediatrics",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1937,
+            "end_year": null,
+            "field": "Pediatrik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Hansson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Abraham",
+                    "last_name": "H.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Lantbrukare",
+                        "occupation_english": "Farmer",
+                        "hisco_code_swedish": "61110.0",
+                        "hisco_description_swedish": "General Farmer",
+                        "hisco_code_english": "61110.0",
+                        "hisco_description_english": "General Farmer"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Strindlund",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1928",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Pankreasstudien",
+            "year": "1926",
+            "type": "Studie",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Rachitis och Spasmophiliestudien",
+            "year": "1931-1934",
+            "type": "Studie",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "career": [
+        {
+            "position": "Tjänstgöring vid Hudiksvalls elementarskola för flickor",
+            "start_year": 1920,
+            "end_year": 1934,
+            "organization": "Hudiksvalls elementarskola för flickor",
+            "location": {
+                "name": "Hudiksvall",
+                "latitude": 61.7273909,
+                "longitude": 17.107401,
+                "formatted_address": "Hudiksvall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ämneslärarinna i modersmål, engelska och franska",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Mönsterås samrealskola",
+            "location": {
+                "name": "Mönsterås",
+                "latitude": 57.0415797,
+                "longitude": 16.44312,
+                "formatted_address": "Mönsterås, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Dana",
+        "last_name": "Hallström",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "25-07-1891",
+        "birth_place": {
+            "name": "Silbodal, Värmlands Län",
+            "latitude": 59.3859301,
+            "longitude": 12.1241929,
+            "formatted_address": "Storgatan, 672 31 Årjäng, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ämneslärarinna",
+            "occupation_english": "Subject teacher",
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+            "hisco_code_english": "13990.0",
+            "hisco_description_english": "Other Teachers"
+        },
+        "parents": [
+            {
+                "first_name": "Arthur",
+                "last_name": "Hallström",
+                "middle_name": "Godemar",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Provinsialläkare",
+                    "occupation_english": "Provincial physician",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician",
+                    "hisco_code_english": "6100.0",
+                    "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Nanna",
+                "last_name": "Henne",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Mönsterås",
+        "latitude": 57.0415797,
+        "longitude": 16.44312,
+        "formatted_address": "Mönsterås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Karlstad"
+        },
+        {
+            "degree": "Examen från Högre Lärarinneseminariet",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1928"
+        }
+    ]
+}

@@ -1,0 +1,361 @@
+{
+    "career": [
+        {
+            "position": "Innehavare",
+            "start_year": 1925,
+            "end_year": 1928,
+            "organization": "egen maskinfabrik",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1928,
+            "end_year": 1931,
+            "organization": "General Motors Nord AB",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1932,
+            "end_year": 1935,
+            "organization": "AB Systema",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Hector & Co AB",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sten",
+        "last_name": "Lindvall",
+        "middle_name": "Eric",
+        "gender": "Male",
+        "birth_date": "13-03-1902",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "Eric",
+                "last_name": "Lindvall",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Josefina",
+                "last_name": "Söderlund",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Hector & Co AB"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Sunex Säkerhetsglas AB"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "AB Stockholms Vaddfabrik"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1921",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Techn Hochschule",
+            "degree_level": "Schooling",
+            "year": "Okänd",
+            "institution": "Dresden"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Astrid",
+            "last_name": "Wahltin",
+            "gender": "Female",
+            "occupation": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Segling",
+        "fiske"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Algeriet",
+                "latitude": 28.033886,
+                "longitude": 1.659626,
+                "formatted_address": "Algeria"
+            },
+            "country_code": "DZA",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Marocko",
+                "latitude": 31.791702,
+                "longitude": -7.092619999999999,
+                "formatted_address": "Morocco"
+            },
+            "country_code": "MAR",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Portugal",
+                "latitude": 39.39987199999999,
+                "longitude": -8.224454,
+                "formatted_address": "Portugal"
+            },
+            "country_code": "PRT",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1940"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1941"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1942"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1943"
+        },
+        {
+            "country": {
+                "name": "Slovakien",
+                "latitude": 48.669026,
+                "longitude": 19.699024,
+                "formatted_address": "Slovakia"
+            },
+            "country_code": "SVK",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Slovakien",
+                "latitude": 48.669026,
+                "longitude": 19.699024,
+                "formatted_address": "Slovakia"
+            },
+            "country_code": "SVK",
+            "year": "1940"
+        },
+        {
+            "country": {
+                "name": "Slovakien",
+                "latitude": 48.669026,
+                "longitude": 19.699024,
+                "formatted_address": "Slovakia"
+            },
+            "country_code": "SVK",
+            "year": "1941"
+        },
+        {
+            "country": {
+                "name": "Slovakien",
+                "latitude": 48.669026,
+                "longitude": 19.699024,
+                "formatted_address": "Slovakia"
+            },
+            "country_code": "SVK",
+            "year": "1942"
+        },
+        {
+            "country": {
+                "name": "Slovakien",
+                "latitude": 48.669026,
+                "longitude": 19.699024,
+                "formatted_address": "Slovakia"
+            },
+            "country_code": "SVK",
+            "year": "1943"
+        }
+    ]
+}

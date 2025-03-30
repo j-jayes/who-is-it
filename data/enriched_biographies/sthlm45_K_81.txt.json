@@ -1,0 +1,189 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1914,
+            "end_year": 1917,
+            "organization": "Skandinaviska Banken",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Affärsverksamhet",
+            "start_year": 1917,
+            "end_year": 1925,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "A-B Elektrolux",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kanslist",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Kungliga Majestäts Orden",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Jonas",
+        "last_name": "Kjellberg",
+        "middle_name": "Ragnar",
+        "gender": "Male",
+        "birth_date": "01-05-1889",
+        "birth_place": {
+            "name": "Frieisberg, Friels församling, Skaraborgs Län",
+            "latitude": 58.45,
+            "longitude": 12.783333,
+            "formatted_address": "530 30 Friel, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "J. M.",
+                "last_name": "Kjellberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Godsägare",
+                    "occupation_english": "Estate Owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Jacobsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1909",
+            "institution": "Nya Elementarskolan i Stockholm"
+        },
+        {
+            "degree": "Examen",
+            "degree_level": "Bachelor's",
+            "year": "1911",
+            "institution": "Handelshögskolan i Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Guldborg",
+            "last_name": "von Tången",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1918",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ragnar",
+                "last_name": "Kjellberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1919"
+            },
+            {
+                "first_name": "Ingeborg",
+                "last_name": "Kjellberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1921"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Marocko",
+                "latitude": 31.791702,
+                "longitude": -7.092619999999999,
+                "formatted_address": "Morocco"
+            },
+            "country_code": "MAR",
+            "year": null
+        }
+    ]
+}

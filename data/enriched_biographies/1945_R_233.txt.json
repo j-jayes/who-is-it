@@ -1,0 +1,169 @@
+{
+    "career": [
+        {
+            "position": "tillförordnad assistent",
+            "start_year": 1936,
+            "organization": "statens farmacevtiska laboratorium"
+        },
+        {
+            "position": "laborator",
+            "start_year": 1938,
+            "organization": "statens farmacevtiska laboratorium"
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1942,
+            "organization": "statens farmacevtiska laboratorium"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Rydin",
+        "middle_name": "Håkan",
+        "gender": "Male",
+        "birth_date": "30-08-1902",
+        "birth_place": {
+            "name": "Seglora, Älvsborgs Län",
+            "latitude": 57.5808323,
+            "longitude": 12.7332414,
+            "formatted_address": "515 93 Seglora, Sweden"
+        },
+        "occupation": {
+            "occupation": "medicinsk doktor",
+            "occupation_english": "Medical Doctor",
+            "hisco_code_swedish": "6100.0",
+            "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "R",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kamrer",
+                    "occupation_english": "Comptroller",
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Jenny",
+                "last_name": "Fagerström",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Uppsala universitet",
+            "department": "farmakologi",
+            "start_year": 1935,
+            "field": "farmakologi"
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Karolinska institutet",
+            "department": null,
+            "start_year": 1942,
+            "field": "farmakologi"
+        }
+    ],
+    "publications": [
+        {
+            "title": "ett 50-tal skrifter inom farmakologi och fysiologi",
+            "year": "None",
+            "type": "skrifter"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1936"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Alfred",
+        "last_name": "Fernström",
+        "middle_name": "Eric Georg Ko-foed",
+        "gender": "Male",
+        "birth_date": "04-07-1901",
+        "birth_place": {
+            "name": "Asarum, Blekinge Län",
+            "latitude": 56.2,
+            "longitude": 14.833333,
+            "formatted_address": "Asarum, Karlshamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "direktör",
+            "occupation_english": "director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Alfred",
+                "last_name": "Fernström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ingenjör",
+                    "occupation_english": "engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Hammar",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Karlshamn",
+        "latitude": 56.170303,
+        "longitude": 14.863073,
+        "formatted_address": "Karlshamn, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "Lund"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Bachelor's",
+            "year": "1922-1924",
+            "institution": "Handelshögskolan"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Bachelor's",
+            "year": "1925",
+            "institution": "Universitetet i Grenoble"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "Tillförordnad föreståndare",
+            "start_year": 1935,
+            "organization": "Svenska institutet",
+            "location": {
+                "name": "Rom",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ITA"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1942,
+            "organization": "Sigtuna-stiftelsens humanistiska läroverk",
+            "location": {
+                "name": "Sigtuna",
+                "latitude": 59.6191463,
+                "longitude": 17.7234191,
+                "formatted_address": "Sigtuna, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Säflund",
+        "middle_name": "Gösta",
+        "gender": "Male",
+        "birth_date": "01-03-1903",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent",
+            "occupation_english": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Lars",
+                "last_name": "Säflund",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjukgymnast",
+                    "occupation_english": "Physiotherapist",
+                    "hisco_code_swedish": "7620.0",
+                    "hisco_description_swedish": "Physiotherapist",
+                    "hisco_code_english": "7620.0",
+                    "hisco_description_english": "Physiotherapist"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Jonsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1932,
+            "field": "Klassisk fornkunskap och antikens historia"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1922",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1925",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1928",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1932",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anita",
+            "last_name": "Blume",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Lars",
+                    "last_name": "Blume",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Civilingenjör",
+                        "occupation_english": "Civil Engineer",
+                        "hisco_code_swedish": "2210.0",
+                        "hisco_description_swedish": "Civil Engineer, General"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Högberg",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1928",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Le mura di Roma republicana",
+            "year": "1932",
+            "type": "Akademisk avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ett flertal andra arbeten rörande Roms och Greklands topografi och arkeologi",
+            "year": "Okänt",
+            "type": "Övriga arbeten",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "De Pallio’ und die stilist. Entwickl. Ter-tullians",
+            "year": "Okänt",
+            "type": "inom latinsk filologi över Tertullianus",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Grekland",
+                "latitude": 39.074208,
+                "longitude": 21.824312,
+                "formatted_address": "Greece"
+            },
+            "country_code": "GRC",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Grekland",
+                "latitude": 39.074208,
+                "longitude": 21.824312,
+                "formatted_address": "Greece"
+            },
+            "country_code": "GRC",
+            "year": "1937"
+        }
+    ]
+}

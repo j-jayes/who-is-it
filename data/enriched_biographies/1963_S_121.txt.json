@@ -1,0 +1,101 @@
+{
+    "career": [
+        {
+            "position": "pastorsadjunkt",
+            "start_year": 1907,
+            "organization": "Gävle"
+        },
+        {
+            "position": "Komminister",
+            "start_year": 1910,
+            "organization": "Segersta"
+        },
+        {
+            "position": "Komminister",
+            "start_year": 1915,
+            "organization": "Högbo"
+        },
+        {
+            "position": "Kyrkoherde",
+            "start_year": 1918,
+            "organization": "Fuxerna"
+        },
+        {
+            "position": "Kyrkoherde",
+            "start_year": 1939,
+            "end_year": 1951,
+            "organization": "Solna församling",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "ledamot av Första Kammaren",
+            "start_year": 1919,
+            "end_year": 1945
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Sandegård",
+        "middle_name": "Johan",
+        "gender": "Male",
+        "birth_date": "06-10-1880",
+        "birth_place": {
+            "name": "Högbo, Gävleborgs Län",
+            "latitude": 60.6628609,
+            "longitude": 16.8013681,
+            "formatted_address": "811 92 Högbo, Sweden"
+        },
+        "occupation": {
+            "occupation": "fd. kyrkoherde",
+            "occupation_english": "Former Parish Priest",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Karl",
+                "last_name": "Pettersson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "handlare",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Emelie",
+                "last_name": "Andersdotter",
+                "gender": "Female"
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Vad skola vi tro ?",
+            "year": "1933",
+            "type": "book"
+        },
+        {
+            "title": "Kring Emanuel Linderholm och hans gärning",
+            "year": "1939",
+            "type": "book"
+        },
+        {
+            "title": "Den fortsatta reformationen",
+            "year": "1938",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

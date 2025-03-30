@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "Extra ordinarie amanuens",
+            "start_year": 1917,
+            "end_year": 1917,
+            "organization": "Medicinsk-kemiska institutionen i Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ordinarie amanuens",
+            "start_year": 1918,
+            "end_year": 1919,
+            "organization": "Medicinsk-kemiska institutionen i Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Assistentläkare",
+            "start_year": 1922,
+            "end_year": 1922,
+            "organization": "Hälsingborgs lasarett",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tillförordnad underläkare",
+            "start_year": 1922,
+            "end_year": 1922,
+            "organization": "Hälsingborgs lasarett",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tillförordnad provinsialläkare",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Melleruds distrikt",
+            "location": {
+                "name": "Mellerud",
+                "latitude": 58.7025681,
+                "longitude": 12.4518424,
+                "formatted_address": "Mellerud, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Brunnsläkare",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Rotstocks brunn",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Mellerud",
+                "latitude": 58.7025681,
+                "longitude": 12.4518424,
+                "formatted_address": "Mellerud, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Krok",
+        "middle_name": "Gustav Valentin",
+        "gender": "Male",
+        "birth_date": "18-07-1896",
+        "birth_place": {
+            "name": "Hälsingborg",
+            "latitude": 64.1386294,
+            "longitude": 19.5225599,
+            "formatted_address": "922 93 Hälsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Praktiserande läkare",
+            "occupation_english": "Practicing doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Krok",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Rektor",
+                    "occupation_english": "Principal",
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher",
+                    "hisco_code_english": "37040.0",
+                    "hisco_description_english": "Messenger"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Tydeli",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Mellerud",
+        "latitude": 58.7025681,
+        "longitude": 12.4518424,
+        "formatted_address": "Mellerud, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1914",
+            "institution": "Hälsingborg"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1919",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1925",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingeborg",
+            "last_name": "Ekmian",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Legitimerad tandläkare",
+                "occupation_english": "Licensed dentist",
+                "hisco_code_swedish": "6310.0",
+                "hisco_description_swedish": "Dentist, General",
+                "hisco_code_english": "6310.0",
+                "hisco_description_english": "Dentist, General"
+            },
+            "parents": null
+        },
+        "marriage_year": "1924",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Anne",
+                "last_name": "Krok",
+                "middle_name": "Charlotte",
+                "gender": "Female",
+                "birth_year": "1925"
+            },
+            {
+                "first_name": "Ulla",
+                "last_name": "Krok",
+                "middle_name": "Ingeborg",
+                "gender": "Female",
+                "birth_year": "1927"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

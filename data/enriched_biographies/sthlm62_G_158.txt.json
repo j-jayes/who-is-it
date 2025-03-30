@@ -1,0 +1,266 @@
+{
+    "career": [
+        {
+            "position": "Extra läkare",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": "Kirurgiska avdelningen, Örebro lasarett",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Andre underläkare",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Kirurgiska kliniken, Serafimerlasarettet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra läkare",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "Vanföreanstalten",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Utbildning i anestesiologi",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "USA",
+            "location": null,
+            "country_code": "USA"
+        },
+        {
+            "position": "Narkosläkare",
+            "start_year": 1940,
+            "end_year": 1945,
+            "organization": "Karolinska sjukhuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "Karolinska sjukhuset",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Torsten",
+        "last_name": "Gordh",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "13-08-1907",
+        "birth_place": {
+            "name": "Örebro",
+            "latitude": 59.2752626,
+            "longitude": 15.2134105,
+            "formatted_address": "Örebro, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överläkare, docent",
+            "occupation_english": "Chief Physician, Docent",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Josef",
+                "last_name": "Gordh",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Distriktslantmätare",
+                    "occupation_english": "District Surveyor",
+                    "hisco_code_swedish": "3020.0",
+                    "hisco_description_swedish": "Land Surveyor",
+                    "hisco_code_english": "44330.0",
+                    "hisco_description_english": "Appraiser"
+                }
+            },
+            {
+                "first_name": "Agda",
+                "last_name": "Rolander",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska institutet",
+            "department": null,
+            "start_year": 1946,
+            "end_year": null,
+            "field": "Anestesiologi"
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "FVR",
+        "RNO"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Medicinalstyrelsens vetenskapliga råd",
+            "role": "Ledamot",
+            "start_year": 1951,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1926",
+            "institution": "Skara"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1930",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1935",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1945",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulla",
+            "last_name": "Mattison",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Medicine licentiat",
+                "occupation_english": "Licentiate of Medicine",
+                "hisco_code_swedish": "6100.0",
+                "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+                "hisco_code_english": "6100.0",
+                "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+            },
+            "parents": [
+                {
+                    "first_name": "Einar",
+                    "last_name": "Mattison",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Köpmän",
+                        "occupation_english": "Merchant",
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Ester",
+                    "last_name": "Mattison",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1941",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Elisabet",
+                "last_name": "Gordh",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Gunilla",
+                "last_name": "Gordh",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1945"
+            },
+            {
+                "first_name": "Torsten",
+                "last_name": "Gordh",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1951"
+            },
+            {
+                "first_name": "Josefina",
+                "last_name": "Gordh",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1953"
+            }
+        ]
+    },
+    "hobbies": [
+        "jakt",
+        "sjösport",
+        "vintersport"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Ett 60-tal skrifter i anestesiologi",
+            "year": "Unknown",
+            "type": "Skrifter",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

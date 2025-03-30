@@ -1,0 +1,206 @@
+{
+    "career": [
+        {
+            "position": "vice läroverksadjunkt",
+            "start_year": 1883,
+            "organization": "Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "kyrkoadjunkt",
+            "start_year": 1886,
+            "end_year": 1893,
+            "organization": "S:t Petri församling",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "kyrkoadjunkt",
+            "start_year": 1886,
+            "end_year": 1893,
+            "organization": "Stockholm (Klara, Kungsholmen och Västra Blasieholmskyrkan)",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "kyrkoherde",
+            "start_year": 1892,
+            "organization": "Munka-Ljungby och Ängelholm",
+            "location": {
+                "name": "Ängelholm",
+                "latitude": 56.245748,
+                "longitude": 12.863881,
+                "formatted_address": "Ängelholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "kontraktsprost",
+            "start_year": 1904,
+            "end_year": 1939,
+            "organization": "Norra Åsbo kontrakt",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "fängelsepredikant",
+            "start_year": 1892,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "lasarettspredikant",
+            "start_year": 1892,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Hammar",
+        "middle_name": "Birger",
+        "gender": "Male",
+        "birth_date": "14-07-1862",
+        "birth_place": {
+            "name": "Mjällby, Blekinge Län",
+            "latitude": 56.0466602,
+            "longitude": 14.6831182,
+            "formatted_address": "294 71 Mjällby, Sweden"
+        },
+        "occupation": {
+            "occupation": "teologie doktor, kyrkoherde, prost",
+            "occupation_english": "Doctor of Theology, Parish Priest, Dean",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Hans",
+                "last_name": "Hammar",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kyrkoherde",
+                    "occupation_english": "parish priest",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Laura",
+                "last_name": "Hammar",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Nordiska Bibelföreningen",
+            "role": "ordförande",
+            "start_year": 1892
+        },
+        {
+            "committee_name": "Luther Kyrkoförbund",
+            "role": "ordförande",
+            "start_year": 1892
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ängelholm",
+        "latitude": 56.245748,
+        "longitude": 12.863881,
+        "formatted_address": "Ängelholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "teoretisk och praktisk teologisk examen",
+            "degree_level": "Doctorate",
+            "year": "1883",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gabriella",
+            "last_name": "None",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "marriage_year": "1887",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "teologie doktor",
+            "institution": "Uppsala",
+            "year": "1927"
+        }
+    ],
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Vår Guds ord förbliver evinnerligen",
+            "year": "1908",
+            "type": "bok"
+        },
+        {
+            "title": "Evangeliska Fosterlandsstiftelsens Ostafrika mission 1865-1900",
+            "year": "1901",
+            "type": "bok"
+        },
+        {
+            "title": "Per August Ahlberg, hans liv och verksamhet",
+            "year": "1889",
+            "type": "bok"
+        },
+        {
+            "title": "Frans Kock",
+            "year": "1909",
+            "type": "bok"
+        },
+        {
+            "title": "Gottfrid Billing",
+            "year": "1926",
+            "type": "bok"
+        },
+        {
+            "title": "Sveriges bibel",
+            "year": "1932",
+            "type": "bok"
+        }
+    ],
+    "travels": null
+}

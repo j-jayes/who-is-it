@@ -1,0 +1,198 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1897,
+            "end_year": 1904,
+            "organization": "A-B Wettergren & Co.",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Avdelningschef",
+            "start_year": 1904,
+            "end_year": null,
+            "organization": "A-B Wettergren & Co.",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": "A-B Dress",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Comtesse A-B",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Oscar",
+        "last_name": "Stenberg",
+        "middle_name": "Efraim",
+        "gender": "Male",
+        "birth_date": "19-02-1883",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "August",
+                "last_name": "Stenberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fabrikör",
+                    "occupation_english": "Manufacturer"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Knutsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Patriotiska Sällskapets Guldmedalj"
+    ],
+    "board_memberships": [
+        {
+            "position": "Ledamot",
+            "organization": "Svenska Konfektionsfabrikers Förening"
+        },
+        {
+            "position": "Vice Ordförande",
+            "organization": "Göteborgs Konfektionsindustriförening"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Konfektionsföreningens Förtroenderåd",
+            "role": "Ledamot",
+            "start_year": 1939,
+            "end_year": 1942,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Sigrid",
+            "last_name": "Ahlman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1912",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Inga-Lisa",
+                "last_name": "Stenberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1913"
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Stenberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1915"
+            },
+            {
+                "first_name": "Bengt",
+                "last_name": "Stenberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1921"
+            }
+        ]
+    },
+    "hobbies": [
+        "jakt"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1907"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1928"
+        }
+    ]
+}

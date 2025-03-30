@@ -1,0 +1,171 @@
+{
+    "career": [
+        {
+            "position": "reporter",
+            "start_year": 1948,
+            "organization": "Dagens Nyheter",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "korrespondent",
+            "start_year": 1958,
+            "end_year": 1970,
+            "organization": null,
+            "location": {
+                "name": "Bonn",
+                "latitude": 50.73743,
+                "longitude": 7.0982068,
+                "formatted_address": "53 Bonn, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "korrespondent",
+            "start_year": 1970,
+            "end_year": 1974,
+            "organization": null,
+            "location": {
+                "name": "Moskva",
+                "latitude": 55.755826,
+                "longitude": 37.6173,
+                "formatted_address": "Moscow, Russia"
+            },
+            "country_code": "RUS"
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Sjögren",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "10-01-1925",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "redaktör",
+            "occupation_english": "editor",
+            "hisco_code_swedish": "15920.0",
+            "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "Oscar",
+                "last_name": "Sjögren",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "juvelerare",
+                    "occupation_english": "jeweler",
+                    "hisco_code_swedish": "88010.0",
+                    "hisco_description_swedish": "Jeweller, General",
+                    "hisco_code_english": "88010.0",
+                    "hisco_description_english": "Jeweller, General"
+                }
+            },
+            {
+                "first_name": "Inga",
+                "last_name": "Andersson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1948",
+            "institution": "Uppsala universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Herdis",
+            "last_name": "Lytken",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Frederik",
+                    "last_name": "Lytken",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "köpman",
+                        "occupation_english": "merchant",
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Gerda",
+                    "last_name": "Jessen",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1949",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Walter Ulbricht",
+            "year": "1966",
+            "type": "book"
+        },
+        {
+            "title": "Nynazismen",
+            "year": "1968",
+            "type": "book"
+        },
+        {
+            "title": "Vår o höst i Prag",
+            "year": "1969",
+            "type": "book"
+        },
+        {
+            "title": "Välstånd o stöveltramp",
+            "year": "1970",
+            "type": "book"
+        },
+        {
+            "title": "Sidor av Sovjet",
+            "year": "1975",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

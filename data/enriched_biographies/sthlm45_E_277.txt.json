@@ -1,0 +1,119 @@
+{
+    "career": [
+        {
+            "position": "Försäljningschef",
+            "start_year": 1924,
+            "end_year": 1931,
+            "organization": "N. K:s filial",
+            "location": {
+                "name": "Buenos Aires",
+                "latitude": -34.6036844,
+                "longitude": -58.3815591,
+                "formatted_address": "Buenos Aires, Argentina"
+            },
+            "country_code": "ARG"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1932,
+            "organization": "Aktiebolaget Nordiska Kompaniet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Eric",
+        "last_name": "Ewers",
+        "middle_name": "Malte",
+        "gender": "Male",
+        "birth_date": "15-11-1901",
+        "birth_place": {
+            "name": "Kvidinge församling, Kristianstads Län",
+            "latitude": 56.1389045,
+            "longitude": 13.0505706,
+            "formatted_address": "Norra Kyrkogatan 14b, 265 72 Kvidinge, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Bankstudier",
+            "degree_level": "Schooling",
+            "year": "1920-1921",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Diplom",
+            "degree_level": "Schooling",
+            "year": "1922",
+            "institution": "Handelsskola Berlin"
+        },
+        {
+            "degree": "Diplom",
+            "degree_level": "Schooling",
+            "year": "1924",
+            "institution": "Franska Handelshögskolan, Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1931-1932"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1931-1932"
+        }
+    ]
+}

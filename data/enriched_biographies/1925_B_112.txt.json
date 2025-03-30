@@ -1,0 +1,172 @@
+{
+    "career": [
+        {
+            "position": "Lärarinna",
+            "start_year": 1892,
+            "end_year": 1893,
+            "organization": "Stockholms folkskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärarinna",
+            "start_year": 1893,
+            "organization": "Stockholms folkskoleseminarium",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Maria",
+        "last_name": "Bergmark",
+        "middle_name": "Heloise",
+        "gender": "Female",
+        "birth_date": "27-10-1868",
+        "birth_place": {
+            "name": "Selaön, Södermanlands Län",
+            "latitude": 59.41094649999999,
+            "longitude": 17.1947805,
+            "formatted_address": "Selaön, Sweden"
+        },
+        "occupation": {
+            "occupation": "Seminarielärarinna",
+            "occupation_english": "Seminary teacher",
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+            "hisco_code_english": "13990.0",
+            "hisco_description_english": "Other Teachers"
+        },
+        "parents": [
+            {
+                "first_name": "Teodor",
+                "last_name": "B",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Mejerist",
+                    "occupation_english": "Dairyman",
+                    "hisco_code_swedish": "77510.0",
+                    "hisco_description_swedish": "Dairy Product Processor, General",
+                    "hisco_code_english": "62510.0",
+                    "hisco_description_english": "Dairy Farm Worker, General"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Edin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Folkskollärareexamen",
+            "degree_level": "Bachelor's",
+            "year": "1892",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Guds verk I-III",
+            "year": "1913",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Bibeltexter",
+            "year": "1920",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Bilder ur fromhetslivet",
+            "year": "1920",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "På egen hand",
+            "year": "1907",
+            "type": "book",
+            "editions": [
+                {
+                    "edition_number": "flera",
+                    "year": "None",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1907"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1907"
+        }
+    ]
+}

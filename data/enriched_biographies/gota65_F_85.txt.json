@@ -1,0 +1,180 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Aktiebolaget Karlstads Mekaniska Werkstad",
+            "location": {
+                "name": "Karlstad",
+                "latitude": 59.4021806,
+                "longitude": 13.5114977,
+                "formatted_address": "Karlstad, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Branding",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Allmänna Brand Jönköping",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1954,
+            "end_year": null,
+            "organization": "Aktiebolaget Emsfors Bruk",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Tage",
+        "last_name": "Fleetwood",
+        "middle_name": "G S",
+        "gender": "Male",
+        "birth_date": "15-10-1913",
+        "birth_place": {
+            "name": "Snöstorp, Hallands Län",
+            "latitude": 56.67036950000001,
+            "longitude": 12.9120822,
+            "formatted_address": "Snöstorp, Halmstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Sten",
+                "last_name": "Fleetwood",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": "Manager",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Borghild",
+                "last_name": "Örn",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "Medlem",
+            "organization": "Rotary"
+        }
+    ],
+    "current_location": {
+        "name": "Påskallavik",
+        "latitude": 57.1638581,
+        "longitude": 16.4618268,
+        "formatted_address": "572 74 Paskallavik, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1933",
+            "institution": "Eksjö"
+        },
+        {
+            "degree": "Ingenjör",
+            "degree_level": "Master's",
+            "year": "1937",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Babette",
+            "last_name": "Klaening",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "Klaening",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Ebba",
+                    "last_name": "Lindström",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1939",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1938"
+        }
+    ]
+}

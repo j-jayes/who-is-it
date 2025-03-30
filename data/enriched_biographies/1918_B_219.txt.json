@@ -1,0 +1,173 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1880,
+            "end_year": 1883,
+            "organization": "Uppsala Observatorium",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande Astronom",
+            "start_year": 1884,
+            "end_year": 1888,
+            "organization": "Vetenskapsakademiets Observatorium",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande Astronom",
+            "start_year": 1890,
+            "end_year": 1891,
+            "organization": "Vetenskapsakademiets Observatorium",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Astronom med Professortitel",
+            "start_year": 1897,
+            "organization": "Vetenskapsakademien",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare i Astronomi",
+            "start_year": 1897,
+            "organization": "Stockholms Högskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Bohlin",
+        "middle_name": "Petrus Teodor",
+        "gender": "Male",
+        "birth_date": "30-10-1860",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Sam.",
+                "last_name": "Bohlin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bryggare",
+                    "occupation_english": "Brewer",
+                    "hisco_code_swedish": "77810.0",
+                    "hisco_description_swedish": "Brewer, General",
+                    "hisco_code_english": "77810.0",
+                    "hisco_description_english": "Brewer, General"
+                }
+            },
+            {
+                "first_name": "Mat.",
+                "last_name": "Lundgren",
+                "middle_name": "Gun. Amanda Teod.",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie Kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1880,
+            "field": null
+        },
+        {
+            "position": "Filosofie Licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1883,
+            "field": null
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Astronomi",
+            "department": null,
+            "start_year": 1885,
+            "field": null
+        },
+        {
+            "position": "Filosofie Doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1886,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1891"
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1894"
+        }
+    ]
+}

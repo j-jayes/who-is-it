@@ -1,0 +1,211 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1918,
+            "end_year": 1919,
+            "organization": "Holmens bruk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1919,
+            "end_year": 1921,
+            "organization": "Eastern Manufacturing Co",
+            "location": {
+                "name": "Bangor, Maine",
+                "latitude": 44.8016128,
+                "longitude": -68.7712257,
+                "formatted_address": "Bangor, ME 04401, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": 1923,
+            "organization": "Nekoosa-Edwards Paper Co",
+            "location": {
+                "name": "Wisconsin",
+                "latitude": 43.7844397,
+                "longitude": -88.7878678,
+                "formatted_address": "Wisconsin, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1923,
+            "end_year": 1934,
+            "organization": "Fraser Co Ltd",
+            "location": {
+                "name": "Edmundston, New Brunswick",
+                "latitude": 47.3690127,
+                "longitude": -68.32667409999999,
+                "formatted_address": "Edmundston, NB, Canada"
+            },
+            "country_code": "CAN"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1934,
+            "end_year": 1937,
+            "organization": "Uddeholms AB, Skoghallsviken",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Svenska Cellulosa AB",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Sakkunnig",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Svenska Cellulosa AB",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Konstsilkescellulosaproduktion",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Genberg",
+        "middle_name": "Paul",
+        "gender": "Male",
+        "birth_date": "12-05-1896",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överingenjör",
+            "occupation_english": "Chief Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Anton",
+                "last_name": "G",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Konstnär",
+                    "occupation_english": "Artist",
+                    "hisco_code_swedish": "16000.0",
+                    "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+                    "hisco_code_english": "17000.0",
+                    "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Anderberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1914",
+            "institution": "Södra Latin"
+        },
+        {
+            "degree": "ÖTS",
+            "degree_level": "Schooling",
+            "year": "1918",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ester",
+            "last_name": "Hampf",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Golf",
+        "Filateli",
+        "Genealogi"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Upps om cellulosa i amerikansk och kanadensisk fackpress",
+            "year": "1919-1934",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1919"
+        },
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1919"
+        }
+    ]
+}

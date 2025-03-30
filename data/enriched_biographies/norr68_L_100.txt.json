@@ -1,0 +1,182 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1950,
+            "end_year": 1953,
+            "organization": "Bollnäs lasarett",
+            "location": {
+                "name": "Bollnäs",
+                "latitude": 61.34837950000001,
+                "longitude": 16.3942685,
+                "formatted_address": "Bollnäs, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kirurgiska avdelningen",
+            "start_year": 1953,
+            "end_year": 1956,
+            "organization": "Sala lasarett",
+            "location": {
+                "name": "Sala",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Medicinska avdelningen",
+            "start_year": 1955,
+            "end_year": 1956,
+            "organization": "Bollnäs lasarett",
+            "location": {
+                "name": "Bollnäs",
+                "latitude": 61.34837950000001,
+                "longitude": 16.3942685,
+                "formatted_address": "Bollnäs, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Förste underläkare",
+            "start_year": 1957,
+            "end_year": 1960,
+            "organization": "Kirurgiska avdelningen, Sala lasarett",
+            "location": {
+                "name": "Sala",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anestesikliniken",
+            "start_year": 1960,
+            "end_year": 1961,
+            "organization": "Umeå lasarett",
+            "location": {
+                "name": "Umeå",
+                "latitude": 63.8258471,
+                "longitude": 20.2630354,
+                "formatted_address": "Umeå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Plastikkirurgiska kliniken",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": "Umeå lasarett",
+            "location": {
+                "name": "Umeå",
+                "latitude": 63.8258471,
+                "longitude": 20.2630354,
+                "formatted_address": "Umeå, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ragnhild",
+        "last_name": "Lilljekvist",
+        "middle_name": "E",
+        "gender": "Female",
+        "birth_date": "13-01-1920",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Legitimerad läkare",
+            "occupation_english": "Licensed physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ragnar",
+                "last_name": "Lilljekvist",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Civilingenjör",
+                    "occupation_english": "Civil engineer",
+                    "hisco_code_swedish": "2210.0",
+                    "hisco_description_swedish": "Civil Engineer, General"
+                }
+            },
+            {
+                "first_name": "Maja",
+                "last_name": "Hall",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Yrkeskvinnors Samarbetsförbund"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Umeå",
+        "latitude": 63.8258471,
+        "longitude": 20.2630354,
+        "formatted_address": "Umeå, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1938",
+            "institution": "Vänersborg"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1943",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1950",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1951-1952"
+        }
+    ]
+}

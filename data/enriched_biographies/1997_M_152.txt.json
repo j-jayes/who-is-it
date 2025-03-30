@@ -1,0 +1,212 @@
+{
+    "career": [
+        {
+            "position": "Tingstjänstgöring",
+            "start_year": 1963,
+            "end_year": 1965,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Bolagsjurist",
+            "start_year": 1965,
+            "end_year": 1969,
+            "organization": "Tetra Påk Internat aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Universitetslektor i handelsrätt",
+            "start_year": 1970,
+            "end_year": 1975,
+            "organization": "Lunds Universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Docent i finansrätt",
+            "start_year": 1974,
+            "end_year": 1975,
+            "organization": "Lunds Universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i finansrätt",
+            "start_year": 1976,
+            "end_year": null,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Mattsson",
+        "middle_name": "G",
+        "gender": "Male",
+        "birth_date": "01-10-1938",
+        "birth_place": {
+            "name": "Östersund",
+            "latitude": 63.1766832,
+            "longitude": 14.6360681,
+            "formatted_address": "Östersund, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gösta",
+                "last_name": "Mattsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Universitetslektor",
+                    "occupation_english": "University Lecturer",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Lindström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Dagspress- och tidskriftsföretag"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Juridisk kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1963",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Juridisk licentiat",
+            "degree_level": "Master's",
+            "year": "1969",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Juridisk doktor",
+            "degree_level": "Doctorate",
+            "year": "1974",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Christina",
+            "last_name": "Rosén",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Paul",
+                    "last_name": "Rosén",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Fabrikör",
+                        "occupation_english": "Manufacturer"
+                    }
+                },
+                {
+                    "first_name": "Elmeri",
+                    "last_name": "Schönberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1963",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Ett flertal böcker och andra skrifter",
+            "year": "None",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Förbundsrepubliken Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

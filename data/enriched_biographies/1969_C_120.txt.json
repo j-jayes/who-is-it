@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1960,
+            "end_year": 1966,
+            "organization": "ab Atomenergi Studsvik",
+            "location": {
+                "name": "Studsvik",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "professor",
+            "start_year": 1966,
+            "end_year": null,
+            "organization": "Umeå Universitet",
+            "location": {
+                "name": "Umeå",
+                "latitude": 63.8258471,
+                "longitude": 20.2630354,
+                "formatted_address": "Umeå, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Arne",
+        "last_name": "Claesson",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "23-12-1925",
+        "birth_place": {
+            "name": "Tidan, Skaraborgs Län",
+            "latitude": 58.5739538,
+            "longitude": 14.0045851,
+            "formatted_address": "549 31 Tidan, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Lennart",
+                "last_name": "Claesson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "statsmästare",
+                    "occupation_english": "foreman",
+                    "hisco_code_english": "22610.0",
+                    "hisco_description_english": "Production Supervisor or Foreman, General"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Carlsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1958,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1958,
+            "end_year": 1965,
+            "field": "teoretisk fysik med mekanik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Umeå",
+        "latitude": 63.8258471,
+        "longitude": 20.2630354,
+        "formatted_address": "Umeå, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1958",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1958",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Schödén",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "småskollärare",
+                "occupation_english": "primary school teacher",
+                "hisco_code_swedish": "13320.0",
+                "hisco_description_swedish": "FirstLevel Education Teacher",
+                "hisco_code_english": "13020.0",
+                "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+            },
+            "parents": [
+                {
+                    "first_name": "Herman",
+                    "last_name": "S",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "hemmansägare",
+                        "occupation_english": "farmer",
+                        "hisco_code_swedish": "61110.0",
+                        "hisco_description_swedish": "General Farmer",
+                        "hisco_code_english": "61110.0",
+                        "hisco_description_english": "General Farmer"
+                    }
+                },
+                {
+                    "first_name": "Martina",
+                    "last_name": "Mikaelsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1951",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i teoretisk fysik",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1959-1960"
+        }
+    ]
+}

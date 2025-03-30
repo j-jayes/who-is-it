@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Timlär.",
+            "start_year": 1926,
+            "end_year": 1927,
+            "organization": "Lunds högre folkskola",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extralär.",
+            "start_year": 1930,
+            "end_year": 1933,
+            "organization": "Bollnäs",
+            "location": {
+                "name": "Bollnäs",
+                "latitude": 61.34837950000001,
+                "longitude": 16.3942685,
+                "formatted_address": "Bollnäs, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vikarierande ämneslärare",
+            "start_year": 1933,
+            "end_year": 1934,
+            "organization": "Växjö",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie ämneslärare",
+            "start_year": 1935,
+            "end_year": 1937,
+            "organization": "Växjö",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1938,
+            "end_year": 1941,
+            "organization": "Söderhamns kommunala gymnasium",
+            "location": {
+                "name": "Söderhamn",
+                "latitude": 61.3055762,
+                "longitude": 17.0628102,
+                "formatted_address": "Söderhamn, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt i kristendomskunskap och historia med samhällslära samt bibliotekarie",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Tranås samrealskola",
+            "location": {
+                "name": "Tranås",
+                "latitude": 58.035518,
+                "longitude": 14.975696,
+                "formatted_address": "Tranås, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Rut",
+        "last_name": "Groos",
+        "middle_name": "Frideborg",
+        "gender": "Female",
+        "birth_date": "07-01-1904",
+        "birth_place": {
+            "name": "Högseröd, Malmöhus Län",
+            "latitude": 55.7942158,
+            "longitude": 13.5609323,
+            "formatted_address": "241 62 Högseröd, Sweden"
+        },
+        "occupation": {
+            "occupation": "Läroverksadjunkt",
+            "occupation_english": null,
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Groos",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Mårten-Lasson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Tranås",
+        "latitude": 58.035518,
+        "longitude": 14.975696,
+        "formatted_address": "Tranås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1922",
+            "institution": "None"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1926",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Teologie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1930",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1939"
+        }
+    ]
+}

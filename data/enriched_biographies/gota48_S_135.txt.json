@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Innehavare",
+            "start_year": 1909,
+            "organization": "L. J. Lange Aktiebolag",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1909,
+            "organization": "L. J. Lange Aktiebolag",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Hugo",
+        "last_name": "Schramm",
+        "middle_name": "Günther",
+        "gender": "Male",
+        "birth_date": "24-04-1880",
+        "birth_place": {
+            "name": "Arlesberg, Thüringen, Tyskland",
+            "latitude": 50.713313,
+            "longitude": 10.8267298,
+            "formatted_address": "99331 Geratal-Arlesberg, Germany"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hermann",
+                "last_name": "Schramm",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Borgmästare",
+                    "occupation_english": "Mayor",
+                    "hisco_code_swedish": "20110.0",
+                    "hisco_description_swedish": "Legislative Official",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Hermine",
+                "last_name": "Diemar",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Patriotiska Sällskapets Guldmedalj"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Kyrkoråd",
+            "role": "Kyrkoråd",
+            "start_year": 1909,
+            "organization": "Christine församling, Göteborg",
+            "significance": null
+        },
+        {
+            "committee_name": "Kyrkovärd",
+            "role": "Kyrkovärd",
+            "start_year": 1909,
+            "organization": "Christine församling, Göteborg",
+            "significance": null
+        },
+        {
+            "committee_name": "Kassaförvaltare",
+            "role": "Kassaförvaltare",
+            "start_year": 1909,
+            "organization": "Christine församling, Göteborg",
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Ordförande",
+            "organization": "Deutscher Club"
+        },
+        {
+            "role": "Ordförande",
+            "organization": "Stiftelsen Deutsch-Schwedisches Heim"
+        }
+    ],
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "RealSkola",
+            "degree_level": "Schooling",
+            "year": "1890",
+            "institution": "Ilmenau i Thüringen"
+        },
+        {
+            "degree": "Handelsskola",
+            "degree_level": "Schooling",
+            "year": "1892",
+            "institution": "Marktbreit i Bayern"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Berta",
+            "last_name": "Carlstén",
+            "gender": "Female",
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Schramm",
+                "gender": "Male",
+                "birth_year": "1917"
+            },
+            {
+                "first_name": "Brita",
+                "last_name": "Schramm",
+                "gender": "Female",
+                "birth_year": "1919"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA"
+        },
+        {
+            "country": {
+                "name": "Egypten",
+                "latitude": 26.820553,
+                "longitude": 30.802498,
+                "formatted_address": "Egypt"
+            },
+            "country_code": "EGY"
+        }
+    ]
+}

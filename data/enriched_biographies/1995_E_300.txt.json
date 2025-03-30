@@ -1,0 +1,109 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Rolf",
+        "last_name": "Elofsson",
+        "middle_name": "G I",
+        "gender": "Male",
+        "birth_date": "30-05-1921",
+        "birth_place": {
+            "name": "Trollhättan",
+            "latitude": 58.28348939999999,
+            "longitude": 12.2858206,
+            "formatted_address": "Trollhättan, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Elof",
+                "last_name": "Pettersson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "åkeriägare",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Annie",
+                "last_name": "Ljung",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Reservofficersexamen",
+            "institution": "None",
+            "start_year": 1952
+        },
+        {
+            "position": "filosofie licentiat",
+            "institution": "Lunds universitet",
+            "start_year": 1962
+        },
+        {
+            "position": "filosofie doktor",
+            "institution": "Lunds universitet",
+            "start_year": 1966
+        },
+        {
+            "position": "docent",
+            "institution": "Lunds universitet",
+            "start_year": 1966
+        },
+        {
+            "position": "särskild forskare",
+            "institution": "NFR",
+            "start_year": 1972
+        },
+        {
+            "position": "professor",
+            "institution": "NFR",
+            "start_year": 1978
+        },
+        {
+            "position": "professor i strukturell zoologi",
+            "institution": "Lunds universitet",
+            "start_year": 1980,
+            "end_year": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Vetenskapliga skrifter",
+            "field": "neurobiologi och dermatologi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Annika",
+            "last_name": "Bergengren",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Sture",
+                    "last_name": "Bergengren",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "direktör",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager"
+                    }
+                },
+                {
+                    "first_name": "Ann",
+                    "last_name": "von Arbin",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1957"
+    },
+    "publications": null
+}

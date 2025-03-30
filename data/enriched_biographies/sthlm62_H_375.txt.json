@@ -1,0 +1,135 @@
+{
+    "career": [
+        {
+            "position": "Tingstjänstgöring",
+            "start_year": 1929,
+            "end_year": 1932,
+            "organization": "Falu doms",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Advokat",
+            "start_year": 1933,
+            "organization": "Egen advokatverksamhet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Stig",
+        "last_name": "Helleberg",
+        "middle_name": "A",
+        "gender": "Male",
+        "birth_date": "21-02-1905",
+        "birth_place": {
+            "name": "Umeå landsförsamling",
+            "latitude": 63.83162530000001,
+            "longitude": 20.1678587,
+            "formatted_address": "Backenvägen 121, 903 62 Umeå, Sweden"
+        },
+        "occupation": {
+            "occupation": "Advokat",
+            "occupation_english": "Lawyer",
+            "hisco_code_swedish": "12110.0",
+            "hisco_description_swedish": "Lawyer",
+            "hisco_code_english": "73210.0",
+            "hisco_description_english": "Sawyer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Hjalmar",
+                "last_name": "Helleberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Revisor",
+                    "occupation_english": "Auditor",
+                    "hisco_code_swedish": "11020.0",
+                    "hisco_description_swedish": "Auditor",
+                    "hisco_code_english": "33110.0",
+                    "hisco_description_english": "Bookkeeper, General"
+                }
+            },
+            {
+                "first_name": "Valborg",
+                "last_name": "Höijer",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1923",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Juristkandidatexamen",
+            "degree_level": "Master's",
+            "year": "1929",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margit",
+            "last_name": "Berg",
+            "gender": "Female",
+            "birth_date": "1920",
+            "parents": [
+                {
+                    "first_name": "Uno",
+                    "last_name": "Berg",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Järnvägstjänsteman",
+                        "occupation_english": "Railway Official",
+                        "hisco_code_swedish": "39960.0",
+                        "hisco_description_swedish": "Railway Clerk"
+                    }
+                },
+                {
+                    "first_name": "Valborg",
+                    "last_name": "Schyberg",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1944",
+        "children": [
+            {
+                "first_name": "Peter",
+                "last_name": "Helleberg",
+                "gender": "Male",
+                "birth_year": "1949"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Helleberg",
+                "gender": "Male",
+                "birth_year": "1951"
+            }
+        ]
+    },
+    "hobbies": [
+        "Segling",
+        "Smalfilmning",
+        "Fjällvandring"
+    ],
+    "honors": [
+        "LSA 1939"
+    ]
+}

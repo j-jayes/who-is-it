@@ -1,0 +1,584 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Bergman",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "06-02-1864",
+        "birth_place": {
+            "name": "Tydje, Älvsborgs Län",
+            "latitude": 58.15991589999999,
+            "longitude": 12.1360549,
+            "formatted_address": "Västra Götaland County, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "hemmansägare",
+                    "occupation_english": "homesteader",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Sofia",
+                "last_name": "Engelbrektsdtr",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "lektor",
+            "position_english": "lecturer",
+            "institution": "Vänersborg",
+            "department": null,
+            "start_year": 1892,
+            "end_year": 1896,
+            "field": null
+        },
+        {
+            "position": "lektor",
+            "position_english": "lecturer",
+            "institution": "Norrköping",
+            "department": null,
+            "start_year": 1896,
+            "end_year": 1908,
+            "field": null
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "universitetet i Dorpat",
+            "department": null,
+            "start_year": 1919,
+            "end_year": 1923,
+            "field": "klassisk filologi"
+        },
+        {
+            "position": "tillförordnad lärare",
+            "position_english": "acting teacher",
+            "institution": "Stockholms högskola",
+            "department": null,
+            "start_year": 1901,
+            "end_year": 1919,
+            "field": null
+        },
+        {
+            "position": "tillförordnad lärare",
+            "position_english": "acting teacher",
+            "institution": "Stockholms högskola",
+            "department": null,
+            "start_year": 1923,
+            "end_year": 1928,
+            "field": null
+        },
+        {
+            "position": "tillförordnad professor",
+            "position_english": "acting professor",
+            "institution": "Stockholms högskola",
+            "department": null,
+            "start_year": 1928,
+            "end_year": 1935,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "grundare",
+            "field": "skola",
+            "year": "1891",
+            "significance": null,
+            "recognized_by": "Djursholms samskola"
+        },
+        {
+            "title": "föreståndare",
+            "field": "arkeologi",
+            "year": "1898",
+            "significance": null,
+            "recognized_by": "svensk arkeologisk studiekurs i Italien och Grekland"
+        }
+    ],
+    "awards": null,
+    "board_memberships": [],
+    "committee_memberships": [
+        {
+            "committee_name": "Första Kammaren",
+            "role": "ledamot",
+            "start_year": 1918,
+            "end_year": 1941,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "bevillningsutskottet",
+            "role": "ledamot",
+            "start_year": 1924,
+            "end_year": 1933,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "särskilda utskottet",
+            "role": "ledamot",
+            "start_year": 1927,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "utrikesnämnden",
+            "role": "suppleant",
+            "start_year": 1933,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "konstitutionsutskottet",
+            "role": "ledamot",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "statsutskottet",
+            "role": "ledamot",
+            "start_year": 1939,
+            "end_year": 1941,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "riksdagens interparlamentariska grupp",
+            "role": "ordförande",
+            "start_year": 1934,
+            "end_year": 1941,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "ordförande",
+            "organization": "Internationella Byrån i Lausanne mot alkohol"
+        },
+        {
+            "role": "stiftare",
+            "organization": "Studenternas helnykterhetssällskap"
+        },
+        {
+            "role": "stiftare",
+            "organization": "Nykterhetsvännernas studenthem"
+        }
+    ],
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1884",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1888",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1889",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "filosofie jubeldoktor",
+            "degree_level": "Doctorate",
+            "year": "1939",
+            "institution": "Uppsala universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Henriksson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "lärare",
+                "occupation_english": "teacher",
+                "hisco_code_swedish": "13000.0",
+                "hisco_description_swedish": "Teacher, Level and Subject Unknown",
+                "hisco_code_english": "13020.0",
+                "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+            },
+            "parents": [
+                {
+                    "first_name": "Johan",
+                    "last_name": "Henriksson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "arrendator",
+                        "occupation_english": "tenant farmer",
+                        "hisco_code_swedish": "61110.0",
+                        "hisco_description_swedish": "General Farmer",
+                        "hisco_code_english": "61110.0",
+                        "hisco_description_english": "General Farmer"
+                    }
+                },
+                {
+                    "first_name": "Kristina",
+                    "last_name": "Andersson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1891",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "Professor namn",
+            "institution": "Unknown",
+            "year": "1930"
+        },
+        {
+            "title": "hedersdoktor",
+            "institution": "Dorpat",
+            "year": "1932"
+        }
+    ],
+    "honors": [
+        "Svenska Akademiens Karl-Johans-priset (1931)",
+        "Vetenskapsakademiens Letterstedt. pris (1895)",
+        "Vetenskapsakademiens Letterstedt. pris (1924)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Dikter",
+            "year": "1894",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Dikter",
+            "year": "1899",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Dikter",
+            "year": "1912",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Dikter",
+            "year": "1933",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Dikter",
+            "year": "1934",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "De P. Herennio-Dexippo",
+            "year": "1897",
+            "type": "avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Carmina latina",
+            "year": "1899",
+            "type": "bok",
+            "editions": [
+                {
+                    "edition_number": "2",
+                    "year": "1899",
+                    "publisher": null,
+                    "notes": "andra upplagan"
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ur medeltidens latinska poesi",
+            "year": "1899",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Carmina novissima",
+            "year": "1926",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "På klassisk mark 1-2",
+            "year": "1906-1908",
+            "type": "bok",
+            "editions": [
+                {
+                    "edition_number": "2",
+                    "year": "1906-1908",
+                    "publisher": null,
+                    "notes": "andra upplagan"
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ur forntidens sång",
+            "year": "1908",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Fornkristna hymner",
+            "year": "1913",
+            "type": "bok",
+            "editions": [
+                {
+                    "edition_number": "3",
+                    "year": "1913",
+                    "publisher": null,
+                    "notes": "tredje upplagan"
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Pompeji",
+            "year": "1938",
+            "type": "bok",
+            "editions": [
+                {
+                    "edition_number": "4",
+                    "year": "1938",
+                    "publisher": null,
+                    "notes": "fjärde omarbetade upplagan"
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Svenska nykterhetsrörelsens historia",
+            "year": "1916",
+            "type": "bok",
+            "editions": [
+                {
+                    "edition_number": "3",
+                    "year": "1916",
+                    "publisher": null,
+                    "notes": "tredje upplagan"
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Nykterhetsrörelsens världshistoria",
+            "year": "1926-1927",
+            "type": "bok",
+            "editions": [
+                {
+                    "edition_number": "2",
+                    "year": "1926-1927",
+                    "publisher": null,
+                    "notes": "andra upplagan"
+                },
+                {
+                    "edition_number": "2",
+                    "year": "1924",
+                    "publisher": null,
+                    "notes": "andra tyska upplagan"
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Världshistoria, berättad för svenska folket",
+            "year": "1922-1924",
+            "type": "bok",
+            "editions": [
+                {
+                    "edition_number": "5",
+                    "year": "1922-1924",
+                    "publisher": null,
+                    "notes": "femte upplagan"
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Antikens och medeltidens historia",
+            "year": "1923",
+            "type": "bok",
+            "editions": [
+                {
+                    "edition_number": "3",
+                    "year": "1923",
+                    "publisher": null,
+                    "notes": "tredje upplagan"
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Prudentius, der grösste christliche Dichter des Altertums",
+            "year": "1922",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Prudentii opera omnia",
+            "year": "1926",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Vergilius’ Aeneid i fullständig tolkning på svensk vers",
+            "year": "1921-1922",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Sagan om Atlantis",
+            "year": "1933",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Augustus, de antika kulturens fredsstiftare",
+            "year": "1937",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Hågkomster",
+            "year": "1943",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,203 @@
+{
+    "career": [
+        {
+            "position": "sångare",
+            "start_year": 1915,
+            "end_year": null,
+            "organization": "Oscarsteatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "skådespelare",
+            "start_year": 1915,
+            "end_year": null,
+            "organization": "Oscarsteatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Adolf",
+        "last_name": "Niska",
+        "middle_name": "Bernhard",
+        "gender": "Male",
+        "birth_date": "17-02-1884",
+        "birth_place": {
+            "name": "Wiborg, Finland",
+            "latitude": 61.92410999999999,
+            "longitude": 25.748151,
+            "formatted_address": "Finland"
+        },
+        "occupation": {
+            "occupation": "sångare, skådespelare",
+            "occupation_english": "singer, actor",
+            "hisco_code_swedish": "17145.0",
+            "hisco_description_swedish": "Singer"
+        },
+        "parents": [
+            {
+                "first_name": "Ivar",
+                "last_name": "Niska",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "sjökapt",
+                    "occupation_english": "sea captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Schlüter",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1904",
+            "institution": "Alexandersuniversitet"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1904",
+            "institution": "Polyteknikum i Helsingfors"
+        },
+        {
+            "degree": "sångstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Ferni-Giraldoni i S:t Petersburg"
+        },
+        {
+            "degree": "sångstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Friedrichs i Berlin"
+        },
+        {
+            "degree": "sångstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Milano"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elli",
+            "last_name": "Grahn",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Johan",
+                    "last_name": "Hjälm",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kommunalråd",
+                        "occupation_english": "municipal commissioner",
+                        "hisco_code_swedish": "20110.0",
+                        "hisco_description_swedish": "Legislative Official",
+                        "hisco_code_english": "31090.0",
+                        "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                    }
+                },
+                {
+                    "first_name": "Hanna",
+                    "last_name": "Malmgren",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "None",
+        "divorce_year": "None",
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "None"
+        }
+    ]
+}

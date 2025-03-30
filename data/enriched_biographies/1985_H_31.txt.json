@@ -1,0 +1,127 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Rune",
+        "last_name": "Hagberg",
+        "middle_name": "F",
+        "gender": "Male",
+        "birth_date": "28-05-1924",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Sven",
+                "last_name": "Hagberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "järnvägstjänsteman",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "39960.0",
+                    "hisco_description_swedish": "Railway Clerk"
+                }
+            },
+            {
+                "first_name": "Ceres",
+                "last_name": "Ruthström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ålandsbro",
+        "latitude": 62.6757943,
+        "longitude": 17.8421929,
+        "formatted_address": "871 71 Älandsbro, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1944",
+            "institution": "Okänd"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "programartiklar",
+            "year": "Okänd",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "uppsatser i Konstrevy med flera tidskrifter",
+            "year": "Okänd",
+            "type": "uppsats",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tokyo",
+                "latitude": 35.6764225,
+                "longitude": 139.650027,
+                "formatted_address": "Tokyo, Japan"
+            },
+            "country_code": "JPN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

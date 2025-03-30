@@ -1,0 +1,188 @@
+{
+    "career": [
+        {
+            "position": "Vikarierande Lektor",
+            "start_year": 1909,
+            "organization": "Härnösand"
+        },
+        {
+            "position": "Vikarierande Läroverksadjunkt",
+            "start_year": 1911,
+            "organization": "Umeå"
+        },
+        {
+            "position": "Amanuens",
+            "start_year": 1911,
+            "organization": "Uppsala universitetsbibliotek",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Bibliotekarie",
+            "start_year": 1912,
+            "organization": "Kungliga Biblioteket",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Andre Bibliotekarie",
+            "start_year": 1918,
+            "end_year": 1927,
+            "organization": "Kungliga Biblioteket",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Bibliotekarie",
+            "start_year": 1920,
+            "end_year": 1948,
+            "organization": "Karolinska Institutet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Förste Bibliotekarie",
+            "start_year": 1927,
+            "end_year": 1929,
+            "organization": "Stockholms stadsbibliotek",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överbibliotekarie",
+            "start_year": 1929,
+            "end_year": 1959,
+            "organization": "Vetenskapsakademien",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Arne",
+        "last_name": "Holmberg",
+        "gender": "Male",
+        "birth_date": "07-07-1889",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Före detta Överbibliotekarie",
+            "occupation_english": "Former Chief Librarian",
+            "hisco_code_swedish": "19120.0",
+            "hisco_description_swedish": "Librarian",
+            "hisco_code_english": "19990.0",
+            "hisco_description_english": "Other Professional, Technical and Related Workers Not Elsewhere Classified"
+        },
+        "parents": [
+            {
+                "first_name": "Niklas",
+                "last_name": "Holmberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Norrman",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1907",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Filosofie Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1909",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie Licentiat",
+            "degree_level": "Master's",
+            "year": "1910",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie Doktor",
+            "degree_level": "Doctorate",
+            "year": "1913",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "political_positions": [
+        {
+            "organization": "Svenska humanistiska förbundet",
+            "position": "Sekreterare",
+            "start_year": 1919,
+            "end_year": 1939
+        }
+    ],
+    "publications": [
+        {
+            "title": "Åtskilda bibliografiska och biografiska arbeten samt tidskriftsuppsatser",
+            "year": "None",
+            "type": "Bibliografi"
+        },
+        {
+            "title": "Les Prix Nobel",
+            "year": "1942-1952",
+            "type": "Bok"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Petrograd",
+                "latitude": 59.9310584,
+                "longitude": 30.3609097,
+                "formatted_address": "St Petersburg, Russia"
+            },
+            "country_code": "RUS",
+            "year": "1917"
+        }
+    ]
+}

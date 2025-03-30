@@ -1,0 +1,212 @@
+{
+    "career": [
+        {
+            "position": "Arkitekt",
+            "start_year": 1927,
+            "organization": "Allan Christenssen & Co",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Arkitekt",
+            "start_year": 1928,
+            "end_year": 1935,
+            "organization": "KF:s arkitektkontor",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Konsult",
+            "start_year": 1935,
+            "end_year": 1953,
+            "organization": null,
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Stadsarkitekt",
+            "start_year": 1953,
+            "end_year": 1961,
+            "organization": "Ronneby med flera distrikt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Stadsarkitekt",
+            "start_year": 1961,
+            "organization": "Linköpings stad",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Konsult",
+            "start_year": 1961,
+            "organization": null,
+            "location": {
+                "name": "Lidköping",
+                "latitude": 58.5035047,
+                "longitude": 13.1570768,
+                "formatted_address": "Lidköping, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Anders",
+        "last_name": "Edblad",
+        "middle_name": "T",
+        "gender": "Male",
+        "birth_date": "28-10-1902",
+        "birth_place": {
+            "name": "Sundsvall",
+            "latitude": 62.390811,
+            "longitude": 17.306927,
+            "formatted_address": "Sundsvall, Sweden"
+        },
+        "occupation": {
+            "occupation": "Arkitekt",
+            "occupation_english": "Architect",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Thorsten",
+                "last_name": "Edblad",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmann",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Gerda",
+                "last_name": "Broman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Karlskrona porslinsfabrik",
+            "field": "Arkitektur",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Blekinge läns landstings kanslibyggnad",
+            "field": "Arkitektur",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Arbetsträningsinstitut Karlshamn",
+            "field": "Arkitektur",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lidköping",
+        "latitude": 58.5035047,
+        "longitude": 13.1570768,
+        "formatted_address": "Lidköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1922",
+            "institution": "Nyköping"
+        },
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1927",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Harriet",
+            "last_name": "Ringius",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1927",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Lärs-Göran",
+                "last_name": "(adopt)",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1924"
+            },
+            {
+                "first_name": "Britta",
+                "last_name": "Edblad",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1928"
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Edblad",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1935"
+            },
+            {
+                "first_name": "Katarina",
+                "last_name": "Edblad",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1938"
+            }
+        ]
+    },
+    "hobbies": [
+        "fiske",
+        "filateli"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

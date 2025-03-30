@@ -1,0 +1,160 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Jan",
+        "last_name": "Frisendahl",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "22-01-1928",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Fredrik",
+                "last_name": "Frisendahl",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "skulptör",
+                    "occupation_english": "sculptor",
+                    "hisco_code_swedish": "16120.0",
+                    "hisco_description_swedish": "Sculptor",
+                    "hisco_code_english": "17000.0",
+                    "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Lisa",
+                "last_name": "Borge",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Norrköping",
+        "latitude": 58.587745,
+        "longitude": 16.192421,
+        "formatted_address": "Norrköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Otte Skölds målarskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Otte Skölds"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1955",
+            "institution": "Konsthögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Monica",
+            "last_name": "Lindkvist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Anna",
+                "last_name": "Sofia",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": null
+            },
+            {
+                "first_name": "Sara",
+                "last_name": "Frisendahl",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": null
+            },
+            {
+                "first_name": "Carolina",
+                "last_name": "Frisendahl",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": null
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        }
+    ]
+}

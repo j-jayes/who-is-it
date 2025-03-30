@@ -1,0 +1,136 @@
+{
+    "career": [
+        {
+            "position": "intendent",
+            "start_year": 1912,
+            "end_year": null,
+            "organization": "Nordiska Museet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1906,
+            "end_year": null,
+            "organization": "Nordiska Museets kulturhistoriska avdelning på Skansen",
+            "location": {
+                "name": "Skansen",
+                "latitude": 59.3263227,
+                "longitude": 18.1058583,
+                "formatted_address": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Keyland",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "28-03-1867",
+        "birth_place": {
+            "name": "Mangskog, Värmlands Län",
+            "latitude": 59.7551058,
+            "longitude": 12.7455203,
+            "formatted_address": "671 96 Mangskog, Sweden"
+        },
+        "occupation": {
+            "occupation": "intendent",
+            "occupation_english": "superintendent",
+            "hisco_code_swedish": "22000.0",
+            "hisco_description_swedish": "Supervisor, Foreman or Inspector, Specialisation Unknown",
+            "hisco_code_english": "22000.0",
+            "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Stina",
+                "last_name": "Anderson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1890",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Värmländska låtar",
+            "year": "1901",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ringlekar på Skansen",
+            "year": "1912",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Förenta staterna",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1892-1895"
+        }
+    ]
+}

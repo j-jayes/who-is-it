@@ -1,0 +1,186 @@
+{
+    "career": [
+        {
+            "position": "Elev hos tandläkare",
+            "start_year": 1896,
+            "end_year": 1897,
+            "organization": "C. Samsioe",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1901,
+            "end_year": 1902,
+            "organization": "Tandläkarinstitutet, tandfyllningsavdelningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Praktiserande",
+            "start_year": 1901,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Bibliotekarie",
+            "start_year": 1902,
+            "end_year": 1903,
+            "organization": "Svenska Tandläkarsällskapet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ordförande",
+            "start_year": 1924,
+            "end_year": 1927,
+            "organization": "The American Dental Society of Sweden",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ordförande",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "The American Dental Society of Sweden",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Tor",
+        "last_name": "Bergholm",
+        "middle_name": "Bertil",
+        "gender": "Male",
+        "birth_date": "13-05-1875",
+        "birth_place": {
+            "name": "Helsingfors",
+            "latitude": 60.16985569999999,
+            "longitude": 24.938379,
+            "formatted_address": "Helsinki, Finland"
+        },
+        "occupation": {
+            "occupation": "Tandläkare",
+            "occupation_english": "Dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Bergholm",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Lundin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "En av stiftarna",
+            "field": "Tandvård",
+            "year": "1913",
+            "significance": null,
+            "recognized_by": "The American Dental Society of Sweden"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1895",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Tandläkarkandidat",
+            "degree_level": "Bachelor's",
+            "year": "1897",
+            "institution": "Tandläkarinstitutet"
+        },
+        {
+            "degree": "Tandläkarexamen",
+            "degree_level": "Master's",
+            "year": "1899",
+            "institution": "Tandläkarinstitutet"
+        },
+        {
+            "degree": "Doctor of Dental Surgery",
+            "degree_level": "Doctorate",
+            "year": "1901",
+            "institution": "Philadelphia, U. S. A."
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Vasaorden",
+        "Gustav V:s Olympiska minnesmedalj"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1899"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1899"
+        }
+    ]
+}

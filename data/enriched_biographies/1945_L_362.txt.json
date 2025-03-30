@@ -1,0 +1,321 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1907,
+            "end_year": 1914,
+            "organization": "Uppsala privatgymnasium",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lektor",
+            "start_year": 1914,
+            "end_year": 1929,
+            "organization": "Helsingborgs högre allmänna läroverk",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "rektor",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": "Helsingborgs högre allmänna läroverk för flickor",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1919,
+            "end_year": 1919,
+            "organization": "skolöverstyrelsens sommarkurs i engelska",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1921,
+            "end_year": 1921,
+            "organization": "skolöverstyrelsens sommarkurs i engelska",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Lindkvist",
+        "middle_name": "Harald",
+        "gender": "Male",
+        "birth_date": "14-06-1871",
+        "birth_place": {
+            "name": "Ulricehamn",
+            "latitude": 57.7947889,
+            "longitude": 13.4205162,
+            "formatted_address": "Ulricehamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "rektor",
+            "occupation_english": "headmaster",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "13940.0",
+            "hisco_description_english": "Head Teacher"
+        },
+        "parents": [
+            {
+                "first_name": "Osk.",
+                "last_name": "Lindkvist",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "läroverkskollega",
+                    "occupation_english": "colleague at school",
+                    "hisco_code_swedish": "13200.0",
+                    "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+                    "hisco_code_english": "53100.0",
+                    "hisco_description_english": "Cook, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Hedvig",
+                "last_name": "Blomberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala universitet",
+            "department": null,
+            "start_year": 1912,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala universitet",
+            "department": null,
+            "start_year": 1912,
+            "end_year": 1914,
+            "field": "engelska språk"
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "Svenska 1 cfb SM 1922",
+        "Ledamot av Vetenskapssamhället i Lund 1920"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "examensnämnden för privatister i studentexamen",
+            "role": "ledamot",
+            "start_year": 1917,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "realskoleexamen",
+            "role": "ombudsman",
+            "start_year": 1919,
+            "end_year": 1928,
+            "organization": "skolöverstyrelsen",
+            "significance": null
+        },
+        {
+            "committee_name": "drätselkammaren",
+            "role": "ledamot",
+            "start_year": 1920,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "brandstyrelsen",
+            "role": "ledamot",
+            "start_year": 1920,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "lasarettsdirektionen",
+            "role": "ledamot",
+            "start_year": 1926,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "stadsfullmäktige",
+            "role": "ledamot",
+            "start_year": 1927,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "arbetslöshetskommittén",
+            "role": "ordförande",
+            "start_year": 1923,
+            "end_year": 1924,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Östergötlands västra landstormsförbund",
+            "role": "vice ordförande",
+            "start_year": 1925,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hälsingborg",
+        "latitude": 64.1386294,
+        "longitude": 19.5225599,
+        "formatted_address": "922 93 Hälsingborg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1903",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1908",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1912",
+            "institution": "Uppsala universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Astrid",
+            "last_name": "Sederblad",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Sederblad",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "stadsdistriktsläkare",
+                        "occupation_english": "district medical officer",
+                        "hisco_code_swedish": "6105.0",
+                        "hisco_description_swedish": "General Physician",
+                        "hisco_code_english": "31090.0",
+                        "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                    }
+                },
+                {
+                    "first_name": "Marie-Louise",
+                    "last_name": "Fagerlin",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1918",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Hon. Memb. of Engl. Place-Name Soc."
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Middle-English Place Names of Scand. Origin",
+            "year": "1912",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Old Scand. Deposits in Middle Engl. Records",
+            "year": "1913",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Richard Rolle’s Meditatio de Passione Domini",
+            "year": "1917",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Origin and Hist. of the Pronoun She",
+            "year": "1921",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "A Study ön Eariy Medieval York",
+            "year": "1926",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

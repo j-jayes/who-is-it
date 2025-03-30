@@ -1,0 +1,198 @@
+{
+    "career": [
+        {
+            "position": "Praktik",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1931,
+            "end_year": 1937,
+            "organization": "Tandvårdsinstitutet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Extra Lärare",
+            "start_year": 1931,
+            "end_year": 1937,
+            "organization": "Tandvårdsinstitutet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konsult",
+            "start_year": 1935,
+            "end_year": 1945,
+            "organization": "Sabbatsbergs sjukhus",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tandvårdsinspektör",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Västmanlands Län",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Länstandläkare",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "Centrallasarettet",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Stig",
+        "last_name": "Sundberg",
+        "middle_name": "Erik Gustaf",
+        "gender": "Male",
+        "birth_date": "27-06-1901",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Tandläkare",
+            "occupation_english": "Dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Sundberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Praktiserande Läkare",
+                    "occupation_english": "Practicing Doctor",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician"
+                }
+            },
+            {
+                "first_name": "Agda",
+                "last_name": "Berggren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Västerås",
+        "latitude": 59.60990049999999,
+        "longitude": 16.5448091,
+        "formatted_address": "Västerås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Medicine kandidatexamen",
+            "degree_level": "Bachelor's",
+            "year": "1925",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Tandläkarexamen",
+            "degree_level": "Doctorate",
+            "year": "1930",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maja",
+            "last_name": "Heyman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Heyman",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Auktoriserad Revisor",
+                        "occupation_english": "Authorized Auditor",
+                        "hisco_code_swedish": "11020.0",
+                        "hisco_description_swedish": "Auditor",
+                        "hisco_code_english": "11010.0",
+                        "hisco_description_english": "Accountant, General"
+                    }
+                },
+                {
+                    "first_name": "Marianne",
+                    "last_name": "Trapp",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Ett flertal uppsatser i facktidskrifter",
+            "year": "Okänt",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1935"
+        }
+    ]
+}

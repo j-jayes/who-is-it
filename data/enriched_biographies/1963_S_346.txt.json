@@ -1,0 +1,194 @@
+{
+    "career": [
+        {
+            "position": "Djurvårdare",
+            "start_year": 1934,
+            "end_year": 1935,
+            "organization": "Skansen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Gamla stan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Föreningen Gamla stan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Vera",
+        "last_name": "Siöcrona",
+        "middle_name": "Margareta Helena",
+        "gender": "Female",
+        "birth_date": "03-06-1914",
+        "birth_place": {
+            "name": "Helsingborg",
+            "latitude": 56.0464674,
+            "longitude": 12.6945121,
+            "formatted_address": "Helsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Journalist",
+            "occupation_english": "Journalist",
+            "hisco_code_swedish": "15915.0",
+            "hisco_description_swedish": "Journalist",
+            "hisco_code_english": "15915.0",
+            "hisco_description_english": "Journalist"
+        },
+        "parents": [
+            {
+                "first_name": "Jan",
+                "last_name": "Siöcrona",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överste",
+                    "occupation_english": "Colonel",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Dagmar",
+                "last_name": "Ridderstad",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Flickskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Apan och jag",
+            "year": "1942",
+            "type": "Bok"
+        },
+        {
+            "title": "Granne med kungen",
+            "year": "1944",
+            "type": "Bok"
+        },
+        {
+            "title": "Möte med Gamla stan",
+            "year": "None",
+            "type": "Bok"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Sydafrikanska Unionen",
+                "latitude": -30.559482,
+                "longitude": 22.937506,
+                "formatted_address": "South Africa"
+            },
+            "country_code": "ZAF",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Västindien",
+                "latitude": 18.2345027,
+                "longitude": -66.4108475,
+                "formatted_address": "West Indies"
+            },
+            "country_code": "None",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Sovjet",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "RUS",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1939"
+        }
+    ]
+}

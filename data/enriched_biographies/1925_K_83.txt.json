@@ -1,0 +1,173 @@
+{
+    "career": [
+        {
+            "position": "predikant",
+            "start_year": 1904,
+            "end_year": null,
+            "organization": "Undenäs",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "diakonpastor",
+            "start_year": 1904,
+            "end_year": null,
+            "organization": "församlingshyddan",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "komminister",
+            "start_year": 1908,
+            "end_year": null,
+            "organization": "Masthuggsförsamling",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "kyrkoherde",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Klingner",
+        "middle_name": "Gottfrid",
+        "gender": "Male",
+        "birth_date": "06-01-1872",
+        "birth_place": {
+            "name": "Sköntorp, Skaraborgs Län",
+            "latitude": 58.19767539999999,
+            "longitude": 12.2346597,
+            "formatted_address": "461 77 Sjuntorp, Sweden"
+        },
+        "occupation": {
+            "occupation": "kyrkoherde",
+            "occupation_english": "Vicar",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Aug.",
+                "last_name": "Kling",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Clara",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Gtbgs kyrkofullmäktige",
+            "role": "ledamot",
+            "start_year": 1908,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1895",
+            "institution": "None"
+        },
+        {
+            "degree": "Uppsala Universitetsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1906",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "teologie filosofie examen",
+            "degree_level": "Bachelor's",
+            "year": "1908",
+            "institution": "None"
+        },
+        {
+            "degree": "teologie dimissionsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1901",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1914"
+        }
+    ]
+}

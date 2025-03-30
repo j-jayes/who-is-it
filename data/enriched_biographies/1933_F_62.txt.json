@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "tillförordnad adjunkt",
+            "start_year": 1906,
+            "organization": "Veterinärinstitutet"
+        },
+        {
+            "position": "assistent",
+            "start_year": 1908,
+            "organization": "Kirurgiska kliniken"
+        },
+        {
+            "position": "Bataljonsveterinär",
+            "start_year": 1909,
+            "organization": "Skånska husarregementet"
+        },
+        {
+            "position": "tillförordnad laborator",
+            "start_year": 1915,
+            "organization": "Veterinärhögskolan, kirurgiska avdelning II"
+        },
+        {
+            "position": "Professor i kirurgi",
+            "start_year": 1926,
+            "organization": "Veterinärhögskolan"
+        },
+        {
+            "position": "Bataljonsveterinär",
+            "start_year": 1919,
+            "organization": "Fältveterärkåren"
+        },
+        {
+            "position": "tillförordnad chef",
+            "start_year": 1917,
+            "end_year": 1926,
+            "organization": "Veterinärhögskolan, kirurgiska kliniken"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Forssell",
+        "middle_name": "Ebbe Gerhard",
+        "gender": "Male",
+        "birth_date": "30-02-1882",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor, veterinär",
+            "occupation_english": "Professor, veterinarian",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Abraham",
+                "last_name": "Forssell",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "intendent",
+                    "hisco_code_swedish": "22000.0",
+                    "hisco_description_swedish": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Trahn",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Veterinärhögskolan",
+            "department": "Kirurgi",
+            "start_year": 1926
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Chef för Svenska Röda Stjärnans Finlandsambulans",
+            "field": "Medicin",
+            "year": "1918"
+        }
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Kommittén för militärveterinärväsendets omorganisation",
+            "role": "ledamot och sekreterare",
+            "start_year": 1916,
+            "end_year": 1917
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Experimentalfältet",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "veterinärexamen",
+            "degree_level": "Doctorate",
+            "year": "1905",
+            "institution": "Veterinärinstitutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingegerd",
+            "last_name": "Åkerlund",
+            "gender": "Female",
+            "birth_date": "00-00-1892",
+            "parents": [
+                {
+                    "first_name": "Victor",
+                    "last_name": "Åkerlund",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "direktör",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager"
+                    }
+                },
+                {
+                    "first_name": "Elin",
+                    "last_name": "Tilländer",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1912"
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "Hedersledamot",
+            "institution": "Svenska militärveterinärsällskapet",
+            "year": "None"
+        },
+        {
+            "title": "Hedersledamot",
+            "institution": "American Veterinary Medical Association",
+            "year": "None"
+        }
+    ],
+    "honors": [
+        "Svenska militärveterinärföreningens medalj i djursjukvård 1930"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": [
+        "Ordförande i Svenska Veterinärläkareföreningen sedan 1932"
+    ],
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1911"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "None"
+        }
+    ]
+}

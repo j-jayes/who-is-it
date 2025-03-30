@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "läkareförordnande",
+            "start_year": 1948,
+            "end_year": 1951,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1951,
+            "end_year": null,
+            "organization": "kirurgiska avdelningen, Umeå lasarett",
+            "location": {
+                "name": "Umeå",
+                "latitude": 63.8258471,
+                "longitude": 20.2630354,
+                "formatted_address": "Umeå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "gynekologiska avdelningen, Umeå lasarett",
+            "location": {
+                "name": "Umeå",
+                "latitude": 63.8258471,
+                "longitude": 20.2630354,
+                "formatted_address": "Umeå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1959,
+            "end_year": 1962,
+            "organization": "medicinska och röntgenavdelningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": "Årjängs lasarett",
+            "location": {
+                "name": "Årjäng",
+                "latitude": 59.3891592,
+                "longitude": 12.132717,
+                "formatted_address": "Årjäng, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Lihr",
+        "last_name": "Holby",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "24-06-1922",
+        "birth_place": {
+            "name": "Örnsköldsvik",
+            "latitude": 63.29004740000001,
+            "longitude": 18.7166166,
+            "formatted_address": "Örnsköldsvik, Sweden"
+        },
+        "occupation": {
+            "occupation": "överläkare",
+            "occupation_english": "chief physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Chr",
+                "last_name": "Holby",
+                "middle_name": "P",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ingenjör",
+                    "occupation_english": "engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Laila",
+                "last_name": "Frost",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Årjäng",
+        "latitude": 59.3891592,
+        "longitude": 12.132717,
+        "formatted_address": "Årjäng, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1942",
+            "institution": "Härnösand"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1946",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1951",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Berglund",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "1924",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "E",
+                    "last_name": "B",
+                    "middle_name": "V",
+                    "gender": "Male",
+                    "occupation": null
+                },
+                {
+                    "first_name": "Henny",
+                    "last_name": "B",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1951",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Görel",
+                "last_name": "Holby",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1952"
+            },
+            {
+                "first_name": "Torulf",
+                "last_name": "Holby",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1954"
+            },
+            {
+                "first_name": "Per",
+                "last_name": "Holby",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1956"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Holby",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1957"
+            },
+            {
+                "first_name": "Ola",
+                "last_name": "Holby",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1959"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

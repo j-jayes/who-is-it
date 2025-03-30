@@ -1,0 +1,165 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": 1929,
+            "organization": "Waplans mekaniska verkstad",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": "Svenska Tändsticks Aktiebolaget",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1931,
+            "end_year": 1935,
+            "organization": "Philippine Match Co Manila",
+            "location": {
+                "name": "Manila",
+                "latitude": 14.5995124,
+                "longitude": 120.9842195,
+                "formatted_address": "Manila, Metro Manila, Philippines"
+            },
+            "country_code": "PHL"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1935,
+            "end_year": 1938,
+            "organization": "Jönköpings Vulcan tändsticksfabrik",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "Vulcans tändsticksfabrik",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Göte",
+        "last_name": "Lundström",
+        "middle_name": "Gotthard Valfrid",
+        "gender": "Male",
+        "birth_date": "26-10-1900",
+        "birth_place": {
+            "name": "Linköping",
+            "latitude": 58.41080700000001,
+            "longitude": 15.6213727,
+            "formatted_address": "Linköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Ernst",
+                "last_name": "Lundström",
+                "middle_name": "G",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Selma",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Tidaholm",
+        "latitude": 58.1817692,
+        "longitude": 13.9594737,
+        "formatted_address": "Tidaholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1919",
+            "institution": "Linköping"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1924",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Brita",
+            "last_name": "Lundbom",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Indien",
+                "latitude": 20.593684,
+                "longitude": 78.96288,
+                "formatted_address": "India"
+            },
+            "country_code": "IND",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Filippinerna",
+                "latitude": 12.879721,
+                "longitude": 121.774017,
+                "formatted_address": "Philippines"
+            },
+            "country_code": "PHL",
+            "year": null
+        }
+    ]
+}

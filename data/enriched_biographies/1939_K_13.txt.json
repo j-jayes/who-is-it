@@ -1,0 +1,173 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1909,
+            "end_year": 1919,
+            "organization": "AGA",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "representant",
+            "start_year": 1909,
+            "end_year": 1916,
+            "organization": "AGA",
+            "location": {
+                "name": "Argentina, Chile, Uruguay och Brasilien",
+                "latitude": -14.235004,
+                "longitude": -51.92528,
+                "formatted_address": "Brazil"
+            },
+            "country_code": null
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1916,
+            "end_year": 1919,
+            "organization": "franska dotterbolag",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "handelsattaché",
+            "start_year": 1919,
+            "end_year": 1924,
+            "organization": null,
+            "location": {
+                "name": "Chile, Bolivia, Peru och Ecuador",
+                "latitude": -1.831239,
+                "longitude": -78.18340599999999,
+                "formatted_address": "Ecuador"
+            },
+            "country_code": null
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1924,
+            "end_year": 1934,
+            "organization": "Stabs peruanska dotterbolag",
+            "location": null,
+            "country_code": "PER"
+        },
+        {
+            "position": "svensk generalkonsul",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Lima",
+                "latitude": -12.0466888,
+                "longitude": -77.04308859999999,
+                "formatted_address": "Lima, Peru"
+            },
+            "country_code": "PER"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Karell",
+        "middle_name": "Henrik Andreas",
+        "gender": "Male",
+        "birth_date": "09-03-1884",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "generalkonsul",
+            "occupation_english": "Consul General",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "20210.0",
+            "hisco_description_english": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "And.",
+                "last_name": "Karell",
+                "middle_name": "Gust.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Pettersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lima",
+        "latitude": -12.0466888,
+        "longitude": -77.04308859999999,
+        "formatted_address": "Lima, Peru"
+    },
+    "education": [
+        {
+            "degree": "mogenhetsexamen",
+            "degree_level": "Schooling",
+            "year": "1903",
+            "institution": "None"
+        },
+        {
+            "degree": "KTH",
+            "degree_level": "Bachelor's",
+            "year": "1907",
+            "institution": "KTH"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1909"
+        }
+    ]
+}

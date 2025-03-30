@@ -1,0 +1,167 @@
+{
+    "career": [
+        {
+            "position": "Lärling",
+            "start_year": 1893,
+            "organization": "S Marcusson",
+            "location": {
+                "name": "Eslöv",
+                "latitude": 55.8391198,
+                "longitude": 13.3033914,
+                "formatted_address": "Eslöv, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1899,
+            "organization": "Charkuterifirma",
+            "location": {
+                "name": "Sölvesborg",
+                "latitude": 56.0537433,
+                "longitude": 14.5796878,
+                "formatted_address": "Sölvesborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1900,
+            "end_year": 1943,
+            "organization": "P Pålssons Kött- & Charkuteriaffär",
+            "location": {
+                "name": "Sölvesborg",
+                "latitude": 56.0537433,
+                "longitude": 14.5796878,
+                "formatted_address": "Sölvesborg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Pålsson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "15-08-1879",
+        "birth_place": {
+            "name": "Eslöv",
+            "latitude": 55.8391198,
+            "longitude": 13.3033914,
+            "formatted_address": "Eslöv, Sweden"
+        },
+        "occupation": {
+            "occupation": "Fabrikör",
+            "occupation_english": "Manufacturer"
+        },
+        "parents": [
+            {
+                "first_name": "Pål",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lagerföreståndare",
+                    "occupation_english": "Warehouse Manager",
+                    "hisco_code_swedish": "39140.0",
+                    "hisco_description_swedish": "Storeroom Clerk",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Sölvesborgs Varvs & Rederi AB"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Rederi AB Falkvik"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Fastighetsföreningen Tredenborg"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Drätselkammaren",
+            "role": "Ledamot",
+            "start_year": 1900
+        },
+        {
+            "committee_name": "Hälsovårdsnämnden",
+            "role": "Ledamot",
+            "start_year": 1900
+        },
+        {
+            "committee_name": "Fattigvårdsstyrelsen",
+            "role": "Ledamot, Ordförande",
+            "start_year": 1900,
+            "end_year": 1904
+        },
+        {
+            "committee_name": "Taxeringsnämnden",
+            "role": "Ledamot",
+            "start_year": 1900
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Sölvesborg",
+        "latitude": 56.0537433,
+        "longitude": 14.5796878,
+        "formatted_address": "Sölvesborg, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR"
+        }
+    ]
+}

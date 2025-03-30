@@ -1,0 +1,191 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Bergström",
+        "middle_name": "L W",
+        "gender": "Male",
+        "birth_date": "06-07-1935",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Bergström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "avdelningschef",
+                    "occupation_english": "department manager",
+                    "hisco_code_swedish": "22110.0",
+                    "hisco_description_swedish": "Clerical Supervisor, General",
+                    "hisco_code_english": "22000.0",
+                    "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Leila",
+                "last_name": "Willig",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "affärsinnehavare",
+                    "occupation_english": "business owner",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Göteborgs universitet",
+            "start_year": 1968,
+            "field": "None"
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Göteborgs universitet",
+            "start_year": 1973,
+            "field": "None"
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Göteborgs universitet",
+            "department": "biokemi",
+            "start_year": 1973,
+            "field": "biokemi"
+        },
+        {
+            "position": "särskild forskare",
+            "position_english": "special researcher",
+            "institution": "naturvetenskapliga forskningsrådet",
+            "start_year": 1976,
+            "end_year": 1983,
+            "field": "ekologisk kemi"
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Göteborgs universitet",
+            "department": "etologisk kemi",
+            "start_year": 1983,
+            "field": "etologisk kemi"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Föreståndare",
+            "field": "kemi",
+            "year": null,
+            "significance": null,
+            "recognized_by": "Uppsala universitets ekologiska station på Öland"
+        },
+        {
+            "title": "Föreståndare",
+            "field": "kemisk ekologi",
+            "year": null,
+            "significance": null,
+            "recognized_by": "Göteborgs universitets institution för kemisk ekologi"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "LVVS",
+        "LKVA 1994"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": [
+        "presid Int Soc Chemical Ecology 1985-1986"
+    ],
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i etologisk kemi och kemisk ekologi",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1976"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1994"
+        }
+    ]
+}

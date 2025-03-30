@@ -1,0 +1,182 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1903,
+            "end_year": 1906,
+            "organization": "Percy Tham",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Praktikant",
+            "start_year": 1906,
+            "end_year": 1909,
+            "organization": null,
+            "location": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Praktikant",
+            "start_year": 1906,
+            "end_year": 1909,
+            "organization": null,
+            "location": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Vid Trafikaktiebolaget",
+            "start_year": 1909,
+            "end_year": 1920,
+            "organization": "Grängesberg-Oxelösund",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Egen rörelse inom skeppsmäkleribranschen",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Skiöld & Lundberg Aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Skiöld",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "29-08-1884",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Fredrik",
+                "last_name": "Skiöld",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmannen",
+                    "occupation_english": "The Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Håkanson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Läroverksstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Göteborgs Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Theoander",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1920",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Birgit",
+                "last_name": "Skiöld",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1923"
+            },
+            {
+                "first_name": "Marianne",
+                "last_name": "Skiöld",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1924"
+            },
+            {
+                "first_name": "Per-Arne",
+                "last_name": "Skiöld",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1926"
+            },
+            {
+                "first_name": "Håkan",
+                "last_name": "Skiöld",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1932"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

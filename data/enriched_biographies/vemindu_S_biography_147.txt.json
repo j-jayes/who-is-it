@@ -1,0 +1,177 @@
+{
+    "career": [
+        {
+            "position": "Anställd vid Elektriska Prövningsanstalten",
+            "start_year": 1920,
+            "end_year": 1922,
+            "organization": "Elektriska Prövn.anst",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1925,
+            "end_year": 1929,
+            "organization": "F A B Signeul AB",
+            "location": {
+                "name": "Hudiksvall",
+                "latitude": 61.7273909,
+                "longitude": 17.107401,
+                "formatted_address": "Hudiksvall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Ingenjörsfirman J Lundin",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Bolinders Fabriks AB",
+            "location": {
+                "name": "Kallhäll",
+                "latitude": 59.45770229999999,
+                "longitude": 17.8177077,
+                "formatted_address": "Kallhäll, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ragnar",
+        "last_name": "SIGNEUL",
+        "middle_name": "Alrik Olof",
+        "gender": "Male",
+        "birth_date": "14-05-1894",
+        "birth_place": {
+            "name": "Ljusdal, Gävleborgs Län",
+            "latitude": 61.8308392,
+            "longitude": 16.0817501,
+            "formatted_address": "Ljusdal, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "B S",
+                "middle_name": "E",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Mathlin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1912",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "KTH (E)",
+            "degree_level": "Bachelor's",
+            "year": "1913-1917",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Astrid",
+            "last_name": "Frost",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1924-1925"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1929-1931"
+        }
+    ]
+}

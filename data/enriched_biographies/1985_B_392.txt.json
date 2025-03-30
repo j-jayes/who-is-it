@@ -1,0 +1,197 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "A",
+        "last_name": "Bohlin",
+        "middle_name": "Birger",
+        "gender": "Male",
+        "birth_date": "26-03-1898",
+        "birth_place": {
+            "name": "Lidköping",
+            "latitude": 58.5035047,
+            "longitude": 13.1570768,
+            "formatted_address": "Lidköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Bohlin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Rektor",
+                    "occupation_english": "Headmaster",
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher",
+                    "hisco_code_english": "13940.0",
+                    "hisco_description_english": "Head Teacher"
+                }
+            },
+            {
+                "first_name": "Brita",
+                "last_name": "Kumlin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1933,
+            "end_year": 1944,
+            "field": "Paleontologi"
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1952,
+            "end_year": 1964,
+            "field": "Paleontologi"
+        },
+        {
+            "position": "Lektor",
+            "position_english": "Lecturer",
+            "institution": "Halmstads högre allmänna läroverk",
+            "department": null,
+            "start_year": 1944,
+            "end_year": 1952,
+            "field": null
+        },
+        {
+            "position": "Lektor",
+            "position_english": "Lecturer",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1952,
+            "end_year": 1966,
+            "field": null
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1960,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": [],
+    "awards": [],
+    "board_memberships": [],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1922",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1926",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1935",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ellen",
+            "last_name": "Staffansson",
+            "middle_name": null,
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "Johannes",
+                    "last_name": "Staffansson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Handlare",
+                        "occupation_english": "Merchant",
+                        "hisco_code_swedish": "41030.0",
+                        "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Elisabet",
+                    "last_name": "Eriksson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1927",
+        "divorce_year": null,
+        "children": []
+    },
+    "hobbies": [],
+    "honorary_titles": [],
+    "honors": [
+        "Ledamot av Vetenskapssamhället i Uppsala (LVS 1954)"
+    ],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Skrifter rörande fossila ryggradsdjur, öländska trilobiter, fossila växter, centralasiatisk växtgeografi och geologi",
+            "year": "None",
+            "type": "Other"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Kina",
+                "latitude": 35.86166,
+                "longitude": 104.195397,
+                "formatted_address": "China"
+            },
+            "country_code": "CHN",
+            "year": "1927-1933"
+        },
+        {
+            "country": {
+                "name": "Centralasien",
+                "latitude": 45.4506875,
+                "longitude": 68.8319005,
+                "formatted_address": "Central Asia"
+            },
+            "country_code": "None",
+            "year": "1927-1933"
+        }
+    ]
+}

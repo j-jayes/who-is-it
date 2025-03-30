@@ -1,0 +1,235 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1914,
+            "end_year": 1914,
+            "organization": "Säffle",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1914,
+            "organization": "Örebro",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1915,
+            "organization": "Karlstad",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1915,
+            "end_year": 1916,
+            "organization": "Sunnerdahls hemskola",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Vikarierande högre allmänna läroverksadjunkt",
+            "start_year": 1916,
+            "end_year": 1917,
+            "organization": "Södertälje",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Göteborgs östra real",
+            "start_year": 1919,
+            "organization": null,
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Jacobs realskola",
+            "start_year": 1920,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Stockholms högre folkskola tekniska linje",
+            "start_year": 1920,
+            "end_year": 1921,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vikarierande Kungsholmens läroverk",
+            "start_year": 1921,
+            "end_year": 1922,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Östra real",
+            "start_year": 1922,
+            "end_year": 1923,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vasa real",
+            "start_year": 1923,
+            "end_year": 1929,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt i geografi, matematik och fysik",
+            "start_year": 1929,
+            "organization": "Samrealskolan i Trelleborg",
+            "location": {
+                "name": "Trelleborg",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Ahlmann",
+        "middle_name": "Christian",
+        "gender": "Male",
+        "birth_date": "27-07-1889",
+        "birth_place": {
+            "name": "By, Värmlands Län",
+            "latitude": 59.5807897,
+            "longitude": 12.8472974,
+            "formatted_address": "Varmland County, Sweden"
+        },
+        "occupation": {
+            "occupation": "Läroverksadjunkt",
+            "occupation_english": null,
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hans",
+                "last_name": "Conrad",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Godsägare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Therese",
+                "last_name": "Hoeck",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Trelleborg",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1907",
+            "institution": "Karlstad"
+        },
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1913",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Göta",
+            "last_name": "Werner",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Birgitta",
+                "last_name": "Ahlmann",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1936"
+            },
+            {
+                "first_name": "Bengt",
+                "last_name": "Ahlmann",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

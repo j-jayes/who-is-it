@@ -1,0 +1,164 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1881,
+            "end_year": 1883,
+            "organization": "Nisbeth skola",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lärare",
+            "start_year": 1884,
+            "end_year": 1888,
+            "organization": "statliga normalskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lärare",
+            "start_year": 1887,
+            "end_year": null,
+            "organization": "Brummerska skolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "biträdande föreståndare",
+            "start_year": 1901,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Anna",
+        "last_name": "Kruse",
+        "middle_name": "Hildegard Maria",
+        "gender": "Female",
+        "birth_date": "14-06-1861",
+        "birth_place": {
+            "name": "Lovö, Stockholms Län",
+            "latitude": 59.3288295,
+            "longitude": 17.8423353,
+            "formatted_address": "Lovön, 178 93 Drottningholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "skolföreståndarinna",
+            "occupation_english": null,
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher"
+        },
+        "parents": [
+            {
+                "first_name": "A. Ludvig",
+                "last_name": "Kruse",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "auditor",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Hedin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Stockholmskretsen av flick- och samskoleföreningen",
+            "role": "vice ordförande",
+            "start_year": 1901,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "examinerad vid högre lärarinneseminariet",
+            "degree_level": "Schooling",
+            "year": "1881",
+            "institution": "Högre lärarinneseminariet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Illis Quorum medaljen av 12:e storleken (Iqml 20)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "läroböcker för första undervisningen",
+            "year": "None",
+            "type": "lärobok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1897"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1904"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1912"
+        }
+    ]
+}

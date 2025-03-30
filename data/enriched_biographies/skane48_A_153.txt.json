@@ -1,0 +1,158 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "Öronkliniken i Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vikarierande läkare",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "Malmö sjukhus och Lunds lasarett",
+            "location": {
+                "name": "Malmö och Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Privat verksamhet",
+            "start_year": 1946,
+            "organization": null,
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Andreas",
+        "middle_name": "Alfred Carl",
+        "gender": "Male",
+        "birth_date": "09-04-1918",
+        "birth_place": {
+            "name": "Mariestad",
+            "latitude": 58.7101119,
+            "longitude": 13.8213327,
+            "formatted_address": "Mariestad, Sweden"
+        },
+        "occupation": {
+            "occupation": "medicin licentiat, legitimerad läkare, foniatriker",
+            "occupation_english": "Medical licentiate, licensed doctor, phoniatrician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Alfred",
+                "last_name": "Andreas",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "advokat",
+                    "occupation_english": "lawyer",
+                    "hisco_code_swedish": "12110.0",
+                    "hisco_description_swedish": "Lawyer",
+                    "hisco_code_english": "73210.0",
+                    "hisco_description_english": "Sawyer, General"
+                }
+            },
+            {
+                "first_name": "Ellen",
+                "last_name": "Holmgren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "folkskollärare",
+                    "occupation_english": "Primary school teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1937",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1942",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1945",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "musik"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1946"
+        }
+    ]
+}

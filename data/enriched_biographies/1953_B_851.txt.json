@@ -1,0 +1,196 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1929,
+            "end_year": 1931,
+            "organization": "Ribbings ingenjörsbyrå",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "vid vägväsendet",
+            "start_year": 1931,
+            "end_year": 1936,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "arbetschef",
+            "start_year": 1936,
+            "end_year": 1943,
+            "organization": "Aktiebolaget Vägförbättringar",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "vägdirektör",
+            "start_year": 1943,
+            "end_year": 1944,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "byråchef",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "kommunikationsdepartementet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överingenjör",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "Väg- och vattenbyggnadsstyrelsen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Björn",
+        "last_name": "Börjeson",
+        "middle_name": "Birger",
+        "gender": "Male",
+        "birth_date": "27-10-1904",
+        "birth_place": {
+            "name": "Skillingmark, Värmlands Län",
+            "latitude": 59.816667,
+            "longitude": 12.016667,
+            "formatted_address": "673 99 Skillingmark, Sweden"
+        },
+        "occupation": {
+            "occupation": "överingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Birger",
+                "last_name": "Börjeson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "hemmansägare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Böret",
+                "last_name": "Tholson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "direktionen för geotekniska institutet",
+            "role": "ordförande",
+            "start_year": 1948,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "ingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1929",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gerd",
+            "last_name": "Persson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Persson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "flottningsinspektor",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "22690.0",
+                        "hisco_description_swedish": "Other Production Supervisors and General Foremen"
+                    }
+                },
+                {
+                    "first_name": "Gerda",
+                    "last_name": "Olsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1947"
+        },
+        {
+            "country": {
+                "name": "Iran",
+                "latitude": 32.427908,
+                "longitude": 53.688046,
+                "formatted_address": "Iran"
+            },
+            "country_code": "IRN",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Iran",
+                "latitude": 32.427908,
+                "longitude": 53.688046,
+                "formatted_address": "Iran"
+            },
+            "country_code": "IRN",
+            "year": "1939"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "career": [
+        {
+            "position": "Provar",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": "Norra real",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Timlärare",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Extra ordinarie lärare",
+            "start_year": 1922,
+            "end_year": 1926,
+            "organization": "Hälsingborgs högre folkskola",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ordinarie ämneslärarinna",
+            "start_year": 1927,
+            "end_year": null,
+            "organization": "Hälsingborgs högre folkskola",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Torborg",
+        "last_name": "Rundcrantz",
+        "middle_name": "Andrea",
+        "gender": "Female",
+        "birth_date": "03-10-1895",
+        "birth_place": {
+            "name": "Uppåkra, Malmöhus Län",
+            "latitude": 55.6667528,
+            "longitude": 13.1712845,
+            "formatted_address": "245 93 Uppåkra, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ämneslärarinna",
+            "occupation_english": "Subject teacher",
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+            "hisco_code_english": "13990.0",
+            "hisco_description_english": "Other Teachers"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Rundcrantz",
+                "middle_name": "Christian",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kantor",
+                    "occupation_english": "Choir director",
+                    "hisco_code_swedish": "17150.0",
+                    "hisco_description_swedish": "Vocal Group Conductor"
+                }
+            },
+            {
+                "first_name": "Betty",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hälsingborg",
+        "latitude": 64.1386294,
+        "longitude": 19.5225599,
+        "formatted_address": "922 93 Hälsingborg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1918",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

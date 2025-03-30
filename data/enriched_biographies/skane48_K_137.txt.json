@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Skeppsläkare",
+            "start_year": 1893,
+            "end_year": 1893,
+            "organization": "s/s Helsingfors under ångarens resor Petersburg-Helsingfors-Stockholm",
+            "location": {
+                "name": "Petersburg",
+                "latitude": 37.2279279,
+                "longitude": -77.40192669999999,
+                "formatted_address": "Petersburg, VA, USA"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Praktiserande läkare",
+            "start_year": 1895,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Läkare",
+            "start_year": 1895,
+            "end_year": null,
+            "organization": "kvinnliga könspolikliniken",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ledamot",
+            "start_year": 1895,
+            "end_year": 1937,
+            "organization": "hälsovårdsnämnden",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktion",
+            "start_year": 1895,
+            "end_year": 1937,
+            "organization": "Allmänna sjukhuset",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ivar",
+        "last_name": "Körner",
+        "middle_name": "Christian",
+        "gender": "Male",
+        "birth_date": "07-03-1869",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Praktiserande läkare",
+            "occupation_english": "Practicing doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Adölf",
+                "last_name": "Körner",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Selma",
+                "last_name": "Körner",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1886",
+            "institution": "Malmö"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1890",
+            "institution": "Lund"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1895",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ellen",
+            "last_name": "Nordenson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Anders",
+                    "last_name": "son",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1826",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1891"
+        },
+        {
+            "country": {
+                "name": "Breslau",
+                "latitude": 51.10929480000001,
+                "longitude": 17.0386019,
+                "formatted_address": "Wrocław, Poland"
+            },
+            "country_code": "POL",
+            "year": "1892"
+        },
+        {
+            "country": {
+                "name": "Dresden",
+                "latitude": 51.0504088,
+                "longitude": 13.7372621,
+                "formatted_address": "01 Dresden, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1900"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1907"
+        }
+    ]
+}

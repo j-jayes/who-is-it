@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1923,
+            "end_year": 1928,
+            "organization": "Kreuger & Tolls byggnadsaktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1929,
+            "end_year": 1932,
+            "organization": "Kreuger & Tolls byggnadsaktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Sthlms hamnstyrelse",
+            "start_year": 1932,
+            "end_year": 1939,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "byggnadschef",
+            "start_year": 1939,
+            "end_year": 1944,
+            "organization": "Järpströmmens kraftverk (Sthlms elverk)",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överingenjör",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Hjälta aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överingenjör",
+            "start_year": 1953,
+            "end_year": null,
+            "organization": "Pengfors aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överingenjör",
+            "start_year": 1953,
+            "end_year": null,
+            "organization": "Harrsele aktiebolag",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ragnar",
+        "last_name": "Ahlström",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "08-01-1896",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "överingenjör",
+            "occupation_english": "chief engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Assar",
+                "last_name": "Ahlström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Medicine licentiat",
+                    "occupation_english": "Medical licentiate",
+                    "hisco_code_swedish": "6100.0",
+                    "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+                    "hisco_code_english": "6100.0",
+                    "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ellen",
+                "last_name": "Frost",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Bromma",
+        "latitude": 59.3397832,
+        "longitude": 17.9397131,
+        "formatted_address": "Bromma, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1920",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Dagmar",
+            "last_name": "Stridbeck",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Rudolf",
+                    "last_name": "Stridbeck",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "överstelöjtnant",
+                        "occupation_english": "lieutenant colonel",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "58320.0",
+                        "hisco_description_english": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Olga",
+                    "last_name": "Frost",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1926",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": null
+        }
+    ]
+}

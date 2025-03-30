@@ -1,0 +1,455 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Göte",
+        "last_name": "Turesson",
+        "middle_name": "Wilhelm",
+        "gender": "Male",
+        "birth_date": "06-04-1892",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Jöns",
+                "last_name": "Turesson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "övningslärare",
+                    "hisco_code_swedish": "13000.0",
+                    "hisco_description_swedish": "Teacher, Level and Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Sofie",
+                "last_name": "Nilsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "amanuens",
+            "institution": "Lunds Universitet botaniska institution",
+            "start_year": 1916,
+            "end_year": 1918,
+            "field": "botanik"
+        },
+        {
+            "position": "amanuens",
+            "institution": "institutionen för ärftlighetsforskning",
+            "start_year": 1919,
+            "end_year": 1922
+        },
+        {
+            "position": "assistent",
+            "institution": "botaniska institutionen",
+            "start_year": 1922,
+            "end_year": 1923
+        },
+        {
+            "position": "docent",
+            "institution": "Lunds Universitet",
+            "start_year": 1922,
+            "field": "botanik"
+        },
+        {
+            "position": "professor",
+            "institution": "lantbrukshögskolan",
+            "start_year": 1935,
+            "field": "systematisk botanik och ärftlighetslära"
+        }
+    ],
+    "achievements": [],
+    "awards": [
+        "Oscar II:s stipendium 1932"
+    ],
+    "board_memberships": [],
+    "committee_memberships": [
+        {
+            "committee_name": "Lunds botaniska förening",
+            "role": "ordförande",
+            "start_year": 1933,
+            "end_year": 1935
+        }
+    ],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "State University of Washington"
+        },
+        {
+            "degree": "Master of Science",
+            "degree_level": "Master's",
+            "year": "None",
+            "institution": "State University of Washington"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1920",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1921",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1923",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Benedicte",
+            "last_name": "Lehmann",
+            "gender": "Female",
+            "birth_date": "None",
+            "parents": [
+                {
+                    "first_name": "Edv.",
+                    "last_name": "Lehmann",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "professor",
+                        "hisco_code_swedish": "13100.0",
+                        "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Karen",
+                    "last_name": "Wiehe",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1922"
+    },
+    "hobbies": [],
+    "honorary_titles": [
+        {
+            "title": "hedersledamot",
+            "institution": "Botanical Society Edinburgh",
+            "year": "1934"
+        }
+    ],
+    "honors": [],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [],
+    "travels": [
+        {
+            "country": {
+                "name": "Nordamerika västkust",
+                "latitude": 62.4113634,
+                "longitude": -149.0729715,
+                "formatted_address": "West Coast, USA"
+            },
+            "country_code": "None",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Cascade Mountains",
+                "latitude": 45.8230494,
+                "longitude": -121.8522443,
+                "formatted_address": "Cascade Range"
+            },
+            "country_code": "None",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "Puget Sound Marine Station",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1915"
+        },
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1917"
+        },
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1918"
+        },
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1919"
+        },
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Lofoten",
+                "latitude": 68.20860685,
+                "longitude": 13.91573695,
+                "formatted_address": "Lofoten, Norway"
+            },
+            "country_code": "None",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Dovre",
+                "latitude": 61.9866693,
+                "longitude": 9.2496865,
+                "formatted_address": "Dovre, Norway"
+            },
+            "country_code": "None",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Alperna",
+                "latitude": 46.8873983,
+                "longitude": 9.6567822,
+                "formatted_address": "Alps"
+            },
+            "country_code": "None",
+            "year": "1924"
+        },
+        {
+            "country": {
+                "name": "Karpaterna",
+                "latitude": 47.2390429,
+                "longitude": 25.5908974,
+                "formatted_address": "Carpathian Mountains"
+            },
+            "country_code": "None",
+            "year": "1924"
+        },
+        {
+            "country": {
+                "name": "Färöarna",
+                "latitude": 61.89263500000001,
+                "longitude": -6.911805999999999,
+                "formatted_address": "Faroe Islands"
+            },
+            "country_code": "None",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Skottland",
+                "latitude": 56.49067119999999,
+                "longitude": -4.2026458,
+                "formatted_address": "Scotland, UK"
+            },
+            "country_code": "GBR",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "München",
+                "latitude": 48.1351253,
+                "longitude": 11.5819806,
+                "formatted_address": "Munich, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "München",
+                "latitude": 48.1351253,
+                "longitude": 11.5819806,
+                "formatted_address": "Munich, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Sibirien",
+                "latitude": 61.01370970000001,
+                "longitude": 99.1966559,
+                "formatted_address": "Siberia, Russia"
+            },
+            "country_code": "RUS",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Storbritannien",
+                "latitude": 55.378051,
+                "longitude": -3.435973,
+                "formatted_address": "United Kingdom"
+            },
+            "country_code": "GBR",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Balticum",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Kanada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Kanada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1938"
+        }
+    ]
+}

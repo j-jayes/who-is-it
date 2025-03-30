@@ -1,0 +1,173 @@
+{
+    "career": [
+        {
+            "position": "Sjukhusläkare",
+            "start_year": 1905,
+            "end_year": 1909,
+            "organization": "Sahlgrenska sjukhuset",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tillförordnad och ordinarie lasarettsläkare",
+            "start_year": 1909,
+            "end_year": 1911,
+            "organization": "Lasarettet",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1911,
+            "end_year": 1923,
+            "organization": "Lasarettet",
+            "location": {
+                "name": "Karlstad",
+                "latitude": 59.4021806,
+                "longitude": 13.5114977,
+                "formatted_address": "Karlstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": "Allmänna och Sahlgrenska sjukhuset, medicinska avdelningen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "None",
+        "last_name": "Sahlgren",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": null,
+        "birth_place": null,
+        "occupation": null,
+        "parents": null
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska lasarettsläkarföreningen"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Vetenskapliga nämnden",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Svenska sällskapet för medicinsk forskning",
+            "significance": null
+        },
+        {
+            "committee_name": "Vetenskapliga nämnden",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Svenska läkarförbundet, specialindikation",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": null,
+    "education": [
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1915",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Säve",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gunnar",
+                    "last_name": "Säve",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Filosofie doktor",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Lemchen",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1906",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        }
+    ]
+}

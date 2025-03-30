@@ -1,0 +1,196 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1908,
+            "end_year": 1913,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1920,
+            "end_year": 1923,
+            "organization": "Nydqvist & Holm AB",
+            "location": {
+                "name": "Trollhättan",
+                "latitude": 58.28348939999999,
+                "longitude": 12.2858206,
+                "formatted_address": "Trollhättan, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1925,
+            "end_year": 1926,
+            "organization": "Nydqvist & Holm AB",
+            "location": {
+                "name": "Trollhättan",
+                "latitude": 58.28348939999999,
+                "longitude": 12.2858206,
+                "formatted_address": "Trollhättan, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen företagare",
+            "start_year": 1913,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Anderson",
+        "middle_name": "Wilhelm",
+        "gender": "Male",
+        "birth_date": "02-02-1889",
+        "birth_place": {
+            "name": "Trollhättan",
+            "latitude": 58.28348939999999,
+            "longitude": 12.2858206,
+            "formatted_address": "Trollhättan, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Anderson",
+                "middle_name": "W",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "handlare",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Axelina",
+                "last_name": "Larson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Finnerödja",
+        "latitude": 58.92454369999999,
+        "longitude": 14.4401987,
+        "formatted_address": "695 50 Finnerödja, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1907",
+            "institution": "None"
+        },
+        {
+            "degree": "Examen",
+            "degree_level": "Bachelor's",
+            "year": "1908",
+            "institution": "Göteborgs Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maria",
+            "last_name": "Szarköszi-Konka",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Jakt",
+        "fiske"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "RVO",
+        "OFFRumSO"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Mindre Asien",
+                "latitude": 39.0003722,
+                "longitude": 32.0000366,
+                "formatted_address": "Փոքր Ասիա, Yüzükbaşı, 06900 Polatlı/Ankara, Türkiye"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Egypten",
+                "latitude": 26.820553,
+                "longitude": 30.802498,
+                "formatted_address": "Egypt"
+            },
+            "country_code": "EGY",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Persien",
+                "latitude": 32.427908,
+                "longitude": 53.688046,
+                "formatted_address": "Iran"
+            },
+            "country_code": "IRN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Sydamerika",
+                "latitude": -8.783195,
+                "longitude": -55.491477,
+                "formatted_address": "South America"
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

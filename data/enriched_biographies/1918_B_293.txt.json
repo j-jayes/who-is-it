@@ -1,0 +1,201 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Fritz",
+        "last_name": "Broek",
+        "middle_name": "Pär Hansson",
+        "gender": "Male",
+        "birth_date": "18-01-1877",
+        "birth_place": {
+            "name": "Landskrona",
+            "latitude": 55.8703477,
+            "longitude": 12.8300802,
+            "formatted_address": "Landskrona, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Fr.",
+                "last_name": "Hansson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "konsul",
+                    "occupation_english": "consul",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator",
+                    "hisco_code_english": "20210.0",
+                    "hisco_description_english": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Rosina",
+                "last_name": "Barck",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lund",
+            "department": null,
+            "start_year": 1910,
+            "end_year": null,
+            "field": "nationalekonomi"
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1909,
+            "end_year": null,
+            "field": "nationalekonomi"
+        },
+        {
+            "position": "tf. prof.",
+            "position_english": "acting professor",
+            "institution": "Lund",
+            "department": null,
+            "start_year": 1909,
+            "end_year": null,
+            "field": "nationalekonomi o. finansrätt"
+        },
+        {
+            "position": "tf. prof.",
+            "position_english": "acting professor",
+            "institution": "Göteborgs högskola",
+            "department": null,
+            "start_year": 1912,
+            "end_year": 1914,
+            "field": "nationalekonomi o. sociologi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "jur. kand.",
+            "degree_level": "Master's",
+            "year": "1901",
+            "institution": "Lund"
+        },
+        {
+            "degree": "jur. lic.",
+            "degree_level": "Doctorate",
+            "year": "1909",
+            "institution": "Lund"
+        },
+        {
+            "degree": "jur. dr",
+            "degree_level": "Doctorate",
+            "year": "1909",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Kriminalpolitiska reformsträvanden",
+            "year": "1909",
+            "type": "book"
+        },
+        {
+            "title": "Om den ekonomiska fördelningen och kriserna",
+            "year": "1909",
+            "type": "book"
+        },
+        {
+            "title": "Studier i aktuella spörsmål",
+            "year": "1913",
+            "type": "book"
+        },
+        {
+            "title": "Om tullarne",
+            "year": "1917",
+            "type": "book"
+        },
+        {
+            "title": "uppsatser i Tiden, Ekonomisk tidskrift, Statsvetenskaplig tidskrift",
+            "year": "None",
+            "type": "article"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1902"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1903"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1910"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1909"
+        }
+    ]
+}

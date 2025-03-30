@@ -1,0 +1,206 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1951,
+            "end_year": null,
+            "organization": "Lunds Universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1954,
+            "end_year": null,
+            "organization": "Göteborgs Handelsinstitut",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Instruktör",
+            "start_year": 1956,
+            "end_year": null,
+            "organization": "Institutet för distributions-ekonomisk och administrativ forskning",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Chef för avdelningen för ekonomisk utredning",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "Bolidens Gruvaktiebolag",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Klas",
+        "last_name": "Westling",
+        "middle_name": "P",
+        "gender": "Male",
+        "birth_date": "13-06-1924",
+        "birth_place": {
+            "name": "Karlstad",
+            "latitude": 59.4021806,
+            "longitude": 13.5114977,
+            "formatted_address": "Karlstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilekonom",
+            "occupation_english": "Civil Economist",
+            "hisco_code_swedish": "9010.0",
+            "hisco_description_swedish": "Economist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Klas",
+                "last_name": "Westling",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbruksingenjör",
+                    "occupation_english": "Agricultural Engineer",
+                    "hisco_code_swedish": "2930.0",
+                    "hisco_description_swedish": "Agricultural Engineer",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Greta",
+                "last_name": "Anell",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "Okänd",
+                    "occupation_english": "Unknown",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "-1.0",
+                    "hisco_description_english": "Missing, no title"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Roslags Näsby",
+        "latitude": 59.4341341,
+        "longitude": 18.0611055,
+        "formatted_address": "Roslags Näsby, Täby, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Politiska magisterexamen",
+            "degree_level": "Master's",
+            "year": "1952",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "Diplomexamen från Handelshögskolan i Göteborg",
+            "degree_level": "Master's",
+            "year": "1956",
+            "institution": "Handelshögskolan i Göteborg"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sigrun",
+            "last_name": "Miljeteig",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Okänd",
+                "occupation_english": "Unknown",
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title",
+                "hisco_code_english": "-1.0",
+                "hisco_description_english": "Missing, no title"
+            },
+            "parents": [
+                {
+                    "first_name": "L",
+                    "last_name": "M",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Kerer",
+                        "occupation_english": "Unknown",
+                        "hisco_code_english": "-1.0",
+                        "hisco_description_english": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Sigrid",
+                    "last_name": "Lidal",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "Okänd",
+                        "occupation_english": "Unknown",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "-1.0",
+                        "hisco_description_english": "Missing, no title"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1954",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Sissel",
+                "last_name": "Westling",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1956"
+            },
+            {
+                "first_name": "Agneta",
+                "last_name": "Westling",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1958"
+            },
+            {
+                "first_name": "Klas",
+                "last_name": "Westling",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1960"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

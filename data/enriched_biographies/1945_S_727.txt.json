@@ -1,0 +1,203 @@
+{
+    "career": [
+        {
+            "position": "Professor",
+            "start_year": 1944,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1934,
+            "end_year": 1944,
+            "organization": "högre allmänna läroverket",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Josef",
+        "last_name": "Svennung",
+        "middle_name": "Gusten Algot",
+        "gender": "Male",
+        "birth_date": "07-01-1895",
+        "birth_place": {
+            "name": "Alseda, Jönköpings Län",
+            "latitude": 57.41842709999999,
+            "longitude": 15.2518598,
+            "formatted_address": "574 54 Alseda, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Aug.",
+                "last_name": "Svensson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Carlsdtr",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "fil. kand.",
+            "position_english": "Candidate of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1917,
+            "field": "filosofi"
+        },
+        {
+            "position": "fil. mag.",
+            "position_english": "Master of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1917,
+            "field": "filosofi"
+        },
+        {
+            "position": "fil. lic.",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1921,
+            "field": "filosofi"
+        },
+        {
+            "position": "fil. dr.",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1923,
+            "field": "filosofi"
+        },
+        {
+            "position": "doc.",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "start_year": 1923,
+            "end_year": 1944,
+            "field": "latin"
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Uppsala Universitet",
+            "start_year": 1944,
+            "field": "latin"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Smålands nations kamratförbund",
+            "role": "Ordförande",
+            "start_year": 0
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Ledamot av Vetenskapssamhället i Uppsala (LHVS)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Untersuch. zu Palladius u. zur latein. Fach- u. Volkssprache",
+            "year": "1935",
+            "type": "skrift"
+        },
+        {
+            "title": "Luthers De libertate Christiana",
+            "year": "1932",
+            "type": "utgåva"
+        },
+        {
+            "title": "Luthers De libertate Christiana",
+            "year": "1929",
+            "type": "översättning"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1923-1924"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1923-1924"
+        },
+        {
+            "country": {
+                "name": "Grekland",
+                "latitude": 39.074208,
+                "longitude": 21.824312,
+                "formatted_address": "Greece"
+            },
+            "country_code": "GRC",
+            "year": "1923-1924"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1923-1924"
+        }
+    ]
+}

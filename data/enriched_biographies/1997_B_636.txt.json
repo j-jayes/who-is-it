@@ -1,0 +1,145 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1952,
+            "end_year": 1961,
+            "organization": "ab de Lavals ångturbin"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1961,
+            "end_year": 1966,
+            "organization": "Sydsvenska kraft aktiebolag",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            }
+        },
+        {
+            "position": "professor",
+            "start_year": 1965,
+            "end_year": 1992,
+            "organization": "Lunds Tekniska Högskola",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "dekanus",
+            "start_year": 1975,
+            "end_year": 1983,
+            "organization": "tekniska fakulteten, Lunds universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "gästprofessor",
+            "start_year": 1984,
+            "end_year": 1985,
+            "organization": "Eidgenössische Technische Hochschule (ETH)",
+            "location": {
+                "name": "Zürich",
+                "latitude": 47.3768866,
+                "longitude": 8.541694,
+                "formatted_address": "Zürich, Switzerland"
+            },
+            "country_code": "CHE"
+        }
+    ],
+    "person": {
+        "first_name": "Stig",
+        "last_name": "Borglin",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "27-09-1902",
+        "birth_place": {
+            "name": "Trelleborg",
+            "latitude": null,
+            "longitude": null,
+            "formatted_address": null
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hugo",
+                "last_name": "Borglin",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "sjöingenjör",
+                    "occupation_english": "marine engineer",
+                    "hisco_code_english": "2410.0",
+                    "hisco_description_english": "Mechanical Engineer, General"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Lindborg",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "Ledamot",
+            "organization": "Föreningen för Samhällsplanering"
+        },
+        {
+            "position": "Ledamot",
+            "organization": "Wissenschaftlicher Beirat der VGB Technische Vereinigung der Grosskraftwerksbetreiber"
+        }
+    ],
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1952",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Olsson",
+            "gender": "Female",
+            "birth_date": "26-07-1926",
+            "occupation": {
+                "occupation": "legitimerad sjuksköterska",
+                "occupation_english": "licensed nurse",
+                "hisco_code_swedish": "7110.0",
+                "hisco_description_swedish": "Professional Nurse, General",
+                "hisco_code_english": "7110.0",
+                "hisco_description_english": "Professional Nurse, General"
+            },
+            "parents": null
+        },
+        "marriage_year": "1953",
+        "divorce_year": null,
+        "children": null
+    }
+}

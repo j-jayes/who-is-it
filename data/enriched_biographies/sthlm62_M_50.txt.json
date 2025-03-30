@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1950,
+            "organization": "Länsarkitektkontoret",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1951,
+            "organization": "Tengboms Arkitektkontor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen firma",
+            "start_year": 1957,
+            "organization": "Carlstedts Arkitektkontor",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sören",
+        "last_name": "Malm",
+        "middle_name": "S",
+        "gender": "Male",
+        "birth_date": "23-07-1923",
+        "birth_place": {
+            "name": "Falköping, Skaraborgs Län",
+            "latitude": 58.17502899999999,
+            "longitude": 13.553217,
+            "formatted_address": "Falköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Arkitekt",
+            "occupation_english": "Architect",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Svante",
+                "last_name": "Malm",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Stat:insp",
+                    "occupation_english": "State Inspector",
+                    "hisco_code_english": "31090.0",
+                    "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                }
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Kärnekuli",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Vällingby",
+        "latitude": 59.3670813,
+        "longitude": 17.8691434,
+        "formatted_address": "Vällingby, Hässelby-Vällingby, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1944",
+            "institution": "Eksjö"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1951",
+            "institution": "Chalmers Tekniska Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Majken",
+            "last_name": "Brahge",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Helge",
+                    "last_name": "Brahge",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Agda",
+                    "last_name": "Jonsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1950",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Lotti",
+                "last_name": "Malm",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1951"
+            },
+            {
+                "first_name": "Ola",
+                "last_name": "Malm",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1956"
+            }
+        ]
+    },
+    "hobbies": [
+        "musik"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1948"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1962"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1949"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1962"
+        }
+    ]
+}

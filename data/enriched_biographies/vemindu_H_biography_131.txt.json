@@ -1,0 +1,208 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1893,
+            "end_year": 1897,
+            "organization": "Firma Hj Hansson",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1898,
+            "organization": "Lundgren & Andersson",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1899,
+            "organization": "August Melander",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen företagare",
+            "start_year": 1901,
+            "end_year": 1905,
+            "organization": "Firma J H Hansson",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Övertog firma",
+            "start_year": 1905,
+            "organization": "Th Wahlbergs Eftr",
+            "location": {
+                "name": "Hedemora",
+                "latitude": 60.2775453,
+                "longitude": 15.985892,
+                "formatted_address": "Hedemora, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Hansson",
+        "middle_name": "Henrik",
+        "gender": "Male",
+        "birth_date": "10-03-1879",
+        "birth_place": {
+            "name": "Skepptuna, Stockholms Län",
+            "latitude": 59.70979009999999,
+            "longitude": 18.0940328,
+            "formatted_address": "195 93 Skepptuna, Sweden"
+        },
+        "occupation": {
+            "occupation": "Köpman",
+            "occupation_english": null,
+            "hisco_code_swedish": "41025.0",
+            "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Frans",
+                "last_name": "Hansson",
+                "middle_name": "Johan",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Eriksson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "Ledamot",
+            "start_year": 1916,
+            "end_year": 1942,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Drätselkammaren",
+            "role": "Ledamot",
+            "start_year": 1934,
+            "end_year": 1942,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hedemora",
+        "latitude": 60.2775453,
+        "longitude": 15.985892,
+        "formatted_address": "Hedemora, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Gustafsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Amatörfotografering"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CZE",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1936"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "career": [
+        {
+            "position": "aman",
+            "start_year": 1950,
+            "organization": "hygienisk-bakteriologiska institutionen",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "tf labor",
+            "start_year": 1957,
+            "organization": "Statens Bakteriologiska Laboratorium",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "förste underläkare",
+            "start_year": 1959,
+            "end_year": 1959,
+            "organization": "kirurgiska kliniken, Gällivare lasarett",
+            "location": {
+                "name": "Gällivare",
+                "latitude": 67.1379,
+                "longitude": 20.6593618,
+                "formatted_address": "Gällivare, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "förste underläkare",
+            "start_year": 1961,
+            "organization": "plastikkirurgiska kliniken, Akademiska sjukhuset",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Körlof",
+        "middle_name": "N H",
+        "gender": "Male",
+        "birth_date": "23-02-1926",
+        "birth_place": {
+            "name": "Haparanda",
+            "latitude": 65.8417085,
+            "longitude": 24.1276643,
+            "formatted_address": "Haparanda, Sweden"
+        },
+        "occupation": {
+            "occupation": "läkare",
+            "occupation_english": "physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Harald",
+                "last_name": "Körlof",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "häradshövding",
+                    "occupation_english": "district judge",
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge"
+                }
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Svensson",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "filosofie kandidat",
+                    "occupation_english": "Bachelor of Arts",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "13990.0",
+                    "hisco_description_english": "Other Teachers"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "med dr",
+            "institution": "Uppsala universitet",
+            "start_year": 1956,
+            "field": "bakteriologi"
+        },
+        {
+            "position": "docent",
+            "position_english": "associate professor",
+            "institution": "Uppsala universitet",
+            "start_year": 1956,
+            "field": "bakteriologi"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Medicinska föreningen",
+            "role": "Ordförande",
+            "start_year": 1951,
+            "end_year": 1952,
+            "organization": "Uppsala"
+        },
+        {
+            "committee_name": "läkarklubb Polcirkeln",
+            "role": "sekreterare",
+            "start_year": 1960,
+            "end_year": 1961
+        }
+    ],
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1945",
+            "institution": "Lund"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1948",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1953",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulla",
+            "last_name": "Styrman",
+            "gender": "Female",
+            "birth_date": "1925",
+            "parents": [
+                {
+                    "first_name": "Karl",
+                    "last_name": "Styrman",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "dirigent",
+                        "occupation_english": "conductor",
+                        "hisco_code_english": "36040.0",
+                        "hisco_description_english": "Bus Conductor"
+                    }
+                },
+                {
+                    "first_name": "Sigrid",
+                    "last_name": "Utterström",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1950",
+        "children": [
+            {
+                "first_name": "Susanne",
+                "last_name": "Körlof",
+                "gender": "Female",
+                "birth_year": "1953"
+            },
+            {
+                "first_name": "Svante",
+                "last_name": "Körlof",
+                "gender": "Male",
+                "birth_year": "1956"
+            }
+        ]
+    },
+    "hobbies": [
+        "fiske"
+    ],
+    "publications": [
+        {
+            "title": "Infections of burns",
+            "year": "1956",
+            "type": "drsavhandling"
+        }
+    ]
+}

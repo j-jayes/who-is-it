@@ -1,0 +1,143 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Landgren",
+        "middle_name": "O E",
+        "gender": "Male",
+        "birth_date": "05-05-1921",
+        "birth_place": {
+            "name": "Lund",
+            "latitude": 55.7046601,
+            "longitude": 13.1910073,
+            "formatted_address": "Lund, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "VHS",
+            "start_year": 1952,
+            "end_year": 1962,
+            "field": "fysiologi"
+        },
+        {
+            "position": "laborator",
+            "institution": "Göteborg",
+            "start_year": 1962,
+            "end_year": 1968
+        },
+        {
+            "position": "professor",
+            "institution": "Umeå",
+            "start_year": 1968,
+            "field": "fysiologi"
+        }
+    ],
+    "achievements": [],
+    "awards": [],
+    "board_memberships": [],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Umeå",
+        "latitude": 63.8258471,
+        "longitude": 20.2630354,
+        "formatted_address": "Umeå, Sweden"
+    },
+    "education": [
+        {
+            "degree": "veterinärexamen",
+            "degree_level": "Doctorate",
+            "year": "1949",
+            "institution": "None"
+        },
+        {
+            "degree": "veterinärmedicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1952",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Barbro",
+            "last_name": "Lind",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "sjuksköterska",
+                "occupation_english": "nurse",
+                "hisco_code_swedish": "7110.0",
+                "hisco_description_swedish": "Professional Nurse, General",
+                "hisco_code_english": "7110.0",
+                "hisco_description_english": "Professional Nurse, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Ivar",
+                    "last_name": "Lind",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "doktor",
+                        "occupation_english": "doctor",
+                        "hisco_code_swedish": "6100.0",
+                        "hisco_description_swedish": "Medical Doctor, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Ingeborg",
+                    "last_name": "Pihl",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1950"
+    },
+    "hobbies": [],
+    "honorary_titles": [
+        {
+            "title": "Medicine hedersdoktor",
+            "institution": "Umeå",
+            "year": "1981"
+        }
+    ],
+    "honors": [],
+    "languages_spoken": [],
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [],
+    "travels": [
+        {
+            "country": {
+                "name": "Australien",
+                "latitude": -25.274398,
+                "longitude": 133.775136,
+                "formatted_address": "Australia"
+            },
+            "country_code": "AUS",
+            "year": "1953-1954"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1959-1960"
+        }
+    ]
+}

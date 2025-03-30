@@ -1,0 +1,214 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Ebbe",
+        "middle_name": "Emil",
+        "gender": "Male",
+        "birth_date": "27-03-1868",
+        "birth_place": {
+            "name": "Hököpinge, Malmöhus Län",
+            "latitude": 55.4963545,
+            "longitude": 13.005217,
+            "formatted_address": "235 43 Hököpinge, Sweden"
+        },
+        "occupation": {
+            "occupation": "bildhuggare",
+            "occupation_english": "sculptor",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Johansson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Mathiasson",
+                "middle_name": "Benedikta",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Hököpinge",
+        "latitude": 55.4963545,
+        "longitude": 13.005217,
+        "formatted_address": "235 43 Hököpinge, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Bachelor's",
+            "year": "1888",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Menga",
+            "last_name": "Schjelderup",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "skulptris",
+                "occupation_english": "sculptress",
+                "hisco_code_swedish": "16120.0",
+                "hisco_description_swedish": "Sculptor",
+                "hisco_code_english": "16120.0",
+                "hisco_description_english": "Sculptor"
+            },
+            "parents": [
+                {
+                    "first_name": "S.",
+                    "last_name": "Schjelderup",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "konservator",
+                        "occupation_english": "conservator",
+                        "hisco_code_swedish": "94920.0",
+                        "hisco_description_swedish": "Taxidermist",
+                        "hisco_code_english": "19140.0",
+                        "hisco_description_english": "Art Gallery and Museum Curator"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1892",
+        "divorce_year": "1898"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Atlas’ dotter",
+            "year": "1892",
+            "type": "skulptur"
+        },
+        {
+            "title": "Solrosen",
+            "year": "1893",
+            "type": "skulptur"
+        },
+        {
+            "title": "Venus consolatrix",
+            "year": "1894",
+            "type": "skulptur"
+        },
+        {
+            "title": "Martyrium humanum",
+            "year": "1899",
+            "type": "skulptur"
+        },
+        {
+            "title": "Mannen som bryter sig ur klippan",
+            "year": "None",
+            "type": "skulptur"
+        },
+        {
+            "title": "Lättare än luft",
+            "year": "None",
+            "type": "skulptur"
+        },
+        {
+            "title": "Majestas Dei gratia",
+            "year": "None",
+            "type": "skulptur"
+        },
+        {
+            "title": "Samvetet",
+            "year": "None",
+            "type": "skulptur"
+        },
+        {
+            "title": "Rijm å kodevelske",
+            "year": "None",
+            "type": "skrift",
+            "editions": null
+        },
+        {
+            "title": "Heterogenesis",
+            "year": "None",
+            "type": "skrift",
+            "editions": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Storbritannien",
+                "latitude": 55.378051,
+                "longitude": -3.435973,
+                "formatted_address": "United Kingdom"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

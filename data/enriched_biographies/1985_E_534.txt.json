@@ -1,0 +1,236 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1932,
+            "end_year": 1950,
+            "organization": "statens centrala frökontrollanstalt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "fältkontrollant",
+            "start_year": 1932,
+            "end_year": 1950,
+            "organization": "statens centrala frökontrollanstalt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "avdelningsföreståndare",
+            "start_year": 1950,
+            "end_year": 1962,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "professor",
+            "start_year": 1962,
+            "end_year": 1973,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1962,
+            "end_year": 1973,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "expert",
+            "start_year": 1954,
+            "end_year": 1955,
+            "organization": "OECD",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "expert",
+            "start_year": 1956,
+            "end_year": 1958,
+            "organization": "OECD",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "expert",
+            "start_year": 1965,
+            "end_year": null,
+            "organization": "FAO",
+            "location": {
+                "name": "Rom",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ITA"
+        }
+    ],
+    "person": {
+        "first_name": "Harald",
+        "last_name": "Esbo",
+        "middle_name": "V O",
+        "gender": "Male",
+        "birth_date": "15-04-1907",
+        "birth_place": {
+            "name": "Svalöv, Malmöhus Län",
+            "latitude": 55.9129296,
+            "longitude": 13.1018168,
+            "formatted_address": "Svalöv, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor emeritus",
+            "occupation_english": "Professor Emeritus",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Jönsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "förvaltare",
+                    "occupation_english": "manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Pettersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Internat Seed Testing Assoc",
+            "role": "presid",
+            "start_year": 1965,
+            "end_year": 1968,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "statens växtsortnämnd",
+            "role": "ordförande",
+            "start_year": 1971,
+            "end_year": 1977,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Internat Comm f the Nomenclature of Cultivated plants",
+            "role": "ledamot",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stocksund",
+        "latitude": 59.3841662,
+        "longitude": 18.0478685,
+        "formatted_address": "Stocksund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Agrex",
+            "degree_level": "Bachelor's",
+            "year": "1931",
+            "institution": "Alnarp"
+        },
+        {
+            "degree": "agr doktor",
+            "degree_level": "Doctorate",
+            "year": "1959",
+            "institution": "Ultuna"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anne-Marie",
+            "last_name": "Carlquist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "assistent",
+                "occupation_english": "Assistant"
+            },
+            "parents": [
+                {
+                    "first_name": "Gunnar",
+                    "last_name": "Carlquist",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "överbibliotekarie",
+                        "occupation_english": "Chief Librarian",
+                        "hisco_code_swedish": "19120.0",
+                        "hisco_description_swedish": "Librarian",
+                        "hisco_code_english": "19120.0",
+                        "hisco_description_english": "Librarian"
+                    }
+                },
+                {
+                    "first_name": "Marie",
+                    "last_name": "Schwenn",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "LSLA",
+            "institution": "Kungliga Skogs- och Lantbruksakademien",
+            "year": "1964"
+        },
+        {
+            "title": "hedersledamot",
+            "institution": "Nat Inst of Agr Botany Eng",
+            "year": "1967"
+        }
+    ],
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

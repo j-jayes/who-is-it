@@ -1,0 +1,106 @@
+{
+    "career": [
+        {
+            "position": "Direktörsassistent",
+            "start_year": 1918,
+            "end_year": 1922,
+            "organization": "Kosta",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1922,
+            "end_year": 1926,
+            "organization": "Hammars glasbruk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": "Kosta",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Teknisk och ekonomisk ledare",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "Webbs Chrystal Glass Co. Ltd.",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Fogelberg",
+        "middle_name": "Gottwald Sven Harald",
+        "gender": "Male",
+        "birth_date": "01-02-1898",
+        "birth_place": {
+            "name": "Älghult, Kronobergs Län",
+            "latitude": 57.0081016,
+            "longitude": 15.5727057,
+            "formatted_address": "364 95 Älghult, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Fogelberg",
+                "middle_name": "Gottwald",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Granqvist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "Uppsala universitet"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Sveriges småglasindustri",
+            "year": "1922",
+            "type": "book"
+        },
+        {
+            "title": "Glasanalyser",
+            "year": "1923",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

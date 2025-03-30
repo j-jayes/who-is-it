@@ -1,0 +1,181 @@
+{
+    "career": [
+        {
+            "position": "Arbete och studier inom hortikultur",
+            "start_year": 1888,
+            "end_year": 1898,
+            "organization": "Hasselgren",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Deltog i naturvetenskaplig och etnografisk expedition",
+            "start_year": 1890,
+            "end_year": 1892,
+            "organization": "American Museum i New York",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Föreståndare för botaniska avdelningen",
+            "start_year": 1894,
+            "end_year": 1896,
+            "organization": "Bergianska trädgården",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Etnografisk och arkeologisk forskningsresa",
+            "start_year": 1896,
+            "end_year": 1899,
+            "organization": null,
+            "location": {
+                "name": "Costa Rica, Salvadore och Guatemala",
+                "latitude": 15.783471,
+                "longitude": -90.23075899999999,
+                "formatted_address": "Guatemala"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Intendent",
+            "start_year": 1903,
+            "end_year": null,
+            "organization": "Carnegie Institute",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Professor och intendent",
+            "start_year": 1910,
+            "end_year": null,
+            "organization": "Riksmuseets etnografiska avdelning",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Hartman",
+        "middle_name": "Vilhelm",
+        "gender": "Male",
+        "birth_date": "19-08-1862",
+        "birth_place": {
+            "name": "Örebro",
+            "latitude": 59.2752626,
+            "longitude": 15.2134105,
+            "formatted_address": "Örebro, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Hartman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lektor",
+                    "occupation_english": "Lecturer",
+                    "hisco_code_swedish": "13030.0",
+                    "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Engström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Serie populära etnologiska skrifter",
+            "year": "1911",
+            "type": "skrift",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Mexiko",
+                "latitude": 23.634501,
+                "longitude": -102.552784,
+                "formatted_address": "Mexico"
+            },
+            "country_code": "MEX",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Costa Rica",
+                "latitude": 9.748916999999999,
+                "longitude": -83.753428,
+                "formatted_address": "Costa Rica"
+            },
+            "country_code": "CRI",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "El Salvador",
+                "latitude": 13.794185,
+                "longitude": -88.89653,
+                "formatted_address": "El Salvador"
+            },
+            "country_code": "SLV",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Guatemala",
+                "latitude": 15.783471,
+                "longitude": -90.23075899999999,
+                "formatted_address": "Guatemala"
+            },
+            "country_code": "GTM",
+            "year": null
+        }
+    ]
+}

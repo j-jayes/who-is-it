@@ -1,0 +1,216 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1908,
+            "end_year": null,
+            "organization": "Lantmannaskola i Tomelilla",
+            "location": {
+                "name": "Tomelilla",
+                "latitude": 55.54188869999999,
+                "longitude": 13.9538845,
+                "formatted_address": "Tomelilla, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1910,
+            "end_year": null,
+            "organization": "Lantmannaskola i Hammenhög",
+            "location": {
+                "name": "Hammenhög",
+                "latitude": 55.50260309999999,
+                "longitude": 14.1512715,
+                "formatted_address": "276 50 Hammenhög, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": "Lantmannaskola i Hammenhög",
+            "location": {
+                "name": "Hammenhög",
+                "latitude": 55.50260309999999,
+                "longitude": 14.1512715,
+                "formatted_address": "276 50 Hammenhög, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Inneh.",
+            "start_year": 1937,
+            "end_year": 1948,
+            "organization": "Mansdala gård",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Anton",
+        "last_name": "Andersson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "08-05-1882",
+        "birth_place": {
+            "name": "Nevishög, Malmöhus Län",
+            "latitude": 55.633333,
+            "longitude": 13.216667,
+            "formatted_address": "245 45 Nevishög, Sweden"
+        },
+        "occupation": {
+            "occupation": "Rektor",
+            "occupation_english": "Headmaster",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "13940.0",
+            "hisco_description_english": "Head Teacher"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Jönsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Karna",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "RVO 1926"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Lantmannaskolans Lärarförening",
+            "role": "Sekreterare",
+            "start_year": 1922,
+            "end_year": 1932,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Stiftare",
+            "organization": "Sydöstra Skånes Lantbruksklubb"
+        },
+        {
+            "role": "Sekreterare",
+            "organization": "Sydöstra Skånes Lantbruksklubb"
+        }
+    ],
+    "current_location": {
+        "name": "Hammenhög",
+        "latitude": 55.50260309999999,
+        "longitude": 14.1512715,
+        "formatted_address": "276 50 Hammenhög, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Agronomexamen",
+            "degree_level": "Bachelor's",
+            "year": "1908",
+            "institution": "Alnarp"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margareta",
+            "last_name": "Nilsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1913",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Karin",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1920"
+            },
+            {
+                "first_name": "Ingeborg",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1924"
+            },
+            {
+                "first_name": "Barbro",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1925"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Kemi för lantmän",
+            "year": "1920",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        }
+    ]
+}

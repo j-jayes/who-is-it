@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1895,
+            "end_year": 1895,
+            "organization": "Nydqvist och Holms mekaniska verkstad",
+            "location": {
+                "name": "Trollhättan",
+                "latitude": 58.28348939999999,
+                "longitude": 12.2858206,
+                "formatted_address": "Trollhättan, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1896,
+            "end_year": 1899,
+            "organization": "ab. de Lavals ångturbin",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1899,
+            "end_year": 1902,
+            "organization": "Techn. Bureau W. Levenson",
+            "location": {
+                "name": "Ekaterinoslaw, Sydryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": null
+        },
+        {
+            "position": "teknisk representant",
+            "start_year": 1902,
+            "end_year": 1909,
+            "organization": "ab. de Lavals ångturbin",
+            "location": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS"
+        },
+        {
+            "position": "gen:agentur",
+            "start_year": 1909,
+            "end_year": 1912,
+            "organization": "H. Treeck",
+            "location": {
+                "name": "S:t Petersburg",
+                "latitude": 59.9310584,
+                "longitude": 30.3609097,
+                "formatted_address": "St Petersburg, Russia"
+            },
+            "country_code": "RUS"
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1912,
+            "end_year": null,
+            "organization": "ab. Lux",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Lindblom",
+        "middle_name": "Gustaf Samuel",
+        "gender": "Male",
+        "birth_date": "02-06-1873",
+        "birth_place": {
+            "name": "Habo, Skaraborgs Län",
+            "latitude": 57.9093623,
+            "longitude": 14.0745539,
+            "formatted_address": "Habo, Sweden"
+        },
+        "occupation": {
+            "occupation": "ingenjör, verkställande direktör",
+            "occupation_english": "engineer, managing director",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "K.A.",
+                "last_name": "L.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "komminister",
+                    "occupation_english": "curate",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Teoiila",
+                "last_name": "Landahl",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "svenska föreningen i S:t Petersburg"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "svenska föreningen i S:t Petersburg",
+            "role": "sekreterare",
+            "start_year": 1912,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1892",
+            "institution": "Skara"
+        },
+        {
+            "degree": "avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1895",
+            "institution": "Chalmers"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Lüning",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gustaf",
+                    "last_name": "Lüning",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "posttjänsteman",
+                        "occupation_english": "postal worker",
+                        "hisco_code_swedish": "33170.0",
+                        "hisco_description_swedish": "Post Office Counter Clerk",
+                        "hisco_code_english": "37030.0",
+                        "hisco_description_english": "Postman"
+                    }
+                },
+                {
+                    "first_name": "Elisabeth",
+                    "last_name": "Rauert",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1910",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

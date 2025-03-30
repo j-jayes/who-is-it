@@ -1,0 +1,154 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1937,
+            "organization": "J A Dessle aktiebolag"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1945,
+            "organization": "J A Dessle aktiebolag"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1960,
+            "organization": "C-J Althoff & Co",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            }
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1960,
+            "organization": "C-J Althoff & Co",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            }
+        }
+    ],
+    "person": {
+        "first_name": "Carl-Johan",
+        "last_name": "Althoff",
+        "gender": "Male",
+        "birth_date": "21-12-1917",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Althoff",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Ingeborg",
+                "last_name": "Ericsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "JÅ Dessle aktiebolag"
+        }
+    ],
+    "current_location": {
+        "name": "Bromma",
+        "latitude": 59.3397832,
+        "longitude": 17.9397131,
+        "formatted_address": "Bromma, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Påhlmans Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1936",
+            "institution": "Påhlmans Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Stina",
+            "last_name": "Falk",
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "Knut",
+                    "last_name": "Falk",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Kamrer",
+                        "occupation_english": "Comptroller",
+                        "hisco_code_swedish": "11010.0",
+                        "hisco_description_swedish": "Accountant, General"
+                    }
+                },
+                {
+                    "first_name": "Gerda",
+                    "last_name": "Abrahamson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1940",
+        "children": [
+            {
+                "first_name": "Peter",
+                "last_name": "Althoff",
+                "gender": "Male",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Staffan",
+                "last_name": "Althoff",
+                "gender": "Male",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Eva",
+                "last_name": "Althoff",
+                "gender": "Female",
+                "birth_year": "1945"
+            },
+            {
+                "first_name": "Johan",
+                "last_name": "Althoff",
+                "gender": "Male",
+                "birth_year": "1947"
+            },
+            {
+                "first_name": "Lena",
+                "last_name": "Althoff",
+                "gender": "Female",
+                "birth_year": "1951"
+            }
+        ]
+    }
+}

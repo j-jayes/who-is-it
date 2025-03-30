@@ -1,0 +1,242 @@
+{
+    "career": [
+        {
+            "position": "Anställd i lantaffär",
+            "start_year": 1889,
+            "end_year": 1895,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd på kontor",
+            "start_year": 1896,
+            "end_year": 1899,
+            "organization": null,
+            "location": {
+                "name": "Eksjö",
+                "latitude": 57.6172,
+                "longitude": 15.22155,
+                "formatted_address": "575 92 Eksjo, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Grundare",
+            "start_year": 1899,
+            "end_year": null,
+            "organization": "Johnson & Hill",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör och ägare",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "AB Laxå Pappersbruk",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Johnson",
+        "middle_name": "Peter",
+        "gender": "Male",
+        "birth_date": "19-12-1874",
+        "birth_place": {
+            "name": "Väsby, Malmöhus Län",
+            "latitude": 56.2081443,
+            "longitude": 12.5936203,
+            "formatted_address": "263 57 Väsby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fabrikör",
+                    "occupation_english": "Manufacturer"
+                }
+            },
+            {
+                "first_name": "Bengta",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot och delägare",
+            "organization": "Rockhammars Bruks AB"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Pappersgrosshandelsförbundet"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Påsfabrikantförbundet"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Kuvertfabriken"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Evangeliska Fosterlandsstiftelsen Stockholm"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Missionen i Kina"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Örebro",
+        "latitude": 59.2752626,
+        "longitude": 15.2134105,
+        "formatted_address": "Örebro, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Seidi",
+            "last_name": "Larsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Arbetet",
+        "Lantlivet"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Färöarna",
+                "latitude": 61.89263500000001,
+                "longitude": -6.911805999999999,
+                "formatted_address": "Faroe Islands"
+            },
+            "country_code": "FRO",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Island",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "ISL",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Ekström",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "23-02-1844",
+        "birth_place": {
+            "name": "Öland",
+            "latitude": 54.6786487,
+            "longitude": 8.705097,
+            "formatted_address": "Oland, Germany"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gust.",
+                "last_name": "Ekström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "handlare",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "k. medalj 1875"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Mörbylånga",
+        "latitude": 56.5241245,
+        "longitude": 16.3884109,
+        "formatted_address": "Mörbylånga, Sweden"
+    },
+    "education": [
+        {
+            "degree": "v. konstakad.",
+            "degree_level": "Schooling",
+            "year": "1866-1872",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

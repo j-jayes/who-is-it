@@ -1,0 +1,161 @@
+{
+    "career": [
+        {
+            "position": "Disponent",
+            "start_year": 1893,
+            "organization": "Egen firma i Vetlanda",
+            "location": {
+                "name": "Vetlanda",
+                "latitude": 57.42746,
+                "longitude": 15.08533,
+                "formatted_address": "Vetlanda, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1898,
+            "organization": "Karlshamns Yllefabrik",
+            "location": {
+                "name": "Åkeholm",
+                "latitude": 56.290295,
+                "longitude": 14.7447047,
+                "formatted_address": "376 93 Åkeholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Hemil",
+        "last_name": "Salomon",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "15-01-1866",
+        "birth_place": {
+            "name": "Villstad, Jönköpings Län",
+            "latitude": 57.2004857,
+            "longitude": 13.448177,
+            "formatted_address": "333 91 Villstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Haraldsson",
+                "middle_name": "M",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Marta",
+                "last_name": "Erlandsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "Kyrkofullmäktige",
+            "organization": "Kyrkan"
+        },
+        {
+            "role": "Kyrkoråd",
+            "organization": "Kyrkan"
+        },
+        {
+            "role": "Kyrkvärd",
+            "organization": "Kyrkan"
+        }
+    ],
+    "current_location": {
+        "name": "Åkeholm",
+        "latitude": 56.290295,
+        "longitude": 14.7447047,
+        "formatted_address": "376 93 Åkeholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Thérese",
+            "last_name": "Danielsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "RVO"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

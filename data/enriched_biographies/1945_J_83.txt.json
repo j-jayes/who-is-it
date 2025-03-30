@@ -1,0 +1,236 @@
+{
+    "career": [
+        {
+            "position": "vikarierande lärare",
+            "start_year": 1914,
+            "end_year": 1916,
+            "organization": "Gävle",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "vikarierande lärare",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "extra ordinarie lektor",
+            "start_year": 1920,
+            "end_year": 1922,
+            "organization": "Uddevalla",
+            "location": {
+                "name": "Uddevalla",
+                "latitude": 58.3498003,
+                "longitude": 11.935649,
+                "formatted_address": "Uddevalla, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "adjunkt",
+            "start_year": 1922,
+            "end_year": 1931,
+            "organization": "Södertälje",
+            "location": {
+                "name": "Södertälje",
+                "latitude": 59.197762,
+                "longitude": 17.6201942,
+                "formatted_address": "Södertälje, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lektor",
+            "start_year": 1931,
+            "end_year": 1944,
+            "organization": "Södertälje",
+            "location": {
+                "name": "Södertälje",
+                "latitude": 59.197762,
+                "longitude": 17.6201942,
+                "formatted_address": "Södertälje, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "rektor",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Västerås",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Johansson",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "05-08-1891",
+        "birth_place": {
+            "name": "Lerum, Älvsborgs Län",
+            "latitude": 57.7694839,
+            "longitude": 12.2688197,
+            "formatted_address": "Lerum, Sweden"
+        },
+        "occupation": {
+            "occupation": "rektor",
+            "occupation_english": "principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "37040.0",
+            "hisco_description_english": "Messenger"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Johansson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Jonasson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "stadsfullmäktige",
+            "organization": "Södertälje kommun"
+        }
+    ],
+    "current_location": {
+        "name": "Västerås",
+        "latitude": 59.60990049999999,
+        "longitude": 16.5448091,
+        "formatted_address": "Västerås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1911",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1914",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Doctorate",
+            "year": "1919",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1927",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Dagmar",
+            "last_name": "Dreborg",
+            "middle_name": "Elvira",
+            "gender": "Female",
+            "birth_date": "01-01-1907",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gustaf",
+                    "last_name": "Dreborg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "expeditionsföreståndare",
+                        "occupation_english": "shipping manager",
+                        "hisco_code_swedish": "22110.0",
+                        "hisco_description_swedish": "Clerical Supervisor, General",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Edit",
+                    "last_name": "Rinman",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1932",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "förutom gradualavhandling och vetenskapliga arbeten i zoologi, uppsatser i dagspress",
+            "year": "Okänt",
+            "type": "Övrigt",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "förutom gradualavhandling och vetenskapliga arbeten i zoologi, uppsatser i tidskrifter",
+            "year": "Okänt",
+            "type": "Övrigt",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

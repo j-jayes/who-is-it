@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Universitetslektor",
+            "start_year": 1965,
+            "end_year": 1969,
+            "organization": "Göteborgs Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i materiefysik",
+            "start_year": 1969,
+            "organization": "Universitetet i Linköping",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Prorektor",
+            "start_year": 1970,
+            "organization": "Universitetet i Linköping",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Stig",
+        "last_name": "Hagström",
+        "middle_name": "B M",
+        "gender": "Male",
+        "birth_date": "21-09-1932",
+        "birth_place": {
+            "name": "Barkeryd, Jönköpings Län",
+            "latitude": 57.72055529999999,
+            "longitude": 14.5850903,
+            "formatted_address": "571 94 Barkeryd, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Hagström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Skräddarmästare",
+                    "occupation_english": "Master Tailor",
+                    "hisco_code_swedish": "79100.0",
+                    "hisco_description_swedish": "Tailor, Specialisation Unknown",
+                    "hisco_code_english": "79100.0",
+                    "hisco_description_english": "Tailor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Nanny",
+                "last_name": "Svanberg",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie Doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1964,
+            "field": null
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "start_year": 1964,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Linköping",
+        "latitude": 58.41080700000001,
+        "longitude": 15.6213727,
+        "formatted_address": "Linköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1964",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Brita-Stina",
+            "last_name": "Felldin",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Sjuksköterska",
+                "occupation_english": "Nurse",
+                "hisco_code_swedish": "7110.0",
+                "hisco_description_swedish": "Professional Nurse, General",
+                "hisco_code_english": "7110.0",
+                "hisco_description_english": "Professional Nurse, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Martin",
+                    "last_name": "Felldin",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Bokhandlare",
+                        "occupation_english": "Book Seller",
+                        "hisco_code_swedish": "41030.0",
+                        "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                        "hisco_code_english": "41030.0",
+                        "hisco_description_english": "Working Proprietor (Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Lisa",
+                    "last_name": "Granström",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1957",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i atomfysik, fasta tillståndets fysik och teknisk fysik",
+            "year": "None",
+            "type": "Övrigt",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1965"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1973"
+        }
+    ]
+}

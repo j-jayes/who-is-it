@@ -1,0 +1,166 @@
+{
+    "career": [
+        {
+            "position": "Assistent",
+            "start_year": 1933,
+            "end_year": 1934,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1934,
+            "end_year": 1937,
+            "organization": "AB Tegefors Verks sulfitfabrik",
+            "location": {
+                "name": "Järpen",
+                "latitude": 63.34963049999999,
+                "longitude": 13.4529077,
+                "formatted_address": "Järpen, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1937,
+            "organization": "Uddeholms AB, Skoghallsverken",
+            "location": {
+                "name": "Skoghall",
+                "latitude": 59.32462750000001,
+                "longitude": 13.4693947,
+                "formatted_address": "Skoghall, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Arne",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "16-09-1910",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "W",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Signe",
+                "last_name": "Frigell",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Skoghall",
+        "latitude": 59.32462750000001,
+        "longitude": 13.4693947,
+        "formatted_address": "Skoghall, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1928",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1932",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Harriet",
+            "last_name": "Paulson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Upps i tekn frågor",
+            "year": "None",
+            "type": "Article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1933"
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1922,
+            "end_year": 1922,
+            "organization": "Lidköpings lasarett",
+            "location": {
+                "name": "Lidköping",
+                "latitude": 58.5035047,
+                "longitude": 13.1570768,
+                "formatted_address": "Lidköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1923,
+            "end_year": 1927,
+            "organization": "Serafimerlasarettet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1928,
+            "end_year": 1931,
+            "organization": "Sabbatsbergs sjukhus kirurgiska avdelning",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie amanuens",
+            "start_year": 1932,
+            "end_year": 1932,
+            "organization": "Sabbatsbergs öronklinik",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1933,
+            "end_year": 1940,
+            "organization": "Bodens garnisonssjukhus",
+            "location": {
+                "name": "Boden",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1940,
+            "end_year": 1945,
+            "organization": "Varbergs lasarett",
+            "location": {
+                "name": "Varberg",
+                "latitude": 57.107118,
+                "longitude": 12.2520907,
+                "formatted_address": "Varberg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "Halmstads länslasarett kirurgiska avdelning",
+            "location": {
+                "name": "Halmstad",
+                "latitude": 56.6743748,
+                "longitude": 12.8577884,
+                "formatted_address": "Halmstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Marinläkare",
+            "start_year": 1918,
+            "end_year": 1932,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Regementsläkare",
+            "start_year": 1932,
+            "end_year": 1940,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Regementsläkare i reserven",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Mauritz",
+        "last_name": "Persson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "15-03-1895",
+        "birth_place": {
+            "name": "Mörrum, Blekinge Län",
+            "latitude": 56.1938314,
+            "longitude": 14.748156,
+            "formatted_address": "375 30 Mörrum, Sweden"
+        },
+        "occupation": {
+            "occupation": "Läkare",
+            "occupation_english": "Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Sven",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapten",
+                    "occupation_english": "Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Gunhild",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Halmstad",
+        "latitude": 56.6743748,
+        "longitude": 12.8577884,
+        "formatted_address": "Halmstad, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1912",
+            "institution": "Malmö"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1915",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1921",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1945",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Disa",
+            "last_name": "Öqvist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Gunilla",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1934"
+            },
+            {
+                "first_name": "Björn",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1937"
+            },
+            {
+                "first_name": "Sven",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1938"
+            },
+            {
+                "first_name": "Nils",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Carin",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1946"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Vasaorden (1939)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "Stadsfullmäktige",
+            "position": "Ledamot",
+            "start_year": 1938,
+            "end_year": 1940,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Diverse uppsatser i kirurgiska ämnen",
+            "year": "None",
+            "type": "Article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

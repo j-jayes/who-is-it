@@ -1,0 +1,131 @@
+{
+    "career": [
+        {
+            "position": "amanuens och underkirurg",
+            "start_year": 1893,
+            "end_year": 1896,
+            "organization": "Akademiska sjukhuset i Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1899,
+            "organization": "Kronprinsessan Lovisas vårdanstalt",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "undersökningsläkare",
+            "start_year": 1901,
+            "end_year": 1905,
+            "organization": "Stockholms folkskolor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1902,
+            "end_year": 1907,
+            "organization": "Serafimerlasarettets kirurgiska poliklinik",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Björn",
+        "last_name": "Floderus",
+        "middle_name": "Gustaf Oskar",
+        "gender": "Male",
+        "birth_date": "14-08-1867",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "överläkare",
+            "occupation_english": "chief physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "M.",
+                "last_name": "Floderus",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "rektor",
+                    "occupation_english": "Principal",
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher",
+                    "hisco_code_english": "37040.0",
+                    "hisco_description_english": "Messenger"
+                }
+            },
+            {
+                "first_name": "Gust.",
+                "last_name": "Brunnberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1897,
+            "end_year": 1899,
+            "field": "kirurgi"
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1899,
+            "end_year": null,
+            "field": "kirurgi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elma",
+            "last_name": "Lind",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1901",
+        "divorce_year": null,
+        "children": null
+    },
+    "publications": null,
+    "travels": null
+}

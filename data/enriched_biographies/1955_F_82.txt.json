@@ -1,0 +1,129 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Edith",
+        "last_name": "Fischerström",
+        "middle_name": "Maria",
+        "gender": "Female",
+        "birth_date": "24-09-1881",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "målarinna",
+            "occupation_english": "painter",
+            "hisco_code_swedish": "93120.0",
+            "hisco_description_swedish": "Building Painter",
+            "hisco_code_english": "93120.0",
+            "hisco_description_english": "Building Painter"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Olsson",
+                "middle_name": "Aug.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "arkitekt",
+                    "occupation_english": "architect",
+                    "hisco_code_swedish": "2120.0",
+                    "hisco_description_swedish": "Building Architect",
+                    "hisco_code_english": "2120.0",
+                    "hisco_description_english": "Building Architect"
+                }
+            },
+            {
+                "first_name": "Elvira",
+                "last_name": "Woelner",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1901-1903",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Carl",
+            "last_name": "Fischerström",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "kapten",
+                "occupation_english": "captain",
+                "hisco_code_swedish": "58320.0",
+                "hisco_description_swedish": "Officer",
+                "hisco_code_english": "4215.0",
+                "hisco_description_english": "Ship's Master (Sea)"
+            },
+            "parents": null
+        },
+        "marriage_year": "1905",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": 1939,
+            "organization": "Firma W Schmidt & Co",
+            "location": {
+                "name": "Karlshamn",
+                "latitude": 56.170303,
+                "longitude": 14.863073,
+                "formatted_address": "Karlshamn, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Firma W Schmidt & Co",
+            "location": {
+                "name": "Karlshamn",
+                "latitude": 56.170303,
+                "longitude": 14.863073,
+                "formatted_address": "Karlshamn, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sten",
+        "last_name": "Ternström",
+        "middle_name": "Robert",
+        "gender": "Male",
+        "birth_date": "15-10-1906",
+        "birth_place": {
+            "name": "Köpenhamn",
+            "latitude": 55.6760968,
+            "longitude": 12.5683371,
+            "formatted_address": "Copenhagen, Denmark"
+        },
+        "occupation": {
+            "occupation": "Köpman",
+            "occupation_english": "Merchant",
+            "hisco_code_swedish": "41025.0",
+            "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+            "hisco_code_english": "41025.0",
+            "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "R",
+                "last_name": "Ternström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Vicekonsul",
+                    "occupation_english": "Vice Consul",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator",
+                    "hisco_code_english": "20210.0",
+                    "hisco_description_english": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Thorborg",
+                "last_name": "Ohlsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Karlshamn",
+        "latitude": 56.170303,
+        "longitude": 14.863073,
+        "formatted_address": "Karlshamn, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Alice",
+            "last_name": "Edgren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1929"
+        }
+    ]
+}

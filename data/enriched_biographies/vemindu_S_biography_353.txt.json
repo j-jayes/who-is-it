@@ -1,0 +1,146 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1902,
+            "organization": "Hallands Ångbåts Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1902,
+            "organization": "Skandia",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kontorschef",
+            "start_year": 1902,
+            "organization": "Gullbrantson & Möller",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Ström",
+        "middle_name": "Johan Vilhelm",
+        "gender": "Male",
+        "birth_date": "02-03-1882",
+        "birth_place": {
+            "name": "Simlångsdalen, Hallands Län",
+            "latitude": 56.7212004,
+            "longitude": 13.132116,
+            "formatted_address": "313 96 Simlångsdalen, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kontorschef",
+            "occupation_english": "Office Manager",
+            "hisco_code_swedish": "22110.0",
+            "hisco_description_swedish": "Clerical Supervisor, General",
+            "hisco_code_english": "22000.0",
+            "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "P",
+                "last_name": "Andersson",
+                "middle_name": "O",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmann",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Ström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Agda",
+            "last_name": "Schubert-Ström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Litteratur"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Patriotiska Sällskapets Guldmedalj"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        }
+    ]
+}

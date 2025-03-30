@@ -1,0 +1,150 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Göteborgs konstmuseum",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "intendent",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Nationalmuseum",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "avdelningen för slottssamlingar och depositioner",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "underlöjtnant",
+            "start_year": 1887,
+            "end_year": null,
+            "organization": "Livregementets dragoner",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "löjtnant",
+            "start_year": 1896,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "ryttmästare",
+            "start_year": 1905,
+            "end_year": null,
+            "organization": "i reserven",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "kabinettskammarherre",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Nordenfalk",
+        "middle_name": "Adam Johan",
+        "gender": "Male",
+        "birth_date": "13-12-1907",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "intendent",
+            "occupation_english": "intendent",
+            "hisco_code_swedish": "22000.0",
+            "hisco_description_swedish": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Nordenfalk",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kabrkammarherre",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Hedvig",
+                "last_name": "Reuterskiöld",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Göteborgs högskola",
+            "department": null,
+            "start_year": 1938,
+            "end_year": null,
+            "field": "konsthistoria"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Die spätantiken Kanontafeln (Die spätantike Buchornamentik I)",
+            "year": "1938",
+            "type": "book",
+            "volumes": "2 bd"
+        },
+        {
+            "title": "Katalog över Conrad M. Pineus konstsamling",
+            "year": "1940",
+            "type": "book"
+        },
+        {
+            "title": "Vincent van Gogh",
+            "year": "1943",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,196 @@
+{
+    "career": [
+        {
+            "position": "anställd apotekare",
+            "start_year": 1933,
+            "end_year": 1942,
+            "organization": "apoteket Lejonet",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "apotekare",
+            "start_year": 1942,
+            "end_year": 1947,
+            "organization": "Kronan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "innehavare av apoteket Lejonet med filialapotek",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "apoteket i Lerum och Sävedalen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Eric",
+        "last_name": "Karling",
+        "middle_name": "G",
+        "gender": "Male",
+        "birth_date": "11-06-1904",
+        "birth_place": {
+            "name": "Barberton, Ohio, USA",
+            "latitude": 41.012833,
+            "longitude": -81.6051221,
+            "formatted_address": "Barberton, OH 44203, USA"
+        },
+        "occupation": {
+            "occupation": "apotekare",
+            "occupation_english": "pharmacist",
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist",
+            "hisco_code_english": "41030.0",
+            "hisco_description_english": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Karling",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ingenjör",
+                    "occupation_english": "engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Boman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Farmacie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1929",
+            "institution": "None"
+        },
+        {
+            "degree": "Legitimerad apotekare",
+            "degree_level": "Master's",
+            "year": "1933",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eivor",
+            "last_name": "Hedbäck",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gösta",
+                    "last_name": "Hedbäck",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "sjökapt",
+                        "occupation_english": "sea captain",
+                        "hisco_code_swedish": "4217.0",
+                        "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                        "hisco_code_english": "4215.0",
+                        "hisco_description_english": "Ship's Master (Sea)"
+                    }
+                },
+                {
+                    "first_name": "Stina",
+                    "last_name": "de Bourgh",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1954",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Tomas",
+                "last_name": "Karling",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1956"
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Karling",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1959"
+            }
+        ]
+    },
+    "hobbies": [
+        "filateli",
+        "fotografering"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Nordstjärneorden (RNO)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Histidinuri som graviditetsreaktion",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": "1938"
+        }
+    ]
+}

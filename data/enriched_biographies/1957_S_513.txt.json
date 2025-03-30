@@ -1,0 +1,236 @@
+{
+    "career": [
+        {
+            "position": "Professor",
+            "start_year": 1947,
+            "organization": "None",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Före detta lasarettsläkare",
+            "start_year": 1950,
+            "organization": "Helsingborgs lasarett",
+            "location": {
+                "name": "Helsingborg",
+                "latitude": 56.0464674,
+                "longitude": 12.6945121,
+                "formatted_address": "Helsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1924,
+            "end_year": 1950,
+            "organization": "Medicinska avdelningen, läns- och stadslasarettet",
+            "location": {
+                "name": "Helsingborg",
+                "latitude": 56.0464674,
+                "longitude": 12.6945121,
+                "formatted_address": "Helsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Styresman",
+            "start_year": 1925,
+            "end_year": 1950,
+            "organization": "Läns- och stadslasarettet",
+            "location": {
+                "name": "Helsingborg",
+                "latitude": 56.0464674,
+                "longitude": 12.6945121,
+                "formatted_address": "Helsingborg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Thor",
+        "last_name": "Stenström",
+        "middle_name": "August Frithiof",
+        "gender": "Male",
+        "birth_date": "08-12-1883",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor, före detta lasarettsläkare",
+            "occupation_english": "Professor, former hospital physician"
+        },
+        "parents": [
+            {
+                "first_name": "J. A.",
+                "last_name": "Stenström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Mathilda",
+                "last_name": "Cronsjö",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Lunds Universitet",
+            "department": null,
+            "start_year": 1917,
+            "end_year": 1924,
+            "field": "Praktisk medicin"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Ordförande",
+            "organization": "Svenska internförbundet"
+        },
+        {
+            "position": "Ordförande",
+            "organization": "Nordvästra Skånes läkareförening"
+        },
+        {
+            "position": "Ordförande",
+            "organization": "Lunds Läkaresällskap"
+        },
+        {
+            "position": "Ledamot",
+            "organization": "Direktionen för barnsjukhuset Helsingborg"
+        },
+        {
+            "position": "Vice ordförande",
+            "organization": "Direktionen och sjukvårdsberedningen för Helsingborgs sjukvårdsinrättningar"
+        },
+        {
+            "position": "Ledamot",
+            "organization": "Svenska föreningen för invärtes medicin"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Gemensamma sjukvårdsberedningen för Malmöhus Län och Helsingborg"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Medicinalstyrelsens vetenskapliga råd",
+            "role": "Medlem",
+            "start_year": 1948,
+            "end_year": 1953,
+            "organization": "Medicinalstyrelsen",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Helsingborg",
+        "latitude": 56.0464674,
+        "longitude": 12.6945121,
+        "formatted_address": "Helsingborg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1912",
+            "institution": "None"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1915",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hanna",
+            "last_name": "Sylvan",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Elof",
+                    "last_name": "Sylvan",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Köpmann",
+                        "occupation_english": "Merchant",
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Elna",
+                    "last_name": "Nilsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1886",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "Hedersledamot",
+            "institution": "Svenska internförbundet",
+            "year": "None"
+        },
+        {
+            "title": "Hedersledamot",
+            "institution": "Nordvästra Skånes läkareförening",
+            "year": "None"
+        }
+    ],
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Ett flertal vetenskapliga skrifter",
+            "year": "None",
+            "type": "Vetenskapliga skrifter",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

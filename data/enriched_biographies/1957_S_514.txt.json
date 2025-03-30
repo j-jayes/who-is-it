@@ -1,0 +1,234 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1931,
+            "end_year": 1937,
+            "organization": "Whitlockska samskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "adjunkt i matematik och fysik",
+            "start_year": 1937,
+            "end_year": 1940,
+            "organization": "Högre allmänna läroverket å Norrmalm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lektor",
+            "start_year": 1940,
+            "end_year": 1949,
+            "organization": "Högre allmänna läroverket för flickor å Södermalm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Högre allmänna läroverket",
+            "location": {
+                "name": "Strängnäs",
+                "latitude": 59.37745229999999,
+                "longitude": 17.0321193,
+                "formatted_address": "Strängnäs, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Edvin",
+        "last_name": "Stenvinkel",
+        "middle_name": "Gösta Indigal",
+        "gender": "Male",
+        "birth_date": "12-01-1900",
+        "birth_place": {
+            "name": "Snöstorp, Hallands Län",
+            "latitude": 56.67036950000001,
+            "longitude": 12.9120822,
+            "formatted_address": "Snöstorp, Halmstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "rektor",
+            "occupation_english": "principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "37040.0",
+            "hisco_description_english": "Messenger"
+        },
+        "parents": [
+            {
+                "first_name": "C. J.",
+                "last_name": "Johansson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "handlare",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Bengtsson",
+                "last_name": "Bengtsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Stockholms Högskola",
+            "department": null,
+            "start_year": 1936,
+            "end_year": null,
+            "field": "fysik"
+        },
+        {
+            "position": "speciallärare",
+            "position_english": "special teacher",
+            "institution": "Farmaceutiska institutet",
+            "department": null,
+            "start_year": 1941,
+            "end_year": 1949,
+            "field": "fysik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Läroverkslärarnas organisations riksförbund",
+            "role": "uppdrags läroverkslärare",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Statens lönenämnd",
+            "role": "ledamot",
+            "start_year": 1950,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "kommunal uppdragsman",
+            "organization": "Strängnäs"
+        }
+    ],
+    "current_location": {
+        "name": "Strängnäs",
+        "latitude": 59.37745229999999,
+        "longitude": 17.0321193,
+        "formatted_address": "Strängnäs, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1929",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1936",
+            "institution": "Stockholms Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Sköld",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "N.-P.",
+                    "last_name": "S.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "målarmästare",
+                        "occupation_english": "master painter",
+                        "hisco_code_swedish": "93120.0",
+                        "hisco_description_swedish": "Building Painter",
+                        "hisco_code_english": "93120.0",
+                        "hisco_description_english": "Building Painter"
+                    }
+                },
+                {
+                    "first_name": "Paulina",
+                    "last_name": "Jonsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Das Bandenspektrum des Zinkhyrides. Störungen in den Bandenspektren zweiatomiger Moleküle",
+            "year": "1936",
+            "type": "doktorsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Hur atombomben kommer till och verkar",
+            "year": "1946",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

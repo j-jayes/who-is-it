@@ -1,0 +1,399 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Percy",
+        "last_name": "Quensel",
+        "middle_name": "Dudgeon",
+        "gender": "Male",
+        "birth_date": "08-09-1881",
+        "birth_place": {
+            "name": "Marstrand",
+            "latitude": 57.8884502,
+            "longitude": 11.5967453,
+            "formatted_address": "442 66 Marstrand, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Oscar",
+                "last_name": "Quensel",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "professor",
+                    "occupation_english": "professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Florence",
+                "last_name": "Dickson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "Uppsala Universitet",
+            "start_year": 1905
+        },
+        {
+            "position": "filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1910
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Uppsala Universitet",
+            "start_year": 1911
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala Universitet",
+            "department": "geologi",
+            "start_year": 1911
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Stockholms Högskola",
+            "department": "mineralogi och petrografi",
+            "start_year": 1914
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelsemedlem",
+            "organization": "svenska sällskapet för antropologi och geografi"
+        },
+        {
+            "position": "styrelsemedlem",
+            "organization": "svenska turistföreningen"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "geologiska föreningen",
+            "role": "sekreterare",
+            "start_year": 1917,
+            "end_year": 1925
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Annie",
+            "last_name": "Weiss",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Sigm",
+                    "last_name": "W",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Hof- und Gerichtsadvokat",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "12110.0",
+                        "hisco_description_swedish": "Lawyer"
+                    }
+                },
+                {
+                    "first_name": "None",
+                    "last_name": "Stukart",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1911"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "avhandlingar i Bulletin Geological Institution of Uppsala och Geologiska föreningens förhandlingar",
+            "year": "None",
+            "type": "avhandling"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Graz",
+                "latitude": 47.0678961,
+                "longitude": 15.4417305,
+                "formatted_address": "Graz, Austria"
+            },
+            "country_code": "AUT",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "Heidelberg",
+                "latitude": 49.3987524,
+                "longitude": 8.6724335,
+                "formatted_address": "69 Heidelberg, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Heidelberg",
+                "latitude": 49.3987524,
+                "longitude": 8.6724335,
+                "formatted_address": "69 Heidelberg, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1907"
+        },
+        {
+            "country": {
+                "name": "Patagonien",
+                "latitude": -41.8101472,
+                "longitude": -68.9062689,
+                "formatted_address": "Patagonia"
+            },
+            "country_code": "ARG",
+            "year": "1907"
+        },
+        {
+            "country": {
+                "name": "Eldslandet",
+                "latitude": -54.21161194647284,
+                "longitude": -69.32367235500021,
+                "formatted_address": "Tierra del Fuego"
+            },
+            "country_code": "ARG",
+            "year": "1909"
+        },
+        {
+            "country": {
+                "name": "Mexikos",
+                "latitude": 23.634501,
+                "longitude": -102.552784,
+                "formatted_address": "Mexico"
+            },
+            "country_code": "MEX",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1907"
+        },
+        {
+            "country": {
+                "name": "Chile",
+                "latitude": -35.675147,
+                "longitude": -71.542969,
+                "formatted_address": "Chile"
+            },
+            "country_code": "CHL",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "Argentina",
+                "latitude": -38.416097,
+                "longitude": -63.61667199999999,
+                "formatted_address": "Argentina"
+            },
+            "country_code": "ARG",
+            "year": "1909"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1911"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Skottland",
+                "latitude": 56.49067119999999,
+                "longitude": -4.2026458,
+                "formatted_address": "Scotland, UK"
+            },
+            "country_code": "GBR",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Kanada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Ural",
+                "latitude": 60.2784931,
+                "longitude": 59.1619065,
+                "formatted_address": "Ural Mountains, Russia"
+            },
+            "country_code": "RUS",
+            "year": "1916"
+        },
+        {
+            "country": {
+                "name": "Mexiko",
+                "latitude": 23.634501,
+                "longitude": -102.552784,
+                "formatted_address": "Mexico"
+            },
+            "country_code": "MEX",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "None",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Indien",
+                "latitude": 20.593684,
+                "longitude": 78.96288,
+                "formatted_address": "India"
+            },
+            "country_code": "IND",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Malaya",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "MYS",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Java",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "IDN",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Japan",
+                "latitude": 36.204824,
+                "longitude": 138.252924,
+                "formatted_address": "Japan"
+            },
+            "country_code": "JPN",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Kina",
+                "latitude": 35.86166,
+                "longitude": 104.195397,
+                "formatted_address": "China"
+            },
+            "country_code": "CHN",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Sydafrika",
+                "latitude": -30.559482,
+                "longitude": 22.937506,
+                "formatted_address": "South Africa"
+            },
+            "country_code": "ZAF",
+            "year": "1929"
+        }
+    ]
+}

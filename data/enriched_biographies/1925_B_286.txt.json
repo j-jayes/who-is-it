@@ -1,0 +1,173 @@
+{
+    "career": [
+        {
+            "position": "bankir",
+            "start_year": 1905,
+            "organization": "Brattström & Co.",
+            "location": {
+                "name": "Seattle, Wash., U. S.A.",
+                "latitude": 47.6061389,
+                "longitude": -122.3328481,
+                "formatted_address": "Seattle, WA, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "ångbåtsgeneralagent",
+            "start_year": 1905,
+            "organization": "Holländsk-Amerikanska linjens och Svensk-Amerikanska linjens passagerartrafik",
+            "location": {
+                "name": "Seattle, Wash., U. S.A.",
+                "latitude": 47.6061389,
+                "longitude": -122.3328481,
+                "formatted_address": "Seattle, WA, USA"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Brattström",
+        "middle_name": "David",
+        "gender": "Male",
+        "birth_date": "28-03-1870",
+        "birth_place": {
+            "name": "Kristinehamn",
+            "latitude": 59.3100677,
+            "longitude": 14.1089192,
+            "formatted_address": "Kristinehamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "bankir",
+            "occupation_english": "banker",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "44140.0",
+            "hisco_description_english": "Stock Broker"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Brattström",
+                "middle_name": "Gust.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fabrikör",
+                    "occupation_english": "manufacturer"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Brantenberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Seattle, Wash., U. S.A.",
+        "latitude": 47.6061389,
+        "longitude": -122.3328481,
+        "formatted_address": "Seattle, WA, USA"
+    },
+    "education": [
+        {
+            "degree": "lägre elementärläroverk",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Kristinehamns lägre elementärläroverk"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Jonsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1889",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1885"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1885"
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": "1885"
+        },
+        {
+            "country": {
+                "name": "Algeriet",
+                "latitude": 28.033886,
+                "longitude": 1.659626,
+                "formatted_address": "Algeria"
+            },
+            "country_code": "DZA",
+            "year": "1885"
+        },
+        {
+            "country": {
+                "name": "Tromsö",
+                "latitude": 69.6492047,
+                "longitude": 18.9553238,
+                "formatted_address": "Tromsø, Norway"
+            },
+            "country_code": "NOR",
+            "year": "1896"
+        },
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1887"
+        }
+    ]
+}

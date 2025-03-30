@@ -1,0 +1,98 @@
+{
+    "career": [
+        {
+            "position": "Forstmästare",
+            "start_year": 1925,
+            "organization": "Wargöns aktiebolag",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            }
+        },
+        {
+            "position": "Skogschassistent",
+            "start_year": 1928,
+            "end_year": 1932,
+            "organization": "Sulfit aktiebolag Göta",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            }
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1932,
+            "organization": "Tidskrift för affärsekonomi",
+            "location": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            }
+        }
+    ],
+    "person": {
+        "first_name": "L",
+        "last_name": "Thorelli",
+        "middle_name": "O Harald",
+        "gender": "Male",
+        "birth_date": "05-02-1899",
+        "birth_place": {
+            "name": "Solna",
+            "latitude": 59.36887909999999,
+            "longitude": 18.0084334,
+            "formatted_address": "Solna, Sweden"
+        },
+        "occupation": {
+            "occupation": "Forstmästare, redaktör",
+            "occupation_english": "Forest manager, editor",
+            "hisco_code_swedish": "21230.0",
+            "hisco_description_swedish": "Farm Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Olof",
+                "last_name": "T",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Östman",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Personalfrågor och industriell psykologi i Förenta Staterna",
+            "year": "1939",
+            "type": "bok",
+            "signature": "H T"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Förenta Staterna",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1939"
+        }
+    ]
+}

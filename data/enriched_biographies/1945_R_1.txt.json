@@ -1,0 +1,182 @@
+{
+    "career": [
+        {
+            "position": "ombudsman",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Inteckningsbanken",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "direktörassistent",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Inteckningsbanken",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "direktörassistent",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Aktiebolaget Göteborgs Bank",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "direktör",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Aktiebolaget Göteborgs Bank",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Raab",
+        "middle_name": "Philip Sven Hugo Ossian",
+        "gender": "Male",
+        "birth_date": "01-03-1901",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "bankdirektör",
+            "occupation_english": "bank director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "44140.0",
+            "hisco_description_english": "Stock Broker"
+        },
+        "parents": [
+            {
+                "first_name": "Ossian",
+                "last_name": "Raab",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kammarjunkare",
+                    "occupation_english": "chamberlain",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator",
+                    "hisco_code_english": "54020.0",
+                    "hisco_description_english": "House Servant"
+                }
+            },
+            {
+                "first_name": "Vesta",
+                "last_name": "Helling",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "juridisk kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1925",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maj",
+            "last_name": "Zielfelt",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Agne",
+                    "last_name": "Zielfelt",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "bankdirektör",
+                        "occupation_english": "bank director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "44140.0",
+                        "hisco_description_english": "Stock Broker"
+                    }
+                },
+                {
+                    "first_name": "Greta",
+                    "last_name": "Duse",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1932",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "fänrik i Svea livgardes reserv 1923, löjtnant 1928, avsked 1937, Landstormkapten 1941, värnplikt kapten 1944",
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1925"
+        }
+    ]
+}

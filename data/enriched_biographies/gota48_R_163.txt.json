@@ -1,0 +1,290 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1900,
+            "end_year": 1903,
+            "organization": "Apoteket Göta Lejon",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1903,
+            "end_year": 1907,
+            "organization": "Apoteket Göta Lejon",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1909,
+            "end_year": 1917,
+            "organization": "Apoteken Hjorten och Ejdern",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1917,
+            "end_year": 1933,
+            "organization": "Apoteket Lejonet",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Privatägare",
+            "start_year": 1933,
+            "end_year": 1938,
+            "organization": "Apoteket",
+            "location": {
+                "name": "Skene",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Transport till apoteket",
+            "start_year": 1938,
+            "organization": "Apoteket",
+            "location": {
+                "name": "Varberg",
+                "latitude": 57.107118,
+                "longitude": 12.2520907,
+                "formatted_address": "Varberg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Fredrik Adolf",
+        "last_name": "Rothlin",
+        "middle_name": "Herman Julius",
+        "gender": "Male",
+        "birth_date": "12-07-1882",
+        "birth_place": {
+            "name": "Karlskrona",
+            "latitude": 56.161224,
+            "longitude": 15.5869,
+            "formatted_address": "Karlskrona, Sweden"
+        },
+        "occupation": {
+            "occupation": "Apotekare",
+            "occupation_english": "Pharmacist",
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist",
+            "hisco_code_english": "41030.0",
+            "hisco_description_english": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Magnus Rothlin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapten",
+                    "occupation_english": "Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Göteborgskretsen",
+            "role": "Sekreterare",
+            "start_year": 1920,
+            "end_year": 1921,
+            "organization": "Svenska Farmacevtiska Förbundet",
+            "significance": null
+        },
+        {
+            "committee_name": "Göteborgskretsen",
+            "role": "Vice Ordförande",
+            "start_year": 1926,
+            "end_year": 1931,
+            "organization": "Svenska Farmacevtiska Förbundet",
+            "significance": null
+        },
+        {
+            "committee_name": "Fullmäktige",
+            "role": "Fullmäktige",
+            "start_year": 1925,
+            "end_year": 1931,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Varberg",
+        "latitude": 57.107118,
+        "longitude": 12.2520907,
+        "formatted_address": "Varberg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Moghetsexamen",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "Karlskrona"
+        },
+        {
+            "degree": "Farmacie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1903",
+            "institution": "None"
+        },
+        {
+            "degree": "Apotekarexamen",
+            "degree_level": "Master's",
+            "year": "1909",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gerda",
+            "last_name": "Lorentzon",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1912",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Lorentz",
+                "last_name": "Rothlin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1913"
+            },
+            {
+                "first_name": "Birgitta",
+                "last_name": "Rothlin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1915"
+            },
+            {
+                "first_name": "Carl-Herman",
+                "last_name": "Rothlin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1917"
+            },
+            {
+                "first_name": "Inga",
+                "last_name": "Rothlin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1919"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Mikrometod för blodsockersbestämning med möjlighet att insända dessa på Hagedorn för öven till diabeteslaboratorier",
+            "year": "None",
+            "type": "Article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ovederbättliga läkemedel under vetenskaplig tillsyn med mera",
+            "year": "None",
+            "type": "Article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

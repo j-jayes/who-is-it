@@ -1,0 +1,104 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1942,
+            "end_year": 1943,
+            "organization": "Järpströmmens kraftverk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1943,
+            "end_year": 1946,
+            "organization": "aktiebolag Stockholms sparv",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "SAS",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "projektchef",
+            "start_year": 1950,
+            "end_year": null,
+            "organization": "SAS",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "generalsekreterare",
+            "start_year": 1953,
+            "end_year": null,
+            "organization": "Air Research Bureau",
+            "location": {
+                "name": "Bryssel",
+                "latitude": 50.8260453,
+                "longitude": 4.3802052,
+                "formatted_address": "Brussels, Belgium"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bo",
+        "last_name": "Björkman",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "18-05-1918",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Thor",
+                "last_name": "Björkman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "intendent",
+                    "occupation_english": "intendent",
+                    "hisco_code_swedish": "22000.0",
+                    "hisco_description_swedish": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Betty",
+                "last_name": "Pehrson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "KTH",
+            "department": null,
+            "start_year": 1958,
+            "end_year": null,
+            "field": "kommunikationsteknik"
+        }
+    ],
+    "military_service": "Reservofficersexamen 1938, major VVK 1964",
+    "travels": null
+}

@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1915,
+            "end_year": 1924,
+            "organization": "AB Atlas Diesel",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1924,
+            "end_year": 1926,
+            "organization": "A/S American Oil Refining Co",
+            "location": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "position": "Konsult ingenjör",
+            "start_year": 1927,
+            "organization": null,
+            "location": {
+                "name": "Djursholm",
+                "latitude": 59.39707249999999,
+                "longitude": 18.0903005,
+                "formatted_address": "Djursholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1937,
+            "organization": "AB Evaporator",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "LOOSTRÖM",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "28-09-1889",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör, Direktör",
+            "occupation_english": "Civil Engineer, Director",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "L",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "överintendent",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Alfrida",
+                "last_name": "Boman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Mariehov, Mariefred",
+        "latitude": 59.26203809999999,
+        "longitude": 17.22311,
+        "formatted_address": "647 30 Mariefred, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Mog.ex",
+            "degree_level": "Schooling",
+            "year": "1909",
+            "institution": "Nya Latin, Stockholm"
+        },
+        {
+            "degree": "Examen från Kungliga Tekniska Högskolan",
+            "degree_level": "Master's",
+            "year": "1914",
+            "institution": "Kungliga Tekniska Högskolan"
+        },
+        {
+            "degree": "Examen från Kungliga Tekniska Högskolan",
+            "degree_level": "Master's",
+            "year": "1915",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Axy",
+            "last_name": "Rosenlund",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": null
+        }
+    ]
+}

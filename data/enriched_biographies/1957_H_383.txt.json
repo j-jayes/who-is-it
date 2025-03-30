@@ -1,0 +1,175 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1917,
+            "end_year": 1917,
+            "organization": "Fagersta bruks metallurgiska laboratorium",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "chef",
+            "start_year": 1919,
+            "end_year": 1928,
+            "organization": "Söderfors Bruks metallurgiska laboratorium",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "laboratoriechef",
+            "start_year": 1928,
+            "end_year": 1935,
+            "organization": "Hellefors Bruks aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "martiningenjör",
+            "start_year": 1933,
+            "end_year": null,
+            "organization": "Hellefors Bruks aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överingenjör",
+            "start_year": 1936,
+            "end_year": 1939,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överingenjör",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Strömsnäs Jernverks aktiebolag (nu Degerfors Järnverks aktiebolag)",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Hermanson",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "27-10-1894",
+        "birth_place": {
+            "name": "Skredsvik, Göteborgs och Bohus Län",
+            "latitude": 58.3797245,
+            "longitude": 11.6695648,
+            "formatted_address": "451 95 Skredsvik, Sweden"
+        },
+        "occupation": {
+            "occupation": "överingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "H.",
+                "last_name": "Hermanson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "godsägare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Degerfors",
+        "latitude": 59.2353962,
+        "longitude": 14.4299301,
+        "formatted_address": "Degerfors, Sweden"
+    },
+    "education": [
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1917-1919",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Löfwenström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gustaf",
+                    "last_name": "Johanson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "fabrikör",
+                        "occupation_english": null
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "L.",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1921",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1933"
+        }
+    ]
+}

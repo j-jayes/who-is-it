@@ -1,0 +1,233 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1915,
+            "end_year": 1917,
+            "organization": "Kemiska institutionen, Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lektor",
+            "start_year": 1920,
+            "organization": "Högre allmänna läroverket",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1928,
+            "end_year": 1941,
+            "organization": "Högre allmänna läroverket",
+            "location": {
+                "name": "Visby",
+                "latitude": 57.6348,
+                "longitude": 18.29484,
+                "formatted_address": "Visby, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "lektor",
+            "start_year": 1932,
+            "end_year": 1955,
+            "organization": "Högre allmänna läroverket å Södermalm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1941,
+            "end_year": 1955,
+            "organization": "Högre allmänna läroverket",
+            "location": {
+                "name": "Södertälje",
+                "latitude": 59.197762,
+                "longitude": 17.6201942,
+                "formatted_address": "Södertälje, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "G",
+        "last_name": "Jörlander",
+        "middle_name": "Henrik S",
+        "gender": "Male",
+        "birth_date": "05-08-1888",
+        "birth_place": {
+            "name": "Ulricehamn",
+            "latitude": 57.7947889,
+            "longitude": 13.4205162,
+            "formatted_address": "Ulricehamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "Före detta rektor",
+            "occupation_english": "Former principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher"
+        },
+        "parents": [
+            {
+                "first_name": "Efraim",
+                "last_name": "Jörlander",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kontraktsprost",
+                    "occupation_english": "rural dean",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "37030.0",
+                    "hisco_description_english": "Postman"
+                }
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Stenberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Riddare av Nordstjärneorden (RNO)"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Södertälje",
+        "latitude": 59.197762,
+        "longitude": 17.6201942,
+        "formatted_address": "Södertälje, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1912",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Doctorate",
+            "year": "1915",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1917",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hedvig",
+            "last_name": "Litzén",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Robert",
+                    "last_name": "Litzén",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "praktiserande läkare",
+                        "occupation_english": "General Practitioner",
+                        "hisco_code_swedish": "6105.0",
+                        "hisco_description_swedish": "General Physician",
+                        "hisco_code_english": "6100.0",
+                        "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Maria",
+                    "last_name": "Nyman",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1923",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Tord",
+                "last_name": "Jörlander",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1925"
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Jörlander",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1927"
+            },
+            {
+                "first_name": "Birgit",
+                "last_name": "Jörlander",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1931"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Om anisoylfenyl-oxidoetan o några analoga oxidoföreningar",
+            "year": "1916",
+            "type": "doktorsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "avhandling i Berichte der deutschen chemischen Gesellschaft",
+            "year": "None",
+            "type": "avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

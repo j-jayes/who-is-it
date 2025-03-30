@@ -1,0 +1,215 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1945,
+            "organization": "LME",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1950,
+            "organization": "MIT",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1946,
+            "organization": "KTH:s institut för telegrafi-telefoni",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Fant",
+        "middle_name": "C M",
+        "gender": "Male",
+        "birth_date": "08-10-1919",
+        "birth_place": {
+            "name": "Nyköping",
+            "latitude": 58.75284389999999,
+            "longitude": 17.0091593,
+            "formatted_address": "Nyköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": null,
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles"
+        },
+        "parents": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Fant",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "borgmästare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "20110.0",
+                    "hisco_description_swedish": "Legislative Official"
+                }
+            },
+            {
+                "first_name": "Märta",
+                "last_name": "Norström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "KTH",
+            "department": null,
+            "start_year": 1958,
+            "end_year": null,
+            "field": "telegrafi och telefoni"
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "IVAGM"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "KTH",
+            "degree_level": "Bachelor's",
+            "year": "1945",
+            "institution": "KTH"
+        },
+        {
+            "degree": "teknisk licentiat",
+            "degree_level": "Master's",
+            "year": "1952",
+            "institution": "KTH"
+        },
+        {
+            "degree": "teknisk doktor",
+            "degree_level": "Doctorate",
+            "year": "1958",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ann",
+            "last_name": "Marie Lindahl",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "filosofie licentiat",
+                "occupation_english": null,
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title"
+            },
+            "parents": [
+                {
+                    "first_name": "Alf",
+                    "last_name": "Lindahl",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "advokat",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "12110.0",
+                        "hisco_description_swedish": "Lawyer"
+                    }
+                },
+                {
+                    "first_name": "Margareta",
+                    "last_name": "Langenskiöld",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1952",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Maria",
+                "last_name": "Fant",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1955"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Fant",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1959"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "On the Acoustics of Speech",
+            "year": "1958",
+            "type": "drsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Acoustic Theory of Speech Production",
+            "year": "1960",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1949"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1950"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "end_year": 1925,
+            "organization": "Vattenfallsstyrelsen",
+            "location": {
+                "name": "Trollhätte kraftverk",
+                "latitude": 58.28348939999999,
+                "longitude": 12.2858206,
+                "formatted_address": "Trollhättan, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": 1933,
+            "organization": "Allmänna Svenska Elektriska Aktiebolaget (ASEA)",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Allmänna Svenska Elektriska Aktiebolaget (ASEA)",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        }
+    ],
+    "person": {
+        "first_name": "Yngve",
+        "last_name": "Övergaard",
+        "middle_name": "Vilhelm",
+        "gender": "Male",
+        "birth_date": "30-01-1898",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "T",
+                "last_name": "Övergaard",
+                "middle_name": "C",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": "Manager",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Thulborg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Installerade elektrisk utrustning",
+            "field": "Elteknik",
+            "year": null,
+            "significance": "Arapuni Power Station på New Zealand",
+            "recognized_by": null
+        },
+        {
+            "title": "Installerade elektrisk utrustning",
+            "field": "Elteknik",
+            "year": null,
+            "significance": "Understationerna å bansträckorna Croyden-Brighton, Orpington-Sevenoaks och Brighton-Eastbourne-Hastings i England",
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "London",
+        "latitude": 51.5072178,
+        "longitude": -0.1275862,
+        "formatted_address": "London, UK"
+    },
+    "education": [
+        {
+            "degree": "CTI lägre avdelning",
+            "degree_level": "Schooling",
+            "year": "1914-1916",
+            "institution": "Charlmers Tekniska Institut"
+        },
+        {
+            "degree": "CTI högre avdelning",
+            "degree_level": "Schooling",
+            "year": "1916-1919",
+            "institution": "Charlmers Tekniska Institut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Britta",
+            "last_name": "Wessel",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "New Zealand",
+                "latitude": -40.900557,
+                "longitude": 174.885971,
+                "formatted_address": "New Zealand"
+            },
+            "country_code": "NZL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

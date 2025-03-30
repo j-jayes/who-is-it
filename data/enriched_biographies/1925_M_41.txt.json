@@ -1,0 +1,113 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Malmström",
+        "middle_name": "Henning",
+        "gender": "Male",
+        "birth_date": "12-08-1890",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Malmström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "musikfanjunkare",
+                    "occupation_english": "music sergeant major",
+                    "hisco_code_swedish": "58330.0",
+                    "hisco_description_swedish": "NonCommissioned Officer"
+                }
+            },
+            {
+                "first_name": "Mathilda",
+                "last_name": "Roslund",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Damporträtt",
+            "field": "konst",
+            "year": "1900-talet",
+            "significance": null,
+            "recognized_by": "Malmö museum"
+        },
+        {
+            "title": "Stilleben",
+            "field": "konst",
+            "year": "1900-talet",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Damporträtt",
+            "field": "konst",
+            "year": "1919",
+            "significance": null,
+            "recognized_by": "Malmö museum"
+        },
+        {
+            "title": "Porträtt av professor K. V. L. Charlier",
+            "field": "konst",
+            "year": "1922",
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Porträtt av direktör C. M. Collin",
+            "field": "konst",
+            "year": "1924",
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1921"
+        }
+    ]
+}

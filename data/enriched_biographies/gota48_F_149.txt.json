@@ -1,0 +1,173 @@
+{
+    "career": [
+        {
+            "position": "Anställd vid statens provningsanstalt i Stockholm",
+            "start_year": 1929,
+            "end_year": 1935,
+            "organization": "Statens provningsanstalt",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1934,
+            "end_year": 1935,
+            "organization": "Stockholms tekniska institut, aftonskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Assistent vid materialprovningsavdelningen",
+            "start_year": 1935,
+            "end_year": 1936,
+            "organization": "Centrala flygverkstaden",
+            "location": {
+                "name": "Malmslätt",
+                "latitude": 58.4146019,
+                "longitude": 15.5202618,
+                "formatted_address": "586 62 Malmslätt, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Föreståndare för flygvapnets materiallaboratorium",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": "Flygvapnets materiallaboratorium",
+            "location": {
+                "name": "Malmslätt",
+                "latitude": 58.4146019,
+                "longitude": 15.5202618,
+                "formatted_address": "586 62 Malmslätt, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Artur",
+        "last_name": "Fransson",
+        "middle_name": "Gotthard",
+        "gender": "Male",
+        "birth_date": "05-05-1906",
+        "birth_place": {
+            "name": "Tidaholm",
+            "latitude": 58.1817692,
+            "longitude": 13.9594737,
+            "formatted_address": "Tidaholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Flygdirektör",
+            "occupation_english": "Director of Aviation"
+        },
+        "parents": [
+            {
+                "first_name": "A.",
+                "last_name": "Fransson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Banmästare",
+                    "occupation_english": "Track Master",
+                    "hisco_code_swedish": "22675.0",
+                    "hisco_description_swedish": "Supervisor and General Foreman (Construction Work)"
+                }
+            },
+            {
+                "first_name": "Ester",
+                "last_name": "Johansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Linköping",
+        "latitude": 58.41080700000001,
+        "longitude": 15.6213727,
+        "formatted_address": "Linköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Utexaminerad från Örebro tekniska gymnasium",
+            "degree_level": "Schooling",
+            "year": "1928",
+            "institution": "Örebro tekniska gymnasium"
+        },
+        {
+            "degree": "Specialstudier vid Kungliga Tekniska Högskolan",
+            "degree_level": "Bachelor's",
+            "year": "1933-1935",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lisa",
+            "last_name": "Lindqvist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Fransson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1930"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1946"
+        }
+    ]
+}

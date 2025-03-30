@@ -1,0 +1,142 @@
+{
+    "career": [
+        {
+            "position": "Praktikant",
+            "start_year": 1926,
+            "organization": "AEG högspänningslaboratorium",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Konsult ingenjör",
+            "start_year": 1930,
+            "organization": "Elektrisk prövningsanstalt",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Driftsingenjör",
+            "start_year": 1941,
+            "organization": "Gas- och elverket",
+            "location": {
+                "name": "Nyköping",
+                "latitude": 58.75284389999999,
+                "longitude": 17.0091593,
+                "formatted_address": "Nyköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1945,
+            "organization": "Gas- och elverket",
+            "location": {
+                "name": "Södertälje",
+                "latitude": 59.197762,
+                "longitude": 17.6201942,
+                "formatted_address": "Södertälje, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Göte",
+        "last_name": "Lundgren",
+        "middle_name": "A T H",
+        "gender": "Male",
+        "birth_date": "30-08-1902",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Elverkschef",
+            "occupation_english": "Power plant manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Lundgren",
+                "middle_name": "H",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Entreprenör",
+                    "occupation_english": "Entrepreneur",
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor"
+                }
+            },
+            {
+                "first_name": "Jenny",
+                "last_name": "Lundgren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Teknisk yrkeshögskola",
+            "degree_level": "Schooling",
+            "year": "1928",
+            "institution": "Köthen Tyskland"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märta",
+            "last_name": "Linderoth",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "marriage_year": "1938",
+        "children": [
+            {
+                "first_name": "Anders",
+                "last_name": "Lundgren",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Sven",
+                "last_name": "Lundgren",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            }
+        ]
+    },
+    "hobbies": [
+        "fiske",
+        "trädgårdsskötsel"
+    ],
+    "honors": [
+        "Malmö brandkårs förtjänst guldmedalj"
+    ],
+    "political_positions": [
+        {
+            "organization": "Malmö frivilliga brandkår",
+            "position": "Brandkårchef",
+            "start_year": 1941,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Ahlström",
+        "middle_name": "Gustaf",
+        "gender": "Male",
+        "birth_date": "12-07-1905",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Ahlström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "professor",
+                    "occupation_english": "professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Hildegard",
+                "last_name": "Wennerholm",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "medicines licentiat",
+            "position_english": "licentiate of medicine",
+            "institution": "None",
+            "department": null,
+            "start_year": 1932,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "medicine doktor",
+            "position_english": "doctor of medicine",
+            "institution": "None",
+            "department": null,
+            "start_year": 1936,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "None",
+            "department": null,
+            "start_year": 1936,
+            "end_year": null,
+            "field": "patologi"
+        },
+        {
+            "position": "biträdande lärare",
+            "position_english": "assistant teacher",
+            "institution": "None",
+            "department": null,
+            "start_year": 1933,
+            "end_year": 1944,
+            "field": null
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Lund",
+            "department": null,
+            "start_year": 1944,
+            "end_year": null,
+            "field": "patologi"
+        },
+        {
+            "position": "inspektor",
+            "position_english": "inspector",
+            "institution": "Lunds nation",
+            "department": null,
+            "start_year": 1946,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [],
+    "family": {
+        "spouse": {
+            "first_name": "Marianne",
+            "last_name": "Winberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "08-01-1908",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Torsten",
+                    "last_name": "Winberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "överste",
+                        "occupation_english": "Colonel",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "58320.0",
+                        "hisco_description_english": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Inez",
+                    "last_name": "Bager",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1934",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "LFS"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Zur Pathogenese der akuten diffusen Glomerulonephritis",
+            "year": "1936",
+            "type": "gradualavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "c:a 50 vetensk. arb. inom. patol. anat. o. experim. patol., huvudsakl. svulstforskn",
+            "year": "None",
+            "type": "vetenskapliga arbeten",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1937"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "J.",
+        "last_name": "S.",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "09-06-1891",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "J.",
+                "last_name": "S.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "hattmakare",
+                    "occupation_english": "hat maker",
+                    "hisco_code_swedish": "79310.0",
+                    "hisco_description_swedish": "Hat Maker, General",
+                    "hisco_code_english": "79310.0",
+                    "hisco_description_english": "Hat Maker, General"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Eriksson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Konstakademin",
+            "department": null,
+            "start_year": 1939,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1910-1912",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Lindblom",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "01-01-1897",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Alfred",
+                    "last_name": "L",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kontraktsprost",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "14120.0",
+                        "hisco_description_swedish": "Minister of Religion"
+                    }
+                },
+                {
+                    "first_name": "Lydia",
+                    "last_name": "Uddenberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1930",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1922-1924"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1930-1932"
+        }
+    ]
+}

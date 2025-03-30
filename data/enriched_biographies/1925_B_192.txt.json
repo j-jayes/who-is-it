@@ -1,0 +1,144 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1902,
+            "end_year": 1910,
+            "organization": "Lunds privata elementarskola",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lektor",
+            "start_year": 1910,
+            "end_year": null,
+            "organization": "högre allmänna läroverket",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Borås",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "24-09-1878",
+        "birth_place": {
+            "name": "Vollsjö, Malmöhus Län",
+            "latitude": 55.7040599,
+            "longitude": 13.7872463,
+            "formatted_address": "275 66 Vollsjö, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "B.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "handlare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1909,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1909,
+            "end_year": 1910,
+            "field": "experimentell fysik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Borås",
+        "latitude": 57.72103500000001,
+        "longitude": 12.939819,
+        "formatted_address": "Borås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Asra",
+            "last_name": "Smedberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": {
+                "occupation": "filosofie kandidat",
+                "occupation_english": null,
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title"
+            },
+            "parents": [
+                {
+                    "first_name": "John",
+                    "last_name": "S.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "rektor",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "13940.0",
+                        "hisco_description_swedish": "Head Teacher"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1910",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

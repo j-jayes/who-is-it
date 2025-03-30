@@ -1,0 +1,178 @@
+{
+    "career": [
+        {
+            "position": "chef",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Onstad shipping compani",
+            "location": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "position": "skeppsredare",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Kungsbacka",
+                "latitude": 57.48749189999999,
+                "longitude": 12.0761927,
+                "formatted_address": "Kungsbacka, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Munkedals aktiebolag",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Rederi aktiebolag Kungsoil",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Monacus",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Haakon",
+        "last_name": "Onstad",
+        "middle_name": "SveTre",
+        "gender": "Male",
+        "birth_date": "03-11-1901",
+        "birth_place": {
+            "name": "Oslo",
+            "latitude": 59.9138688,
+            "longitude": 10.7522454,
+            "formatted_address": "Oslo, Norway"
+        },
+        "occupation": {
+            "occupation": "skeppsredare",
+            "occupation_english": "shipowner",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "41040.0",
+            "hisco_description_english": "Working Proprietor (Hiring Out)"
+        },
+        "parents": [
+            {
+                "first_name": "Julius",
+                "last_name": "Onstad",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Constance",
+                "last_name": "Orde-rud",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "Rederi aktiebolag Pagotà"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kungsbacka",
+        "latitude": 57.48749189999999,
+        "longitude": 12.0761927,
+        "formatted_address": "Kungsbacka, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Handelsskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Oslo"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Brita",
+            "last_name": "Ljungquist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1951",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

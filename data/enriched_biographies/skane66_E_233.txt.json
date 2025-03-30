@@ -1,0 +1,182 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Rolf",
+        "last_name": "Elofsson",
+        "middle_name": "G I",
+        "gender": "Male",
+        "birth_date": "21-05-1930",
+        "birth_place": {
+            "name": "Trollhättan",
+            "latitude": 58.28348939999999,
+            "longitude": 12.2858206,
+            "formatted_address": "Trollhättan, Sweden"
+        },
+        "occupation": {
+            "occupation": "filosofie doktor, docent",
+            "occupation_english": "Doctor of Philosophy, Docent",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Elof",
+                "last_name": "Pettersson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "åkeriägare",
+                    "occupation_english": "Trucking company owner",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Annie",
+                "last_name": "Ljung",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Lunds Universitet",
+            "department": "zoologi",
+            "start_year": 1966,
+            "end_year": null,
+            "field": "zoologi"
+        },
+        {
+            "position": "assistent",
+            "institution": "zoologiska institutionen Lunds Universitet",
+            "start_year": 1961,
+            "end_year": 1966,
+            "field": "zoologi"
+        },
+        {
+            "position": "extra ordinarie docent",
+            "institution": "Lunds Universitet",
+            "start_year": 1966,
+            "field": "zoologi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Södra Sandby",
+        "latitude": 55.7168577,
+        "longitude": 13.347231,
+        "formatted_address": "Södra Sandby, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1962",
+            "institution": "Lunds Universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1966",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Annika",
+            "last_name": "Bergengren",
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "Sture",
+                    "last_name": "B",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Ann",
+                    "last_name": "von Arbin",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1957",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Väste",
+                "last_name": "Elofsson",
+                "gender": "Male",
+                "birth_year": "1958"
+            },
+            {
+                "first_name": "Tove",
+                "last_name": "Elofsson",
+                "gender": "Female",
+                "birth_year": "1959"
+            },
+            {
+                "first_name": "Härje",
+                "last_name": "Elofsson",
+                "gender": "Male",
+                "birth_year": "1961"
+            },
+            {
+                "first_name": "Åse",
+                "last_name": "Elofsson",
+                "gender": "Female",
+                "birth_year": "1964"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i zoologi",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1957"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1963"
+        }
+    ]
+}

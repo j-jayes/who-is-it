@@ -1,0 +1,203 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1915,
+            "end_year": 1916,
+            "organization": "Kockums Järnverk",
+            "location": {
+                "name": "Kallinge",
+                "latitude": 56.2427292,
+                "longitude": 15.291613,
+                "formatted_address": "372 51 Kallinge, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Järnvägsbyggnad",
+            "start_year": 1921,
+            "end_year": 1923,
+            "organization": "Ostkustbanan",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Norrländska Statsarbeten",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Umeå",
+                "latitude": 63.8258471,
+                "longitude": 20.2630354,
+                "formatted_address": "Umeå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Byggmästare",
+            "start_year": 1924,
+            "end_year": 1926,
+            "organization": "Carl G Svensson",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Avdelnings- och arbetschef",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": "Wasabolaget AB",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Harry",
+        "last_name": "Svensson",
+        "middle_name": "Thorvald Emil",
+        "gender": "Male",
+        "birth_date": "19-01-1896",
+        "birth_place": {
+            "name": "Bräkne-Hoby, Blekinge Län",
+            "latitude": 56.2295999,
+            "longitude": 15.1150425,
+            "formatted_address": "372 61 Bräkne-Hoby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Joh",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Folkskollärare",
+                    "occupation_english": "Primary School Teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Nanny",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Real Skola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Karlshamns Realskola"
+        },
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1915",
+            "institution": "Kalmar Högre Allmänna Läroverk"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1921",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Berta",
+            "last_name": "Svensson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Bil",
+        "Läsning",
+        "Radio"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Avhandling beträffande byggnadsuttorkning på utrotning av skadeinsekter och svampar i trä",
+            "year": "None",
+            "type": "Avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        }
+    ]
+}

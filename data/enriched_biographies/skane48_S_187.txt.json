@@ -1,0 +1,201 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1943,
+            "end_year": 1944,
+            "organization": "Aktiebolag Hilkrström & Co.",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Befraktare",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Axel Sjöstens Aktiebolag",
+            "location": {
+                "name": "Höganäs",
+                "latitude": 56.2006388,
+                "longitude": 12.5553288,
+                "formatted_address": "Höganäs, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "Rederi Aktiebolag Wega",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Vice Verkställande Direktör",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Axel Sjösten Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelsesuppleant",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "Skånska Bankens avdelningskontor",
+            "location": {
+                "name": "Höganäs",
+                "latitude": 56.2006388,
+                "longitude": 12.5553288,
+                "formatted_address": "Höganäs, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Sjösten",
+        "middle_name": "Axel",
+        "gender": "Male",
+        "birth_date": "11-01-1917",
+        "birth_place": {
+            "name": "Höganäs",
+            "latitude": 56.2006388,
+            "longitude": 12.5553288,
+            "formatted_address": "Höganäs, Sweden"
+        },
+        "occupation": {
+            "occupation": "Skeppsmäklare",
+            "occupation_english": null,
+            "hisco_code_swedish": "44190.0",
+            "hisco_description_swedish": "Other Insurance, Real Estate and Securities Salesmen"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Sjösten",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Skeppsredare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Rörnmer-man",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Höganäs",
+        "latitude": 56.2006388,
+        "longitude": 12.5553288,
+        "formatted_address": "Höganäs, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Realexamen",
+            "degree_level": "Schooling",
+            "year": "1934",
+            "institution": "Höganäs"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Schooling",
+            "year": "1937",
+            "institution": "Hälsingborgs Handelsgymnasium"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gull",
+            "last_name": "Hultman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1946",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Marianne",
+                "last_name": "Sjösten",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "hobbies": [
+        "segling",
+        "fiske"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1940"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1942"
+        }
+    ]
+}

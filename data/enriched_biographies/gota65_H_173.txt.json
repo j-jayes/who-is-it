@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1943,
+            "end_year": 1945,
+            "organization": "universitetskliniken Greifswald",
+            "location": {
+                "name": "Greifswald",
+                "latitude": 54.08654629999999,
+                "longitude": 13.3923414,
+                "formatted_address": "17 Greifswald, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "praktikant",
+            "start_year": 1945,
+            "end_year": 1954,
+            "organization": "tandteknik Toftlund",
+            "location": {
+                "name": "Toftlund, Danmark",
+                "latitude": 55.188494,
+                "longitude": 9.068543000000002,
+                "formatted_address": "6520 Toftlund, Denmark"
+            },
+            "country_code": null
+        },
+        {
+            "position": "assistent",
+            "start_year": 1955,
+            "end_year": 1956,
+            "organization": "universitetskliniken Kiel",
+            "location": {
+                "name": "Kiel",
+                "latitude": 54.3232927,
+                "longitude": 10.1227652,
+                "formatted_address": "Kiel, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tf distriktstandläkare",
+            "start_year": 1956,
+            "end_year": 1957,
+            "organization": "Boden",
+            "location": {
+                "name": "Boden",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tf distriktstandläkare och föreståndare",
+            "start_year": 1957,
+            "end_year": 1962,
+            "organization": "distriktstandpoliklin Pajala",
+            "location": {
+                "name": "Pajala",
+                "latitude": 67.21278199999999,
+                "longitude": 23.367392,
+                "formatted_address": "Pajala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Distriktstandläkare och föreståndare",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": "distriktstandpoliklin Moheda",
+            "location": {
+                "name": "Moheda",
+                "latitude": 57.0027566,
+                "longitude": 14.5732973,
+                "formatted_address": "342 60 Moheda, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Hansen",
+        "middle_name": "A",
+        "gender": "Male",
+        "birth_date": "31-12-1919",
+        "birth_place": {
+            "name": "Greifswald, Tyskland",
+            "latitude": 54.08654629999999,
+            "longitude": 13.3923414,
+            "formatted_address": "17 Greifswald, Germany"
+        },
+        "occupation": {
+            "occupation": "tandläkare",
+            "occupation_english": "dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Niels",
+                "last_name": "Hansen",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "tandläkare, medicine doktor och odontologie doktor",
+                    "occupation_english": "Dentist, Doctor of Medicine and Doctor of Odontology",
+                    "hisco_code_swedish": "6310.0",
+                    "hisco_description_swedish": "Dentist, General",
+                    "hisco_code_english": "6310.0",
+                    "hisco_description_english": "Dentist, General"
+                }
+            },
+            {
+                "first_name": "Minna",
+                "last_name": "Wiedemann",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Moheda",
+        "latitude": 57.0027566,
+        "longitude": 14.5732973,
+        "formatted_address": "342 60 Moheda, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1939",
+            "institution": "Aabenraa, Danmark"
+        },
+        {
+            "degree": "tandläkarexamen",
+            "degree_level": "Bachelor's",
+            "year": "1942",
+            "institution": "None"
+        },
+        {
+            "degree": "medicine doktor och odontologie doktor",
+            "degree_level": "Doctorate",
+            "year": "1943",
+            "institution": "Greifswald"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Erika",
+            "last_name": "Roestel",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Uwe",
+                "last_name": "Hansen",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1944"
+            },
+            {
+                "first_name": "Barbara",
+                "last_name": "Hansen",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "hobbies": [
+        "jakt",
+        "schack",
+        "skat",
+        "filateli"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

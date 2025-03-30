@@ -1,0 +1,80 @@
+{
+    "career": [
+        {
+            "position": "Professor i sociologi",
+            "start_year": 1967,
+            "end_year": 1972,
+            "organization": "Ohio State University",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Ordförande",
+            "start_year": 1966,
+            "organization": "Sifo",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Forskningschef",
+            "start_year": 1966,
+            "organization": "Sifo",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Zetterberg",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "27-04-1927",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Columbia University",
+            "department": "Sociologi",
+            "start_year": 1966,
+            "end_year": null,
+            "field": "Sociologi"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Ledamot av Vetenskapssocieteten i Uppsala",
+            "field": "Sociologi",
+            "year": "1964"
+        }
+    ]
+}

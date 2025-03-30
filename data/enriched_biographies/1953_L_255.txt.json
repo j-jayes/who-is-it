@@ -1,0 +1,203 @@
+{
+    "career": [
+        {
+            "position": "Assistent",
+            "start_year": 1936,
+            "end_year": 1937,
+            "organization": "Statens veterinärbakteriologiska anstalt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Laborator",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Veterinärhögskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Professor i födoämneshygien",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Kaart",
+        "last_name": "Lilleengen",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "26-08-1904",
+        "birth_place": {
+            "name": "Vardal, Norge",
+            "latitude": 63.7933506,
+            "longitude": 11.4815726,
+            "formatted_address": "Verdalsora, Norway"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Math.",
+                "last_name": "Lilleengen",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bruksägare",
+                    "occupation_english": "Factory Owner"
+                }
+            },
+            {
+                "first_name": "Berthe",
+                "last_name": "Skonhovd",
+                "middle_name": "Marié",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1926",
+            "institution": "Gjövik (Norge)"
+        },
+        {
+            "degree": "Veterinärexamen",
+            "degree_level": "Bachelor's",
+            "year": "1932",
+            "institution": "None"
+        },
+        {
+            "degree": "Veterinärmedicinsk doktor",
+            "degree_level": "Doctorate",
+            "year": "1948",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hanna-Stina",
+            "last_name": "Gottheil",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Th.",
+                    "last_name": "Gottheil",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Ingenjör",
+                        "occupation_english": "Engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Hilda",
+                    "last_name": "Carlsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1933",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Ett 50-tal arbeten rörande bakterier, patologisk anatomi, födoämneshygien och viltsjukdomar",
+            "year": "None",
+            "type": "Vetenskapliga Artiklar",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1948"
+        }
+    ]
+}

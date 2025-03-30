@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "Direktör",
+            "start_year": 1913,
+            "end_year": 1919,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verksam",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Separator-koncern",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1930,
+            "end_year": 1932,
+            "organization": "Bergedorfer Eisenwerk A. G.",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vice verkställande direktör",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "A-B Separator",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Hellstedt",
+        "middle_name": "Folke",
+        "gender": "Male",
+        "birth_date": "11-02-1891",
+        "birth_place": {
+            "name": "Eskilstuna",
+            "latitude": 59.37124859999999,
+            "longitude": 16.5098045,
+            "formatted_address": "Eskilstuna, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ernst",
+                "last_name": "Hellstedt",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Emilie",
+                "last_name": "Berglund",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Ordförande",
+            "organization": "Svenska ekonomiska föreningen"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Ekonomisk examen",
+            "degree_level": "Bachelor's",
+            "year": "1912",
+            "institution": "Handelshögskolan i Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Leone",
+            "last_name": "McGregor",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Medicine doktor",
+                "occupation_english": "Medical Doctor",
+                "hisco_code_swedish": "6100.0",
+                "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+                "hisco_code_english": "6100.0",
+                "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+            },
+            "parents": null
+        },
+        "marriage_year": "1931",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Australien",
+                "latitude": -25.274398,
+                "longitude": 133.775136,
+                "formatted_address": "Australia"
+            },
+            "country_code": "AUS",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Nya Zeeland",
+                "latitude": -40.900557,
+                "longitude": 174.885971,
+                "formatted_address": "New Zealand"
+            },
+            "country_code": "NZL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Sydamerika",
+                "latitude": -8.783195,
+                "longitude": -55.491477,
+                "formatted_address": "South America"
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "socialstyrelsen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "socialavdelningen",
+            "start_year": 1950,
+            "end_year": 1952,
+            "organization": "FN:s sekretariat",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": null
+        },
+        {
+            "position": "förste byråsekreterare",
+            "start_year": 1952,
+            "end_year": null,
+            "organization": "socialstyrelsen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "B",
+        "last_name": "ELLWYN",
+        "middle_name": "Christina",
+        "gender": "Female",
+        "birth_date": "10-09-1913",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "förste byråsekreterare",
+            "occupation_english": "First secretary",
+            "hisco_code_swedish": "32120.0",
+            "hisco_description_swedish": "Stenographic Secretary",
+            "hisco_code_english": "32120.0",
+            "hisco_description_english": "Stenographic Secretary"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Ellwyn",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "överläkare",
+                    "occupation_english": "chief physician",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician",
+                    "hisco_code_english": "6100.0",
+                    "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ellen",
+                "last_name": "Rietz",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Sverige-Amerika stiftelsens stipendium, USA 1946-1947"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "fören DSI",
+            "role": "Ordförande",
+            "start_year": 1946,
+            "end_year": 1948,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "stift Fredshögsk",
+            "role": "vice ordförande",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "svenska kommitten IUCW",
+            "role": "sekreterare",
+            "start_year": 1957,
+            "end_year": 1959,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "kommitten för ungdomsvårdsskola",
+            "role": "sekreterare",
+            "start_year": 1957,
+            "end_year": 1959,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "styrelseledamot",
+            "organization": "Sl"
+        },
+        {
+            "role": "suppleant",
+            "organization": "Stockholms stads sjukhusstyrelse"
+        },
+        {
+            "role": "suppleant",
+            "organization": "Stockholms stads nykterhetsnämnd"
+        }
+    ],
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1936",
+            "institution": "Lund"
+        },
+        {
+            "degree": "DSI",
+            "degree_level": "Bachelor's",
+            "year": "1938",
+            "institution": "DSI"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "folkpartiets representationsskap",
+            "position": "ledamot",
+            "start_year": 1958,
+            "end_year": null,
+            "focus_area": null,
+            "significance": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "div artiklar sociala facktidskrifter",
+            "year": "None",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1947"
+        }
+    ]
+}

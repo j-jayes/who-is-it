@@ -1,0 +1,159 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1910,
+            "end_year": 1912,
+            "organization": "Carnegie Steel Co Duquesne",
+            "location": {
+                "name": "Pennsylvania, USA",
+                "latitude": 41.2033216,
+                "longitude": -77.1945247,
+                "formatted_address": "Pennsylvania, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1912,
+            "organization": "Sandvikens Jernverks AB",
+            "location": {
+                "name": "Sandviken",
+                "latitude": 60.621607,
+                "longitude": 16.775918,
+                "formatted_address": "Sandviken, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chefsingenjör",
+            "start_year": 1919,
+            "organization": "Sandvikens Jernverks AB varmvalsvärk och smide",
+            "location": {
+                "name": "Sandviken",
+                "latitude": 60.621607,
+                "longitude": 16.775918,
+                "formatted_address": "Sandviken, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Samuel",
+        "last_name": "Lindblom",
+        "middle_name": "Teofil",
+        "gender": "Male",
+        "birth_date": "14-05-1884",
+        "birth_place": {
+            "name": "Oppeby, Östergötlands Län",
+            "latitude": 58.03508290000001,
+            "longitude": 15.8071142,
+            "formatted_address": "590 46 Oppeby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Bergsingenjör",
+            "occupation_english": "Mining Engineer",
+            "hisco_code_swedish": "2710.0",
+            "hisco_description_swedish": "Mining Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "Lindblom",
+                "middle_name": "F",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kontraktsprost",
+                    "occupation_english": "Rural Dean",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "37030.0",
+                    "hisco_description_english": "Postman"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Sehmann",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Riddare av Vasaorden (RVO)"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Sandviken",
+        "latitude": 60.621607,
+        "longitude": 16.775918,
+        "formatted_address": "Sandviken, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1903",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Bergsingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1907",
+            "institution": "Bergshögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Emmy",
+            "last_name": "Dehne",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Trädgårdsskötsel",
+        "Fjällfärder"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1909"
+        }
+    ]
+}

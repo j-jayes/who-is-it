@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "Anställd vid Stockholms Gasverk",
+            "start_year": 1904,
+            "end_year": 1906,
+            "organization": "Stockholms Gasverk",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd vid Stockholms Elverk",
+            "start_year": 1906,
+            "end_year": 1937,
+            "organization": "Stockholms Elverk",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Privat arkitektverksamhet",
+            "start_year": 1895,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "de Frumerie",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "10-04-1872",
+        "birth_place": {
+            "name": "Västervik",
+            "latitude": 57.75771559999999,
+            "longitude": 16.6369759,
+            "formatted_address": "Västervik, Sweden"
+        },
+        "occupation": {
+            "occupation": "arkitekt",
+            "occupation_english": "architect",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "J. A.",
+                "last_name": "de Frumerie",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "hamnkapten",
+                    "occupation_english": "harbour master",
+                    "hisco_code_swedish": "22290.0",
+                    "hisco_description_swedish": "Other Transport and Communications Supervisors"
+                }
+            },
+            {
+                "first_name": "Laura",
+                "last_name": "Kinell",
+                "middle_name": "Teresia",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Mazerska kvartettsällskapet",
+            "role": "Sekreterare",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Kammarmusikföreningen",
+            "role": "Kassaförvaltare",
+            "start_year": 1913,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Pianistförbundet",
+            "role": "Kassaförvaltare",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Storängen",
+        "latitude": 59.3047549,
+        "longitude": 18.1782647,
+        "formatted_address": "131 41 Storängen, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1890",
+            "institution": "None"
+        },
+        {
+            "degree": "Examen som arkitekt",
+            "degree_level": "Bachelor's",
+            "year": "1895",
+            "institution": "Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ebba",
+            "last_name": "Helleday",
+            "middle_name": "Maria",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "pianist",
+                "occupation_english": "pianist",
+                "hisco_code_swedish": "17140.0",
+                "hisco_description_swedish": "Instrumentalist",
+                "hisco_code_english": "17140.0",
+                "hisco_description_english": "Instrumentalist"
+            },
+            "parents": null
+        },
+        "marriage_year": "1904",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Musik"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "RVO 1930"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1931"
+        }
+    ]
+}

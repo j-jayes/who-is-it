@@ -1,0 +1,119 @@
+{
+    "career": [
+        {
+            "position": "läkare",
+            "start_year": 1951,
+            "end_year": 1952,
+            "organization": "Svenska sjukhuset",
+            "location": {
+                "name": "Korea",
+                "latitude": 35.907757,
+                "longitude": 127.766922,
+                "formatted_address": "South Korea"
+            },
+            "country_code": "KOR"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1955,
+            "end_year": 1959,
+            "organization": "Hässleholms lasarett",
+            "location": {
+                "name": "Hässleholm",
+                "latitude": 56.15891449999999,
+                "longitude": 13.7667655,
+                "formatted_address": "Hässleholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1959,
+            "organization": "Umeå lasarett",
+            "location": {
+                "name": "Umeå",
+                "latitude": 63.8258471,
+                "longitude": 20.2630354,
+                "formatted_address": "Umeå, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "L",
+        "last_name": "Larsson",
+        "middle_name": "Olle H",
+        "gender": "Male",
+        "birth_date": "22-05-1927",
+        "birth_place": {
+            "name": "Stenbrohult, Kronobergs Län",
+            "latitude": 56.617239,
+            "longitude": 14.1851712,
+            "formatted_address": "343 71 Stenbrohult, Sweden"
+        },
+        "occupation": {
+            "occupation": "legitimerad läkare",
+            "occupation_english": "licensed physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "folkskollärare",
+                    "occupation_english": "primary school teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "H",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1945",
+            "institution": "Hässleholm"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1949",
+            "institution": "Lund"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1954",
+            "institution": "Lund"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Bräckt vatten",
+            "year": "1947",
+            "type": "bok"
+        },
+        {
+            "title": "ett flertal vetenskapliga artiklar i medicin",
+            "year": "None",
+            "type": "artikel"
+        }
+    ],
+    "travels": null
+}

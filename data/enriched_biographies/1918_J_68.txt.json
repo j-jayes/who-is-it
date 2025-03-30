@@ -1,0 +1,120 @@
+{
+    "career": [
+        {
+            "position": "adjunkt",
+            "start_year": 1900,
+            "end_year": 1900,
+            "organization": "Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lektor i biologi och kemi",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Västervik",
+            "location": {
+                "name": "Västervik",
+                "latitude": 57.75771559999999,
+                "longitude": 16.6369759,
+                "formatted_address": "Västervik, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Jäderholm",
+        "middle_name": "Elof",
+        "gender": "Male",
+        "birth_date": "24-07-1868",
+        "birth_place": null,
+        "occupation": {
+            "occupation": "lektor",
+            "occupation_english": "lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Br. A.",
+                "last_name": "Jäderholm",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kollega",
+                    "occupation_english": "colleague",
+                    "hisco_code_swedish": "13200.0",
+                    "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Brunau",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Västervik",
+        "latitude": 57.75771559999999,
+        "longitude": 16.6369759,
+        "formatted_address": "Västervik, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1892",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1898",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1898",
+            "institution": "Uppsala universitet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "okänt",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "XXX",
+            "year": null
+        }
+    ]
+}

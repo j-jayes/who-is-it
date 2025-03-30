@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "privatpraktiserande",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": "Sollefteå",
+            "location": {
+                "name": "Sollefteå",
+                "latitude": 63.1654065,
+                "longitude": 17.277135,
+                "formatted_address": "Sollefteå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "skoltandläkare",
+            "start_year": 1937,
+            "end_year": 1948,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "försvarstandläkare",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Norrlands trängregemente",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "J",
+        "last_name": "MARTINELL",
+        "middle_name": "AXEL L",
+        "gender": "Male",
+        "birth_date": "21-12-1910",
+        "birth_place": {
+            "name": "Junsele, Västernorrlands Län",
+            "latitude": 63.6958941,
+            "longitude": 16.8788147,
+            "formatted_address": "883 71 Junsele, Sweden"
+        },
+        "occupation": {
+            "occupation": "försvarstandläkare",
+            "occupation_english": "defence dentist",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Leonard",
+                "last_name": "Johansson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "skogsförvaltare",
+                    "occupation_english": "Forest Manager",
+                    "hisco_code_swedish": "21230.0",
+                    "hisco_description_swedish": "Farm Manager"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Hansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Sollefteå",
+        "latitude": 63.1654065,
+        "longitude": 17.277135,
+        "formatted_address": "Sollefteå, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1930",
+            "institution": "Härnösand"
+        },
+        {
+            "degree": "tandläkarexamen",
+            "degree_level": "Bachelor's",
+            "year": "1936",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Larson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "lanthushållningslärare",
+                "occupation_english": "domestic science teacher",
+                "hisco_code_swedish": "13270.0",
+                "hisco_description_swedish": "Agricultural Science Teacher (Second Level)",
+                "hisco_code_english": "13990.0",
+                "hisco_description_english": "Other Teachers"
+            },
+            "parents": [
+                {
+                    "first_name": "Herman",
+                    "last_name": "L",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kamrer",
+                        "occupation_english": "Comptroller",
+                        "hisco_code_swedish": "11010.0",
+                        "hisco_description_swedish": "Accountant, General"
+                    }
+                },
+                {
+                    "first_name": "Karin",
+                    "last_name": "Edström",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1940",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ingrid",
+                "last_name": "Martinell",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Britta",
+                "last_name": "Martinell",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1944"
+            },
+            {
+                "first_name": "Sven",
+                "last_name": "Martinell",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1946"
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Martinell",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1951"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1952"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1966"
+        }
+    ]
+}

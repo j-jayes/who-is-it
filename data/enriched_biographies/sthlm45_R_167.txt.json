@@ -1,0 +1,181 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": 1923,
+            "organization": "Universitet i Frankfurt am Main",
+            "location": {
+                "name": "Frankfurt am Main",
+                "latitude": 50.1109221,
+                "longitude": 8.6821267,
+                "formatted_address": "Frankfurt, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1928,
+            "end_year": 1931,
+            "organization": "Günther Wagner",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1931,
+            "end_year": 1944,
+            "organization": "Günther Wagners Nederlag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Günther Wagner Aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Arnö",
+        "last_name": "Roesecke",
+        "middle_name": "Gustav Adolf",
+        "gender": "Male",
+        "birth_date": "03-10-1897",
+        "birth_place": {
+            "name": "Lodz, Polen",
+            "latitude": 51.7592924,
+            "longitude": 19.4558778,
+            "formatted_address": "Łódź, Poland"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Charkov, Ryssland"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maria",
+            "last_name": "Heller",
+            "middle_name": "Theresia",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "None",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Irmgard",
+                "last_name": "Roesecke",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1928"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "Deltog i kriget 1914-1918.",
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Balkanländerna",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Skandinavien",
+                "latitude": 62.27864750000001,
+                "longitude": 12.3401708,
+                "formatted_address": "Scandinavia"
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

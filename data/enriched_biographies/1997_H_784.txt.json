@@ -1,0 +1,114 @@
+{
+    "career": [
+        {
+            "position": "Lektor",
+            "start_year": 1963,
+            "end_year": 1975,
+            "organization": "Göteborgs Universitet",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1980,
+            "organization": "Högskolan i Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i tyska",
+            "start_year": 1982,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "G",
+        "last_name": "Härd",
+        "middle_name": "John Evert",
+        "gender": "Male",
+        "birth_date": "09-01-1932",
+        "birth_place": {
+            "name": "Fröskog, Älvsborgs Län",
+            "latitude": 58.9812666,
+            "longitude": 12.4541109,
+            "formatted_address": "662 95 Fröskog, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "None",
+            "start_year": 1963
+        },
+        {
+            "position": "Filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "None",
+            "start_year": 1967
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Göteborgs Universitet",
+            "start_year": 1967
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Sveriges docentförbund",
+            "role": "Ordförande",
+            "start_year": 1972,
+            "end_year": 1976
+        },
+        {
+            "committee_name": "Universitetslärarförbundet",
+            "role": "Vice ordförande",
+            "start_year": 1972,
+            "end_year": 1976
+        }
+    ],
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Berit",
+            "last_name": "H",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null
+        },
+        "marriage_year": "1958"
+    }
+}

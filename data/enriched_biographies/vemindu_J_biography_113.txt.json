@@ -1,0 +1,126 @@
+{
+    "career": [
+        {
+            "position": "Verkmästare",
+            "start_year": 1921,
+            "end_year": 1933,
+            "organization": "Skofabrik Rex Hjärsta"
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1933,
+            "organization": "AB Skofabrik Victoria"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Johansson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "04-03-1892",
+        "birth_place": {
+            "name": "Längbro, Örebro Län",
+            "latitude": 59.2779631,
+            "longitude": 15.1500773,
+            "formatted_address": "703 48 Längbro parish, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johannes",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": "Manager",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "Kassör och ledamot",
+            "organization": "Församlingskommittén Betelkyrkan Örebro"
+        },
+        {
+            "role": "Föreståndare",
+            "organization": "Söndagsskolan"
+        },
+        {
+            "role": "Diakon",
+            "organization": "None"
+        }
+    ],
+    "current_location": {
+        "name": "Örebro",
+        "latitude": 59.2752626,
+        "longitude": 15.2134105,
+        "formatted_address": "Örebro, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA"
+        }
+    ]
+}

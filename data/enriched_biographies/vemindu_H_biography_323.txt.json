@@ -1,0 +1,248 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1902,
+            "end_year": 1904,
+            "organization": "Surahammars bruk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1905,
+            "end_year": 1905,
+            "organization": "Chrome Steel Works",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1905,
+            "end_year": 1905,
+            "organization": "Bethlehem Steel Comp",
+            "location": {
+                "name": "Pennsylvania",
+                "latitude": 41.2033216,
+                "longitude": -77.1945247,
+                "formatted_address": "Pennsylvania, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1905,
+            "end_year": 1907,
+            "organization": "Hennebique Constr Co",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Avdelningschef",
+            "start_year": 1907,
+            "end_year": 1913,
+            "organization": "Skånska Cement",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Teknisk chef",
+            "start_year": 1913,
+            "end_year": 1914,
+            "organization": "Helsingfors Cement- och Asfalt Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": "Byggnadsaktiebolag Konstruktör",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Styrelseordförande",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": "Byggnadsaktiebolag Konstruktör",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Justus",
+        "last_name": "Hjorth",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "20-09-1878",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Hjorth",
+                "middle_name": "Chr",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökaptener",
+                    "occupation_english": "Sea Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Fredrique",
+                "last_name": "Holmgren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Gävle belysningsstyrelse",
+            "role": "Vice ordförande",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Gävle byggnadsfra",
+            "role": "Ordförande",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Gävle byggnadsarbetsgivareförening",
+            "role": "Ordförande",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Gävle",
+        "latitude": 60.6748796,
+        "longitude": 17.1412726,
+        "formatted_address": "Gävle, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1898",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Kandidatexamen",
+            "degree_level": "Bachelor's",
+            "year": "1902",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Christer-Svensson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Ridning"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1939"
+        }
+    ]
+}

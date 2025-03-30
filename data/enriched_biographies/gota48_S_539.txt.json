@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Extralärare",
+            "start_year": 1934,
+            "end_year": 1936,
+            "organization": "Göteborgs latin",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vikarierande adjunkt",
+            "start_year": 1936,
+            "end_year": 1937,
+            "organization": "Göteborgs västra real",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Adjunkt i biologi med hälsolära och kemi",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Göteborgs östra real",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Georges",
+        "last_name": "Stålberg",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "23-03-1899",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Läroverksadjunkt",
+            "occupation_english": null,
+            "hisco_code_swedish": "13200.0",
+            "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Karl",
+                "last_name": "Stålberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Ögonläkare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Adamova",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Limnologisk undersökning",
+            "field": "Limnologi",
+            "year": "1935",
+            "significance": null,
+            "recognized_by": "Göteborgs vattenverk"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1918",
+            "institution": "Jönköping"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1925",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Filosofie magister",
+            "degree_level": "Master's",
+            "year": "1927",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Provår",
+            "degree_level": "Master's",
+            "year": "1930",
+            "institution": "Göteborgs folkskoleseminarium"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hanna",
+            "last_name": "Hillman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ingvar",
+                "last_name": "Stålberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1931"
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Stålberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1936"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Bidrag i tidningar och tidskrifter",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Sibirien",
+                "latitude": 61.01370970000001,
+                "longitude": 99.1966559,
+                "formatted_address": "Siberia, Russia"
+            },
+            "country_code": "RUS",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1927"
+        }
+    ]
+}

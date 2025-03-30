@@ -1,0 +1,156 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Bohlin",
+        "middle_name": "Petrus Teodor",
+        "gender": "Male",
+        "birth_date": "30-06-1860",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor, astronom",
+            "occupation_english": "professor, astronomer",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Amandus",
+                "last_name": "Bohlin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bryggare",
+                    "occupation_english": "brewer",
+                    "hisco_code_swedish": "77810.0",
+                    "hisco_description_swedish": "Brewer, General",
+                    "hisco_code_english": "77810.0",
+                    "hisco_description_english": "Brewer, General"
+                }
+            },
+            {
+                "first_name": "Matilda",
+                "last_name": "Lundgren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1885,
+            "end_year": null,
+            "field": "astronomi"
+        },
+        {
+            "position": "astronom med professors titel",
+            "position_english": "astronomer with professor title",
+            "institution": "Vetenskapsakademien",
+            "department": null,
+            "start_year": 1897,
+            "end_year": null,
+            "field": "astronomi"
+        },
+        {
+            "position": "lärare",
+            "position_english": "teacher",
+            "institution": "Stockholms Högskola",
+            "department": null,
+            "start_year": 1897,
+            "end_year": null,
+            "field": "astronomi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1880",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1883",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1886",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1891"
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1891"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1921"
+        }
+    ]
+}

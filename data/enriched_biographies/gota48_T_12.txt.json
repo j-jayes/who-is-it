@@ -1,0 +1,183 @@
+{
+    "career": [
+        {
+            "position": "Disponent",
+            "start_year": 1918,
+            "end_year": 1919,
+            "organization": "Aktiebolag Damm- & Spånledningar",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "end_year": 1926,
+            "organization": "Allmänna Svenska Elektriska Aktiebolaget (ASEA)",
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1926,
+            "end_year": 1927,
+            "organization": "Svenska Turbinfabriks Aktiebolaget Ljungström (STAL)",
+            "location": {
+                "name": "Finspång",
+                "latitude": 58.7074884,
+                "longitude": 15.773595,
+                "formatted_address": "Finspång, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1932,
+            "end_year": 1947,
+            "organization": "Aktiebolag Svenska Fläktfabriken",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1932,
+            "organization": "Aktiebolag Svenska Fläktfabriken",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Konsult",
+            "start_year": 1947,
+            "organization": null,
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Folke",
+        "last_name": "Tenelius",
+        "middle_name": "Viktor",
+        "gender": "Male",
+        "birth_date": "16-02-1894",
+        "birth_place": {
+            "name": "Rogberga, Jönköpings Län",
+            "latitude": 57.7342911,
+            "longitude": 14.2927325,
+            "formatted_address": "561 61 Rogberga, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "Speciallärare",
+            "institution": "Chalmers Tekniska Högskola (CTH)",
+            "department": null,
+            "start_year": 1945,
+            "end_year": null,
+            "field": "Läran om pumpar, fläktar och vattenturbiner"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lilly",
+            "last_name": "Ahlgren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Maj",
+                "last_name": "Gunnel Elisabet",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1932"
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Margareta",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1935"
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Uppsater i fackpressen",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1925"
+        }
+    ]
+}

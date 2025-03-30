@@ -1,0 +1,191 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "end_year": 1923,
+            "organization": "Drammens Paper Mills",
+            "location": {
+                "name": "Drammen",
+                "latitude": 59.7440738,
+                "longitude": 10.2044564,
+                "formatted_address": "Drammen, Norway"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1926,
+            "end_year": 1926,
+            "organization": "Drammens Paper Mills",
+            "location": {
+                "name": "Drammen",
+                "latitude": 59.7440738,
+                "longitude": 10.2044564,
+                "formatted_address": "Drammen, Norway"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1924,
+            "end_year": 1926,
+            "organization": "Håfveruds AB",
+            "location": {
+                "name": "Håverud",
+                "latitude": 58.8219084,
+                "longitude": 12.4176052,
+                "formatted_address": "464 72 Håverud, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1927,
+            "end_year": 1937,
+            "organization": "S Storm & Co",
+            "location": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "S Storm & Co AB",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Knut",
+        "last_name": "Heier",
+        "middle_name": "Nysted",
+        "gender": "Male",
+        "birth_date": "18-09-1902",
+        "birth_place": {
+            "name": "Oslo",
+            "latitude": 59.9138688,
+            "longitude": 10.7522454,
+            "formatted_address": "Oslo, Norway"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Heier",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Ingenjör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Otine",
+                "last_name": "Nysted",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Föreningen Dovre"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Oslo handelsgymnasium",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Oslo handelsgymnasium"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hermine",
+            "last_name": "Verbeke",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Filateli"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

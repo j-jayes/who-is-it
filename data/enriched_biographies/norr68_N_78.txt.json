@@ -1,0 +1,234 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1923,
+            "end_year": 1925,
+            "organization": "General Electric Company",
+            "location": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1925,
+            "end_year": 1929,
+            "organization": "General Electric Company",
+            "location": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1929,
+            "end_year": 1931,
+            "organization": "Charles Cooper Company",
+            "location": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1931,
+            "end_year": 1935,
+            "organization": "Katrineholms tekniska skola",
+            "location": {
+                "name": "Katrineholm",
+                "latitude": 58.99555109999999,
+                "longitude": 16.2054756,
+                "formatted_address": "Katrineholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1935,
+            "end_year": 1944,
+            "organization": "SKF:s verkstadsskola vid Hofors bruk",
+            "location": {
+                "name": "Hofors",
+                "latitude": 60.54595,
+                "longitude": 16.2841,
+                "formatted_address": "Hofors, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1944,
+            "end_year": 1945,
+            "organization": "Maskinfackskolan Eskilstuna",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1945,
+            "end_year": 1947,
+            "organization": "Eskilstuna stads skolor för yrkesundervisning",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1947,
+            "end_year": 1963,
+            "organization": "Tekniska gymnasiet Gävle",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Nordell",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "03-09-1897",
+        "birth_place": {
+            "name": "Umeå",
+            "latitude": 63.8258471,
+            "longitude": 20.2630354,
+            "formatted_address": "Umeå, Sweden"
+        },
+        "occupation": {
+            "occupation": "Före detta Rektor",
+            "occupation_english": "Former Principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Nordell",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bruksförvaltare",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Bergman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Riddare av Nordstjärneorden (RNO)"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Gävle",
+        "latitude": 60.6748796,
+        "longitude": 17.1412726,
+        "formatted_address": "Gävle, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1917",
+            "institution": "Falun"
+        },
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1922",
+            "institution": "CTI"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ninna",
+            "last_name": "Lindell",
+            "middle_name": null,
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "Alfred",
+                    "last_name": "Lindell",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Hemmansägare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "61110.0",
+                        "hisco_description_swedish": "General Farmer"
+                    }
+                },
+                {
+                    "first_name": "h h",
+                    "last_name": "Lindell",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1926",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Per-Olof",
+                "last_name": "Nordell",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1927"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Ett flertal kompendier inom olika maskintekniska områden med mera",
+            "year": "None",
+            "type": "Kompendium",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

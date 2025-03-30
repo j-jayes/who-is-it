@@ -1,0 +1,195 @@
+{
+    "career": [
+        {
+            "position": "Disponent",
+            "start_year": 1917,
+            "end_year": 1919,
+            "organization": "Kohl-säters aktiebolag",
+            "location": {
+                "name": "Värmland",
+                "latitude": 59.5807897,
+                "longitude": 12.8472974,
+                "formatted_address": "Varmland County, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktörassistent",
+            "start_year": 1919,
+            "end_year": 1923,
+            "organization": "Aktiebolaget De svenska kristallglasbruken",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör och chef",
+            "start_year": 1923,
+            "organization": "Reijmyre bruksaktiebolag",
+            "location": {
+                "name": "Östergötland",
+                "latitude": 58.23356,
+                "longitude": 15.30421,
+                "formatted_address": "595 91 Ostergotland, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Kaijser",
+        "middle_name": "Lorentz",
+        "gender": "Male",
+        "birth_date": "20-01-1878",
+        "birth_place": {
+            "name": "Grava, Värmlands Län",
+            "latitude": 59.46666699999999,
+            "longitude": 13.416667,
+            "formatted_address": "655 91 Grava, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör, kapten",
+            "occupation_english": "Director, captain",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Theodor",
+                "last_name": "Kaijser",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Dövstumrektor",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Löhr",
+                "middle_name": "Alexia",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Reijmyra",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Gerda",
+            "last_name": "Nordstrand",
+            "middle_name": "Sofia",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Sven",
+                    "last_name": "Nordstrand",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Statsinspektör",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "31000.0",
+                        "hisco_description_swedish": "Government Executive Official, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Karolina",
+                    "last_name": "Ahlstedt",
+                    "middle_name": "Sofia",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1905",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Värmlands skytteförbunds förtjänstmedalj i guld 1915",
+        "Skm g samt civila och militära Idrottsmedalj i guld"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": [
+        "Ledare av skytterörelsen i Värmland 1906-1916",
+        "Ledamot av skytteförbundets överstyrelse 1911-1916"
+    ],
+    "military_service": "Officierexamen 1898, krigshögskolan 1902-1904, officer vid Värmlands regemente, avsked på egen begäran som kapten 1917",
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skytteväsen i Schweiz",
+            "year": "1914",
+            "type": "Okänt"
+        },
+        {
+            "title": "Sveriges småglasindustri",
+            "year": "1922",
+            "type": "Okänt"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "ZAF",
+            "year": "1905"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

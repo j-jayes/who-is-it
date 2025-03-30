@@ -1,0 +1,227 @@
+{
+    "career": [
+        {
+            "position": "Svensk Lektor",
+            "start_year": 1928,
+            "end_year": 1932,
+            "organization": "London",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Rektor",
+            "start_year": 1941,
+            "end_year": 1945,
+            "organization": "Stockholms Borgarskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Högre Allmänna Läroverket för Flickor på Södermalm",
+            "location": {
+                "name": "Södermalm, Stockholm",
+                "latitude": 59.31252679999999,
+                "longitude": 18.0616188,
+                "formatted_address": "Södermalm, Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Svensk Lektor",
+            "start_year": 1948,
+            "end_year": 1951,
+            "organization": "Columbia University",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Wijk",
+        "middle_name": "Magnus",
+        "gender": "Male",
+        "birth_date": "27-07-1901",
+        "birth_place": {
+            "name": "Norrköping",
+            "latitude": 58.587745,
+            "longitude": 16.192421,
+            "formatted_address": "Norrköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lektor",
+            "occupation_english": "Lecturer",
+            "hisco_code_swedish": "13030.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Wijk",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Glasmästare",
+                    "occupation_english": "Glazier",
+                    "hisco_code_swedish": "95720.0",
+                    "hisco_description_swedish": "Building Glazier",
+                    "hisco_code_english": "95720.0",
+                    "hisco_description_english": "Building Glazier"
+                }
+            },
+            {
+                "first_name": "Matilda",
+                "last_name": "Karlson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie Licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Stockholms Högskola",
+            "department": null,
+            "start_year": 1934,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Filosofie Doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Stockholms Högskola",
+            "department": null,
+            "start_year": 1937,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Stockholms Högskola",
+            "department": null,
+            "start_year": 1937,
+            "end_year": null,
+            "field": "Engelska"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Anna-Greta",
+            "last_name": "Juel Kjellberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gunnar",
+                    "last_name": "Kjellberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Ingenjör",
+                        "occupation_english": "Engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Astrid",
+                    "last_name": "Juel",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1942",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "The Orthography and pronunciation of Henry Machyn",
+            "year": "1937",
+            "type": "Gradualavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "The London diarist, A study of the south-east Yorkshire dialect in the early 16th Century",
+            "year": "1937",
+            "type": "Avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        }
+    ]
+}

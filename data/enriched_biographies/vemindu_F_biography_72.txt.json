@@ -1,0 +1,212 @@
+{
+    "career": [
+        {
+            "position": "Innehavare av gymnastikinstut",
+            "start_year": 1932,
+            "organization": "gymnastikinstut i Cannes Frankrike",
+            "location": {
+                "name": "Cannes",
+                "latitude": 43.5539499,
+                "longitude": 7.0170217,
+                "formatted_address": "Cannes, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1932,
+            "organization": "AB Aga konfektion Kumla",
+            "location": {
+                "name": "Kumla",
+                "latitude": 59.12653590000001,
+                "longitude": 15.1401053,
+                "formatted_address": "Kumla, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Disponent och Direktör",
+            "start_year": 1936,
+            "organization": "Sven Florens kravattindustri Kumla",
+            "location": {
+                "name": "Kumla",
+                "latitude": 59.12653590000001,
+                "longitude": 15.1401053,
+                "formatted_address": "Kumla, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Floren",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "29-07-1891",
+        "birth_place": {
+            "name": "Hallsberg",
+            "latitude": 59.0665316,
+            "longitude": 15.10229,
+            "formatted_address": "Hallsberg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kapten",
+            "occupation_english": "Captain",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "4215.0",
+            "hisco_description_english": "Ship's Master (Sea)"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "F",
+                "middle_name": "A",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Provisionsläkare",
+                    "occupation_english": "District medical officer",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician",
+                    "hisco_code_english": "31090.0",
+                    "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                }
+            },
+            {
+                "first_name": "Frida",
+                "last_name": "Grenander",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kumla",
+        "latitude": 59.12653590000001,
+        "longitude": 15.1401053,
+        "formatted_address": "Kumla, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "Okänt",
+            "institution": "Okänt"
+        },
+        {
+            "degree": "Officersexamen",
+            "degree_level": "Schooling",
+            "year": "Okänt",
+            "institution": "Okänt"
+        },
+        {
+            "degree": "Gymnastikdirektörsexamen",
+            "degree_level": "Schooling",
+            "year": "Okänt",
+            "institution": "Okänt"
+        },
+        {
+            "degree": "Kaptenkurs",
+            "degree_level": "Schooling",
+            "year": "Okänt",
+            "institution": "Okänt"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Emy",
+            "last_name": "Andersson",
+            "gender": "Female"
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA"
+        }
+    ]
+}

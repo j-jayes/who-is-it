@@ -1,0 +1,216 @@
+{
+    "career": [
+        {
+            "position": "kriminalpolisintendent",
+            "start_year": 1930,
+            "organization": "kriminalpolisen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "luftskyddsinspektör",
+            "start_year": 1937,
+            "end_year": 1940,
+            "organization": "luftskyddsinspektionen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "sakkunnig",
+            "start_year": 1933,
+            "organization": "Finansdepartementet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "sakkunnig",
+            "start_year": 1935,
+            "end_year": 1936,
+            "organization": "Kungliga Majestäts",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "sakkunnig",
+            "start_year": 1939,
+            "organization": "Socialdepartementet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "vice ordförande",
+            "start_year": 1940,
+            "organization": "Statens utrymningskommitté",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "ordförande",
+            "start_year": 1941,
+            "end_year": 1944,
+            "organization": "Statens utrymningskommitté",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "fast anställd sakkunnig",
+            "start_year": 1940,
+            "organization": "luftskyddsinspektionen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Alvar",
+        "last_name": "Zetterquist",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "21-04-1895",
+        "birth_place": {
+            "name": "Lännäs, Örebro Län",
+            "latitude": 59.1473595,
+            "longitude": 15.5813361,
+            "formatted_address": "715 93 Lännäs, Sweden"
+        },
+        "occupation": {
+            "occupation": "kriminalpolisintendent",
+            "occupation_english": null,
+            "hisco_code_swedish": "58220.0",
+            "hisco_description_swedish": "Policeman and other Maintainers of Law and Order (except Military)"
+        },
+        "parents": [
+            {
+                "first_name": "Fredrik",
+                "last_name": "Zetterquist",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Matilda",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "jurist kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1920",
+            "institution": "Stockholms rådhusrätt"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Else-Marie",
+            "last_name": "Stokkebye",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Erie",
+                    "last_name": "S.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "fabrikör",
+                        "occupation_english": null
+                    }
+                },
+                {
+                    "first_name": "Jeanne",
+                    "last_name": "Voss",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1928",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1936"
+        }
+    ]
+}

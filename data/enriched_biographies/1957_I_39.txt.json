@@ -1,0 +1,133 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Biörn",
+        "last_name": "Ivemark",
+        "middle_name": "Isaac",
+        "gender": "Male",
+        "birth_date": "04-05-1925",
+        "birth_place": {
+            "name": "Karlstad",
+            "latitude": 59.4021806,
+            "longitude": 13.5114977,
+            "formatted_address": "Karlstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "associate professor",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "August",
+                "last_name": "Isaacsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "filosofie doktor",
+                    "occupation_english": "Doctor of Philosophy",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Helfrid",
+                "last_name": "Valter",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "associate professor",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1956,
+            "end_year": null,
+            "field": "patologi"
+        },
+        {
+            "position": "biträdande lärare",
+            "position_english": "assistant teacher",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1954,
+            "end_year": 1955,
+            "field": "barnpatologi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1951",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1956",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Barbro",
+            "last_name": "Schéle",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1952",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "batallionsläkare i flottans reserv 1953",
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i patologi, spec barnpatologi",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1953-1954"
+        }
+    ]
+}

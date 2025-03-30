@@ -1,0 +1,284 @@
+{
+    "career": [
+        {
+            "position": "Broingenjör",
+            "start_year": 1925,
+            "end_year": 1928,
+            "organization": "ett flertal företag i USA",
+            "location": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": "J Cederblad",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1931,
+            "end_year": 1950,
+            "organization": "egen entreprenadfirma",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "SVEN",
+        "last_name": "ASPLUND",
+        "middle_name": "OLOF",
+        "gender": "Male",
+        "birth_date": "16-06-1902",
+        "birth_place": {
+            "name": "Skön, Västernorrlands Län",
+            "latitude": 62.449003,
+            "longitude": 17.3527932,
+            "formatted_address": "863 36 Skön, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": null,
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Asplund",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "disponent",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Signe",
+                "last_name": "Sandqvist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "KTH",
+            "department": null,
+            "start_year": 1943,
+            "end_year": null,
+            "field": "brobyggnad"
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "CTH",
+            "department": null,
+            "start_year": 1950,
+            "end_year": null,
+            "field": "brobyggnad"
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "CTH",
+            "department": null,
+            "start_year": 1955,
+            "end_year": null,
+            "field": "byggnadsstatik"
+        },
+        {
+            "position": "gästprofessor",
+            "position_english": "visiting professor",
+            "institution": "Florida universitet",
+            "department": null,
+            "start_year": 1958,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "gästprofessor",
+            "position_english": "visiting professor",
+            "institution": "California universitet",
+            "department": null,
+            "start_year": 1959,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "RNO",
+        "RVO"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "Härnösand"
+        },
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1924",
+            "institution": "KTH"
+        },
+        {
+            "degree": "reservofficer",
+            "degree_level": "Bachelor's",
+            "year": "1925",
+            "institution": "VVK"
+        },
+        {
+            "degree": "major",
+            "degree_level": "Master's",
+            "year": "1948",
+            "institution": "VVK"
+        },
+        {
+            "degree": "teknologie doktor",
+            "degree_level": "Doctorate",
+            "year": "1943",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Alice",
+            "last_name": "Nelson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1930",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Edgar",
+                "last_name": "Asplund",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1931"
+            },
+            {
+                "first_name": "Gustav",
+                "last_name": "Asplund",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1935"
+            },
+            {
+                "first_name": "Kristofer",
+                "last_name": "Asplund",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Louise",
+                "last_name": "Asplund",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1944"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "LIVA 1945",
+        "LVVS 1952",
+        "hedersledamot New York Acad of Sciences 1952"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Artiklar i Teknisk tidskrift",
+            "year": "okänt",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Artiklar i Betong",
+            "year": "okänt",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Artiklar i AIPC Memoires",
+            "year": "okänt",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Artiklar i ACI Journal",
+            "year": "okänt",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "On the Deflestion Theory of Suspension Bridges",
+            "year": "1943",
+            "type": "doktorsavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

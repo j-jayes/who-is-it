@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1906,
+            "end_year": null,
+            "organization": "Centralbanken för Norge A/S",
+            "location": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1906,
+            "end_year": 1909,
+            "organization": "Meyer & Soetbeer",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1909,
+            "end_year": 1911,
+            "organization": "Aktiebolaget Gardberg & Co.",
+            "location": {
+                "name": "Helsingfors och Åbo",
+                "latitude": 60.16985569999999,
+                "longitude": 24.938379,
+                "formatted_address": "Helsinki, Finland"
+            },
+            "country_code": "FIN"
+        },
+        {
+            "position": "Egen agenturaffär",
+            "start_year": 1911,
+            "end_year": 1913,
+            "organization": null,
+            "location": {
+                "name": "Helsingfors",
+                "latitude": 60.16985569999999,
+                "longitude": 24.938379,
+                "formatted_address": "Helsinki, Finland"
+            },
+            "country_code": "FIN"
+        },
+        {
+            "position": "Kamrer och sedermera exportchef",
+            "start_year": 1913,
+            "end_year": 1923,
+            "organization": "Aktiebolaget Svensk Filmindustri (Aktiebolaget Svensk Biografteater)",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande direktör, huvuddelägare och styrelseordförande",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": "Svensk Filmexport Aktiebolag",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ateljéchef",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Aktiebolaget Europa Film",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Eilif",
+        "last_name": "Skaar",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "27-11-1886",
+        "birth_place": {
+            "name": "Fåne, Norge",
+            "latitude": 60.47202399999999,
+            "longitude": 8.468945999999999,
+            "formatted_address": "Norway"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "N. B.",
+                "last_name": "S.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Prost",
+                    "occupation_english": "Provost",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Marie",
+                "last_name": "Olsen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1906",
+            "institution": "Stavanger"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maja",
+            "last_name": "Schröder",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "Kapten i I. 19:s reserv.",
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Broberg",
+        "middle_name": "Iwan Sigfrid",
+        "gender": "Male",
+        "birth_date": "27-07-1887",
+        "birth_place": {
+            "name": "Söndrum, Hallands Län",
+            "latitude": 56.65574909999999,
+            "longitude": 12.7963174,
+            "formatted_address": "Söndrum, Halmstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Halmstads tekniska yrkesskola",
+            "degree_level": "Schooling",
+            "year": "1919-1920",
+            "institution": "Halmstads tekniska yrkesskola"
+        },
+        {
+            "degree": "Hermods korrespondensinstitut",
+            "degree_level": "Schooling",
+            "year": "1920-1924",
+            "institution": "Hermods korrespondensinstitut"
+        },
+        {
+            "degree": "Göteborgs musei rit- och målarskola",
+            "degree_level": "Schooling",
+            "year": "1930-1933",
+            "institution": "Göteborgs musei rit- och målarskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Andersson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1914",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Gösta",
+                "last_name": "Broberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1914"
+            },
+            {
+                "first_name": "Rune",
+                "last_name": "Broberg",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1922"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Nordamerika",
+                "latitude": 54.5259614,
+                "longitude": -105.2551187,
+                "formatted_address": "North America"
+            },
+            "country_code": "USA",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1947"
+        }
+    ]
+}

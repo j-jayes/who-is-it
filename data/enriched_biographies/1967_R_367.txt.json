@@ -1,0 +1,194 @@
+{
+    "career": [
+        {
+            "position": "Laborator",
+            "start_year": 1954,
+            "end_year": 1964,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Laborator",
+            "start_year": 1964,
+            "organization": "Stockholms Universitet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Rådström",
+        "middle_name": "V",
+        "gender": "Male",
+        "birth_date": "26-03-1919",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Laborator",
+            "occupation_english": "Laboratory Technician",
+            "hisco_code_swedish": "1400.0",
+            "hisco_description_swedish": "Physical Science Technician, Specialisation Unknown",
+            "hisco_code_english": "1400.0",
+            "hisco_description_english": "Physical Science Technician, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Karl-Johan",
+                "last_name": "Rådström",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Författare",
+                    "occupation_english": "Author",
+                    "hisco_code_swedish": "15120.0",
+                    "hisco_description_swedish": "Author",
+                    "hisco_code_english": "15120.0",
+                    "hisco_description_english": "Author"
+                }
+            },
+            {
+                "first_name": "Berta",
+                "last_name": "Genander",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie Licentiat",
+            "institution": "Stockholms Universitet",
+            "start_year": 1946,
+            "field": "Matematik"
+        },
+        {
+            "position": "Filosofie Doktor",
+            "institution": "Stockholms Universitet",
+            "start_year": 1952,
+            "field": "Matematik"
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Stockholms Universitet",
+            "start_year": 1952,
+            "field": "Matematik"
+        },
+        {
+            "position": "Gästprofessor",
+            "institution": "University of Minnesota",
+            "start_year": 1957,
+            "end_year": 1958
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Danderyd",
+        "latitude": 59.4059401,
+        "longitude": 18.0256382,
+        "formatted_address": "Danderyd, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1946",
+            "institution": "Stockholms Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Åkerblad",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "Åkerblad",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Disponent",
+                        "occupation_english": "Manager",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Svea",
+                    "last_name": "Bolin",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1943"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i matematik",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1948"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1949"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1950"
+        }
+    ]
+}

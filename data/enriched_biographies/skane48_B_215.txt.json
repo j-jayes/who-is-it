@@ -1,0 +1,118 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Björklund",
+        "middle_name": "Richard",
+        "gender": "Male",
+        "birth_date": "01-08-1897",
+        "birth_place": {
+            "name": "Hyllie, Malmöhus Län",
+            "latitude": 55.5633218,
+            "longitude": 12.9735402,
+            "formatted_address": "Hyllie, Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Emil",
+                "last_name": "Björklund",
+                "middle_name": "Th.",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Fagerberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Aase",
+            "last_name": "Tronier",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1933",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Jugoslavien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "HRV",
+            "year": "1934"
+        },
+        {
+            "country": {
+                "name": "Jugoslavien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "HRV",
+            "year": "1935"
+        }
+    ]
+}

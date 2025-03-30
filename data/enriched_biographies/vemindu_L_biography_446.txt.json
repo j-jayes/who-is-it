@@ -1,0 +1,165 @@
+{
+    "career": [
+        {
+            "position": "Representant",
+            "start_year": 1893,
+            "end_year": 1894,
+            "organization": "Norsk Paraplyfabrik",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1905,
+            "end_year": 1942,
+            "organization": "Paraplyfirma Lundquist & Wottrich",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Forstners Nya Paraplyfabrik AB",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Forstners Nya Paraplyfabrik AB",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Lundquist",
+        "middle_name": "Gustaf",
+        "gender": "Male",
+        "birth_date": "04-07-1872",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Grosshandlare",
+            "occupation_english": null,
+            "hisco_code_swedish": "41020.0",
+            "hisco_description_swedish": "Working Proprietor (Wholesale Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "W",
+                "last_name": "Lundquist",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Garnhandlare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Ohlsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "Frimurare",
+            "organization": "Frimurareorden"
+        },
+        {
+            "role": "Medlem",
+            "organization": "Odd Fellow (en av stiftare av Logen Sten Sture)"
+        },
+        {
+            "role": "Medlem",
+            "organization": "Stockholms Gille (sedan grundandet)"
+        }
+    ],
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Latin",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "N Latin"
+        },
+        {
+            "degree": "Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Smedmans Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Lannge",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1891"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1892"
+        }
+    ]
+}

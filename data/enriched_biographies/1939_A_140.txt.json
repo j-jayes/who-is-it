@@ -1,0 +1,127 @@
+{
+    "career": [
+        {
+            "position": "Elev vid Operans elevskola",
+            "start_year": 1902,
+            "end_year": 1907,
+            "organization": "Operan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1907,
+            "end_year": 1911,
+            "organization": "Dramatiska Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1912,
+            "end_year": 1920,
+            "organization": "Svenska Teatern",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Blancheteatern",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Olga",
+        "last_name": "Anderson",
+        "middle_name": "Teresia",
+        "gender": "Female",
+        "birth_date": "01-10-1876",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "skådespelerska",
+            "occupation_english": "actress",
+            "hisco_code_swedish": "17320.0",
+            "hisco_description_swedish": "Actor",
+            "hisco_code_english": "89200.0",
+            "hisco_description_english": "Potter or Related Clay and Abrasive Former, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Okänd",
+                "last_name": "Anderson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "byggningsarbetare",
+                    "occupation_english": "builder",
+                    "hisco_code_swedish": "95000.0",
+                    "hisco_description_swedish": "Bricklayers, Carpenters and Other Construction Workers",
+                    "hisco_code_english": "95910.0",
+                    "hisco_description_english": "Housebuilder, General"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1911"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1912"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "career": [
+        {
+            "position": "underkirurg",
+            "start_year": 1920,
+            "end_year": 1925,
+            "organization": "Akademiska sjukhuset",
+            "location": {
+                "name": "Karlstad",
+                "latitude": 59.4021806,
+                "longitude": 13.5114977,
+                "formatted_address": "Karlstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1925,
+            "end_year": 1928,
+            "organization": "Sabbatsbergs sjukhus",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "2. läkare",
+            "start_year": 1928,
+            "end_year": 1930,
+            "organization": "Sahlgrenska sjukhuset, kirurgiska avdelningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1930,
+            "end_year": 1934,
+            "organization": "Luleå",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Löwenströmska lasarettet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "batiläkare",
+            "start_year": 1920,
+            "end_year": 1929,
+            "organization": "fältläkarkåren",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Mattsson",
+        "middle_name": "Johan Aron",
+        "gender": "Male",
+        "birth_date": "14-03-1888",
+        "birth_place": {
+            "name": "Havdhem, Gotlands Län",
+            "latitude": 57.1607281,
+            "longitude": 18.3332693,
+            "formatted_address": "623 41 Havdhem, Sweden"
+        },
+        "occupation": {
+            "occupation": "lasarettsläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Oscar",
+                "last_name": "Mattsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Sofia",
+                "last_name": "Pettersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Upplands-Väsby",
+        "latitude": 59.51961,
+        "longitude": 17.92834,
+        "formatted_address": "Upplands Väsby, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1909",
+            "institution": "Visby"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1914",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1920",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Georgette",
+            "last_name": "Fuhrel",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "G.L.",
+                    "last_name": "Fuhrel",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "ingenjör",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Marie",
+                    "last_name": "Fuhrel",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "i reserv",
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1926"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Birgit",
+        "last_name": "Nordin",
+        "middle_name": null,
+        "gender": "Female"
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Athen",
+                "latitude": 37.9838096,
+                "longitude": 23.7275388,
+                "formatted_address": "Athens, Greece"
+            },
+            "country_code": "GRC"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Hongkong",
+                "latitude": 22.3193039,
+                "longitude": 114.1693611,
+                "formatted_address": "Hong Kong"
+            },
+            "country_code": "HKG"
+        },
+        {
+            "country": {
+                "name": "Melbourne",
+                "latitude": -37.8136276,
+                "longitude": 144.9630576,
+                "formatted_address": "Melbourne VIC, Australia"
+            },
+            "country_code": "AUS"
+        }
+    ]
+}

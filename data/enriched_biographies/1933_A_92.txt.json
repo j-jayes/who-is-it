@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "statsgeolog",
+            "start_year": 1906,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "överdirektör",
+            "start_year": 1909,
+            "end_year": 1916,
+            "organization": "geologiska undersökningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "föreståndare",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": "östasiatiska samlingarna",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "professor i östasiatiska arkeologi",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Andersson",
+        "middle_name": "Gunnar",
+        "gender": "Male",
+        "birth_date": "03-07-1874",
+        "birth_place": {
+            "name": "Knista, Örebro Län",
+            "latitude": 59.19673640000001,
+            "longitude": 14.8985202,
+            "formatted_address": "716 92 Knista, Sweden"
+        },
+        "occupation": {
+            "occupation": "fd. överdirektör, professor",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Hedda",
+                "last_name": "Lekberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1901,
+            "end_year": null,
+            "field": "geologi"
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "n. h. o. v.",
+            "department": null,
+            "start_year": 1906,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1902",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Signe",
+            "last_name": "Bergner",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "O.",
+                    "last_name": "Bergner",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kyrkoherde",
+                        "occupation_english": "vicar",
+                        "hisco_code_swedish": "14120.0",
+                        "hisco_description_swedish": "Minister of Religion",
+                        "hisco_code_english": "14120.0",
+                        "hisco_description_english": "Minister of Religion"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1905",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [
+        {
+            "title": "mandarin",
+            "institution": "Kinesiska Regeringen",
+            "year": "1914"
+        }
+    ],
+    "honors": [
+        "LVA 1911",
+        "LLA 1908"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Draken o. de främmande djävlarna",
+            "year": "1926",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Kung Karls land",
+                "latitude": 78.83333329999999,
+                "longitude": 28,
+                "formatted_address": "Kong Karls Land, 9170, Svalbard and Jan Mayen"
+            },
+            "country_code": "string",
+            "year": "1898"
+        },
+        {
+            "country": {
+                "name": "Antarktis",
+                "latitude": -75.250973,
+                "longitude": -0.071389,
+                "formatted_address": "Antarctica"
+            },
+            "country_code": "string",
+            "year": "1901-1904"
+        },
+        {
+            "country": {
+                "name": "Beeren Eiland",
+                "latitude": 74.4522484,
+                "longitude": 19.1151972,
+                "formatted_address": "Bear Island, 9176, Svalbard and Jan Mayen"
+            },
+            "country_code": "string",
+            "year": "1899"
+        }
+    ]
+}

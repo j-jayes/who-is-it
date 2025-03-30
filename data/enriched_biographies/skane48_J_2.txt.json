@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "Tjänstgöring vid medicinska kliniken vid Krankenhaus Berlin-Britz",
+            "start_year": 1933,
+            "end_year": 1934,
+            "organization": "Krankenhaus Berlin-Britz",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vid professor Axel Westmans vetenskapliga laboratorium",
+            "start_year": 1934,
+            "end_year": 1943,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vid professor Axel Westmans vetenskapliga laboratorium",
+            "start_year": 1934,
+            "end_year": 1943,
+            "organization": "Lunds Universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie amanuens vid fysiologiska institutionen",
+            "start_year": 1943,
+            "end_year": 1947,
+            "organization": "Lunds Universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Andre assistent",
+            "start_year": 1947,
+            "organization": "Fysiologiska institutionen, Lunds Universitet",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Dora",
+        "last_name": "Jacobsohn",
+        "middle_name": "Elisabeth",
+        "gender": "Female",
+        "birth_date": "31-03-1908",
+        "birth_place": {
+            "name": "Berlin",
+            "latitude": 52.52000659999999,
+            "longitude": 13.404954,
+            "formatted_address": "Berlin, Germany"
+        },
+        "occupation": {
+            "occupation": "Doktor i medicin",
+            "occupation_english": "Doctor of Medicine",
+            "hisco_code_swedish": "6100.0",
+            "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ernst",
+                "last_name": "Jacobsohn",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Rechtsanwalt och Notar",
+                    "occupation_english": "Lawyer and Notary",
+                    "hisco_code_swedish": "12310.0",
+                    "hisco_description_swedish": "Notary",
+                    "hisco_code_english": "12110.0",
+                    "hisco_description_english": "Lawyer"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Jaffe",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1927",
+            "institution": "Berlin"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1929",
+            "institution": "Berlin"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1932",
+            "institution": "Berlin"
+        },
+        {
+            "degree": "Doktor i medicin",
+            "degree_level": "Doctorate",
+            "year": "1933",
+            "institution": "Berlin"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Ett 30-tal huvudsakligen rörande den experimentella endokrinologiska forskningen",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1947"
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "career": [
+        {
+            "position": "läkarförordnande",
+            "start_year": 1948,
+            "end_year": 1951,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "2:e underläkare",
+            "start_year": 1952,
+            "end_year": null,
+            "organization": "Visby lasarett",
+            "location": {
+                "name": "Visby",
+                "latitude": 57.6348,
+                "longitude": 18.29484,
+                "formatted_address": "Visby, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1955,
+            "end_year": null,
+            "organization": "Uddevalla lasarett",
+            "location": {
+                "name": "Uddevalla",
+                "latitude": 58.3498003,
+                "longitude": 11.935649,
+                "formatted_address": "Uddevalla, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "provinsialläkare",
+            "start_year": 1958,
+            "end_year": null,
+            "organization": "Uddeholms distrikt",
+            "location": {
+                "name": "Uddeholm",
+                "latitude": 60.02405289999999,
+                "longitude": 13.6187746,
+                "formatted_address": "683 40 Uddeholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "industriläkare",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": "Hagfors järnväg",
+            "location": {
+                "name": "Hagfors",
+                "latitude": 60.03437,
+                "longitude": 13.694508,
+                "formatted_address": "Hagfors, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "batallionsläkare",
+            "start_year": 1952,
+            "end_year": null,
+            "organization": "flk",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "T",
+        "last_name": "TROEDSSON",
+        "middle_name": "Göran U",
+        "gender": "Male",
+        "birth_date": "30-03-1923",
+        "birth_place": {
+            "name": "Karlstad",
+            "latitude": 59.4021806,
+            "longitude": 13.5114977,
+            "formatted_address": "Karlstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "provinsialläkare",
+            "occupation_english": "District medical officer",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "31090.0",
+            "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+        },
+        "parents": [
+            {
+                "first_name": "Albert",
+                "last_name": "TROEDSSON",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "apotekare",
+                    "occupation_english": "Pharmacist",
+                    "hisco_code_swedish": "6710.0",
+                    "hisco_description_swedish": "Pharmacist",
+                    "hisco_code_english": "41030.0",
+                    "hisco_description_english": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Ebba",
+                "last_name": "Westman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uddeholm",
+        "latitude": 60.02405289999999,
+        "longitude": 13.6187746,
+        "formatted_address": "683 40 Uddeholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1941",
+            "institution": "Umeå"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1945",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1951",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margareta",
+            "last_name": "Claesson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "E",
+                    "last_name": "Claesson",
+                    "middle_name": "A",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "distriktslantmätare",
+                        "occupation_english": "District Surveyor",
+                        "hisco_code_swedish": "3020.0",
+                        "hisco_description_swedish": "Land Surveyor",
+                        "hisco_code_english": "44330.0",
+                        "hisco_description_english": "Appraiser"
+                    }
+                },
+                {
+                    "first_name": "Edith",
+                    "last_name": "Wallander",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1949",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ann",
+                "last_name": "TROEDSSON",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1950"
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "TROEDSSON",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1952"
+            },
+            {
+                "first_name": "Hans",
+                "last_name": "TROEDSSON",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1956"
+            }
+        ]
+    },
+    "hobbies": [
+        "jakt",
+        "fiske",
+        "bridge",
+        "tennis"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "flk reserv sedan 1963",
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

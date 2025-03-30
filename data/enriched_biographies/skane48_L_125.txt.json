@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Skeppsläkare",
+            "start_year": 1919,
+            "end_year": 1919,
+            "organization": "m/s Balboa",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tillförordnad underläkare",
+            "start_year": 1921,
+            "end_year": 1922,
+            "organization": "Österåsens sanatorium",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Assistansläkare",
+            "start_year": 1922,
+            "end_year": 1922,
+            "organization": "Ljungby lasarett",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tillförordnad underläkare",
+            "start_year": 1923,
+            "end_year": 1923,
+            "organization": "Hudiksvalls lasarett",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie hospitalläkare",
+            "start_year": 1923,
+            "end_year": 1924,
+            "organization": "Strängnäs hospital",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1924,
+            "end_year": 1926,
+            "organization": "Ängelholms lasarett",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Extra provinsialläkare",
+            "start_year": 1926,
+            "end_year": 1938,
+            "organization": "Svedala distrikt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ordinarie provinsialläkare",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "Svedala distrikt",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Lenninger",
+        "middle_name": "Ragnar",
+        "gender": "Male",
+        "birth_date": "27-08-1892",
+        "birth_place": {
+            "name": "Skällvik, Östergötlands Län",
+            "latitude": 58.43220149999999,
+            "longitude": 16.5901923,
+            "formatted_address": "614 97 Skallvik, Sweden"
+        },
+        "occupation": {
+            "occupation": "Provinsialläkare",
+            "occupation_english": "District Medical Officer",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "31090.0",
+            "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Carlsson",
+                "middle_name": "Gustaf",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Agronom",
+                    "occupation_english": "Agronomist",
+                    "hisco_code_swedish": "5320.0",
+                    "hisco_description_swedish": "Agronomist"
+                }
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Person",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Svedala",
+        "latitude": 55.5089084,
+        "longitude": 13.2371097,
+        "formatted_address": "Svedala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Nyköping"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1917",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1923",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Adina",
+            "last_name": "Tengwall",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1922",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Carl",
+                "last_name": "Lenninger",
+                "middle_name": "Gustav",
+                "gender": "Male",
+                "birth_year": "1924"
+            },
+            {
+                "first_name": "Bengt",
+                "last_name": "Lenninger",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1929"
+            },
+            {
+                "first_name": "Sven",
+                "last_name": "Lenninger",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1932"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Brasilien",
+                "latitude": -14.235004,
+                "longitude": -51.92528,
+                "formatted_address": "Brazil"
+            },
+            "country_code": "BRA",
+            "year": "1919"
+        },
+        {
+            "country": {
+                "name": "Argentina",
+                "latitude": -38.416097,
+                "longitude": -63.61667199999999,
+                "formatted_address": "Argentina"
+            },
+            "country_code": "ARG",
+            "year": "1919"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "career": [
+        {
+            "position": "SAF",
+            "start_year": 1900,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Svenska Handelskammaren Paris",
+            "start_year": 1900,
+            "organization": null,
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "Aktiebolaget Bahco Stockholm",
+            "start_year": 1954,
+            "organization": "Aktiebolaget Bahco",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Okänd",
+        "last_name": "Okänd",
+        "middle_name": null,
+        "gender": "Male"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Windrup",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "children": [
+            {
+                "first_name": "Ann",
+                "last_name": "Okänd",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1958"
+            },
+            {
+                "first_name": "Lena",
+                "last_name": "Okänd",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1960"
+            }
+        ]
+    }
+}

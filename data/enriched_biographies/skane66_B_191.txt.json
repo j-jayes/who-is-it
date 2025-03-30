@@ -1,0 +1,226 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Lejonet Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Kronan Kristianstad",
+            "location": {
+                "name": "Kristianstad",
+                "latitude": 56.0293936,
+                "longitude": 14.1566778,
+                "formatted_address": "Kristianstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1940,
+            "end_year": 1941,
+            "organization": "Broby",
+            "location": {
+                "name": "Broby",
+                "latitude": 55.2493786,
+                "longitude": 10.2525575,
+                "formatted_address": "5672 Broby, Denmark"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Lejonet Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1950,
+            "end_year": null,
+            "organization": "Strömsnäsbruk",
+            "location": {
+                "name": "Strömsnäsbruk",
+                "latitude": 56.5480801,
+                "longitude": 13.7329492,
+                "formatted_address": "287 31 Strömsnäsbruk, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": "Tyringe",
+            "location": {
+                "name": "Tyringe",
+                "latitude": 56.1594501,
+                "longitude": 13.6032438,
+                "formatted_address": "282 32 Tyringe, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Stig",
+        "last_name": "Bergknut",
+        "middle_name": "V",
+        "gender": "Male",
+        "birth_date": "06-02-1918",
+        "birth_place": {
+            "name": "Hörby, Malmöhus Län",
+            "latitude": 55.8508109,
+            "longitude": 13.6599486,
+            "formatted_address": "Hörby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Apotekare",
+            "occupation_english": "Pharmacist",
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist",
+            "hisco_code_english": "41030.0",
+            "hisco_description_english": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Sigfrid",
+                "last_name": "Olsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Handlare",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Knutsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Tyringe",
+        "latitude": 56.1594501,
+        "longitude": 13.6032438,
+        "formatted_address": "282 32 Tyringe, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1937",
+            "institution": "Eslöv"
+        },
+        {
+            "degree": "Farmacie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1939",
+            "institution": "None"
+        },
+        {
+            "degree": "Apotekarexamen",
+            "degree_level": "Master's",
+            "year": "1943",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hanna",
+            "last_name": "Hagelström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Karl",
+                    "last_name": "Hagelström",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Lantbrukare",
+                        "occupation_english": "Farmer",
+                        "hisco_code_swedish": "61110.0",
+                        "hisco_description_swedish": "General Farmer",
+                        "hisco_code_english": "61110.0",
+                        "hisco_description_english": "General Farmer"
+                    }
+                },
+                {
+                    "first_name": "Öda",
+                    "last_name": "Knutsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Per",
+                "last_name": "Sigfrid",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1944"
+            },
+            {
+                "first_name": "Lars",
+                "last_name": "Vilhelm",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1947"
+            },
+            {
+                "first_name": "Knut",
+                "last_name": "Lennart",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1952"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

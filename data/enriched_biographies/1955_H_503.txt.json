@@ -1,0 +1,197 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1902,
+            "end_year": 1904,
+            "organization": "Surahammars bruks aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Konsult",
+            "start_year": 1907,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Avdelningschef",
+            "start_year": 1907,
+            "end_year": 1913,
+            "organization": "Aktiebolaget Skånska Cementgjuteriet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Teknisk chef",
+            "start_year": 1913,
+            "end_year": 1914,
+            "organization": "Helsingfors Cement- och Asfaltaffär",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1914,
+            "end_year": 1952,
+            "organization": "Byggnadsaktiebolaget Konstruktör",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Styrelseordförande",
+            "start_year": 1952,
+            "end_year": null,
+            "organization": "Byggnadsaktiebolaget Konstruktör",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Justus",
+        "last_name": "Hjorth",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "20-09-1878",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Hjorth",
+                "middle_name": "Christian",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapt.",
+                    "occupation_english": "Sea Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Fredrique",
+                "last_name": "Holmgren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Gävle",
+        "latitude": 60.6748796,
+        "longitude": 17.1412726,
+        "formatted_address": "Gävle, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1898",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "KTH",
+            "degree_level": "Bachelor's",
+            "year": "1902",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Christer-Svensson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Sven",
+                    "last_name": "Christersson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Lantbrukare",
+                        "occupation_english": "Farmer",
+                        "hisco_code_swedish": "61110.0",
+                        "hisco_description_swedish": "General Farmer",
+                        "hisco_code_english": "61110.0",
+                        "hisco_description_english": "General Farmer"
+                    }
+                },
+                {
+                    "first_name": "Chatarina",
+                    "last_name": "Hansdtr",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1907",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1905-1907"
+        }
+    ]
+}

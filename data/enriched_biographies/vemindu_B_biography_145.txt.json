@@ -1,0 +1,181 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1923,
+            "end_year": 1924,
+            "organization": "H Fölsch & Co",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": 1930,
+            "organization": "The Alfa Laval Co Ltd",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1930,
+            "end_year": 1935,
+            "organization": "AB Separator",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör och Styrelseledamot",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Serva Järnvaru AB",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Folke",
+        "last_name": "Bergman",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "09-10-1902",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Verkställande Direktör, Kapten",
+            "occupation_english": "Managing Director, Captain",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "B",
+                "last_name": "Bergman",
+                "middle_name": "O",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Justitieråd",
+                    "occupation_english": "Justice Counselor",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Walborg",
+                "last_name": "Nyman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "ÖReal",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Schartaus Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "HHS",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Handelshögskolan"
+        },
+        {
+            "degree": "Reservofficersexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Walborg",
+            "last_name": "Forsberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1924"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1930"
+        }
+    ]
+}

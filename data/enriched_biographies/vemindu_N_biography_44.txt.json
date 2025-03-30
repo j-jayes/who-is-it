@@ -1,0 +1,154 @@
+{
+    "career": [
+        {
+            "position": "Minuthandel",
+            "start_year": 1899,
+            "end_year": null,
+            "organization": "Lerbäck",
+            "location": {
+                "name": "Lerbäck",
+                "latitude": 58.9553212,
+                "longitude": 15.0586754,
+                "formatted_address": "694 96 Lerbäck, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Grosshandel och tillverkning",
+            "start_year": 1905,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": "AB Askersunds Trikåfabrik",
+            "location": {
+                "name": "Askersund",
+                "latitude": 58.88942679999999,
+                "longitude": 14.9109867,
+                "formatted_address": "Askersund, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Nilson",
+        "middle_name": "Gustav",
+        "gender": "Male",
+        "birth_date": "13-03-1880",
+        "birth_place": {
+            "name": "Hallsberg",
+            "latitude": 59.0665316,
+            "longitude": 15.10229,
+            "formatted_address": "Hallsberg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustav",
+                "last_name": "Nilson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Nilson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "Ledamot",
+            "organization": "Stadsfullmäktige"
+        },
+        {
+            "role": "Ledamot",
+            "organization": "Kyrkofullmäktige"
+        },
+        {
+            "role": "Ledamot",
+            "organization": "Fattigvårdsförvaltningen"
+        },
+        {
+            "role": "Ledamot",
+            "organization": "Gatuförvaltningen"
+        }
+    ],
+    "current_location": {
+        "name": "Askersund",
+        "latitude": 58.88942679999999,
+        "longitude": 14.9109867,
+        "formatted_address": "Askersund, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Signe",
+            "last_name": "Nilson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Läsning"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Tempelriddare"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1935"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "Ingenjörselev",
+            "start_year": 1898,
+            "end_year": 1902,
+            "organization": "North-Eastern Railway",
+            "location": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkstadsarbetare och ritare",
+            "start_year": 1902,
+            "end_year": 1904,
+            "organization": "Pennsylvania Railroad",
+            "location": {
+                "name": "U. S. A.",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Ritare",
+            "start_year": 1904,
+            "end_year": 1906,
+            "organization": "Ystads järnväg",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkmästare",
+            "start_year": 1906,
+            "end_year": 1910,
+            "organization": "Trafik Aktiebolag Grängesberg-Oxelösunds järnvägar",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Maskiningenjör",
+            "start_year": 1910,
+            "end_year": 1911,
+            "organization": "Trafik Aktiebolag Grängesberg-Oxelösunds järnvägar",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Maskindirektör",
+            "start_year": 1911,
+            "end_year": null,
+            "organization": "Trafik Aktiebolag Grängesberg-Oxelösunds järnvägar",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Harry",
+        "last_name": "Johnson",
+        "middle_name": "Oscar",
+        "gender": "Male",
+        "birth_date": "30-10-1879",
+        "birth_place": {
+            "name": "Ljusnarsberg, Örebro Län",
+            "latitude": 59.8774473,
+            "longitude": 14.9988486,
+            "formatted_address": "714 35 Ljusnarsberg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Maskindirektör",
+            "occupation_english": "Director of Engineering",
+            "hisco_code_swedish": "17140.0",
+            "hisco_description_swedish": "Instrumentalist",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Johnson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Järnvägsdirektör",
+                    "occupation_english": "Railway Director",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Mary",
+                "last_name": "Ry ött",
+                "middle_name": "Jane",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Höglandstorget",
+        "latitude": 59.3233234,
+        "longitude": 17.9397743,
+        "formatted_address": "Höglandstorget, 167 71 Bromma, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Universitetsstudier",
+            "degree_level": "Bachelor's",
+            "year": "1896-1898",
+            "institution": "University College, London"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1902",
+            "institution": "Durham College of Science, Newcastle"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Inga",
+            "last_name": "Julin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1910",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Inga",
+                "last_name": "Backman",
+                "middle_name": "Harriet",
+                "gender": "Female",
+                "birth_year": "1913"
+            },
+            {
+                "first_name": "Harry",
+                "last_name": "Douglas",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1920"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Vasaorden (RVO)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

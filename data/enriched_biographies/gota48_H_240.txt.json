@@ -1,0 +1,147 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Bengt",
+        "last_name": "Hedberg",
+        "middle_name": "Erland",
+        "gender": "Male",
+        "birth_date": "07-01-1868",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Frans",
+                "last_name": "Hedberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "författare",
+                    "occupation_english": "author",
+                    "hisco_code_swedish": "15120.0",
+                    "hisco_description_swedish": "Author",
+                    "hisco_code_english": "15120.0",
+                    "hisco_description_english": "Author"
+                }
+            },
+            {
+                "first_name": "Amanda",
+                "last_name": "Broman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Hertiglig medalj 1896",
+        "Kunglig medalj 1898"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Gränna",
+        "latitude": 58.02502339999999,
+        "longitude": 14.4700948,
+        "formatted_address": "563 32 Gränna, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1875-1880",
+            "institution": "Ateneum i Stockholm"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Tekniska skolan i Stockholm"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1891-1898",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elna",
+            "last_name": "Törnro^s",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1904",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1903"
+        },
+        {
+            "country": {
+                "name": "Skottland",
+                "latitude": 56.49067119999999,
+                "longitude": -4.2026458,
+                "formatted_address": "Scotland, UK"
+            },
+            "country_code": "None",
+            "year": "1903"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1910-1911"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1910-1911"
+        }
+    ]
+}

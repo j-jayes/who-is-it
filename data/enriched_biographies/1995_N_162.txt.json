@@ -1,0 +1,115 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1967,
+            "organization": "ICA Essve aktiebolag"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1981,
+            "end_year": 1989,
+            "organization": "ICA Essve aktiebolag"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1990,
+            "organization": "ICA partihandel aktiebolag"
+        }
+    ],
+    "person": {
+        "first_name": "K",
+        "last_name": "Nord",
+        "middle_name": "Göran",
+        "gender": "Male",
+        "birth_date": "17-08-1945",
+        "birth_place": {
+            "name": "Linköping",
+            "latitude": 58.41080700000001,
+            "longitude": 15.6213727,
+            "formatted_address": "Linköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Harry",
+                "last_name": "Nord",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Johansson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1965",
+            "institution": "None"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1968",
+            "institution": "Linköpings Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gun",
+            "last_name": "Andersson",
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "parents": [
+                {
+                    "first_name": "Herman",
+                    "last_name": "Andersson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "May",
+                    "last_name": "Karlsson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1968"
+    },
+    "honors": null,
+    "languages_spoken": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

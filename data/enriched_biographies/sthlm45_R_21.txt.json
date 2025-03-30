@@ -1,0 +1,229 @@
+{
+    "career": [
+        {
+            "position": "Telegrafassistent",
+            "start_year": 1920,
+            "end_year": 1929,
+            "organization": "Telegrafverket",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Elev",
+            "start_year": 1900,
+            "end_year": 1999,
+            "organization": "Musikkonservatoriet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Operasångare",
+            "start_year": 1930,
+            "end_year": 1935,
+            "organization": "Operan i Stettin",
+            "location": {
+                "name": "Stettin",
+                "latitude": 53.4285438,
+                "longitude": 14.5528116,
+                "formatted_address": "Szczecin, Poland"
+            },
+            "country_code": "POL"
+        },
+        {
+            "position": "Operasångare",
+            "start_year": 1930,
+            "end_year": 1935,
+            "organization": "Operan i Chemnitz",
+            "location": {
+                "name": "Chemnitz",
+                "latitude": 50.8282222,
+                "longitude": 12.9208547,
+                "formatted_address": "09 Chemnitz, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Operasångare",
+            "start_year": 1930,
+            "end_year": 1935,
+            "organization": "Operan i Frankfurt am Main",
+            "location": {
+                "name": "Frankfurt am Main",
+                "latitude": 50.1109221,
+                "longitude": 8.6821267,
+                "formatted_address": "Frankfurt, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Kammersänger",
+            "start_year": 1936,
+            "organization": "Operascenen i Dresden",
+            "location": {
+                "name": "Dresden",
+                "latitude": 51.0504088,
+                "longitude": 13.7372621,
+                "formatted_address": "01 Dresden, Germany"
+            },
+            "country_code": "DEU"
+        }
+    ],
+    "person": {
+        "first_name": "Torsten",
+        "last_name": "Ralf",
+        "middle_name": "Ivar",
+        "gender": "Male",
+        "birth_date": "02-01-1901",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Operasångare",
+            "occupation_english": "Opera Singer",
+            "hisco_code_swedish": "17145.0",
+            "hisco_description_swedish": "Singer",
+            "hisco_code_english": "17145.0",
+            "hisco_description_english": "Singer"
+        },
+        "parents": [
+            {
+                "first_name": "Hans",
+                "last_name": "Ralf",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Orgelbyggare",
+                    "occupation_english": "Organ Builder",
+                    "hisco_code_swedish": "94160.0",
+                    "hisco_description_swedish": "Organ Builder",
+                    "hisco_code_english": "94170.0",
+                    "hisco_description_english": "Piano Maker"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Granquist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Sigrid",
+            "last_name": "Wernfelt",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1925",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Danska Dannebrogsorden",
+        "Litteris et Artibus"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE"
+        },
+        {
+            "country": {
+                "name": "Jugoslavien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT"
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN"
+        }
+    ]
+}

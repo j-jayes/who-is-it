@@ -1,0 +1,201 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1919,
+            "end_year": 1925,
+            "organization": "Svenska Stenkols Aktiebolag Spetsbergen",
+            "location": {
+                "name": "Spetsbergen",
+                "latitude": 78.90136,
+                "longitude": 13.4838879,
+                "formatted_address": "Spitsbergen, Svalbard and Jan Mayen"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1926,
+            "end_year": 1929,
+            "organization": "Serenje och Loangwa-Concessions Ltd.",
+            "location": {
+                "name": "Norra Rhodesia",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1930,
+            "end_year": 1937,
+            "organization": "Skellefteå Gruvaktiebolag (senare Boliden)",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Disponent och Verkställande Direktör",
+            "start_year": 1937,
+            "organization": "Aktiebolag Dannemora Gruvor",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Einar",
+        "last_name": "Berggren",
+        "middle_name": "Ossian Gustav",
+        "gender": "Male",
+        "birth_date": "15-05-1893",
+        "birth_place": {
+            "name": "Piteå",
+            "latitude": 65.316698,
+            "longitude": 21.4800364,
+            "formatted_address": "Piteå, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Frans",
+                "last_name": "Berggren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Hamnkapten",
+                    "occupation_english": "Harbor Master",
+                    "hisco_code_swedish": "22290.0",
+                    "hisco_description_swedish": "Other Transport and Communications Supervisors"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Jansson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Dannemora",
+        "latitude": 44.7214301,
+        "longitude": -73.7237528,
+        "formatted_address": "Dannemora, NY, USA"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1911",
+            "institution": "Luleå"
+        },
+        {
+            "degree": "Filosofie Magister",
+            "degree_level": "Master's",
+            "year": "1916",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Ingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1921",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sonja",
+            "last_name": "Larsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "1905",
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Tandläkare",
+                "occupation_english": "Dentist",
+                "hisco_code_swedish": "6310.0",
+                "hisco_description_swedish": "Dentist, General",
+                "hisco_code_english": "6310.0",
+                "hisco_description_english": "Dentist, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Adolf",
+                    "last_name": "Larsson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Ombudsman",
+                        "occupation_english": "Ombudsman",
+                        "hisco_code_english": "31090.0",
+                        "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Larsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Polen",
+                "latitude": 51.919438,
+                "longitude": 19.145136,
+                "formatted_address": "Poland"
+            },
+            "country_code": "POL",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1926"
+        }
+    ]
+}

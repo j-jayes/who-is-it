@@ -1,0 +1,219 @@
+{
+    "career": [
+        {
+            "position": "rektor",
+            "start_year": 1972,
+            "end_year": 1977,
+            "organization": "Lärhögskolan Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "ordförande",
+            "start_year": 1977,
+            "end_year": 1983,
+            "organization": "Lunds universitets förvaltningsnämnd för Lärhögskolan och Musikhögskolan i Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1983,
+            "organization": "Lärhögskolan",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Bergendal",
+        "middle_name": "S",
+        "gender": "Male",
+        "birth_date": "30-06-1922",
+        "birth_place": {
+            "name": "Lund",
+            "latitude": 55.7046601,
+            "longitude": 13.1910073,
+            "formatted_address": "Lund, Sweden"
+        },
+        "occupation": {
+            "occupation": "rektor",
+            "occupation_english": "principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "37040.0",
+            "hisco_description_english": "Messenger"
+        },
+        "parents": [
+            {
+                "first_name": "Seved",
+                "last_name": "Bergendal",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lasläkare",
+                    "occupation_english": "hospital doctor",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician"
+                }
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Nordström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "gymnastikdirektör",
+                    "occupation_english": "director of gymnastics",
+                    "hisco_code_swedish": "13290.0",
+                    "hisco_description_swedish": "Other Secondary Education Teachers"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1957,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1959,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1959,
+            "end_year": null,
+            "field": "matematik"
+        },
+        {
+            "position": "universitetslektor",
+            "position_english": "university lecturer",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1961,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "board_memberships": [
+        {
+            "position": "styrelseordförande",
+            "organization": "Aktiebolaget Studentlitteratur"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "U 68",
+            "role": "sekreterare",
+            "start_year": 1968,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "organisationskommittén för Lund/Malmö högskoleregion",
+            "role": "ledamot",
+            "start_year": 1968,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Esbjörnsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "sjukgymnast",
+                "occupation_english": "physiotherapist",
+                "hisco_code_swedish": "7620.0",
+                "hisco_description_swedish": "Physiotherapist",
+                "hisco_code_english": "7620.0",
+                "hisco_description_english": "Physiotherapist"
+            },
+            "parents": [
+                {
+                    "first_name": "Richard",
+                    "last_name": "E",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kontorschef",
+                        "occupation_english": "office manager",
+                        "hisco_code_swedish": "22110.0",
+                        "hisco_description_swedish": "Clerical Supervisor, General",
+                        "hisco_code_english": "22000.0",
+                        "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Astrid",
+                    "last_name": "Jonsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "None",
+                        "occupation_english": "None",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "-1.0",
+                        "hisco_description_english": "Missing, no title"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1957",
+        "divorce_year": null,
+        "children": null
+    },
+    "publications": [
+        {
+            "title": "läroböcker i matematik",
+            "year": "None",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "om kunskapspolitik",
+            "year": "None",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ]
+}

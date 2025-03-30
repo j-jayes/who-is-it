@@ -1,0 +1,169 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1912,
+            "end_year": 1923,
+            "organization": "Västgöta Väfneri Aktiebolag",
+            "location": {
+                "name": "Älfsered",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1923,
+            "end_year": 1925,
+            "organization": "Bröder Wennerlund",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Aktiebolag Bröder Liljeros",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Aktiebolag Bröder Liljeros",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bror",
+        "last_name": "Liljeros",
+        "middle_name": "Gustaf Adolf",
+        "gender": "Male",
+        "birth_date": "06-11-1898",
+        "birth_place": {
+            "name": "Visby",
+            "latitude": 57.6348,
+            "longitude": 18.29484,
+            "formatted_address": "Visby, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "K.",
+                "last_name": "L.",
+                "middle_name": "A.",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Olga",
+                "last_name": "Ahlstedt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Borås",
+        "latitude": 57.72103500000001,
+        "longitude": 12.939819,
+        "formatted_address": "Borås, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Signe",
+            "last_name": "Lücking",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1928",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Karl",
+                "last_name": "Liljeros",
+                "middle_name": "Ivar",
+                "gender": "Male",
+                "birth_year": "1930"
+            },
+            {
+                "first_name": "Jan",
+                "last_name": "Liljeros",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1935"
+            }
+        ]
+    },
+    "hobbies": [
+        "tennis",
+        "blomsterodling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1947"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1940"
+        }
+    ]
+}

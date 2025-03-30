@@ -1,0 +1,127 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1945,
+            "organization": "skogsvårdsstyrelsen i Västernorrlands Län",
+            "location": {
+                "name": "Västernorrlands Län",
+                "latitude": 62.98552900000001,
+                "longitude": 18.1258604,
+                "formatted_address": "Västernorrland County, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1947,
+            "organization": "domänverket",
+            "country_code": "SWE"
+        },
+        {
+            "position": "jägmästare",
+            "start_year": 1963,
+            "organization": "Renbetesfjällens revir",
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Stig",
+        "last_name": "Bolin",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "29-07-1918",
+        "birth_place": {
+            "name": "Sollefteå",
+            "latitude": 63.1654065,
+            "longitude": 17.277135,
+            "formatted_address": "Sollefteå, Sweden"
+        },
+        "occupation": {
+            "occupation": "jägmästare",
+            "occupation_english": "district forest officer",
+            "hisco_code_swedish": "21230.0",
+            "hisco_description_swedish": "Farm Manager",
+            "hisco_code_english": "31090.0",
+            "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+        },
+        "parents": [
+            {
+                "first_name": "Bernhard",
+                "last_name": "Bolin",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Järnvägstjänsteman",
+                    "occupation_english": "Railway Official",
+                    "hisco_code_swedish": "39960.0",
+                    "hisco_description_swedish": "Railway Clerk"
+                }
+            },
+            {
+                "first_name": "Agnes",
+                "last_name": "Lundgren",
+                "gender": "Female"
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1939",
+            "institution": "Härnösand"
+        },
+        {
+            "degree": "Civiljägmästarexamen",
+            "degree_level": "Master's",
+            "year": "1945",
+            "institution": "Skogshögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunilla",
+            "last_name": "Andersson",
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "Jonas",
+                    "last_name": "Andersson",
+                    "gender": "Male"
+                },
+                {
+                    "first_name": "Hedda",
+                    "last_name": "Nilsson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1948",
+        "children": [
+            {
+                "first_name": "Catharina",
+                "last_name": "Bolin",
+                "gender": "Female",
+                "birth_year": "1949"
+            },
+            {
+                "first_name": "Jörgen",
+                "last_name": "Bolin",
+                "gender": "Male",
+                "birth_year": "1959"
+            }
+        ]
+    },
+    "hobbies": [
+        "jakt",
+        "fiske"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

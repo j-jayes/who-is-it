@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "bro-ingenjör",
+            "start_year": 1925,
+            "end_year": 1928,
+            "organization": "ett flertal företag i USA",
+            "location": null,
+            "country_code": "USA"
+        },
+        {
+            "position": "ingenjör",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": "J. Cederblad",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "chef",
+            "start_year": 1931,
+            "end_year": 1950,
+            "organization": "egen entreprenadfirma",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "professor i brobyggnad",
+            "start_year": 1950,
+            "end_year": null,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Asplund",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "16-06-1902",
+        "birth_place": {
+            "name": "Skön, Västernorrlands Län",
+            "latitude": 62.449003,
+            "longitude": 17.3527932,
+            "formatted_address": "863 36 Skön, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Asplund",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "disponent",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Signe",
+                "last_name": "Sandqvist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Kungliga Tekniska Högskolan",
+            "department": null,
+            "start_year": 1943,
+            "end_year": null,
+            "field": "brobyggnad"
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Chalmers Tekniska Högskola",
+            "department": null,
+            "start_year": 1950,
+            "end_year": null,
+            "field": "brobyggnad"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "Allmänna brandförsäkringsbolaget"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1924",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Alice",
+            "last_name": "Nelson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Louis",
+                    "last_name": "Nelson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "tjänsteman",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "30000.0",
+                        "hisco_description_swedish": "Clerical or Related Worker, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Wilhelmina",
+                    "last_name": "Billquist",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1930",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Ledamot av Ingenjörsvetenskapsakademien (1945)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "reservofficer 1925, major Väg- och vattenbyggnadskåren 1948",
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "artiklar i Teknisk Tidskrift, Betong, IAPC Memoires, ACI Journal med flera facktidskrifter",
+            "year": "None",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "On the Deflection Theory of Suspension Bridges (gradualavhandling 1943)",
+            "year": "1943",
+            "type": "gradualavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "extra ordinarie folkskollärare",
+            "start_year": 1901,
+            "end_year": 1903,
+            "organization": "Linköping",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "folkskollärare och organist",
+            "start_year": 1903,
+            "end_year": 1914,
+            "organization": "Hjo",
+            "location": {
+                "name": "Hjo",
+                "latitude": 58.3070702,
+                "longitude": 14.2874663,
+                "formatted_address": "Hjo, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "övningslärare",
+            "start_year": 1915,
+            "end_year": 1919,
+            "organization": "Skövde",
+            "location": {
+                "name": "Skövde",
+                "latitude": 58.3902782,
+                "longitude": 13.8461208,
+                "formatted_address": "Skövde, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "folkskoleinspektör",
+            "start_year": 1920,
+            "end_year": 1941,
+            "organization": "Älvsborgs norra inspektionsområde",
+            "location": {
+                "name": "Älvsborg",
+                "latitude": 57.6740043,
+                "longitude": 11.881866,
+                "formatted_address": "Älvsborg, Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "undervisningsråd",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "David",
+        "last_name": "Andersson",
+        "middle_name": "Elam",
+        "gender": "Male",
+        "birth_date": "05-12-1880",
+        "birth_place": {
+            "name": "Angelstad, Kronobergs Län",
+            "latitude": 56.829987,
+            "longitude": 13.758796,
+            "formatted_address": "341 94 Angelstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "undervisningsråd",
+            "occupation_english": "Counsellor of Education",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Abraham",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ångfartygsbefälhavare",
+                    "occupation_english": "Steamboat Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)"
+                }
+            },
+            {
+                "first_name": "Lovisa",
+                "last_name": "Abrahamsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "folkskolans besparingssakkunniga",
+            "role": "ledamot och sekreterare",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "1941 års lärarlönesakkunniga",
+            "role": "ledamot",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "stadsfullmäktige",
+            "organization": "Hjo"
+        },
+        {
+            "role": "stadsfullmäktige",
+            "organization": "Skövde"
+        },
+        {
+            "role": "stadsfullmäktige",
+            "organization": "Vänersborg med flera kommuner"
+        }
+    ],
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "organistexamen",
+            "degree_level": "Bachelor's",
+            "year": "1896",
+            "institution": "None"
+        },
+        {
+            "degree": "folkskollärareexamen",
+            "degree_level": "Bachelor's",
+            "year": "1901",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Svea",
+            "last_name": "Källmark",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1907",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "läkare förordnande",
+            "start_year": 1942,
+            "end_year": 1945,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1945,
+            "end_year": 1948,
+            "organization": "Mariestads lasarett",
+            "location": {
+                "name": "Mariestad",
+                "latitude": 58.7101119,
+                "longitude": 13.8213327,
+                "formatted_address": "Mariestad, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Örebro lasarett, obstetrisk-gynekologisk avdelning",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "provisialläkare",
+            "start_year": 1949,
+            "end_year": 1960,
+            "organization": "Malå träsks distrikt",
+            "location": {
+                "name": "Malå",
+                "latitude": 20.8905556,
+                "longitude": -156.6877778,
+                "formatted_address": "Mala, Lahaina, HI 96761, USA"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "distriktsläkare",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": "Lenhovda distrikt",
+            "location": {
+                "name": "Lenhovda",
+                "latitude": 56.9994108,
+                "longitude": 15.286483,
+                "formatted_address": "364 42 Lenhovda, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Ramqvist",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "13-06-1915",
+        "birth_place": {
+            "name": "Växjö",
+            "latitude": 56.8790044,
+            "longitude": 14.8058522,
+            "formatted_address": "Växjö, Sweden"
+        },
+        "occupation": {
+            "occupation": "provinsialläkare",
+            "occupation_english": "provincial doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Otto",
+                "last_name": "Ramqvist",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "telegrafkommissarie",
+                    "occupation_english": "telegraph commissioner"
+                }
+            },
+            {
+                "first_name": "Ebba",
+                "last_name": "Ljungberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lenhovda",
+        "latitude": 56.9994108,
+        "longitude": 15.286483,
+        "formatted_address": "364 42 Lenhovda, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1933",
+            "institution": "Malmö"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1937",
+            "institution": "Lund"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1942",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Rigmor",
+            "last_name": "Bisgaard",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "sjuksköterska",
+                "occupation_english": "nurse",
+                "hisco_code_swedish": "7110.0",
+                "hisco_description_swedish": "Professional Nurse, General",
+                "hisco_code_english": "7110.0",
+                "hisco_description_english": "Professional Nurse, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Jens",
+                    "last_name": "Bisgaard",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "köpman",
+                        "occupation_english": "merchant",
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Kirstine",
+                    "last_name": "Sigs-höj",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1944",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Elsebeth",
+                "last_name": "Ramqvist",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1946"
+            },
+            {
+                "first_name": "Otto",
+                "last_name": "Ramqvist",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1949"
+            }
+        ]
+    },
+    "hobbies": [
+        "botanik"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

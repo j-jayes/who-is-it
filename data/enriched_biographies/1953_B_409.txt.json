@@ -1,0 +1,233 @@
+{
+    "career": [
+        {
+            "position": "Underlöjtnant",
+            "start_year": 1901,
+            "organization": "Flottan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Löjtnant",
+            "start_year": 1903,
+            "organization": "Flottan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kapten",
+            "start_year": 1910,
+            "organization": "Flottan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kommendörkapten av 2. graden",
+            "start_year": 1919,
+            "organization": "Artilleridepartementet i Karlskrona",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kommendörkapten av 1. graden",
+            "start_year": 1923,
+            "organization": "Marinförvaltningens artilleriavdelning",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kommendör",
+            "start_year": 1931,
+            "organization": "Flottan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Varvschef",
+            "start_year": 1931,
+            "organization": "Karlskrona",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Konteramiral",
+            "start_year": 1936,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Befälhavande amiral och stationsbefälhavare",
+            "start_year": 1936,
+            "organization": "Karlskrona",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1937,
+            "organization": "Sydkustens marindistrikt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1938,
+            "end_year": 1943,
+            "organization": "Marinförvaltningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Viceamiral",
+            "start_year": 1947,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Knut",
+        "last_name": "Bjurner",
+        "middle_name": "Gunnar",
+        "gender": "Male",
+        "birth_date": "10-01-1882",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Viceamiral",
+            "occupation_english": "Vice Admiral",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "58320.0",
+            "hisco_description_english": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Gustav",
+                "last_name": "Carlsson",
+                "middle_name": "Adolf",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Filosofie Doktor",
+                    "occupation_english": "Doctor of Philosophy",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Ellen",
+                "last_name": "Hallström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Lärare",
+            "position_english": "Teacher",
+            "institution": "Kungliga Sjökrigshögskolan",
+            "department": null,
+            "start_year": 1915,
+            "end_year": 1920,
+            "field": null
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Utredningsman i försvarsdepartementet angående sjökrigsmaterielen",
+            "role": "Medlem",
+            "start_year": 1943,
+            "end_year": 1945,
+            "organization": "Försvarsdepartementet",
+            "significance": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Schram",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Fredrik",
+                    "last_name": "Schram",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Grosshandlare",
+                        "occupation_english": "Wholesaler",
+                        "hisco_code_swedish": "41020.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Alma",
+                    "last_name": "Dillberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1910",
+        "divorce_year": null,
+        "children": null
+    },
+    "honors": [
+        "Ledamot av Örlogsmannasällskapet",
+        "Hedersledamot",
+        "Ordförande"
+    ],
+    "publications": [
+        {
+            "title": "Lärobok i artilleri",
+            "year": "None",
+            "type": "Lärobok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Historisk omfattande marin materiella utvecklingen under andra världskriget",
+            "year": "1946-1948",
+            "type": "Historik",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "career": [
+        {
+            "position": "extra",
+            "start_year": 1905,
+            "end_year": 1910,
+            "organization": "statens järnvägar",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "resehandboksförfattare",
+            "start_year": 1910,
+            "organization": "svenska turistföreningen",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Anders",
+        "last_name": "Pallin",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "14-05-1881",
+        "birth_place": {
+            "name": "Gävle",
+            "latitude": 60.6748796,
+            "longitude": 17.1412726,
+            "formatted_address": "Gävle, Sweden"
+        },
+        "occupation": {
+            "occupation": "tjänsteman",
+            "occupation_english": "official",
+            "hisco_code_swedish": "30000.0",
+            "hisco_description_swedish": "Clerical or Related Worker, Specialisation Unknown",
+            "hisco_code_english": "31090.0",
+            "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Pallin",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Julia",
+                "last_name": "Pettersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "alpinist",
+            "field": "bergbestigning",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "föredragshållare",
+            "field": "föredrag",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": [
+        "alpinism",
+        "bergbestigning"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Svenska Turistföreningens silvermedalj 1924"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Med isyxa, gletscherrep och skidor",
+            "year": "1908",
+            "type": "bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "turistföreningens resehandbok över Värmland och Dalarna",
+            "year": "1923",
+            "type": "resehandbok",
+            "editions": [
+                {
+                    "edition_number": "2",
+                    "year": "1923",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Uppland och Västmanland",
+            "year": "1901",
+            "type": "resehandbok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Södermanland och Närke",
+            "year": "1901",
+            "type": "resehandbok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Västkusten och Göteborg",
+            "year": "1912",
+            "type": "resehandbok",
+            "editions": [
+                {
+                    "edition_number": "2",
+                    "year": "1918",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Stockholm",
+            "year": "1901",
+            "type": "resehandbok",
+            "editions": null,
+            "publisher": null,
+            "reception": "även på tyska",
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Norrland som kustlandskap",
+            "year": "1901",
+            "type": "resehandbok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Västergötland",
+            "year": "1915",
+            "type": "resehandbok",
+            "editions": [
+                {
+                    "edition_number": "2",
+                    "year": "1922",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Lappland",
+            "year": "1901",
+            "type": "resehandbok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Östergötland",
+            "year": "1901",
+            "type": "resehandbok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Jämtland och Härjedalen",
+            "year": "1925",
+            "type": "resehandbok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA"
+        }
+    ]
+}

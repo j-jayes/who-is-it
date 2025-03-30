@@ -1,0 +1,158 @@
+{
+    "career": [
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1898,
+            "organization": "C. Blomquists Fabrik Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot och Verkställande Direktör",
+            "start_year": 1912,
+            "end_year": null,
+            "organization": "Aktiebolaget Förenade Svenska Tobaksfabriker",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot och Verkställande Direktör",
+            "start_year": 1916,
+            "organization": "Munktells Mekaniska Verkstads Aktiebolag, Eskilstuna",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Theodor",
+        "last_name": "Jeansson",
+        "middle_name": "Vilhelm",
+        "gender": "Male",
+        "birth_date": "24-09-1875",
+        "birth_place": {
+            "name": "Kalmar",
+            "latitude": 56.6634447,
+            "longitude": 16.356779,
+            "formatted_address": "Kalmar, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Tobaksbeskattningskommittén",
+            "role": "Ledamot",
+            "start_year": 1909,
+            "end_year": 1911,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Stadsfullmäktige",
+            "organization": "Stadsfullmäktige"
+        }
+    ],
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Elementärläroverk",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Kalmar Elementärläroverk"
+        },
+        {
+            "degree": "Realskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Realskola i Tyskland"
+        },
+        {
+            "degree": "Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Schartaus Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ellen",
+            "last_name": "Linder",
+            "middle_name": "Kristina",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Maur.",
+                    "last_name": "Linder",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Direktör",
+                        "occupation_english": "Director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                }
+            ]
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1895-1896"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1898"
+        }
+    ]
+}

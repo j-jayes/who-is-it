@@ -1,0 +1,114 @@
+{
+    "career": [
+        {
+            "position": "lektor",
+            "start_year": 1940,
+            "organization": "Karolinska hal, Örebro",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1944,
+            "end_year": 1950,
+            "organization": "hal Skellefteå",
+            "location": {
+                "name": "Skellefteå",
+                "latitude": 64.750244,
+                "longitude": 20.950917,
+                "formatted_address": "Skellefteå, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "rektor",
+            "start_year": 1950,
+            "end_year": 1960,
+            "organization": "folkskoleseminarium Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärares Högskola",
+            "start_year": 1960,
+            "organization": "Lärarhögskolan Malmö",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Stenquist",
+        "middle_name": "G",
+        "gender": "Male",
+        "birth_date": "28-04-1906",
+        "birth_place": {
+            "name": "Grangärde, Kopparbergs Län",
+            "latitude": 60.2681,
+            "longitude": 14.9796,
+            "formatted_address": "770 13 Grangärde, Sweden"
+        },
+        "occupation": {
+            "occupation": "rektor",
+            "occupation_english": "Principal",
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher",
+            "hisco_code_english": "37040.0",
+            "hisco_description_english": "Messenger"
+        },
+        "parents": [
+            {
+                "first_name": "Georg",
+                "last_name": "Stenquist",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ämneslärare",
+                    "occupation_english": "Subject Teacher",
+                    "hisco_code_swedish": "13200.0",
+                    "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13990.0",
+                    "hisco_description_english": "Other Teachers"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Olsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Uppsala",
+            "start_year": 1937,
+            "end_year": 1940,
+            "field": "astronomi"
+        }
+    ],
+    "publications": [
+        {
+            "title": "A Spectrophotometric Study of the Cambridge Proper Motion Stars",
+            "year": "1937",
+            "type": "doktorsavhandling"
+        }
+    ],
+    "travels": null
+}

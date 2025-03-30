@@ -1,0 +1,173 @@
+{
+    "career": [
+        {
+            "position": "Innehavaffär",
+            "start_year": 1915,
+            "organization": "Fiskaff Västkusten, Borås"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1940,
+            "organization": "AB Västkustkonserver",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            }
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1940,
+            "organization": "AB Almas",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            }
+        }
+    ],
+    "person": {
+        "first_name": "Otto",
+        "last_name": "Bjerling",
+        "middle_name": "Bernhard",
+        "gender": "Male",
+        "birth_date": "20-01-1893",
+        "birth_place": {
+            "name": "Bollebygd",
+            "latitude": 57.66896910000001,
+            "longitude": 12.5701434,
+            "formatted_address": "Bollebygd, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Johansson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Olausdotter",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Svenska Örns Orden",
+        "Förtjänsttecken för Jakt och Motorsport",
+        "Styrelsemedalj Boråslogen av Svenska Örns Orden",
+        "Par Bricole"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Borås stads hälsovårdsnämnd",
+            "role": "Ledamot",
+            "start_year": 1940
+        },
+        {
+            "committee_name": "Svenska Fiskhandelsförbunds Riksförbund",
+            "role": "Styrelseledamot",
+            "start_year": 1940
+        },
+        {
+            "committee_name": "Fiskhandelsförbunds detaljhandelssektion",
+            "role": "Ordförande",
+            "start_year": 1940
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Borås",
+        "latitude": 57.72103500000001,
+        "longitude": 12.939819,
+        "formatted_address": "Borås, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": [
+        "Motorsport"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Körtidstabellen Idealtid",
+            "year": "1935",
+            "type": "Övrigt"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1935"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "career": [
+        {
+            "position": "Musikkonservatoriestudier",
+            "start_year": 1920,
+            "end_year": 1923,
+            "organization": "Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Studier",
+            "start_year": 1923,
+            "end_year": 1925,
+            "organization": "Berlin",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Debut",
+            "start_year": 1925,
+            "organization": "Köpenhamn",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "position": "Debut",
+            "start_year": 1926,
+            "organization": "Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konserter",
+            "start_year": 1926,
+            "organization": "Sverige, Norge, Danmark, Tyskland",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Övningslärare",
+            "start_year": 1926,
+            "organization": "Richard Anderssons musikskola",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Övningslärare",
+            "start_year": 1926,
+            "organization": "Lundholms musikinstitut",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ordförande",
+            "start_year": 1942,
+            "organization": "Svenska pianolärareförbundet",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Anton",
+        "last_name": "Kjellberg",
+        "middle_name": "Fritjof",
+        "gender": "Male",
+        "birth_date": "28-08-1901",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "Pianist",
+            "occupation_english": "Pianist",
+            "hisco_code_swedish": "17140.0",
+            "hisco_description_swedish": "Instrumentalist",
+            "hisco_code_english": "17140.0",
+            "hisco_description_english": "Instrumentalist"
+        },
+        "parents": [
+            {
+                "first_name": "Lennart",
+                "last_name": "Kjellberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Professor",
+                    "occupation_english": "Professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "von Reden zu Wendlinghausen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    }
+}

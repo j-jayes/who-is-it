@@ -1,0 +1,243 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1923,
+            "end_year": 1923,
+            "organization": "Mosebacketeatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": 1925,
+            "organization": "Mosebacketeatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1932,
+            "end_year": 1932,
+            "organization": "Liseberg",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1935,
+            "end_year": 1936,
+            "organization": "Oscarsteatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Otto",
+        "last_name": "Thoresen",
+        "middle_name": "Ivar",
+        "gender": "Male",
+        "birth_date": "04-02-1904",
+        "birth_place": {
+            "name": "Oslo",
+            "latitude": 59.9138688,
+            "longitude": 10.7522454,
+            "formatted_address": "Oslo, Norway"
+        },
+        "occupation": {
+            "occupation": "balettmästare och premiärdansör",
+            "occupation_english": null,
+            "hisco_code_swedish": "17230.0",
+            "hisco_description_swedish": "Dancer"
+        },
+        "parents": [
+            {
+                "first_name": "Edvard",
+                "last_name": "Thoresen",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fabrikör",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Harriet",
+                "last_name": "Hansen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Lill",
+            "last_name": "Platou",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Otto",
+                "last_name": "Thoresen",
+                "middle_name": "Waldemar",
+                "gender": "Male",
+                "birth_year": "1940"
+            },
+            {
+                "first_name": "Terje",
+                "last_name": "Thoresen",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1942"
+            }
+        ]
+    },
+    "hobbies": [
+        "bilsport",
+        "politik"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Riga",
+                "latitude": 56.9676941,
+                "longitude": 24.1056221,
+                "formatted_address": "Riga, Latvia"
+            },
+            "country_code": "LVA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Helsingfors",
+                "latitude": 60.16985569999999,
+                "longitude": 24.938379,
+                "formatted_address": "Helsinki, Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Riga",
+                "latitude": 56.9676941,
+                "longitude": 24.1056221,
+                "formatted_address": "Riga, Latvia"
+            },
+            "country_code": "LVA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE",
+            "year": null
+        }
+    ]
+}

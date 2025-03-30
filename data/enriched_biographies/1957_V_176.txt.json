@@ -1,0 +1,132 @@
+{
+    "career": [
+        {
+            "position": "biträdande överläkare",
+            "start_year": 1950,
+            "organization": "medicinska avdelning IV S:t Eriks sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1943,
+            "end_year": 1946,
+            "organization": "S:t Eriks sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1947,
+            "organization": "S:t Eriks sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "flygläkare av 2. gr.",
+            "start_year": 1947
+        },
+        {
+            "position": "flygläkare av 1. gr.",
+            "start_year": 1950
+        },
+        {
+            "position": "i reserv",
+            "start_year": 1954
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1949,
+            "organization": "Svenska föreningen för cardiologi"
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Werkö",
+        "middle_name": "Albert",
+        "gender": "Male",
+        "birth_date": "13-03-1918",
+        "birth_place": {
+            "name": "Karlskrona",
+            "latitude": 56.161224,
+            "longitude": 15.5869,
+            "formatted_address": "Karlskrona, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles"
+        },
+        "parents": [
+            {
+                "first_name": "Albert",
+                "last_name": "Nilsson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Peterson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "institution": "Karolinska institutet",
+            "start_year": 1950,
+            "field": "medicin"
+        }
+    ],
+    "publications": [
+        {
+            "title": "The influence of positive pressure breathing ön the circulation in man",
+            "year": "1947",
+            "type": "gradiavh."
+        },
+        {
+            "title": "ett loo-tal arbeten i invärtes medicin, främst rörande hjärt-, kärl- o. njursjukdomar samt graviditetens medicinska komplikationer",
+            "year": "None",
+            "type": "arb."
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            }
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1914,
+            "end_year": 1917,
+            "organization": "Svenska Handelsbanken",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1917,
+            "end_year": 1919,
+            "organization": "Svenska Handelsbanken",
+            "location": {
+                "name": "Skellefteå",
+                "latitude": 64.750244,
+                "longitude": 20.950917,
+                "formatted_address": "Skellefteå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1919,
+            "end_year": 1929,
+            "organization": "Svenska Handelsbanken",
+            "location": {
+                "name": "Umeå",
+                "latitude": 63.8258471,
+                "longitude": 20.2630354,
+                "formatted_address": "Umeå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": "Bankens Norrbottensavdelning",
+            "location": {
+                "name": "Luleå",
+                "latitude": 65.584819,
+                "longitude": 22.1567026,
+                "formatted_address": "Luleå, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Dahlgren",
+        "middle_name": "Tomas Ferdinand",
+        "gender": "Male",
+        "birth_date": "16-10-1892",
+        "birth_place": {
+            "name": "Gävle",
+            "latitude": 60.6748796,
+            "longitude": 17.1412726,
+            "formatted_address": "Gävle, Sweden"
+        },
+        "occupation": {
+            "occupation": "Bankdirektör",
+            "occupation_english": "Bank Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "44140.0",
+            "hisco_description_english": "Stock Broker"
+        }
+    },
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Sikfors Kraftaktiebolag"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Luleå Kol- och Materialaffär"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Luleå Tegelbruksaktiebolag"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "Ledamot",
+            "start_year": 1929,
+            "end_year": null
+        },
+        {
+            "committee_name": "Drätselkammaren",
+            "role": "Ledamot",
+            "start_year": 1929,
+            "end_year": null
+        },
+        {
+            "committee_name": "Handelskammaren",
+            "role": "Ledamot",
+            "start_year": 1929,
+            "end_year": null
+        }
+    ],
+    "current_location": {
+        "name": "Luleå",
+        "latitude": 65.584819,
+        "longitude": 22.1567026,
+        "formatted_address": "Luleå, Sweden"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Aina",
+            "last_name": "Hedensjö",
+            "middle_name": null,
+            "gender": "Female"
+        }
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Ungern",
+                "latitude": 47.162494,
+                "longitude": 19.503304,
+                "formatted_address": "Hungary"
+            },
+            "country_code": "HUN",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1938"
+        }
+    ]
+}

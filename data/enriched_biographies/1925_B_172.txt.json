@@ -1,0 +1,273 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1909,
+            "end_year": 1910,
+            "organization": "hydrografisk-biologiska kommissionen",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1908,
+            "end_year": 1913,
+            "organization": "zoologiska institutionen",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "adjunkt",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": "Göteborgs västra realskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lektor",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "undervisningsråd",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Björck",
+        "middle_name": "Anders Wilhelm",
+        "gender": "Male",
+        "birth_date": "13-10-1888",
+        "birth_place": {
+            "name": "Barsebäck, Malmöhus Län",
+            "latitude": 55.7721623,
+            "longitude": 12.9551008,
+            "formatted_address": "246 57 Barsebäck, Sweden"
+        },
+        "occupation": {
+            "occupation": "undervisningsråd",
+            "occupation_english": null
+        },
+        "parents": [
+            {
+                "first_name": "C. G.",
+                "last_name": "Björck",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kyrkoherde",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Vilma",
+                "last_name": "Eurenius",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Allmänna beredningsutskottet",
+            "role": "A.K.",
+            "start_year": 1917,
+            "end_year": 1920,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "lantbruks- fiskerisekt",
+            "role": "ledamot",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "lantbruksstyrelsens omorganisation",
+            "role": "sakkunnig",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "docentinst reformering",
+            "role": "sakkunnig",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "undervisningsväsendets centrala ledning",
+            "role": "ledamot",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "skolkommissionen",
+            "role": "ledamot och sekreterare",
+            "start_year": 1918,
+            "end_year": 1923,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1910",
+            "institution": "Lund"
+        },
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1912",
+            "institution": "Lund"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Doctorate",
+            "year": "1913",
+            "institution": "Lund"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1915",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Lizzie",
+            "last_name": "Pettersson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "00-00-1888",
+            "birth_place": null,
+            "occupation": {
+                "occupation": "filosofie licentiat",
+                "occupation_english": null,
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title"
+            },
+            "parents": [
+                {
+                    "first_name": "C.",
+                    "last_name": "P",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "sjökapt.",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "4217.0",
+                        "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1915",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i systematisk djurgeografi, fiskeribiologi, pedagogiska artiklar och recensioner i arbetarpress och tidskrifter",
+            "year": "None",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1917"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": "1917"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1923"
+        }
+    ]
+}

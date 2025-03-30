@@ -1,0 +1,189 @@
+{
+    "career": [
+        {
+            "position": "redaktör",
+            "start_year": 1902,
+            "end_year": null,
+            "organization": "Uddevalla tidning",
+            "location": {
+                "name": "Uddevalla",
+                "latitude": 58.3498003,
+                "longitude": 11.935649,
+                "formatted_address": "Uddevalla, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "redaktör",
+            "start_year": 1902,
+            "end_year": 1907,
+            "organization": "Templaren",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "redaktör",
+            "start_year": 1907,
+            "end_year": 1917,
+            "organization": "Borås dagblad",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "redaktör",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": "Biografägaren",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "ombudsman",
+            "start_year": 1917,
+            "end_year": 1926,
+            "organization": "Svenska film- och biografmannasällskapet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "ombudsman",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": "Sveriges biografägareförbund",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "landstingsman",
+            "start_year": 1910,
+            "end_year": 1919,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "andra kammaren",
+            "start_year": 1912,
+            "end_year": 1914,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "stadsfullmäktige",
+            "start_year": 1911,
+            "end_year": 1917,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Hjalmar",
+        "last_name": "Enderstedt",
+        "middle_name": "Mauritz Engelbrekt",
+        "gender": "Male",
+        "birth_date": "01-06-1880",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "redaktör, ombudsman",
+            "occupation_english": "Editor, ombudsman"
+        },
+        "parents": null
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Bergengren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "C. R.",
+                    "last_name": "Bergengren",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "bokbindare",
+                        "occupation_english": "bookbinder",
+                        "hisco_code_swedish": "92625.0",
+                        "hisco_description_swedish": "Bookbinder (Hand or Machine)"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Lundvall",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1921",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "string",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "string",
+            "year": null
+        }
+    ]
+}

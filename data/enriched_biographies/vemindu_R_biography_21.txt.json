@@ -1,0 +1,157 @@
+{
+    "career": [
+        {
+            "position": "Direktör",
+            "start_year": 1901,
+            "end_year": 1916,
+            "organization": "papp- och pappersfabriker",
+            "location": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS"
+        },
+        {
+            "position": "Egen affärsverksamhet",
+            "start_year": 1916,
+            "organization": "import av råmaterial från Ryssland",
+            "location": null,
+            "country_code": "RUS"
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Rasch",
+        "middle_name": "Herman",
+        "gender": "Male",
+        "birth_date": "04-04-1879",
+        "birth_place": {
+            "name": "Forssån, Gävleborgs Län",
+            "latitude": 61.93641639999999,
+            "longitude": 17.1852573,
+            "formatted_address": "829 95 Forsa, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "E",
+                "last_name": "Rasch",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Konsul",
+                    "occupation_english": "Consul",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator",
+                    "hisco_code_english": "20210.0",
+                    "hisco_description_english": "Government Administrator"
+                }
+            },
+            {
+                "first_name": "Carolina",
+                "last_name": "Ferner",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Karl XII o Fänr Ståls sägn",
+            "field": "Film",
+            "year": "1923-1926",
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": [
+        "RVO",
+        "FrdeMagr",
+        "TyRKHt mkrgd",
+        "Olympiska kommitténs plakett"
+    ],
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska handelskammaren",
+            "role": "Ordförande",
+            "start_year": 1916,
+            "end_year": 1917,
+            "organization": "Petrograd",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Examen",
+            "degree_level": "Bachelor's",
+            "year": "1900",
+            "institution": "Chalmers Tekniska Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "El Sofie",
+            "last_name": "Tisell",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Konststudier",
+        "Samling av äldre konst (ägde värdefull samling holländska, franska och italienska tavlor)",
+        "Ridning (segrar i flera ryttartävlingar)"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": "1919-1939"
+        },
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1919-1939"
+        }
+    ]
+}

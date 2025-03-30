@@ -1,0 +1,132 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Percy",
+        "middle_name": "Arthur Crson",
+        "gender": "Male",
+        "birth_date": "10-08-1886",
+        "birth_place": {
+            "name": "Vickleby, Kalmar Län",
+            "latitude": 56.5765675,
+            "longitude": 16.4603598,
+            "formatted_address": "386 93 Vickleby, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Carlson",
+                "middle_name": "Petter",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjöman",
+                    "occupation_english": "Sailor",
+                    "hisco_code_swedish": "98135.0",
+                    "hisco_description_swedish": "Seaman, Able or Ordinary",
+                    "hisco_code_english": "98135.0",
+                    "hisco_description_english": "Seaman, Able or Ordinary"
+                }
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Andersson",
+                "middle_name": "S.",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Elev vid konstnärsförbundets skola",
+            "degree_level": "Schooling",
+            "year": "1905-1908",
+            "institution": "Konstnärsförbundets skola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Beckman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Adolf",
+                    "last_name": "B.",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kontraktsskrivare",
+                        "occupation_english": "contract writer",
+                        "hisco_code_english": "15120.0",
+                        "hisco_description_english": "Author"
+                    }
+                },
+                {
+                    "first_name": "Selma",
+                    "last_name": "Svensson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1911-1913"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1920-1922"
+        }
+    ]
+}

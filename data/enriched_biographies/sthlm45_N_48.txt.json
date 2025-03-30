@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Tjänsteman",
+            "start_year": 1917,
+            "end_year": 1918,
+            "organization": "Svenska legationen i Petrograd",
+            "location": {
+                "name": "Petrograd",
+                "latitude": 59.9310584,
+                "longitude": 30.3609097,
+                "formatted_address": "St Petersburg, Russia"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Amanuens",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Stockholms Handelskammare",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1920,
+            "end_year": 1921,
+            "organization": "A-B Liberty Trading Co.",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Film A-B Paramount",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ombudsman",
+            "start_year": 1927,
+            "end_year": null,
+            "organization": "Sveriges Filmuthyrareförening",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "David",
+        "last_name": "Nilsson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "23-02-1894",
+        "birth_place": {
+            "name": "Gävle",
+            "latitude": 60.6748796,
+            "longitude": 17.1412726,
+            "formatted_address": "Gävle, Sweden"
+        },
+        "occupation": {
+            "occupation": "Redaktör",
+            "occupation_english": "Editor",
+            "hisco_code_swedish": "15920.0",
+            "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "ÖRKM2kl",
+        "TyskRKM3kl"
+    ],
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Filmsamfundet"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1912",
+            "institution": "Gävle"
+        },
+        {
+            "degree": "Examen",
+            "degree_level": "Bachelor's",
+            "year": "1915",
+            "institution": "Handelshögskolan i Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Dagmar",
+            "last_name": "Möller",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1931",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Klas",
+                "last_name": "David",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1932"
+            },
+            {
+                "first_name": "Cecilia",
+                "last_name": "Kristina",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1938"
+            }
+        ]
+    },
+    "hobbies": [
+        "musik",
+        "segling",
+        "skytte"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "uppsatser",
+            "year": "None",
+            "type": "facktidskr",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        }
+    ]
+}

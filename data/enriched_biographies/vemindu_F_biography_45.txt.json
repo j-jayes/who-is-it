@@ -1,0 +1,162 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1914,
+            "end_year": 1919,
+            "organization": "Aktiebolaget Bofors Nobelkrut",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": 1925,
+            "organization": "Nykvarns pappersbruks Aktiebolag/Aktiebolag Nykvarns bruk",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1925,
+            "end_year": 1930,
+            "organization": "Kramfors Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Svenska cellulosa Aktiebolag",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Fineman",
+        "middle_name": "Ludvig",
+        "gender": "Male",
+        "birth_date": "19-02-1892",
+        "birth_place": null,
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "Fineman",
+                "middle_name": "G",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "filosofie doktor",
+                    "occupation_english": "Doctor of Philosophy",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Ebba",
+                "last_name": "af Geijerstam",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1910",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Civilingenjörexamen",
+            "degree_level": "Master's",
+            "year": "1913",
+            "institution": "Kungliga Tekniska Högskolan (kemisk teknisk)"
+        },
+        {
+            "degree": "Reservofficersexamen",
+            "degree_level": "Bachelor's",
+            "year": "1912",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Greta",
+            "last_name": "Vogel",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Filateli"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1920"
+        },
+        {
+            "country": {
+                "name": "Kanada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1920"
+        }
+    ]
+}

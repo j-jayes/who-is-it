@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1911,
+            "organization": "Wezäta",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Vice verkställande direktör",
+            "start_year": 1920,
+            "end_year": 1940,
+            "organization": "Wezäta",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1924,
+            "end_year": 1940,
+            "organization": "Wezäta",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1924,
+            "organization": "Wezäta",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1940,
+            "organization": "Esseltes Göteborgsindustriaktiebolag",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1940,
+            "organization": "Wezäta-Göteborgs Litografiska aktiebolag",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bruno",
+        "last_name": "Zachrisson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "15-07-1890",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent, Boktryckare",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "W",
+                "last_name": "Zachrisson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Boktryckare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "92110.0",
+                    "hisco_description_swedish": "Printer, General"
+                }
+            },
+            {
+                "first_name": "Beda",
+                "last_name": "Carlberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Ledamot",
+            "organization": "Svenska Mässan"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Internationella boktryckarekongressen",
+            "role": "Sekreterare",
+            "start_year": 1923,
+            "organization": "Göteborg",
+            "significance": null
+        },
+        {
+            "committee_name": "Svenska Mässans styrelse och verkställande nämnd",
+            "role": "Ledamot",
+            "start_year": 1923,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1909",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "Okänt",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Lillienau",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": "1909"
+        },
+        {
+            "country": {
+                "name": "Magdeburg",
+                "latitude": 52.1131758,
+                "longitude": 11.6080863,
+                "formatted_address": "39 Magdeburg, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1910"
+        },
+        {
+            "country": {
+                "name": "Magdeburg",
+                "latitude": 52.1131758,
+                "longitude": 11.6080863,
+                "formatted_address": "39 Magdeburg, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1911"
+        },
+        {
+            "country": {
+                "name": "Bradford",
+                "latitude": 53.7937996,
+                "longitude": -1.7563583,
+                "formatted_address": "Bradford, UK"
+            },
+            "country_code": "GBR",
+            "year": "1911"
+        }
+    ]
+}

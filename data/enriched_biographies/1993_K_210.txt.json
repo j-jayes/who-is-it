@@ -1,0 +1,44 @@
+{
+    "career": [
+        {
+            "position": "Domprost",
+            "start_year": 1944,
+            "organization": "Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "M",
+        "last_name": "Krock",
+        "middle_name": "Carcline D",
+        "gender": "Female",
+        "birth_date": "18-11-1944",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Carl-Otto",
+                "last_name": "Krock",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Krigsråd",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "career": [
+        {
+            "position": "Fänrik",
+            "start_year": 1933,
+            "organization": "A 6"
+        },
+        {
+            "position": "Löjtnant",
+            "start_year": 1936,
+            "organization": "Iv"
+        },
+        {
+            "position": "Kapten",
+            "start_year": 1941
+        },
+        {
+            "position": "Major",
+            "start_year": 1952
+        },
+        {
+            "position": "Överstelöjtnant",
+            "start_year": 1957
+        },
+        {
+            "position": "Överste",
+            "start_year": 1960
+        },
+        {
+            "position": "Chef försöksavdelningen",
+            "start_year": 1955,
+            "end_year": 1956,
+            "organization": "LvSS"
+        },
+        {
+            "position": "Trupptjänst",
+            "start_year": 1947,
+            "end_year": 1949,
+            "organization": "Lv 5"
+        },
+        {
+            "position": "Trupptjänst",
+            "start_year": 1953,
+            "end_year": 1954,
+            "organization": "Lv 3"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1957,
+            "end_year": 1964,
+            "organization": "LvSS"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1964,
+            "end_year": 1971,
+            "organization": "Lv 3"
+        }
+    ],
+    "person": {
+        "first_name": "Birger",
+        "last_name": "Olin",
+        "middle_name": "G A",
+        "gender": "Male",
+        "birth_date": "03-03-1911",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överste",
+            "occupation_english": "Colonel",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "58320.0",
+            "hisco_description_english": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Olin",
+                "middle_name": "Oscar",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "1:e livmedikus",
+                    "occupation_english": "First Life Physician",
+                    "hisco_code_swedish": "6105.0",
+                    "hisco_description_swedish": "General Physician"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Lundeberg",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Elev",
+            "institution": "AIHS",
+            "start_year": 1941,
+            "end_year": 1943
+        },
+        {
+            "position": "Generalstabsofficer aspirant",
+            "institution": "AIHS",
+            "start_year": 1944,
+            "end_year": 1947
+        },
+        {
+            "position": "Lärare",
+            "institution": "AIHS",
+            "start_year": 1949,
+            "end_year": 1951
+        },
+        {
+            "position": "Elev",
+            "institution": "AIOS",
+            "start_year": 1951,
+            "end_year": 1953
+        },
+        {
+            "position": "Elev",
+            "institution": "LvSS",
+            "start_year": 1957
+        }
+    ],
+    "awards": [
+        "LKrVA 1959"
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ulla",
+            "last_name": "Ribbing",
+            "gender": "Female",
+            "birth_date": "1918",
+            "parents": [
+                {
+                    "first_name": "Peder",
+                    "last_name": "Ribbing",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Godsägare",
+                        "occupation_english": "Estate Owner",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Agnete",
+                    "last_name": "Sporon",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1939"
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "career": [
+        {
+            "position": "Färgmästare",
+            "start_year": 1899,
+            "end_year": 1901,
+            "organization": "Kasthalls Mattfabrik",
+            "location": {
+                "name": "Kinna",
+                "latitude": 57.506158,
+                "longitude": 12.6971981,
+                "formatted_address": "Kinna, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Färgmästare",
+            "start_year": 1901,
+            "end_year": 1917,
+            "organization": "Evedals Fabrik i Borås, sedermera Sveriges Förenade Trikåfabriker avdelning E",
+            "location": {
+                "name": "Borås",
+                "latitude": 57.72103500000001,
+                "longitude": 12.939819,
+                "formatted_address": "Borås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Innehavare",
+            "start_year": 1917,
+            "end_year": 1946,
+            "organization": "Nils Haldens Färgeri",
+            "location": {
+                "name": "Fritsla",
+                "latitude": 57.5577891,
+                "longitude": 12.7855095,
+                "formatted_address": "511 72 Fritsla, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Halden",
+        "middle_name": "Gustaf Alfred",
+        "gender": "Male",
+        "birth_date": "14-02-1874",
+        "birth_place": {
+            "name": "Jönköping",
+            "latitude": 57.78261370000001,
+            "longitude": 14.1617876,
+            "formatted_address": "Jönköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Israel",
+                "last_name": "Johnson-Halden",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Konstförvant",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "92110.0",
+                    "hisco_description_swedish": "Printer, General"
+                }
+            },
+            {
+                "first_name": "Dorothea",
+                "last_name": "Helberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "kommunalnämnd",
+            "role": "ordförande",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "kommunalfullmäktige",
+            "role": "ledamot",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "kyrkofullmäktige",
+            "role": "ledamot",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Fritsla Röda Korskrets",
+            "role": "ordförande",
+            "start_year": 1934,
+            "end_year": 1943,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Jönköping",
+        "latitude": 57.78261370000001,
+        "longitude": 14.1617876,
+        "formatted_address": "Jönköping, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Hanma",
+            "last_name": "Ahl",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1924",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1915"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1926"
+        }
+    ]
+}

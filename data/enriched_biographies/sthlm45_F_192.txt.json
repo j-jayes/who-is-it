@@ -1,0 +1,217 @@
+{
+    "career": [
+        {
+            "position": "Elev",
+            "start_year": 1900,
+            "end_year": 1903,
+            "organization": "Otto Meyers Konstgjuteriverkstad",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Elev",
+            "start_year": 1903,
+            "end_year": 1906,
+            "organization": "Högre Konstindustriella skolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Gesäll",
+            "start_year": 1907,
+            "end_year": null,
+            "organization": "Stockholms Metallarbetareförening",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Egen mästare",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Borgare",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överlärare",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Tekniska skolan, Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Färngren",
+        "middle_name": "August",
+        "gender": "Male",
+        "birth_date": "27-11-1884",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "skulptör, ciselör, silversmidesmästare",
+            "occupation_english": null
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Fredrik F.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "urmakeriidkare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "84222.0",
+                    "hisco_description_swedish": "Watch and Clock Assembler or Repairer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Waldius",
+                "middle_name": "Sofia",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Sveriges Hantverksorganisation:s Guldmedalj",
+        "Skyttes Guldmedalj",
+        "Stockholms Allmänna Förening:s förtjänst silvermedalj",
+        "Silvermedalj vid konstutställningen i San Francisco 1915"
+    ],
+    "board_memberships": [
+        {
+            "position": "Ledamot i styrelsen",
+            "organization": "Stockholms Stads Hantverksförening"
+        },
+        {
+            "position": "Ledamot i styrelsen",
+            "organization": "Stockholms Stads Hantverksförenings lotteri"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Svensson",
+            "middle_name": "Augusta",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Vasaorden"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": [
+        "Ständig ledamot i Konstnärsklubben",
+        "Ständig ledamot i Konsthantverkarnas Gille"
+    ],
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": null
+        }
+    ]
+}

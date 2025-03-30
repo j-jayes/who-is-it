@@ -1,0 +1,181 @@
+{
+    "career": [
+        {
+            "position": "Assistent i allmän metallografi",
+            "start_year": 1929,
+            "end_year": 1929,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Laboratoriechef",
+            "start_year": 1929,
+            "end_year": 1931,
+            "organization": "Höganäs-Billesholms Aktiebolags centrallaboratorium",
+            "location": {
+                "name": "Höganäs",
+                "latitude": 56.2006388,
+                "longitude": 12.5553288,
+                "formatted_address": "Höganäs, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chefingenjör",
+            "start_year": 1931,
+            "end_year": 1934,
+            "organization": "Glafva Glasbruks Aktiebolag",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chef för konsultavdelningen för järn- och gruvindustri",
+            "start_year": 1934,
+            "organization": "Svenska Kullagerfabriken",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Knut",
+        "last_name": "Lundström",
+        "middle_name": "Wilhelm Axel",
+        "gender": "Male",
+        "birth_date": "26-05-1901",
+        "birth_place": {
+            "name": "Risinge, Östergötlands Län",
+            "latitude": 58.7024492,
+            "longitude": 15.8448957,
+            "formatted_address": "612 92 Risinge, Sweden"
+        },
+        "occupation": {
+            "occupation": "Bergsingenjör",
+            "occupation_english": "Mining Engineer",
+            "hisco_code_swedish": "2710.0",
+            "hisco_description_swedish": "Mining Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "K",
+                "last_name": "Lundström",
+                "middle_name": "M W",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Brukskamrer",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Anna Lisa",
+                "last_name": "Karlsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1921",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Bergsingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1929",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingela",
+            "last_name": "Busck",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CSK",
+            "year": null
+        }
+    ]
+}

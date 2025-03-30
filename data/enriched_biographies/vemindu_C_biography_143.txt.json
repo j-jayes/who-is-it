@@ -1,0 +1,154 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "organization": "Degerfors Järnverks Aktiebolag",
+            "location": {
+                "name": "Degerfors",
+                "latitude": 59.2353962,
+                "longitude": 14.4299301,
+                "formatted_address": "Degerfors, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Anders",
+        "last_name": "Collin",
+        "middle_name": "Oskar",
+        "gender": "Male",
+        "birth_date": "01-12-1893",
+        "birth_place": {
+            "name": "Stora Tuna, Kopparbergs Län",
+            "latitude": 60.4470971,
+            "longitude": 15.4793016,
+            "formatted_address": "784 63 Stora Tuna, Sweden"
+        },
+        "occupation": {
+            "occupation": "Ingenjör",
+            "occupation_english": "Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "C",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Hemmansägare",
+                    "occupation_english": "Home Owner",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "h",
+                "last_name": "h",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Byggnadsnämnd",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Utrymnings Kommitté",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Degerfors",
+        "latitude": 59.2353962,
+        "longitude": 14.4299301,
+        "formatted_address": "Degerfors, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Bergsingenjörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "okänt",
+            "institution": "Falu bergsskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Järnberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Konst",
+        "Foto",
+        "Filmning"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1938"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1938"
+        }
+    ]
+}

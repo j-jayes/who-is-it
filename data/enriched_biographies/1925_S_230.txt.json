@@ -1,0 +1,183 @@
+{
+    "career": [
+        {
+            "position": "kamrer",
+            "start_year": 1893,
+            "end_year": 1899,
+            "organization": "livförsäkringsaktiebolag Standards svenska avdelning",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "kamrer och kontorschef",
+            "start_year": 1899,
+            "organization": "livförsäkringsaktiebolag Trygg",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "ställföreträdande direktör",
+            "start_year": 1912,
+            "organization": "livförsäkringsaktiebolag Trygg",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "verkställande direktör",
+            "start_year": 1913,
+            "organization": "livförsäkringsaktiebolag Trygg",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Olof",
+        "last_name": "Sjöberg",
+        "middle_name": "Sven Gabriel",
+        "gender": "Male",
+        "birth_date": "09-07-1863",
+        "birth_place": {
+            "name": "Sjöhaga, Skaraborgs Län",
+            "latitude": 58.50831119999999,
+            "longitude": 13.7473761,
+            "formatted_address": "Sjöhaga Ungdomsgård 1, 541 97 Lerdala, Sweden"
+        },
+        "occupation": {
+            "occupation": "försäkringsdirektör",
+            "occupation_english": "insurance director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "P. H.",
+                "last_name": "S.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Gustafva",
+                "last_name": "Lokrantz",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1885",
+            "institution": "Skara"
+        },
+        {
+            "degree": "juridikstudier",
+            "degree_level": "Bachelor's",
+            "year": "1886-1892",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elin",
+            "last_name": "Lokrantz",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gust.",
+                    "last_name": "Lokrantz",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "apotekare",
+                        "occupation_english": "pharmacist",
+                        "hisco_code_swedish": "6710.0",
+                        "hisco_description_swedish": "Pharmacist",
+                        "hisco_code_english": "41030.0",
+                        "hisco_description_english": "Working Proprietor (Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Helena",
+                    "last_name": "Pyhlson",
+                    "middle_name": "Sofia",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1898",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1900"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1902"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1906"
+        }
+    ]
+}

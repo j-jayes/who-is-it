@@ -1,0 +1,48 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Lundqvist",
+        "middle_name": null,
+        "gender": "Male"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Unknown",
+            "last_name": "Unknown",
+            "middle_name": null,
+            "gender": "Female"
+        },
+        "marriage_year": "1937",
+        "children": null
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        }
+    ]
+}

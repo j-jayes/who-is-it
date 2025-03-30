@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "Verkställande Ingenjör",
+            "start_year": 1916,
+            "end_year": 1918,
+            "organization": "Tidaholms Bruks AB:s bil- och vagnverkstäder",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Chef",
+            "start_year": 1918,
+            "end_year": 1919,
+            "organization": "AB Nord Kullager",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1919,
+            "end_year": 1921,
+            "organization": "AB Bofors’ Standard-fabrik",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Konsult Ingenjör",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "egen firma",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Martin",
+        "middle_name": "Rudolf",
+        "gender": "Male",
+        "birth_date": "21-04-1885",
+        "birth_place": {
+            "name": "Vittskövle, Kristianstads Län",
+            "latitude": 55.8541962,
+            "longitude": 14.1353171,
+            "formatted_address": "297 91 Vittskövle, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "R",
+                "last_name": "W",
+                "middle_name": "L",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Godsägare",
+                    "occupation_english": "Estate Owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Gerda",
+                "last_name": "Holmberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Tf Professor",
+            "position_english": "Acting Professor",
+            "institution": "Alnarps lantbruksinstitut",
+            "department": null,
+            "start_year": 1931,
+            "end_year": 1933,
+            "field": "fysik och redskapslära"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Byggt sockersilos",
+            "field": "Byggnadskonstruktion",
+            "year": "1933",
+            "significance": null,
+            "recognized_by": "Arlöv och Örtofta"
+        },
+        {
+            "title": "Byggt sockersilos",
+            "field": "Byggnadskonstruktion",
+            "year": "1934",
+            "significance": null,
+            "recognized_by": "Ystad och Göteborg"
+        },
+        {
+            "title": "Byggt sockersilos",
+            "field": "Byggnadskonstruktion",
+            "year": "1935",
+            "significance": null,
+            "recognized_by": "Stockholm"
+        },
+        {
+            "title": "Byggt sockersilos",
+            "field": "Byggnadskonstruktion",
+            "year": "1936",
+            "significance": null,
+            "recognized_by": "Visby"
+        },
+        {
+            "title": "Byggt spannmåls-silo",
+            "field": "Byggnadskonstruktion",
+            "year": "1934",
+            "significance": null,
+            "recognized_by": "Malmö"
+        }
+    ],
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Tekniska gymnasiet i Malmö"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Maskinindustri föreningens standardiseringskommitté",
+            "role": "Ledamot",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Statens maskin- och redskapsprovningsnämnd i Alnarp",
+            "role": "Teknisk ledamot",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Mogenhetsexamen",
+            "degree_level": "Schooling",
+            "year": "1902",
+            "institution": "Kristianstad"
+        },
+        {
+            "degree": "KTH (E)",
+            "degree_level": "Bachelor's",
+            "year": "1903-1906",
+            "institution": "KTH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gulli",
+            "last_name": "Breitholtz",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

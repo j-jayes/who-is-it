@@ -1,0 +1,182 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1887,
+            "end_year": 1888,
+            "organization": "Beskowska skolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ledare",
+            "start_year": 1892,
+            "end_year": 1893,
+            "organization": "Propedeutisk kurs i fysik vid Stockholms Högskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1893,
+            "end_year": 1904,
+            "organization": "Högre allmänna läroverket",
+            "location": {
+                "name": "Vänersborg",
+                "latitude": 58.3797283,
+                "longitude": 12.3248032,
+                "formatted_address": "Vänersborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1904,
+            "end_year": 1923,
+            "organization": "Stockholms högre allmänna läroverk å Södermalm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "E",
+        "last_name": "S",
+        "middle_name": "J",
+        "gender": "Male",
+        "birth_date": "09-01-1858",
+        "birth_place": {
+            "name": "Norsjö, Västerbottens Län",
+            "latitude": 64.9135093,
+            "longitude": 19.4826413,
+            "formatted_address": "Norsjö, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Katarina",
+                "last_name": "Grape",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1880,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1885,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1888,
+            "end_year": 1892,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Deltagande i jordmagnetisk expedition till Spetsbergen",
+            "field": "Geomagnetism",
+            "year": "1882",
+            "significance": "Studier av jordens magnetfält",
+            "recognized_by": null
+        },
+        {
+            "title": "Deltagande i gradmätnings expedition till Spetsbergen",
+            "field": "Geodesi",
+            "year": "1899",
+            "significance": "Deltog i en expedition för att utföra gradmätningar",
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Om isförhållanden i Sveriges rinnande vatten",
+            "year": "None",
+            "type": "None"
+        },
+        {
+            "title": "Observations au Cap Thordsen, Spitzberg par l’expéd. suéd.",
+            "year": "None",
+            "type": "None"
+        },
+        {
+            "title": "Die magnetische Inklination in Uppsala",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Spetsbergen",
+                "latitude": 78.90136,
+                "longitude": 13.4838879,
+                "formatted_address": "Spitsbergen, Svalbard and Jan Mayen"
+            },
+            "country_code": "SJM",
+            "year": "1882"
+        },
+        {
+            "country": {
+                "name": "Spetsbergen",
+                "latitude": 78.90136,
+                "longitude": 13.4838879,
+                "formatted_address": "Spitsbergen, Svalbard and Jan Mayen"
+            },
+            "country_code": "SJM",
+            "year": "1899"
+        }
+    ]
+}

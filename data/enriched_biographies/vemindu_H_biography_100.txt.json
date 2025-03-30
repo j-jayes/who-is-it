@@ -1,0 +1,182 @@
+{
+    "career": [
+        {
+            "position": "Reseinspektör",
+            "start_year": 1931,
+            "end_year": 1934,
+            "organization": "Försäkringsbolaget Göta",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Generaldirektör agent",
+            "start_year": 1934,
+            "end_year": 1942,
+            "organization": "Victoria zu Berlin",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1942,
+            "organization": "Försäkringsbolaget Liv.Göta",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Heinz",
+        "last_name": "Hammarstrand",
+        "middle_name": "Carl Richard Greiff-",
+        "gender": "Male",
+        "birth_date": "13-07-1908",
+        "birth_place": {
+            "name": "Berlin",
+            "latitude": 52.52000659999999,
+            "longitude": 13.404954,
+            "formatted_address": "Berlin, Germany"
+        },
+        "occupation": {
+            "occupation": "Kamrer",
+            "occupation_english": "Treasurer",
+            "hisco_code_swedish": "11010.0",
+            "hisco_description_swedish": "Accountant, General"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "H",
+                "middle_name": "T",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Försäkringsdirektör",
+                    "occupation_english": "Insurance Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Isse",
+                "last_name": "Jaeger",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1927",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margareta",
+            "last_name": "Malm",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1931"
+        }
+    ]
+}

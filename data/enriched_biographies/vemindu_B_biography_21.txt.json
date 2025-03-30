@@ -1,0 +1,190 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1904,
+            "end_year": 1905,
+            "organization": "Bank",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Redaktör",
+            "start_year": 1906,
+            "end_year": 1909,
+            "organization": "Svenska Telegrambyrån",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Hälftenägare",
+            "start_year": 1909,
+            "organization": "J O Baum-gardts pianofabrik",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Jonas",
+        "last_name": "Baumgardt",
+        "middle_name": "Edvard",
+        "gender": "Male",
+        "birth_date": "25-10-1880",
+        "birth_place": {
+            "name": "Linköping",
+            "latitude": 58.41080700000001,
+            "longitude": 15.6213727,
+            "formatted_address": "Linköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Fabrikör",
+            "occupation_english": "Manufacturer"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "Baumgardt",
+                "middle_name": "O",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fabrikör",
+                    "occupation_english": "Manufacturer"
+                }
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Nestor",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Fastighetsaktiebolaget öster-gyllen"
+        },
+        {
+            "position": "Revisor",
+            "organization": "Fastighetsaktiebolaget Västanstång"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Linköpings fattigvårdsstyrelse",
+            "role": "Ordförande",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "Ledamot",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Byggnadsnämnden",
+            "role": "Suppleant",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Linköping",
+        "latitude": 58.41080700000001,
+        "longitude": 15.6213727,
+        "formatted_address": "Linköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Göteborgs handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Lilljequist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "None",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Fiske",
+        "Svamp"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1910"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1911"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1913"
+        }
+    ]
+}

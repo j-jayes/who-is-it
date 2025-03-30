@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Undelöjtnant",
+            "start_year": 1895,
+            "end_year": null,
+            "organization": "Fortifikationen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Löjtnant",
+            "start_year": 1898,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kapten",
+            "start_year": 1905,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Major",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1908,
+            "end_year": 1917,
+            "organization": "SKS",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Eneström",
+        "middle_name": "Gustaf Henrik",
+        "gender": "Male",
+        "birth_date": "01-09-1874",
+        "birth_place": null,
+        "occupation": {
+            "occupation": "Major",
+            "occupation_english": "Major",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "58320.0",
+            "hisco_description_english": "Officer"
+        },
+        "parents": [
+            {
+                "first_name": "Richard",
+                "last_name": "Eneström",
+                "middle_name": "Adolf Maximilian",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Emelie",
+                "last_name": "Engelbrecht",
+                "middle_name": "Augusta",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1892",
+            "institution": "Norrköping"
+        },
+        {
+            "degree": "AIHShk",
+            "degree_level": "Schooling",
+            "year": "1896-1900",
+            "institution": "Allmänna Idrottshögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maggie",
+            "last_name": "Hallbäck",
+            "middle_name": "Maria",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1905",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Alice",
+                "last_name": "Eneström",
+                "middle_name": "Maria",
+                "gender": "Female",
+                "birth_year": "1906"
+            },
+            {
+                "first_name": "Elsa",
+                "last_name": "Eneström",
+                "middle_name": "Margareta",
+                "gender": "Female",
+                "birth_year": "1911"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "RSO",
+        "RItSitMLO",
+        "RP-KO",
+        "RRumSO"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Portugal",
+                "latitude": 39.39987199999999,
+                "longitude": -8.224454,
+                "formatted_address": "Portugal"
+            },
+            "country_code": "PRT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        }
+    ]
+}

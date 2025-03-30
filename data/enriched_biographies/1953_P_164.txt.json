@@ -1,0 +1,123 @@
+{
+    "career": [
+        {
+            "position": "attaché",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": "Utrikesdepartementet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "envoyé",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Djakarta",
+                "latitude": -6.1944491,
+                "longitude": 106.8229198,
+                "formatted_address": "Jakarta, Indonesia"
+            },
+            "country_code": "IDN"
+        }
+    ],
+    "person": {
+        "first_name": "Malte",
+        "last_name": "Pripp",
+        "middle_name": "Johan Hjalmar",
+        "gender": "Male",
+        "birth_date": "04-06-1901",
+        "birth_place": {
+            "name": "Landskrona",
+            "latitude": 55.8703477,
+            "longitude": 12.8300802,
+            "formatted_address": "Landskrona, Sweden"
+        },
+        "occupation": {
+            "occupation": "envoyé",
+            "occupation_english": "envoy",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "Hjalmar",
+                "last_name": "Pripp",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "löjtnant",
+                    "occupation_english": "Lieutenant",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Ewerlöf",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djakarta, Indonesien",
+        "latitude": -6.1944491,
+        "longitude": 106.8229198,
+        "formatted_address": "Jakarta, Indonesia"
+    },
+    "education": [
+        {
+            "degree": "jur. kand.",
+            "degree_level": "Master's",
+            "year": "1927",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Storbritannien",
+                "latitude": 55.378051,
+                "longitude": -3.435973,
+                "formatted_address": "United Kingdom"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

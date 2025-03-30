@@ -1,0 +1,199 @@
+{
+    "career": [
+        {
+            "position": "Chef",
+            "start_year": 1943,
+            "end_year": 1946,
+            "organization": "Ystads Skeppsivar",
+            "location": {
+                "name": "Ystad",
+                "latitude": 55.4295051,
+                "longitude": 13.8200308,
+                "formatted_address": "Ystad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Ystads Kvinnliga Bilkår",
+            "location": {
+                "name": "Ystad",
+                "latitude": 55.4295051,
+                "longitude": 13.8200308,
+                "formatted_address": "Ystad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": "Ystads Lottakår",
+            "location": {
+                "name": "Ystad",
+                "latitude": 55.4295051,
+                "longitude": 13.8200308,
+                "formatted_address": "Ystad, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Eugénie",
+        "last_name": "Holm",
+        "middle_name": "Sophie",
+        "gender": "Female",
+        "birth_date": "19-05-1904",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Nattenson",
+                "middle_name": "R.",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Kahn",
+                "middle_name": "Deborah",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ystad",
+        "latitude": 55.4295051,
+        "longitude": 13.8200308,
+        "formatted_address": "Ystad, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Wallinska skolan",
+            "degree_level": "Schooling",
+            "year": "1923",
+            "institution": "Wallinska skolan"
+        },
+        {
+            "degree": "Åkerströms hushållsskola",
+            "degree_level": "Schooling",
+            "year": "1900",
+            "institution": "Åkerströms hushållsskola"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1900",
+            "institution": "Stockholms högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Yngve",
+            "last_name": "Holm",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Ingenjör",
+                "occupation_english": "Engineer",
+                "hisco_code_swedish": "2000.0",
+                "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                "hisco_code_english": "84100.0",
+                "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+            },
+            "parents": null
+        },
+        "marriage_year": "1925",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Anne",
+                "last_name": "Marie",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1926"
+            },
+            {
+                "first_name": "Styrbjörn",
+                "last_name": "Holm",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1928"
+            },
+            {
+                "first_name": "Ulf",
+                "last_name": "Holm",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1933"
+            },
+            {
+                "first_name": "Rut",
+                "last_name": "Elisabeth",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1935"
+            }
+        ]
+    },
+    "hobbies": [
+        "segling",
+        "taxar"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Oxford",
+                "latitude": 51.7520209,
+                "longitude": -1.2577263,
+                "formatted_address": "Oxford, UK"
+            },
+            "country_code": "GBR",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "Genève",
+                "latitude": 46.2043907,
+                "longitude": 6.1431577,
+                "formatted_address": "Geneva, Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1924"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1925"
+        }
+    ]
+}

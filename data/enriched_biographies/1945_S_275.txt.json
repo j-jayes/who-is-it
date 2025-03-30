@@ -1,0 +1,206 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Sjöberg",
+        "middle_name": "Axel",
+        "gender": "Male",
+        "birth_date": "06-11-1866",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Konstnär",
+            "occupation_english": "Artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Sjöberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kyrkvaktmästare",
+                    "occupation_english": "Church Warden",
+                    "hisco_code_swedish": "55140.0",
+                    "hisco_description_swedish": "Verger"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Friberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Erhöll hertiglig medalj",
+            "field": "Historiemåleri",
+            "recognized_by": "Konstakademien"
+        },
+        {
+            "title": "Silvermedalj",
+            "field": "Utställning",
+            "recognized_by": "Paris"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Konstakademien"
+        },
+        {
+            "degree": "Ciselörelev",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Litograf",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Fredell",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "And.",
+                    "last_name": "Fredell",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Trävaruhandlare",
+                        "occupation_english": "Timber merchant",
+                        "hisco_code_swedish": "41020.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                        "hisco_code_english": "41025.0",
+                        "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Gustava",
+                    "last_name": "Israelson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1896",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Bland kobbar och skär, Text och skärgårdsteckningar av Axel Sjöberg",
+            "year": "1895",
+            "type": "Book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Sankt Petersburg",
+                "latitude": 59.9310584,
+                "longitude": 30.3609097,
+                "formatted_address": "St Petersburg, Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Venedig",
+                "latitude": 45.440379,
+                "longitude": 12.3159547,
+                "formatted_address": "Venice, Metropolitan City of Venice, Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Pittsburgh",
+                "latitude": 40.4386612,
+                "longitude": -79.99723519999999,
+                "formatted_address": "Pittsburgh, PA, USA"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

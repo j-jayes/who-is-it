@@ -1,0 +1,222 @@
+{
+    "career": [
+        {
+            "position": "Assistent",
+            "start_year": 1908,
+            "end_year": 1912,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1910,
+            "end_year": 1912,
+            "organization": "Patent- och Registreringsverket",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tillförordnad lektor",
+            "start_year": 1915,
+            "end_year": 1915,
+            "organization": "Tekniska Elementarskolan",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1915,
+            "end_year": 1920,
+            "organization": "ASEA:s materiallaboratorium",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överingjör",
+            "start_year": 1920,
+            "end_year": 1940,
+            "organization": "ASEA:s Ludvika-avdelning",
+            "location": {
+                "name": "Ludvika",
+                "latitude": 60.152358,
+                "longitude": 15.191639,
+                "formatted_address": "Ludvika, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "ASEA:s anläggningsavdelning",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Eriksson",
+        "middle_name": "Erik Gabriel",
+        "gender": "Male",
+        "birth_date": "28-01-1886",
+        "birth_place": {
+            "name": "Undersåker, Jämtlands Län",
+            "latitude": 63.31415089999999,
+            "longitude": 13.2528978,
+            "formatted_address": "837 95 Undersåker, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Eriksson",
+                "middle_name": "E",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överbanmästare",
+                    "occupation_english": "Chief Track Supervisor",
+                    "hisco_code_english": "22000.0",
+                    "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Birgitta",
+                "last_name": "Agerman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "AB Egna Hem Ludvika"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Träimpregnerings AB Ludvika"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "Kommunala uppdrag",
+            "organization": "Kommunen"
+        }
+    ],
+    "current_location": {
+        "name": "Västerås",
+        "latitude": 59.60990049999999,
+        "longitude": 16.5448091,
+        "formatted_address": "Västerås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "KTH",
+            "degree_level": "Master's",
+            "year": "1908",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märta",
+            "last_name": "Dahlqvist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Vasaorden",
+        "Ledamot av Ingenjörsvetenskapsakademien"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Upps i eltekn ämn",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1915"
+        }
+    ]
+}

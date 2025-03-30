@@ -1,0 +1,194 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Stig",
+        "last_name": "Claesson",
+        "middle_name": "Melker",
+        "gender": "Male",
+        "birth_date": "05-02-1917",
+        "birth_place": {
+            "name": "Kumla församling, Örebro Län",
+            "latitude": 59.1196466,
+            "longitude": 15.1543683,
+            "formatted_address": "Södra Kungsvägen 56, 692 38 Kumla, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Wiktor",
+                "last_name": "Claesson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "verkmästare",
+                    "occupation_english": "foreman",
+                    "hisco_code_swedish": "22610.0",
+                    "hisco_description_swedish": "Production Supervisor or Foreman, General",
+                    "hisco_code_english": "22610.0",
+                    "hisco_description_english": "Production Supervisor or Foreman, General"
+                }
+            },
+            {
+                "first_name": "Ruth",
+                "last_name": "Johansson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie kandidat",
+            "institution": "None",
+            "start_year": 1939
+        },
+        {
+            "position": "filosofie licentiat",
+            "institution": "None",
+            "start_year": 1942
+        },
+        {
+            "position": "filosofie doktor",
+            "institution": "None",
+            "start_year": 1946
+        },
+        {
+            "position": "docent",
+            "institution": "None",
+            "start_year": 1946
+        },
+        {
+            "position": "professor",
+            "institution": "Uppsala",
+            "department": "fysikalisk kemi",
+            "start_year": 1949
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Moring",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "filosofie licentiat",
+                "occupation_english": "Philosophiae licentiatus",
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title"
+            },
+            "parents": [
+                {
+                    "first_name": "Ivar",
+                    "last_name": "Moring",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "läroverksadjunkt",
+                        "occupation_english": "teacher",
+                        "hisco_code_swedish": "13200.0",
+                        "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+                        "hisco_code_english": "13020.0",
+                        "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                    }
+                },
+                {
+                    "first_name": "Jussy",
+                    "last_name": "Nyquist",
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "filosofie kandidat",
+                        "occupation_english": "Bachelor of Philosophy",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "13100.0",
+                        "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": [],
+    "honors": [
+        "LVS 1950"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Studies ön Adsorption and Adsorption Analysis with Special Reference to Ho-mologous Series",
+            "year": "1946",
+            "type": "avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "m. fl. arb. i kromatografi o. fysikal. kemi",
+            "year": "None",
+            "type": "None",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1946-1948"
+        },
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "None"
+        }
+    ]
+}

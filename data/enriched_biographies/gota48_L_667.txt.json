@@ -1,0 +1,199 @@
+{
+    "career": [
+        {
+            "position": "Tjänsteman",
+            "start_year": 1929,
+            "organization": "Försäkringsaktiebolaget Freja"
+        },
+        {
+            "position": "Tjänsteman",
+            "start_year": 1930,
+            "end_year": 1936,
+            "organization": "Försäkringsaktiebolaget Norrland"
+        },
+        {
+            "position": "Tjänsteman",
+            "start_year": 1936,
+            "end_year": 1938,
+            "organization": "Thulebolagen"
+        },
+        {
+            "position": "Avdelningschef",
+            "start_year": 1938,
+            "organization": "Försäkringsbolaget Allmänna Brand"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1942,
+            "organization": "Försäkringsbolaget Allmänna Brand"
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1947,
+            "organization": "Försäkringsbolaget Hero"
+        }
+    ],
+    "person": {
+        "first_name": "Åke",
+        "last_name": "Lyth",
+        "middle_name": "Brunow",
+        "gender": "Male",
+        "birth_date": "29-12-1904",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Försäkringsdirektör",
+            "occupation_english": "Insurance Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Lyth",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kontorschef",
+                    "occupation_english": "Office Manager",
+                    "hisco_code_swedish": "22110.0",
+                    "hisco_description_swedish": "Clerical Supervisor, General",
+                    "hisco_code_english": "22000.0",
+                    "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Marie-Louise",
+                "last_name": "Nylund",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Försäkringsbolaget Aequitas"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Valand"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Amphion"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Stiftelsen Anna Kjellbergs minne"
+        },
+        {
+            "position": "Vice Ordförande",
+            "organization": "Aktiebolaget Smålands Banks lokalstyrelse i Jönköping"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Jönköping",
+        "latitude": 57.78261370000001,
+        "longitude": 14.1617876,
+        "formatted_address": "Jönköping, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1924",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Filosofie Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1929",
+            "institution": "Handelshögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maj",
+            "last_name": "Lundberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1930",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Margareta",
+                "last_name": "Lyth",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1931"
+            },
+            {
+                "first_name": "Ingegerd",
+                "last_name": "Lyth",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1933"
+            },
+            {
+                "first_name": "Birgitta",
+                "last_name": "Lyth",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1937"
+            },
+            {
+                "first_name": "Anders",
+                "last_name": "Lyth",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1926"
+        }
+    ]
+}

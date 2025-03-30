@@ -1,0 +1,183 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1915,
+            "end_year": null,
+            "organization": "Statens Handelskommission",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Sekreterare",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Statens Handelskommission",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ombudsman",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Statens Handelskommission i Berlin",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Handelsattaché",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": "Beskickningen i Berlin",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Handelsråd",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gustaf",
+        "last_name": "Löwenhard",
+        "middle_name": "Sigurd Natanael",
+        "gender": "Male",
+        "birth_date": "13-11-1889",
+        "birth_place": {
+            "name": "Nässjö, Jönköpings Län",
+            "latitude": 57.65303549999999,
+            "longitude": 14.6967247,
+            "formatted_address": "Nässjö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Handelsråd",
+            "occupation_english": "Commercial Counsellor",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "Hugo",
+                "last_name": "Löwenhard",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Underlöjtnant",
+                    "occupation_english": "Second Lieutenant",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Wadner",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Berlin",
+        "latitude": 52.52000659999999,
+        "longitude": 13.404954,
+        "formatted_address": "Berlin, Germany"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Stockholms Högskola"
+        },
+        {
+            "degree": "Diplomexamen",
+            "degree_level": "Bachelor's",
+            "year": "1915",
+            "institution": "Handelshögskolan"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Bern",
+                "latitude": 46.9479739,
+                "longitude": 7.4474468,
+                "formatted_address": "Bern, Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1918"
+        },
+        {
+            "country": {
+                "name": "Bern",
+                "latitude": 46.9479739,
+                "longitude": 7.4474468,
+                "formatted_address": "Bern, Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1919"
+        }
+    ]
+}

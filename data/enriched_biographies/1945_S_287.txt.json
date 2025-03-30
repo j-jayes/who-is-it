@@ -1,0 +1,77 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Greta",
+        "last_name": "Lundh",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": null,
+        "birth_place": null,
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Carl-Fredrik",
+                "last_name": "Lundh",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "handelsresande",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "43220.0",
+                    "hisco_description_swedish": "Commercial Traveller"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Svedlund",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": null,
+    "family": {
+        "spouse": null,
+        "marriage_year": "1930",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        }
+    ]
+}

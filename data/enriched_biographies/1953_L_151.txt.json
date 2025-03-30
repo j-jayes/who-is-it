@@ -1,0 +1,171 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Inez",
+        "last_name": "Leander",
+        "middle_name": "Katarina",
+        "gender": "Female",
+        "birth_date": "31-08-1878",
+        "birth_place": {
+            "name": "Lund",
+            "latitude": 55.7046601,
+            "longitude": 13.1910073,
+            "formatted_address": "Lund, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnärinna",
+            "occupation_english": "female artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "16130.0",
+            "hisco_description_english": "Painter, Artist"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Leander",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "professor",
+                    "occupation_english": "professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Svenborg",
+                "last_name": "Carlström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Bromma",
+        "latitude": 59.3397832,
+        "longitude": 17.9397131,
+        "formatted_address": "Bromma, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "musikstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Köpenhamn"
+        },
+        {
+            "degree": "musikstudier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Paris"
+        },
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "1905-1909",
+            "institution": "konstakademin i Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "G.",
+            "last_name": "Alner",
+            "middle_name": "H.",
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "postmästare, kapten",
+                "occupation_english": "postmaster, captain",
+                "hisco_code_swedish": "58320.0",
+                "hisco_description_swedish": "Officer",
+                "hisco_code_english": "22220.0",
+                "hisco_description_english": "Postmaster"
+            },
+            "parents": null
+        },
+        "marriage_year": "1913",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Afrika",
+                "latitude": -8.783195,
+                "longitude": 34.508523,
+                "formatted_address": "Africa"
+            },
+            "country_code": "None",
+            "year": null
+        }
+    ]
+}

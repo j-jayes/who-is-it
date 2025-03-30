@@ -1,0 +1,222 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1972,
+            "end_year": 1974,
+            "organization": "Narkomanvårdskliniken Långbro sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Forskare",
+            "start_year": 1975,
+            "end_year": 1982,
+            "organization": "Barnbyn Skå",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Forskare",
+            "start_year": 1982,
+            "end_year": 1986,
+            "organization": "Göteborgs universitet",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Delegat",
+            "start_year": 1987,
+            "end_year": 1993,
+            "organization": "Delegationen för social forskning",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor i socialt arbete",
+            "start_year": 1993,
+            "end_year": null,
+            "organization": "Stockholms universitet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Sven",
+        "last_name": "Hessle",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "18-02-1941",
+        "birth_place": {
+            "name": "Lidköping",
+            "latitude": 58.5035047,
+            "longitude": 13.1570768,
+            "formatted_address": "Lidköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor",
+            "occupation_english": "Professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "H",
+                "middle_name": "L",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överstelöjtnant",
+                    "occupation_english": "Lieutenant Colonel",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Ellen",
+                "last_name": "Beckman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "Korrespondent",
+                    "occupation_english": "Correspondent",
+                    "hisco_code_swedish": "15915.0",
+                    "hisco_description_swedish": "Journalist",
+                    "hisco_code_english": "15915.0",
+                    "hisco_description_english": "Journalist"
+                }
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie doktor i pedagogik",
+            "position_english": "Doctor of Philosophy in Pedagogy",
+            "institution": "Stockholms universitet",
+            "department": null,
+            "start_year": 1975,
+            "end_year": null,
+            "field": "Pedagogik"
+        },
+        {
+            "position": "Docent i socialt arbete",
+            "position_english": "Docent in Social Work",
+            "institution": "Stockholms universitet",
+            "department": null,
+            "start_year": 1983,
+            "end_year": null,
+            "field": "Socialt arbete"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Senior Fulbright",
+            "field": "Forskning",
+            "year": "1989-1990",
+            "significance": null,
+            "recognized_by": "Berkeley University of California"
+        },
+        {
+            "title": "Internationell forskning",
+            "field": "Psykosocialt utsatta barn och familjer",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Riksförbundet för familjers rättigheter",
+            "field": "Familjerätt",
+            "year": "1981",
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "committee_memberships": null,
+    "family": {
+        "spouse": {
+            "first_name": "Marie",
+            "last_name": "Berg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Legitimerad psykolog",
+                "occupation_english": "Licensed Psychologist"
+            },
+            "parents": [
+                {
+                    "first_name": "Nils",
+                    "last_name": "B",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Ingenjör",
+                        "occupation_english": "Engineer",
+                        "hisco_code_swedish": "2000.0",
+                        "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Maj-Britt",
+                    "last_name": "B",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "Kamrer",
+                        "occupation_english": "Comptroller",
+                        "hisco_code_swedish": "11010.0",
+                        "hisco_description_swedish": "Accountant, General"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1967",
+        "divorce_year": null,
+        "children": null
+    },
+    "publications": [
+        {
+            "title": "Ett 20-tal egna böcker",
+            "year": "None",
+            "type": "Böcker",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "International journal of social welfare",
+            "year": "1992",
+            "type": "Tidskrift",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

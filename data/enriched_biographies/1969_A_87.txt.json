@@ -1,0 +1,102 @@
+{
+    "career": [
+        {
+            "position": "Tillförordnad Professor i rättsvetenskap",
+            "start_year": 1958,
+            "end_year": 1963,
+            "organization": "Handelshögskolan Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Universitetslektor i rättsvetenskap",
+            "start_year": 1961,
+            "end_year": 1964,
+            "organization": "Handelshögskolan Göteborg",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Preceptor i civilrätt",
+            "start_year": 1964,
+            "end_year": null,
+            "organization": "Stockholms Universitet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "K",
+        "last_name": "Almgren",
+        "middle_name": "H Göran",
+        "gender": "Male",
+        "birth_date": "11-09-1920",
+        "birth_place": {
+            "name": "Mariestad",
+            "latitude": 58.7101119,
+            "longitude": 13.8213327,
+            "formatted_address": "Mariestad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Preceptor",
+            "occupation_english": "Preceptor"
+        },
+        "parents": [
+            {
+                "first_name": "Elis",
+                "last_name": "Almgren",
+                "middle_name": "A",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Landssekreterare",
+                    "occupation_english": "County Administrative Secretary",
+                    "hisco_code_swedish": "20210.0",
+                    "hisco_description_swedish": "Government Administrator",
+                    "hisco_code_english": "30000.0",
+                    "hisco_description_english": "Clerical or Related Worker, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Astrid",
+                "last_name": "Sanden",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala",
+            "department": null,
+            "start_year": 1956,
+            "end_year": null,
+            "field": "Civilrätt"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Om förfoganden över livförsäkring",
+            "year": "1956",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

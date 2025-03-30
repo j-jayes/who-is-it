@@ -1,0 +1,204 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1922,
+            "end_year": 1923,
+            "organization": "Friedr. Krupp AG, Germaniawerft",
+            "location": {
+                "name": "Kiel-Gaarden",
+                "latitude": 54.2959068,
+                "longitude": 10.1364634,
+                "formatted_address": "Kiel-Gaarden, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Förste assistent",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Kungliga Tekniska Högskolans skeppsbyggnadslaboratorium",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Timlärare",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Bröderna Påhlmans Handelsinstitut",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Konsult",
+            "start_year": 1932,
+            "end_year": null,
+            "organization": "inom skeppsbyggnad",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1938,
+            "end_year": 1940,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkstadsföreståndare",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tjänsteförrättande professor",
+            "start_year": 1941,
+            "end_year": 1943,
+            "organization": "Kungliga Tekniska Högskolan",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Warholm",
+        "middle_name": "Vilfrid Olof",
+        "gender": "Male",
+        "birth_date": "16-08-1896",
+        "birth_place": {
+            "name": "Vetlanda, Jönköpings Län",
+            "latitude": 57.42746,
+            "longitude": 15.08533,
+            "formatted_address": "Vetlanda, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Gunnar",
+                "last_name": "Warholm",
+                "middle_name": "Olof",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bankkassör",
+                    "occupation_english": "bank teller",
+                    "hisco_code_swedish": "33140.0",
+                    "hisco_description_swedish": "Bank Teller",
+                    "hisco_code_english": "33940.0",
+                    "hisco_description_english": "Finance Clerk"
+                }
+            },
+            {
+                "first_name": "Pamela",
+                "last_name": "Rappe",
+                "middle_name": "Disa Albertina Frideborg",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stocksund",
+        "latitude": 59.3841662,
+        "longitude": 18.0478685,
+        "formatted_address": "Stocksund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1915",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1921",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hildur",
+            "last_name": "Rosengren",
+            "middle_name": "Greta Elisabet",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Karl",
+                "last_name": "Warholm",
+                "middle_name": "Gunnar",
+                "gender": "Male",
+                "birth_year": "1930"
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Warholm",
+                "middle_name": "Hildur Frida",
+                "gender": "Female",
+                "birth_year": "1934"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "div. art. i Teknisk Tidskrift",
+            "year": "None",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1930"
+        }
+    ]
+}

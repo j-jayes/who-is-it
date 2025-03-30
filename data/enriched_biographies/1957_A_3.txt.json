@@ -1,0 +1,152 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Albert",
+        "last_name": "Abbe",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "10-06-1889",
+        "birth_place": {
+            "name": "Hälsingborg",
+            "latitude": 64.1386294,
+            "longitude": 19.5225599,
+            "formatted_address": "922 93 Hälsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Pär",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "snickare",
+                    "occupation_english": "carpenter",
+                    "hisco_code_swedish": "95410.0",
+                    "hisco_description_swedish": "Carpenter, General",
+                    "hisco_code_english": "95410.0",
+                    "hisco_description_english": "Carpenter, General"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Glumslöv",
+        "latitude": 55.9442238,
+        "longitude": 12.8070146,
+        "formatted_address": "261 62 Glumslöv, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studie",
+            "degree_level": "Schooling",
+            "year": "1906",
+            "institution": "tekniska skolan i Hälsingborg"
+        },
+        {
+            "degree": "studie",
+            "degree_level": "Schooling",
+            "year": "1907",
+            "institution": "C. Althins målarskola"
+        },
+        {
+            "degree": "studie",
+            "degree_level": "Schooling",
+            "year": "1909",
+            "institution": "Berlin"
+        },
+        {
+            "degree": "studie",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Académie Colarossi, Paris"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Dölling",
+            "middle_name": "Maria",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Wilh.",
+                    "last_name": "D",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "bagaremästare",
+                        "occupation_english": "master baker",
+                        "hisco_code_swedish": "77610.0",
+                        "hisco_description_swedish": "Baker, General",
+                        "hisco_code_english": "77610.0",
+                        "hisco_description_english": "Baker, General"
+                    }
+                },
+                {
+                    "first_name": "Louise",
+                    "last_name": "Warncke",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

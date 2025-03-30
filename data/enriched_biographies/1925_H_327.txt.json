@@ -1,0 +1,154 @@
+{
+    "career": [
+        {
+            "position": "Länsbokhållare",
+            "start_year": 1894,
+            "organization": "Gävleborgs Län",
+            "location": {
+                "name": "Gävleborg",
+                "latitude": 61.51322,
+                "longitude": 15.53581,
+                "formatted_address": "828 91 Gavleborg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Rådman",
+            "start_year": 1898,
+            "organization": "Gävle",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Auditor",
+            "start_year": 1899,
+            "organization": "Hälsinge regemente",
+            "location": {
+                "name": "Hälsingland",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Krigsdomare",
+            "start_year": 1916
+        },
+        {
+            "position": "Skiljedomare",
+            "start_year": 1921,
+            "organization": "Arbetstvister"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Höglind",
+        "middle_name": "Wilhelm Fredrik",
+        "gender": "Male",
+        "birth_date": "26-12-1862",
+        "birth_place": {
+            "name": "Karlshamn",
+            "latitude": 56.170303,
+            "longitude": 14.863073,
+            "formatted_address": "Karlshamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "Rådman",
+            "occupation_english": "Councilman",
+            "hisco_code_swedish": "12210.0",
+            "hisco_description_swedish": "Judge",
+            "hisco_code_english": "99910.0",
+            "hisco_description_english": "Labourer"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Höglind",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Läroverksadjunkt, Filosofie Doktor",
+                    "occupation_english": "Lecturer, Doctor of Philosophy",
+                    "hisco_code_swedish": "13200.0",
+                    "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Sofie",
+                "last_name": "Coster",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Gävle",
+        "latitude": 60.6748796,
+        "longitude": 17.1412726,
+        "formatted_address": "Gävle, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Juridisk kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1887",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1909"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1909"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1911"
+        }
+    ]
+}

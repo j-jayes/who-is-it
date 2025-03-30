@@ -1,0 +1,174 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Anders",
+        "last_name": "Karitz",
+        "middle_name": "Kristian",
+        "gender": "Male",
+        "birth_date": "28-02-1881",
+        "birth_place": {
+            "name": "Östra Sönnarslöv, Kristianstads Län",
+            "latitude": 55.8847839,
+            "longitude": 14.018266,
+            "formatted_address": "298 96 Östra Sönnarslöv, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent",
+            "occupation_english": "Docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Henriksson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Arrendator",
+                    "occupation_english": "Tenant farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Johanna",
+                "last_name": "Nilsdtr",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Lund",
+            "department": null,
+            "start_year": 1913,
+            "end_year": null,
+            "field": "Teoretisk filosofi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Teologisk filosofie examen",
+            "degree_level": "Bachelor's",
+            "year": "1901",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1910",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1911",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Medicine kandidat examen",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Kurs i fysiologi",
+            "degree_level": "Schooling",
+            "year": "1912",
+            "institution": "None"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1913",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": null,
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Thorild och hans filosofi",
+            "year": "1908",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Tankelinjer hos Thorild, ungd:årens filosofi",
+            "year": "1913",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Tidningsartiklar",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Stralsund",
+                "latitude": 54.30906539999999,
+                "longitude": 13.0770347,
+                "formatted_address": "Stralsund, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "Greifswald",
+                "latitude": 54.08654629999999,
+                "longitude": 13.3923414,
+                "formatted_address": "17 Greifswald, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1908"
+        }
+    ]
+}

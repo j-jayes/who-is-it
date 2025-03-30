@@ -1,0 +1,211 @@
+{
+    "career": [
+        {
+            "position": "extra läkare och amanuens",
+            "start_year": 1900,
+            "end_year": 1902,
+            "organization": "Sabbatsbergs sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "praktiserande läkare",
+            "start_year": 1901,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "marinläkare",
+            "start_year": 1903,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "marinläkare",
+            "start_year": 1910,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "förste marinläkare i marinläkarkåren",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "tjänstgörande",
+            "start_year": 1906,
+            "end_year": 1909,
+            "organization": "marinförvaltningens sanitetsavdelning",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "kronprinsens läkare",
+            "start_year": 1902,
+            "end_year": 1908,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "livmedikus",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "livförsäkringsbolaget Victoria",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Olof",
+        "last_name": "Hult",
+        "middle_name": "Torgny",
+        "gender": "Male",
+        "birth_date": "02-12-1868",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "livmedikus",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "H.",
+                "last_name": "Hult",
+                "middle_name": "T.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "rektor",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "13940.0",
+                    "hisco_description_swedish": "Head Teacher"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Hedman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1916,
+            "end_year": null,
+            "field": "epidemiografi"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "kommitten för militära apoteksväsendets ordnande",
+            "role": "ordförande",
+            "start_year": 1919,
+            "end_year": 1922,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gertrud",
+            "last_name": "Rinman",
+            "middle_name": "Vendela Amalia",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Ch.",
+                    "last_name": "Rinman",
+                    "middle_name": "L.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "bruksägare",
+                        "occupation_english": null
+                    }
+                },
+                {
+                    "first_name": "Vendela",
+                    "last_name": "Schuberth",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1878"
+    },
+    "publications": [
+        {
+            "title": "Forschungen über das Auftreten des Typhus recurrens in Schweden",
+            "year": "1914",
+            "type": "book"
+        },
+        {
+            "title": "Pesten i Sverige 1710",
+            "year": "1916",
+            "type": "book"
+        },
+        {
+            "title": "Vilhelmus Lemnius o. Benedictus Olai, livmedici h. Erik XIV o. Joh. III",
+            "year": "1918",
+            "type": "book",
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Frankfurt am Main",
+                "latitude": 50.1109221,
+                "longitude": 8.6821267,
+                "formatted_address": "Frankfurt, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1908"
+        }
+    ]
+}

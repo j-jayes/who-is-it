@@ -1,0 +1,180 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1957,
+            "end_year": 1964,
+            "organization": "Medicinska kliniken, Malmö allmänna sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Amanuens",
+            "start_year": 1964,
+            "end_year": 1965,
+            "organization": "Kemiska centrallaboratoriet, Malmö allmänna sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Attending physician",
+            "start_year": 1965,
+            "end_year": 1966,
+            "organization": "Cornell Medical College",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1966,
+            "organization": "Medicinska kliniken, Malmö allmänna sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "John-Fredrik",
+        "last_name": "Dymling",
+        "middle_name": "A",
+        "gender": "Male",
+        "birth_date": "31-05-1931",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Medicin doktor, docent",
+            "occupation_english": "Medical Doctor, Docent",
+            "hisco_code_swedish": "6100.0",
+            "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Otto",
+                "last_name": "Dymling",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Medicine licentiat",
+                    "occupation_english": "Medical licentiate",
+                    "hisco_code_swedish": "6100.0",
+                    "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+                    "hisco_code_english": "6100.0",
+                    "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Astrid",
+                "last_name": "Strömberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1964,
+            "field": "praktisk medicin"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrift om skelettmetabolism med mera",
+            "field": "medicin"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Birgit",
+            "last_name": "Lindbeck",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Lindbeck",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Urmakare",
+                        "occupation_english": "Watchmaker",
+                        "hisco_code_swedish": "84222.0",
+                        "hisco_description_swedish": "Watch and Clock Assembler or Repairer",
+                        "hisco_code_english": "84220.0",
+                        "hisco_description_english": "Watch and Clock Assembler"
+                    }
+                },
+                {
+                    "first_name": "Agda",
+                    "last_name": "Elmlund",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1952",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ulla",
+                "last_name": "Dymling",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1953"
+            },
+            {
+                "first_name": "Stephan",
+                "last_name": "Dymling",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1955"
+            },
+            {
+                "first_name": "Lotta",
+                "last_name": "Dymling",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1962"
+            }
+        ]
+    },
+    "hobbies": [
+        "golf"
+    ],
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

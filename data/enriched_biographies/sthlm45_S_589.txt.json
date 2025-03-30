@@ -1,0 +1,132 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Gertrud",
+        "last_name": "Sprinchorn",
+        "middle_name": "Linnea",
+        "gender": "Female",
+        "birth_place": {
+            "name": "Litselberga, Västmanlands Län",
+            "latitude": 59.6713879,
+            "longitude": 16.2158954,
+            "formatted_address": "Västmanland County, Sweden"
+        },
+        "occupation": {
+            "occupation": "skulptris",
+            "occupation_english": "sculptor",
+            "hisco_code_swedish": "16120.0",
+            "hisco_description_swedish": "Sculptor",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ludvig",
+                "last_name": "S.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "possessionaten, sedermera kamreraren",
+                    "occupation_english": "landowner, later treasurer",
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Hildegard",
+                "last_name": "Littmarck",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "kgl. o. hertigl. medalj",
+            "field": "Konstakad",
+            "recognized_by": "Konstakad."
+        },
+        {
+            "title": "bronsmed.",
+            "field": "världs-utst.",
+            "year": "1904",
+            "recognized_by": "världs-utställningen i S:t Louis"
+        }
+    ],
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "Svenska konstnärernas pensionskassa"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "Svenska konstnärernas förening"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Sällskapet Nya Idun",
+            "role": "ledamot av nämnden",
+            "start_year": 1903,
+            "end_year": 1935
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Tekniska skolan, Uppsala och Stockholm"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1892-1893",
+            "institution": "Högre Konstindustriella Skolan"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1893-1900",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1902-1903"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1906"
+        }
+    ]
+}

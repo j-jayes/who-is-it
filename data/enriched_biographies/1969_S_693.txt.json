@@ -1,0 +1,194 @@
+{
+    "career": [
+        {
+            "position": "Farmaceutie kandidat",
+            "start_year": 1934,
+            "organization": "Apotek",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Operasångare (baryton)",
+            "start_year": 1942,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Medverkande",
+            "start_year": 1937,
+            "organization": "Radio",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Solist",
+            "start_year": 1937,
+            "organization": "Konsertföreningen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Sundquist",
+        "middle_name": "J",
+        "gender": "Male",
+        "birth_date": "15-04-1907",
+        "birth_place": {
+            "name": "Skara",
+            "latitude": 58.3860128,
+            "longitude": 13.4393282,
+            "formatted_address": "Skara, Sweden"
+        },
+        "occupation": {
+            "occupation": "Operasångare",
+            "occupation_english": "Opera Singer",
+            "hisco_code_swedish": "17145.0",
+            "hisco_description_swedish": "Singer",
+            "hisco_code_english": "17145.0",
+            "hisco_description_english": "Singer"
+        },
+        "parents": [
+            {
+                "first_name": "Nikolaus",
+                "last_name": "Sundquist",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "None",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Lindström",
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "None",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Farmaceutie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1934",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Elev Operaskolan",
+            "degree_level": "Schooling",
+            "year": "1940-1942",
+            "institution": "Operaskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Barbro",
+            "last_name": "Andersson",
+            "gender": "Female",
+            "occupation": {
+                "occupation": "None",
+                "occupation_english": null,
+                "hisco_code_swedish": "-1.0",
+                "hisco_description_swedish": "Missing, no title"
+            }
+        },
+        "marriage_year": "1941",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "country": {
+                "name": "Helsingfors",
+                "latitude": 60.16985569999999,
+                "longitude": 24.938379,
+                "formatted_address": "Helsinki, Finland"
+            },
+            "country_code": "FIN"
+        },
+        {
+            "country": {
+                "name": "Barcelona",
+                "latitude": 41.3873974,
+                "longitude": 2.168568,
+                "formatted_address": "Barcelona, Spain"
+            },
+            "country_code": "ESP"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT"
+        },
+        {
+            "country": {
+                "name": "Montreal",
+                "latitude": 45.5018869,
+                "longitude": -73.56739189999999,
+                "formatted_address": "Montreal, QC, Canada"
+            },
+            "country_code": "CAN"
+        }
+    ]
+}

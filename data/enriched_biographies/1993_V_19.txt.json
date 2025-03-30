@@ -1,0 +1,170 @@
+{
+    "career": [
+        {
+            "position": "Överläkare och chef",
+            "start_year": 1971,
+            "organization": "Yrkesdermatologiska kliniken Karolinska sjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor",
+            "start_year": 1981,
+            "organization": "Arbetsmiljöinstitutet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Jan",
+        "last_name": "Wahlberg",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "05-07-1932",
+        "birth_place": {
+            "name": "Eskilstuna",
+            "latitude": 59.37124859999999,
+            "longitude": 16.5098045,
+            "formatted_address": "Eskilstuna, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor, chefsöverläkare",
+            "occupation_english": "Professor, chief physician",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Eric",
+                "last_name": "Wahlberg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Borgmästare",
+                    "occupation_english": "Mayor",
+                    "hisco_code_swedish": "20110.0",
+                    "hisco_description_swedish": "Legislative Official",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Carin",
+                "last_name": "Heyman",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Medicine doktor",
+            "position_english": "Doctor of Medicine",
+            "institution": "Stockholm Universitet",
+            "start_year": 1966,
+            "field": null
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": "Dermatologi och venereologi",
+            "start_year": 1967,
+            "field": null
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Föreningen för Allergologi",
+            "role": "Ordförande",
+            "start_year": 1985,
+            "end_year": 1986
+        },
+        {
+            "committee_name": "Svenska Dermatologiska Sällskapet",
+            "role": "Ordförande",
+            "start_year": 1986,
+            "end_year": 1988
+        },
+        {
+            "committee_name": "Internationella Kontaktdermatitgruppen",
+            "role": "Ordförande",
+            "start_year": 1990,
+            "end_year": null
+        }
+    ],
+    "current_location": {
+        "name": "Sollentuna",
+        "latitude": 59.43049730000001,
+        "longitude": 17.950916,
+        "formatted_address": "Sollentuna, Sweden"
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Margareta",
+            "last_name": "Apler",
+            "gender": "Female",
+            "birth_date": null,
+            "occupation": {
+                "occupation": "Legitimerad sjuksköterska",
+                "occupation_english": "Licensed Nurse",
+                "hisco_code_swedish": "7110.0",
+                "hisco_description_swedish": "Professional Nurse, General",
+                "hisco_code_english": "7110.0",
+                "hisco_description_english": "Professional Nurse, General"
+            },
+            "parents": [
+                {
+                    "first_name": "Ture",
+                    "last_name": "Apler",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Övering",
+                        "occupation_english": "Senior Engineer",
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer",
+                        "hisco_code_english": "84100.0",
+                        "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Håkansson",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1957"
+    },
+    "publications": [
+        {
+            "title": "Skrifter i dermatologi, yrkesdermatologi och toxikologi",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1978-1979"
+        }
+    ]
+}

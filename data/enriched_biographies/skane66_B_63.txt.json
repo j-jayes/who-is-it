@@ -1,0 +1,172 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1940,
+            "end_year": 1943,
+            "organization": "Helsingborgs gummifabriks aktiebolag",
+            "location": {
+                "name": "Helsingborg",
+                "latitude": 56.0464674,
+                "longitude": 12.6945121,
+                "formatted_address": "Helsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1943,
+            "end_year": 1945,
+            "organization": "Reymersholms gamla industriaktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "ingenjör",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "Trelleborgs gummifabriks aktiebolag",
+            "location": {
+                "name": "Trelleborg",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Beng",
+        "middle_name": "U",
+        "gender": "Male",
+        "birth_date": "29-08-1918",
+        "birth_place": {
+            "name": "Helsingborg",
+            "latitude": 56.0464674,
+            "longitude": 12.6945121,
+            "formatted_address": "Helsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "ingenjör",
+            "occupation_english": "engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown",
+            "hisco_code_english": "84100.0",
+            "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+        },
+        "parents": [
+            {
+                "first_name": "Bengt",
+                "last_name": "Nelson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "rentier",
+                    "occupation_english": "rentier",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Sjöberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Trelleborg",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "ingenjörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1939",
+            "institution": "Hässleholms tekniska skola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margret",
+            "last_name": "Berg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "C",
+                    "last_name": "O",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "byggmästare",
+                        "occupation_english": "building contractor",
+                        "hisco_code_swedish": "21240.0",
+                        "hisco_description_swedish": "Contractor",
+                        "hisco_code_english": "21240.0",
+                        "hisco_description_english": "Contractor"
+                    }
+                },
+                {
+                    "first_name": "Olga",
+                    "last_name": "Sjöström",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Olof",
+                "last_name": "Beng",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Ingrid",
+                "last_name": "Beng",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1945"
+            },
+            {
+                "first_name": "Per",
+                "last_name": "Beng",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1946"
+            }
+        ]
+    },
+    "hobbies": [
+        "filateli",
+        "numismatik",
+        "segling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

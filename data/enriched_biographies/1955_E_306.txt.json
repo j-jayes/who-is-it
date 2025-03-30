@@ -1,0 +1,185 @@
+{
+    "career": [
+        {
+            "position": "Tandläkare",
+            "start_year": 1925,
+            "end_year": 1936,
+            "organization": "Avesta",
+            "location": {
+                "name": "Avesta",
+                "latitude": 60.14532999999999,
+                "longitude": 16.1738399,
+                "formatted_address": "Avesta, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tandläkare",
+            "start_year": 1937,
+            "end_year": 1938,
+            "organization": "Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Tandläkare",
+            "start_year": 1940,
+            "end_year": 1942,
+            "organization": "Karolinska Sjukhuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Laborator",
+            "start_year": 1942,
+            "end_year": 1944,
+            "organization": "Tandläkarhögskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Avdelningstandläkare",
+            "start_year": 1945,
+            "end_year": 1948,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Tandteknisk kurs",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Sakkunnig",
+            "start_year": 1950,
+            "end_year": 1952,
+            "organization": "Medicinalstyrelsen",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Engström",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "23-05-1895",
+        "birth_place": {
+            "name": "Köping",
+            "latitude": 59.5120962,
+            "longitude": 15.9945102,
+            "formatted_address": "Köping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Tandläkare",
+            "occupation_english": "Dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Engström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpmannen",
+                    "occupation_english": "Merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Forsberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Tandläkaresällskapet"
+        },
+        {
+            "position": "Bibliotekarie",
+            "organization": "Svenska Tandläkaresällskapet"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Tandläkarexamen",
+            "degree_level": "Master's",
+            "year": "1925",
+            "institution": "None"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Läroböcker och uppsatser i proteslära, käkskadebehandling etcetera",
+            "year": "None",
+            "type": "Böcker och uppsatser",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1939"
+        }
+    ]
+}

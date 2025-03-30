@@ -1,0 +1,222 @@
+{
+    "career": [
+        {
+            "position": "Tillförordnad underläkare",
+            "start_year": 1908,
+            "end_year": null,
+            "organization": "Österåsens sanatorium",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1908,
+            "end_year": 1909,
+            "organization": "Halmstads lasarett",
+            "location": {
+                "name": "Halmstad",
+                "latitude": 56.6743748,
+                "longitude": 12.8577884,
+                "formatted_address": "Halmstad, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Amanuens",
+            "start_year": 1909,
+            "end_year": 1910,
+            "organization": "Sabbatsbergs sjukhus kirurgiska avdelning",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Biträdande läkare",
+            "start_year": 1910,
+            "end_year": 1911,
+            "organization": "Göteborgs barns sjukhus kirurgiska avdelning",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1911,
+            "end_year": 1913,
+            "organization": "Sabbatsbergs sjukhus kirurgiska avdelning",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Läkare",
+            "start_year": 1914,
+            "end_year": 1917,
+            "organization": "Malmö allmänna sjukhus ortopediska avdelning",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Malmö allmänna sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": "Malmö allmänna sjukhus",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Kjell",
+        "last_name": "Bergman",
+        "middle_name": "Johan Cornermis",
+        "gender": "Male",
+        "birth_date": "18-01-1875",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lasarettsläkare",
+            "occupation_english": "Hospital physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Bergman",
+                "middle_name": "Evald",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kyrkoherde",
+                    "occupation_english": "Vicar",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion",
+                    "hisco_code_english": "14120.0",
+                    "hisco_description_english": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Euphrosyine",
+                "last_name": "Sjöcrona",
+                "middle_name": "Elisabet Katarina",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1895",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1903",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1908",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Nordstjärneorden (RNO)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "Holländerna",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "NLD",
+            "year": "1914"
+        }
+    ]
+}

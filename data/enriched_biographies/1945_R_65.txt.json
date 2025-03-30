@@ -1,0 +1,210 @@
+{
+    "career": [
+        {
+            "position": "Styrelseledamot",
+            "start_year": 1919,
+            "organization": "De Blindas Förening",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ordförande",
+            "start_year": 1936,
+            "organization": "De Blindas Förening",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1926,
+            "organization": "De Blindas Förening",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Blindvårdskonsulent",
+            "start_year": 1924,
+            "end_year": 1936,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ledamot av direktionen",
+            "start_year": 1936,
+            "organization": "Blindinstitutet Tomteboda",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Vice ordförande",
+            "start_year": 1943,
+            "organization": "Blindinstitutet Tomteboda",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ledamot",
+            "start_year": 1936,
+            "organization": "Kronprinsessan Margaretas arbetsnämnd för de blinda",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Retsler",
+        "middle_name": "Bernhard",
+        "gender": "Male",
+        "birth_date": "26-10-1889",
+        "birth_place": {
+            "name": "Bolmsö, Jönköpings Län",
+            "latitude": 56.9455807,
+            "longitude": 13.7314549,
+            "formatted_address": "341 93 Bolmsö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Jurist, Disponent",
+            "occupation_english": "Lawyer, Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Peter",
+                "last_name": "Petersson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Hemmanägare",
+                    "occupation_english": "Home Owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Charlotta",
+                "last_name": "Larsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Blindskolan",
+            "degree_level": "Schooling",
+            "year": "1900-1909",
+            "institution": "Blindskolan"
+        },
+        {
+            "degree": "Stockholms samgymnasium",
+            "degree_level": "Schooling",
+            "year": "1916-1919",
+            "institution": "Stockholms samgymnasium"
+        },
+        {
+            "degree": "Juridisk kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1924",
+            "institution": "Stockholms Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Frida",
+            "last_name": "Karlsson",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

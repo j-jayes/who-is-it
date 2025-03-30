@@ -1,0 +1,196 @@
+{
+    "career": [
+        {
+            "position": "Apotekare",
+            "start_year": 1895,
+            "organization": "Apoteket Elefanten",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare i kemi och fysik",
+            "start_year": 1895,
+            "end_year": 1916,
+            "organization": "Tekniska skolan Visby",
+            "location": {
+                "name": "Visby",
+                "latitude": 57.6348,
+                "longitude": 18.29484,
+                "formatted_address": "Visby, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare i fysik",
+            "start_year": 1895,
+            "end_year": 1916,
+            "organization": "Högre Allmänna Läroverket",
+            "location": {
+                "name": "Visby",
+                "latitude": 57.6348,
+                "longitude": 18.29484,
+                "formatted_address": "Visby, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Hamner",
+        "middle_name": "Wilhelm",
+        "gender": "Male",
+        "birth_date": "15-09-1870",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Apotekare",
+            "occupation_english": "Pharmacist",
+            "hisco_code_swedish": "6710.0",
+            "hisco_description_swedish": "Pharmacist",
+            "hisco_code_english": "41030.0",
+            "hisco_description_english": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "Jonas",
+                "last_name": "Hamner",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Folkskollärare",
+                    "occupation_english": "Primary School Teacher",
+                    "hisco_code_swedish": "13320.0",
+                    "hisco_description_swedish": "FirstLevel Education Teacher",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Selling",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Fornminnesföreningen"
+        },
+        {
+            "position": "Kassaförvaltare",
+            "organization": "Svenska Fornminnesföreningen"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Farmaceutisk kandidatexamen",
+            "degree_level": "Bachelor's",
+            "year": "1892",
+            "institution": "None"
+        },
+        {
+            "degree": "Apotekarexamen",
+            "degree_level": "Master's",
+            "year": "1895",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Hedvig",
+            "last_name": "Löfgren",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Löfgren",
+                    "middle_name": "Wilhelm",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Skeppsredare",
+                        "occupation_english": "Shipowner",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "41040.0",
+                        "hisco_description_english": "Working Proprietor (Hiring Out)"
+                    }
+                },
+                {
+                    "first_name": "Karolina",
+                    "last_name": "Havemann",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1898",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Svenska Läkaresällskapets ledamot 1909",
+        "Korresponderande Ledamot av Lantbruksakademien 1921",
+        "Lantbruksakademiens prismedalj (jetong) 1919",
+        "Svenska Turistföreningens förtjänstmedalj 1910",
+        "Vetenskapsakademiens större Linnémedalj 1920"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Ett 100-tal farmaceutiska och botaniska skrifter",
+            "year": "None",
+            "type": "Article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Svenska Turistföreningens resehandbok Gotland",
+            "year": "None",
+            "type": "Book",
+            "editions": [
+                {
+                    "edition_number": "3",
+                    "year": "None",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,206 @@
+{
+    "career": [
+        {
+            "position": "Praktik",
+            "start_year": 1914,
+            "end_year": 1924,
+            "organization": "Eksjö",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Praktik",
+            "start_year": 1924,
+            "end_year": null,
+            "organization": "Stockholm",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1924,
+            "end_year": null,
+            "organization": "Tandläkarinstitutet, tandfyllnadsavdelningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": "Tandläkarinstitutet, protesavdelningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tf laborator",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Tandläkarinstitutet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tf laborator",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "Tandläkarinstitutet",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Robert",
+        "last_name": "Iwanson",
+        "middle_name": "N",
+        "gender": "Male",
+        "birth_date": "28-05-1920",
+        "birth_place": {
+            "name": "Skärstad, Jönköpings Län",
+            "latitude": 57.8853594,
+            "longitude": 14.3607691,
+            "formatted_address": "561 91 Skärstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Tandläkare",
+            "occupation_english": "Dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Ivan",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Godsägare",
+                    "occupation_english": "Estate Owner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Mathilda",
+                "last_name": "Svensson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrledamot",
+            "organization": "Svenska tandläkarsällskapet"
+        },
+        {
+            "position": "Styrledamot",
+            "organization": "Svenska tandläkare inköpsföreningen"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Fortsättningskursnämnden",
+            "role": "Sekreterare",
+            "start_year": 1927,
+            "end_year": 1933,
+            "organization": "Svenska tandläkarsällskapet",
+            "significance": null
+        },
+        {
+            "committee_name": "Fortsättningskursnämnden",
+            "role": "Ordförande",
+            "start_year": 1927,
+            "end_year": 1933,
+            "organization": "Svenska tandläkarsällskapet",
+            "significance": null
+        },
+        {
+            "committee_name": "Förtroendenämnden",
+            "role": "Medlem",
+            "start_year": 1943,
+            "end_year": 1955,
+            "organization": "Sveriges tandläkarförbund",
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Tandläkarexamen",
+            "degree_level": "Bachelor's",
+            "year": "1914",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gun",
+            "last_name": "Schubert",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Danspedagog",
+                "occupation_english": "Dance Educator"
+            },
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1952"
+        }
+    ]
+}

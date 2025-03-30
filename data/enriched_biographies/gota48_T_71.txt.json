@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1924,
+            "end_year": 1928,
+            "organization": "A-B Bernstones fabrik",
+            "location": {
+                "name": "Hälsingborg",
+                "latitude": 64.1386294,
+                "longitude": 19.5225599,
+                "formatted_address": "922 93 Hälsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1929,
+            "organization": "Göteborgs kexfabriks A-B",
+            "location": {
+                "name": "Kungälv",
+                "latitude": 57.86975400000001,
+                "longitude": 11.9740317,
+                "formatted_address": "Kungälv, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1929,
+            "organization": "Göteborgs kexfabriks A-B",
+            "location": {
+                "name": "Kungälv",
+                "latitude": 57.86975400000001,
+                "longitude": 11.9740317,
+                "formatted_address": "Kungälv, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "Thornberg",
+        "middle_name": "Engelbrekt",
+        "gender": "Male",
+        "birth_date": "12-04-1904",
+        "birth_place": {
+            "name": "Lund",
+            "latitude": 55.7046601,
+            "longitude": 13.1910073,
+            "formatted_address": "Lund, Sweden"
+        },
+        "occupation": {
+            "occupation": "Verkställande Direktör, Disponent",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "Arnold",
+                "last_name": "Thornberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Stationsinspektor",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "22210.0",
+                    "hisco_description_swedish": "Railway Station Master"
+                }
+            },
+            {
+                "first_name": "Thecla",
+                "last_name": "Roth",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "KeLiFa"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska kexfabriksföreningen"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska choklad- och konfektfabriksföreningen"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Stadsfullmäktige",
+            "role": "Ledamot",
+            "start_year": 1929
+        },
+        {
+            "committee_name": "Drätselkammaren",
+            "role": "Vice ordförande",
+            "start_year": 1929
+        },
+        {
+            "committee_name": "Kristidsnämnd",
+            "role": "Ledamot",
+            "start_year": 1929
+        },
+        {
+            "committee_name": "Byggnadsnämnd",
+            "role": "Ledamot",
+            "start_year": 1929
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kungälv",
+        "latitude": 57.86975400000001,
+        "longitude": 11.9740317,
+        "formatted_address": "Kungälv, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Schooling",
+            "year": "1922",
+            "institution": "Hälsingborgs handelsgymnasium"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Svensson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1932",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Ingrid",
+                "last_name": "Thornberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": null
+            },
+            {
+                "first_name": "Ulla",
+                "last_name": "Thornberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": null
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Thornberg",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": null
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1926,
+            "organization": "Vattenbyggnadsbyrån",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Arbetschef",
+            "start_year": 1935,
+            "organization": "Alby",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Konsult, ingenjör",
+            "start_year": 1939,
+            "organization": "Fägersten",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Statlig fiskeriingenjör",
+            "start_year": 1940,
+            "end_year": 1955,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Hugo",
+        "last_name": "Furuskog",
+        "middle_name": "Valter",
+        "gender": "Male",
+        "birth_date": "25-09-1901",
+        "birth_place": {
+            "name": "Borgsjö, Västernorrlands Län",
+            "latitude": 62.53781019999999,
+            "longitude": 15.9121716,
+            "formatted_address": "841 97 Borgsjö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Olof",
+                "last_name": "Furuskog",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Nanny",
+                "last_name": "Hedell",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska konsultföreningen",
+            "role": "Ordförande",
+            "start_year": 1954,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1924",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ruth",
+            "last_name": "Johnson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Johan",
+                    "last_name": "Johnson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Verkmästare",
+                        "occupation_english": "Works Manager",
+                        "hisco_code_swedish": "22610.0",
+                        "hisco_description_swedish": "Production Supervisor or Foreman, General",
+                        "hisco_code_english": "21000.0",
+                        "hisco_description_english": "Manager, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Hanna",
+                    "last_name": "Håkansson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1936",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "Arméflyg 1925",
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Artiklar i vattenbyggnadstekniska- och fiskeritekniska frågor",
+            "year": "None",
+            "type": "Artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1927-1928"
+        },
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Amerika",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "None",
+            "year": "1947"
+        }
+    ]
+}

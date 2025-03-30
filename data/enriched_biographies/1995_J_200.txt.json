@@ -1,0 +1,190 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1970,
+            "organization": "Stockholms läns landsting",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1972,
+            "organization": "Spri",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "sektionschef",
+            "start_year": 1981,
+            "organization": "Spri",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "professor i hälsoekonomi",
+            "start_year": 1984,
+            "organization": "Karolinska Institutet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "kanslichef",
+            "start_year": 1987,
+            "organization": "statliga beredningen för utvärdering av medicinsk teknologi",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "P",
+        "last_name": "Jonsson",
+        "middle_name": "Egon",
+        "gender": "Male",
+        "birth_date": "10-06-1940",
+        "birth_place": {
+            "name": "Oviken, Jämtlands Län",
+            "latitude": 62.9966221,
+            "longitude": 14.393839,
+            "formatted_address": "845 73 Oviken, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Henry",
+                "last_name": "Jonsson",
+                "gender": "Male"
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Paulsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "civilekonom",
+            "degree_level": "Master's",
+            "year": "1970",
+            "institution": "None"
+        },
+        {
+            "degree": "ekonomie doktor",
+            "degree_level": "Doctorate",
+            "year": "1980",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Pia",
+            "last_name": "Uotila",
+            "middle_name": "Maria",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "medicine licentiat",
+                "occupation_english": "Medical Licentiate",
+                "hisco_code_swedish": "6100.0",
+                "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+                "hisco_code_english": "6100.0",
+                "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+            },
+            "parents": [
+                {
+                    "first_name": "Jaakko",
+                    "last_name": "Uotila",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "professor",
+                        "occupation_english": "professor",
+                        "hisco_code_swedish": "13100.0",
+                        "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                        "hisco_code_english": "13100.0",
+                        "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Maija-Liisa",
+                    "last_name": "Rautanen",
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "filosofie magister",
+                        "occupation_english": "Master of Arts",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1981",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1973"
+        }
+    ]
+}

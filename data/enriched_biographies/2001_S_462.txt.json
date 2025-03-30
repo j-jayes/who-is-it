@@ -1,0 +1,115 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Spaak",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "27-12-1915",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "skulptör",
+            "occupation_english": "sculptor",
+            "hisco_code_swedish": "16120.0",
+            "hisco_description_swedish": "Sculptor",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Albert",
+                "last_name": "Spaak",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "köpman",
+                    "occupation_english": "merchant",
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Gunhild",
+                "last_name": "Karlsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "målarsk",
+            "institution": "Isaac Grünewalds",
+            "start_year": 1943,
+            "end_year": 1946,
+            "field": null
+        },
+        {
+            "position": "skulptursk",
+            "institution": "Börjessons",
+            "start_year": 1947,
+            "end_year": 1949,
+            "field": null
+        },
+        {
+            "position": "monumentalsk",
+            "institution": "Kungliga Konsthögskolan",
+            "start_year": 1971,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Offentliga arbeten",
+            "field": "Skulptur",
+            "significance": "ett 50-tal stora friskulpturer med torgbildningar eller markarbeten från Skåne till Uppland",
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lillkyrka",
+        "latitude": 59.5588853,
+        "longitude": 17.2457237,
+        "formatted_address": "745 97 Lillkyrka, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Statens institut för hantverk och industri",
+            "degree_level": "Schooling",
+            "year": "1969",
+            "institution": "Statens institut för hantverk och industri"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Sydfrankrike",
+                "latitude": 45.5126545,
+                "longitude": 4.4904519,
+                "formatted_address": "Southern France, France"
+            },
+            "country_code": "FRA",
+            "year": "1978-1983"
+        }
+    ]
+}

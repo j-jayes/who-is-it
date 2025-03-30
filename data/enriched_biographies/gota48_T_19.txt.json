@@ -1,0 +1,175 @@
+{
+    "career": [
+        {
+            "position": "Anställd hos Vattenbyggnadsbyrån",
+            "start_year": 1937,
+            "end_year": 1939,
+            "organization": "Vattenbyggnadsbyrån",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd hos iranska staten",
+            "start_year": 1939,
+            "end_year": 1942,
+            "organization": "iranska staten",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Biträdande stadsingenjör",
+            "start_year": 1943,
+            "end_year": 1946,
+            "organization": "Ronneby kommun",
+            "location": {
+                "name": "Ronneby",
+                "latitude": 56.210434,
+                "longitude": 15.2760229,
+                "formatted_address": "Ronneby, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Stadsingenjör",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "Ronneby kommun",
+            "location": {
+                "name": "Ronneby",
+                "latitude": 56.210434,
+                "longitude": 15.2760229,
+                "formatted_address": "Ronneby, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sten",
+        "last_name": "Tengwall",
+        "middle_name": "Otto Josef",
+        "gender": "Male",
+        "birth_date": "19-01-1914",
+        "birth_place": {
+            "name": "Östersund",
+            "latitude": 63.1766832,
+            "longitude": 14.6360681,
+            "formatted_address": "Östersund, Sweden"
+        },
+        "occupation": {
+            "occupation": "stadsingenjör",
+            "occupation_english": "city engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Otto",
+                "last_name": "Tengwall",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "landsfogde",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Bergdahl",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ronneby",
+        "latitude": 56.210434,
+        "longitude": 15.2760229,
+        "formatted_address": "Ronneby, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1932",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Kungliga Tekniska Högskolan (Väg- och Vattenbyggnad)",
+            "degree_level": "Master's",
+            "year": "1937",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Britt-Marie",
+            "last_name": "Husberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1946",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1935"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Iran",
+                "latitude": 32.427908,
+                "longitude": 53.688046,
+                "formatted_address": "Iran"
+            },
+            "country_code": "IRN",
+            "year": null
+        }
+    ]
+}

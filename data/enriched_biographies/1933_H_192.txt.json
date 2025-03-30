@@ -1,0 +1,208 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1899,
+            "end_year": 1899,
+            "organization": "Stockholms bergsskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Andre lärare",
+            "start_year": 1900,
+            "end_year": 1900,
+            "organization": "Bergsskolan i Falun",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ingenjör för hytta, martin- och valsverk",
+            "start_year": 1900,
+            "end_year": 1905,
+            "organization": "Ankarsrum",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1905,
+            "end_year": 1908,
+            "organization": "N - Andersson & Lindberg",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1909,
+            "organization": "Eskilstuna järnmanufaktur aktiebolag",
+            "location": {
+                "name": "Eskilstuna",
+                "latitude": 59.37124859999999,
+                "longitude": 16.5098045,
+                "formatted_address": "Eskilstuna, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1921,
+            "organization": "B. & O. Libergs fabrik aktiebolag",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1925,
+            "organization": "The Swedish Anchor Works Co aktiebolag",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Richard",
+        "last_name": "Hellgren",
+        "middle_name": "Nils Valdemar",
+        "gender": "Male",
+        "birth_date": "30-12-1876",
+        "birth_place": {
+            "name": "Hälsingborg",
+            "latitude": 64.1386294,
+            "longitude": 19.5225599,
+            "formatted_address": "922 93 Hälsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Julius",
+                "last_name": "Hellgren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapten",
+                    "occupation_english": "Sea Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Eline",
+                "last_name": "Pettersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Ordförande",
+            "organization": "Eskilstuna fabriksförening"
+        },
+        {
+            "position": "Ordförande",
+            "organization": "Södermanlands enskilda banks avdelningskontor i Eskilstuna"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Eskilstuna bryggeri aktiebolag"
+        },
+        {
+            "position": "Vice ordförande",
+            "organization": "Östergötlands och Södermanlands handelskammare"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Eskilstuna",
+        "latitude": 59.37124859999999,
+        "longitude": 16.5098045,
+        "formatted_address": "Eskilstuna, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1898",
+            "institution": "Tekniska högskolan, fackskolan för kemisk teknologi"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1899",
+            "institution": "Fackskolan för metallurgi och hyttkonst"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sigrid",
+            "last_name": "Cederlund",
+            "middle_name": "Linnea",
+            "gender": "Female",
+            "birth_date": "1886",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "C.",
+                    "last_name": "Cederlund",
+                    "middle_name": "J.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Statens inspektör",
+                        "occupation_english": "State Inspector",
+                        "hisco_code_english": "31090.0",
+                        "hisco_description_english": "Government Executive Officials Not Elsewhere Classified"
+                    }
+                },
+                {
+                    "first_name": "Sigrid",
+                    "last_name": "Gobom",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1906",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

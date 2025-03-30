@@ -1,0 +1,190 @@
+{
+    "career": [
+        {
+            "position": "Lärling",
+            "start_year": 1867,
+            "end_year": 1870,
+            "organization": "Tyskland",
+            "location": null,
+            "country_code": "DEU"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1870,
+            "organization": "N M Höglunds sön Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Delägare",
+            "start_year": 1870,
+            "organization": "C G Kockum & Co",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör och delägare",
+            "start_year": 1870,
+            "organization": "kommanditbolag Arvid Lundquist & Co",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Direktör, delägare och styrelseledamot",
+            "start_year": 1870,
+            "organization": "träv.fma Lundquist & Lindroth (Aktiebolag 1935)",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Direktör och styrelseledamot",
+            "start_year": 1870,
+            "organization": "Aktiebolag Sigtuna såg",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Deputerad",
+            "start_year": 1870,
+            "organization": "Stockholms stads brandstodsbolag för lösegendom",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "LUNDQUIST",
+        "middle_name": "Arvid",
+        "gender": "Male",
+        "birth_date": "01-07-1867",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Grosshandlare",
+            "occupation_english": "Wholesaler",
+            "hisco_code_swedish": "41020.0",
+            "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+            "hisco_code_english": "41025.0",
+            "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "Lundquist",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Hovmusikhandlare",
+                    "occupation_english": "Court music dealer",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Adolphine",
+                "last_name": "Werner",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Beskowska skolan",
+            "degree_level": "Schooling",
+            "year": "1867",
+            "institution": "Beskowska skolan"
+        },
+        {
+            "degree": "Schartaus Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1867",
+            "institution": "Schartaus Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunhild",
+            "last_name": "Carlson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Segling",
+        "Jakt"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

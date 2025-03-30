@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1940,
+            "end_year": 1948,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lektor",
+            "start_year": 1955,
+            "end_year": 1958,
+            "organization": "Vasa Högre Allmänna Läroverk",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Laborator",
+            "start_year": 1958,
+            "end_year": 1963,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Professor",
+            "start_year": 1963,
+            "end_year": 1981,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Brogren",
+        "middle_name": "E",
+        "gender": "Male",
+        "birth_date": "03-05-1915",
+        "birth_place": {
+            "name": "Örebro",
+            "latitude": 59.2752626,
+            "longitude": 15.2134105,
+            "formatted_address": "Örebro, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor Emeriterad",
+            "occupation_english": null,
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Fredrik",
+                "last_name": "Brogren",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Köpman",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "41025.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Persson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie kandidat",
+            "position_english": null,
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1939,
+            "field": null
+        },
+        {
+            "position": "Filosofie licentiat",
+            "position_english": null,
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1943,
+            "field": null
+        },
+        {
+            "position": "Filosofie doktor",
+            "position_english": null,
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1949,
+            "field": null
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1949,
+            "end_year": 1955,
+            "field": "Fysik"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter i röntgenfysik",
+            "field": "Röntgenfysik",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        },
+        {
+            "title": "Skrifter i fasta tillståndets fysik",
+            "field": "Fasta tillståndets fysik",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ragna",
+            "last_name": "Grette",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Läroverksadjunkt",
+                "occupation_english": null,
+                "hisco_code_swedish": "13200.0",
+                "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+            },
+            "parents": [
+                {
+                    "first_name": "Erik",
+                    "last_name": "Grette",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Verkmästare",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "22610.0",
+                        "hisco_description_swedish": "Production Supervisor or Foreman, General"
+                    }
+                },
+                {
+                    "first_name": "Agda",
+                    "last_name": "Johansson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": null
+    }
+}

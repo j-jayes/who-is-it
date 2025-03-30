@@ -1,0 +1,254 @@
+{
+    "career": [
+        {
+            "position": "amanuens",
+            "start_year": 1908,
+            "end_year": 1912,
+            "organization": "patologiska institutionen i Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "assistent",
+            "start_year": 1908,
+            "end_year": 1912,
+            "organization": "patologiska institutionen i Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1914,
+            "end_year": 1917,
+            "organization": "Akademiska sjukhuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underkirurg",
+            "start_year": 1914,
+            "end_year": 1917,
+            "organization": "Akademiska sjukhuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "förste underläkare",
+            "start_year": 1917,
+            "end_year": 1922,
+            "organization": "Umeå lasarett",
+            "location": {
+                "name": "Umeå",
+                "latitude": 63.8258471,
+                "longitude": 20.2630354,
+                "formatted_address": "Umeå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "förste underläkare",
+            "start_year": 1923,
+            "end_year": 1924,
+            "organization": "Linköpings lasarett",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "tillförordnad lasarettsläkare",
+            "start_year": 1925,
+            "end_year": 1926,
+            "organization": "Skellefteå",
+            "location": {
+                "name": "Skellefteå",
+                "latitude": 64.750244,
+                "longitude": 20.950917,
+                "formatted_address": "Skellefteå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1926,
+            "end_year": 1932,
+            "organization": "Söderköping",
+            "location": {
+                "name": "Söderköping",
+                "latitude": 58.4759013,
+                "longitude": 16.3234307,
+                "formatted_address": "Söderköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lasarettsläkare",
+            "start_year": 1933,
+            "organization": "Växjö lasarett",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1939,
+            "organization": "Växjö lasarett",
+            "location": {
+                "name": "Växjö",
+                "latitude": 56.8790044,
+                "longitude": 14.8058522,
+                "formatted_address": "Växjö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "Borner",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "22-12-1885",
+        "birth_place": {
+            "name": "Gran garde, Kopparbergs Län",
+            "latitude": 60.5995787,
+            "longitude": 15.0541171,
+            "formatted_address": "785 30 Gärde, Sweden"
+        },
+        "occupation": {
+            "occupation": "lasarettsläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Borner",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "handlare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Tekla",
+                "last_name": "Olausson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Norrköpings läkarsällskap",
+            "role": "ordförande",
+            "start_year": 1930,
+            "end_year": 1931,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Kronobergs läns läkarförening",
+            "role": "ordförande",
+            "start_year": 1938,
+            "end_year": 1939,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Växjö",
+        "latitude": 56.8790044,
+        "longitude": 14.8058522,
+        "formatted_address": "Växjö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1909",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1914",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elisabeth",
+            "last_name": "Sandelius",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "lektor",
+                "occupation_english": null,
+                "hisco_code_swedish": "13030.0",
+                "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education"
+            },
+            "parents": [
+                {
+                    "first_name": "Elias",
+                    "last_name": "Sandelius",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kyrkoherde, filosofie doktor",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "14120.0",
+                        "hisco_description_swedish": "Minister of Religion"
+                    }
+                },
+                {
+                    "first_name": "Ebba",
+                    "last_name": "Dunér",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1914",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

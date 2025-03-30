@@ -1,0 +1,220 @@
+{
+    "career": [
+        {
+            "position": "läkarförordn",
+            "start_year": 1953,
+            "end_year": 1957,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "2:e underläkare med avdelning",
+            "start_year": 1957,
+            "end_year": 1960,
+            "organization": "Karlskrona lasarett",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare med barnavdelning",
+            "start_year": 1960,
+            "end_year": 1961,
+            "organization": "Landskrona lasarett",
+            "location": {
+                "name": "Landskrona",
+                "latitude": 55.8703477,
+                "longitude": 12.8300802,
+                "formatted_address": "Landskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": "Kalmar lasarett",
+            "location": {
+                "name": "Kalmar",
+                "latitude": 56.6634447,
+                "longitude": 16.356779,
+                "formatted_address": "Kalmar, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare med klinik",
+            "start_year": 1963,
+            "end_year": null,
+            "organization": "Kalmar lasarett",
+            "location": {
+                "name": "Kalmar",
+                "latitude": 56.6634447,
+                "longitude": 16.356779,
+                "formatted_address": "Kalmar, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "stadsdistriktsläkare",
+            "start_year": 1964,
+            "end_year": null,
+            "organization": "Kalmar",
+            "location": {
+                "name": "Kalmar",
+                "latitude": 56.6634447,
+                "longitude": 16.356779,
+                "formatted_address": "Kalmar, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Birger",
+        "last_name": "Perborn",
+        "middle_name": "L",
+        "gender": "Male",
+        "birth_date": "31-01-1926",
+        "birth_place": {
+            "name": "Kalmar",
+            "latitude": 56.6634447,
+            "longitude": 16.356779,
+            "formatted_address": "Kalmar, Sweden"
+        },
+        "occupation": {
+            "occupation": "stadsdistriktsläkare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Gottfrid",
+                "last_name": "Pettersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "fastighetsägare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Magnusson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kalmar",
+        "latitude": 56.6634447,
+        "longitude": 16.356779,
+        "formatted_address": "Kalmar, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1946",
+            "institution": "Kalmar"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1950",
+            "institution": "Lund"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1957",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Berit",
+            "last_name": "Jönsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "folkskollärare",
+                "occupation_english": null,
+                "hisco_code_swedish": "13320.0",
+                "hisco_description_swedish": "FirstLevel Education Teacher"
+            },
+            "parents": [
+                {
+                    "first_name": "Svante",
+                    "last_name": "Jönsson",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "disponent",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager"
+                    }
+                },
+                {
+                    "first_name": "Elvi",
+                    "last_name": "Svensson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1956",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Anders",
+                "last_name": "Perborn",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1958"
+            },
+            {
+                "first_name": "Hans",
+                "last_name": "Perborn",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1960"
+            },
+            {
+                "first_name": "Eskil",
+                "last_name": "Perborn",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1965"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

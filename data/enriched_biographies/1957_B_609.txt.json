@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "överläkare",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "Söderby sjukhus",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "läkare",
+            "start_year": 1941,
+            "end_year": 1945,
+            "organization": "arbetarskyddsärenden vid riksförsäkringsanstalten",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "läkare",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": "Hamra barnsanatorium",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "medicinsk assistent",
+            "start_year": 1939,
+            "end_year": 1940,
+            "organization": "försvarsväsendets kemiska anstalt",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Bruce",
+        "middle_name": "Erik Torsten",
+        "gender": "Male",
+        "birth_date": "18-05-1906",
+        "birth_place": {
+            "name": "Burlöv, Malmöhus Län",
+            "latitude": 55.6402145,
+            "longitude": 13.0886413,
+            "formatted_address": "Arlöv, Sweden"
+        },
+        "occupation": {
+            "occupation": "överläkare",
+            "occupation_english": "Chief Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Nils",
+                "last_name": "Bruce",
+                "middle_name": "Olof",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "undervisningsråd",
+                    "occupation_english": "Counsellor of Education",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Hilma",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1943,
+            "end_year": null,
+            "field": "medicin"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uttran",
+        "latitude": 59.197034,
+        "longitude": 17.8004921,
+        "formatted_address": "147 63 Uttran, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1933",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1942",
+            "institution": "Karolinska Institutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märta",
+            "last_name": "Berg von Lindé",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Walter",
+                    "last_name": "Berg von Lindé",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "godsägare",
+                        "occupation_english": "Estate Owner",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Frida",
+                    "last_name": "Pfeiff",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1939",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Silikosen som yrkessjukdom",
+            "year": "1953",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Brunius i Sverige",
+            "year": "1942",
+            "type": "avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Europeiska länder",
+                "latitude": 54.5259614,
+                "longitude": 15.2551187,
+                "formatted_address": "Europe"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Argentina",
+                "latitude": -38.416097,
+                "longitude": -63.61667199999999,
+                "formatted_address": "Argentina"
+            },
+            "country_code": "ARG",
+            "year": null
+        }
+    ]
+}

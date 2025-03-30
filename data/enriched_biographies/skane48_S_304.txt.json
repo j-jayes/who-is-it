@@ -1,0 +1,112 @@
+{
+    "career": [
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Industrial Trading Aktiebolag",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Strömdahl",
+        "middle_name": "Hjalmar Axelsson",
+        "gender": "Male",
+        "birth_date": "09-07-1919",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "A",
+                "last_name": "S",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Rosa",
+                "last_name": "S",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Brita",
+            "last_name": "Tehler",
+            "middle_name": "Margit Eleonora",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1944",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Maud",
+                "last_name": "Anita",
+                "middle_name": "Hjalmarsdotter",
+                "gender": "Female",
+                "birth_year": "1945"
+            },
+            {
+                "first_name": "Jeanette",
+                "last_name": "Marianne",
+                "middle_name": "Hjalmarsdotter",
+                "gender": "Female",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "hobbies": [
+        "tennis"
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1936-1937"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1941"
+        }
+    ]
+}

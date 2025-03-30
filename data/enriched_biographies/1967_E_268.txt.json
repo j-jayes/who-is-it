@@ -1,0 +1,161 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Elvander",
+        "middle_name": "A I",
+        "gender": "Male",
+        "birth_date": "16-04-1928",
+        "birth_place": {
+            "name": "Linköping",
+            "latitude": 58.41080700000001,
+            "longitude": 15.6213727,
+            "formatted_address": "Linköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "docent",
+            "occupation_english": "docent",
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ivar",
+                "last_name": "Anderson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "filosofie doktor",
+                    "occupation_english": "Doctor of Philosophy",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Märta",
+                "last_name": "Elfverson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala",
+            "department": "statskunskap",
+            "start_year": 1961,
+            "end_year": null,
+            "field": "statskunskap"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [],
+    "committee_memberships": [
+        {
+            "committee_name": "Laboremus",
+            "role": "Ordförande",
+            "start_year": 1956,
+            "end_year": null
+        },
+        {
+            "committee_name": "Tidens redaktion",
+            "role": "ledamot",
+            "start_year": 1961,
+            "end_year": 1963
+        },
+        {
+            "committee_name": "1963 års forskarutredning",
+            "role": "ledamot",
+            "start_year": 1963,
+            "end_year": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1951",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1955",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1961",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Synnöve",
+            "last_name": "Hedenberg",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Sven",
+                    "last_name": "Hedenberg",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "medicine doktor",
+                        "occupation_english": "Doctor of Medicine",
+                        "hisco_code_swedish": "6100.0",
+                        "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+                        "hisco_code_english": "6100.0",
+                        "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Gudrun",
+                    "last_name": "Bergene",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1951",
+        "divorce_year": null,
+        "children": []
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [],
+    "publications": [
+        {
+            "title": "Harald Hjärne och konservatismen",
+            "year": "1961",
+            "type": "book"
+        },
+        {
+            "title": "Intresseorganisationerna i dagens Sverige",
+            "year": "1966",
+            "type": "book"
+        },
+        {
+            "title": "uppsatser i Statsvetenskaplig tidskrift med flera",
+            "year": "None",
+            "type": "article"
+        }
+    ],
+    "travels": null
+}

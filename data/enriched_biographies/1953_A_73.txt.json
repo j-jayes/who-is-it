@@ -1,0 +1,232 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Ahlgren",
+        "middle_name": "Gunnar",
+        "gender": "Male",
+        "birth_date": "04-04-1898",
+        "birth_place": {
+            "name": "Simrishamn",
+            "latitude": 55.5573959,
+            "longitude": 14.3489651,
+            "formatted_address": "Simrishamn, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Ahlgren",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "läroverksadjunkt",
+                    "occupation_english": "Lecturer",
+                    "hisco_code_swedish": "13200.0",
+                    "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Gunhild",
+                "last_name": "Engstedt",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Lund",
+            "department": "fysiologi",
+            "start_year": 1925,
+            "field": "fysiologi"
+        },
+        {
+            "position": "amanuens",
+            "position_english": "Assistant",
+            "institution": "Karolinska Institutet",
+            "department": "farmakologi",
+            "start_year": 1926,
+            "field": "farmakologi"
+        },
+        {
+            "position": "laborator",
+            "position_english": "Laboratory assistant",
+            "institution": "Uppsala",
+            "department": "fysiologi",
+            "start_year": 1927,
+            "field": "fysiologi"
+        },
+        {
+            "position": "professor",
+            "position_english": "Professor",
+            "institution": "Lund",
+            "department": "farmakologi",
+            "start_year": 1930,
+            "end_year": null,
+            "field": "farmakologi"
+        },
+        {
+            "position": "temp. lecturer",
+            "position_english": "Temporary lecturer",
+            "institution": "Mayo Foundation, Univ. of Minnesota",
+            "department": null,
+            "start_year": 1927,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska farmakopékommittén",
+            "role": "ledamot",
+            "start_year": 1936,
+            "end_year": null
+        },
+        {
+            "committee_name": "Svenska farmakopékommittén",
+            "role": "ordförande",
+            "start_year": 1948,
+            "end_year": null
+        },
+        {
+            "committee_name": "Nordiska farmakopéndn",
+            "role": "ordförande",
+            "start_year": 1948,
+            "end_year": 1949
+        },
+        {
+            "committee_name": "Nordiska farmakopéndn",
+            "role": "vice ordförande",
+            "start_year": 1951,
+            "end_year": 1952
+        },
+        {
+            "committee_name": "militära läkemedelskommittén",
+            "role": "ledamot",
+            "start_year": 1941,
+            "end_year": 1943
+        },
+        {
+            "committee_name": "försvarets sjukvårdsförvaltnings vetenskapliga råd",
+            "role": "ledamot",
+            "start_year": 1944,
+            "end_year": null
+        },
+        {
+            "committee_name": "1946 års läkemedelsutredning",
+            "role": "ledamot",
+            "start_year": 1946,
+            "end_year": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "Lund"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1927",
+            "institution": "Lund"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1927",
+            "institution": "Lund"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Mary",
+            "last_name": "v. Rosen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "06-06-1906",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Erie",
+                    "last_name": "v. Rosen",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "greve",
+                        "occupation_english": "count",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "-1.0",
+                        "hisco_description_english": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Mary",
+                    "last_name": "Fock",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": {
+                        "occupation": "friherrinna",
+                        "occupation_english": "baroness",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title",
+                        "hisco_code_english": "61110.0",
+                        "hisco_description_english": "General Farmer"
+                    }
+                }
+            ]
+        },
+        "marriage_year": "1945",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "marinläkare i reserven 1927 (1. graden 1938-1945)",
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Zur Kenntnis der tierischen Gewebsoxydation",
+            "year": "1925",
+            "type": "gradualavhandling"
+        },
+        {
+            "title": "Pharmaconomia Suecia",
+            "year": "1938",
+            "type": "offentligt uppdrag",
+            "editions": [
+                {
+                    "edition_number": "II",
+                    "year": "1943"
+                }
+            ]
+        }
+    ],
+    "travels": null
+}

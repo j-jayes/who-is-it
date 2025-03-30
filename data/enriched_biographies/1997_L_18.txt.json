@@ -1,0 +1,103 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "R",
+        "last_name": "Lagercrantz",
+        "middle_name": "Sture",
+        "gender": "Male",
+        "birth_date": "13-06-1910",
+        "birth_place": {
+            "name": "Sillerud, Värmlands Län",
+            "latitude": 59.30634019999999,
+            "longitude": 12.307761,
+            "formatted_address": "672 95 Sillerud, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor emeritus",
+            "occupation_english": "professor emeritus",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Lagercrantz",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "apotekare",
+                    "occupation_english": "pharmacist",
+                    "hisco_code_swedish": "6710.0",
+                    "hisco_description_swedish": "Pharmacist",
+                    "hisco_code_english": "41030.0",
+                    "hisco_description_english": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Thora",
+                "last_name": "Nilsson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Stockholm",
+            "start_year": 1938
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala",
+            "department": "allmän och jämförande etnografi",
+            "start_year": 1944,
+            "end_year": 1962
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Uppsala",
+            "start_year": 1962,
+            "end_year": 1976
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Skrifter",
+            "field": "Negerafrikas etnografi",
+            "significance": "etnografi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingår",
+            "last_name": "Fredricsson",
+            "gender": "Female",
+            "birth_date": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Fredricsson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "rektor",
+                        "occupation_english": "principal",
+                        "hisco_code_swedish": "13940.0",
+                        "hisco_description_swedish": "Head Teacher",
+                        "hisco_code_english": "37040.0",
+                        "hisco_description_english": "Messenger"
+                    }
+                },
+                {
+                    "first_name": "Julia",
+                    "last_name": "Larsson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1948"
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": 1927,
+            "organization": "franska rederi- och skeppsagenturer",
+            "location": {
+                "name": "Cette, Marseille, Alger, Tunis",
+                "latitude": 43.3025742,
+                "longitude": 5.369074299999999,
+                "formatted_address": "Marseille, France"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Agentur",
+            "start_year": 1927,
+            "end_year": null,
+            "organization": "agenturfirma Hamburg",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1928,
+            "end_year": 1938,
+            "organization": "A R Nordvall & Co AB",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Övertog",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": "A R Nordvall & Co AB",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Verkställande Direktör",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": "Svenska Konstgödning AB",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Axel",
+        "last_name": "BUSCK",
+        "middle_name": "Konrad Gunnar",
+        "gender": "Male",
+        "birth_date": "04-12-1901",
+        "birth_place": {
+            "name": "Kville",
+            "latitude": 36.1198588,
+            "longitude": -80.07365329999999,
+            "formatted_address": "Kernersville, NC, USA"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "F",
+                "last_name": "B",
+                "middle_name": "A",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Major",
+                    "occupation_english": "Major",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Neiglick",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1920",
+            "institution": "Uddevalla"
+        },
+        {
+            "degree": "Göteborgs Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1921",
+            "institution": "Göteborgs Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Birgit",
+            "last_name": "Reftel",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Sydfrankrike",
+                "latitude": 45.5126545,
+                "longitude": 4.4904519,
+                "formatted_address": "Southern France, France"
+            },
+            "country_code": "FRA",
+            "year": "1921-1927"
+        },
+        {
+            "country": {
+                "name": "Nordafrika",
+                "latitude": 26.0197776,
+                "longitude": 32.277834,
+                "formatted_address": "North Africa"
+            },
+            "country_code": "DZA",
+            "year": "1921-1927"
+        },
+        {
+            "country": {
+                "name": "Balkan",
+                "latitude": 41.8101472,
+                "longitude": 21.0937311,
+                "formatted_address": "Balkans"
+            },
+            "country_code": "None",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Portugal",
+                "latitude": 39.39987199999999,
+                "longitude": -8.224454,
+                "formatted_address": "Portugal"
+            },
+            "country_code": "PRT",
+            "year": null
+        }
+    ]
+}

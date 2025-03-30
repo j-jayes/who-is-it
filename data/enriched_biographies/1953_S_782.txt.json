@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Samkföreståndare",
+            "start_year": 1901,
+            "end_year": 1905,
+            "organization": "Norske Videnskabers Selskabs museum",
+            "location": {
+                "name": "Trondhjem",
+                "latitude": 63.4305149,
+                "longitude": 10.3950528,
+                "formatted_address": "Trondheim, Norway"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1902,
+            "end_year": 1905,
+            "organization": "Trondhjems biologiska station",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Docent i zoologi",
+            "start_year": 1905,
+            "end_year": 1909,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Fiskeriintendent",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Mellersta distriktet",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Fiskeriintendent",
+            "start_year": 1913,
+            "end_year": 1939,
+            "organization": null,
+            "location": {
+                "name": "södra distriktet",
+                "latitude": 30.829562,
+                "longitude": 35.0388164,
+                "formatted_address": "South District, Israel"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Swenander",
+        "middle_name": "Gustaf",
+        "gender": "Male",
+        "birth_date": "18-03-1874",
+        "birth_place": {
+            "name": "Österplana, Skaraborgs Län",
+            "latitude": 58.57416070000001,
+            "longitude": 13.4236457,
+            "formatted_address": "533 94 Österplana, Sweden"
+        },
+        "occupation": {
+            "occupation": "Fiskeriintendent",
+            "occupation_english": null
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Swenander",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kyrkoherde",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Elise",
+                "last_name": "Adlerbjelke",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1896",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1902",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1903",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Kolmodin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Lars",
+                    "last_name": "Kolmodin",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Läroverksadjunkt, filosofie doktor",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "13200.0",
+                        "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown"
+                    }
+                },
+                {
+                    "first_name": "Sigrid",
+                    "last_name": "Sundahl",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1902",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Studien über den Bau des Schlundes und Magens der Vogel",
+            "year": "None",
+            "type": "avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Beeren-Eiland",
+                "latitude": 74.4522484,
+                "longitude": 19.1151972,
+                "formatted_address": "Bear Island, 9176, Svalbard and Jan Mayen"
+            },
+            "country_code": "None",
+            "year": "1899"
+        }
+    ]
+}

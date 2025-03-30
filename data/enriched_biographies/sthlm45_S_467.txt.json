@@ -1,0 +1,230 @@
+{
+    "career": [
+        {
+            "position": "Tjänsteman",
+            "start_year": 1908,
+            "end_year": 1915,
+            "organization": "Skandinaviska Kredit Aktiebolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1915,
+            "end_year": 1917,
+            "organization": "Kungliga Kontrollstyrelsens pris- och inköpsnämnd",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1917,
+            "end_year": 1918,
+            "organization": "Stockholms Ved Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": "Stockholms Rederi Aktiebolag Svea",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kassadirketör",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": "Stockholms Rederi Aktiebolag Svea",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ferdinand",
+        "last_name": "S",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "21-02-1888",
+        "birth_place": {
+            "name": "Mariefred",
+            "latitude": 59.26203809999999,
+            "longitude": 17.22311,
+            "formatted_address": "647 30 Mariefred, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Ferdinand",
+                "last_name": "S",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Järnhandlare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "41030.0",
+                    "hisco_description_swedish": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Ann-Söfi",
+                "last_name": "Setterholm",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Godkänd granskningsman",
+            "organization": "Stockholms Handelskammer"
+        },
+        {
+            "position": "Ordförande",
+            "organization": "Sveabolagets Befäls Understödsförening"
+        },
+        {
+            "position": "Kassaförvaltare",
+            "organization": "Föreningen Sveriges"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Nya Elementarskolan",
+            "degree_level": "Schooling",
+            "year": "1907",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Schartaus Handelsinstitut",
+            "degree_level": "Schooling",
+            "year": "1908",
+            "institution": "Schartaus Handelsinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Svea",
+            "last_name": "Norqvist",
+            "middle_name": "Kristina Lovisa",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1920",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Inga-Britt",
+                "last_name": "S",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1923"
+            },
+            {
+                "first_name": "Arne",
+                "last_name": "S",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1928"
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "S",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1928"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1911"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1913"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1914"
+        }
+    ]
+}

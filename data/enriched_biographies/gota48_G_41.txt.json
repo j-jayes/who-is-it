@@ -1,0 +1,315 @@
+{
+    "career": [
+        {
+            "position": "Konstruktör",
+            "start_year": 1940,
+            "end_year": 1940,
+            "organization": "Ackumulator Aktiebolag Tudor",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Försäljningsingenjör",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Ackumulator Aktiebolag Tudor",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Avdelningschef",
+            "start_year": 1941,
+            "end_year": 1943,
+            "organization": "Ackumulator Aktiebolag Tudor",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Planeringschef",
+            "start_year": 1943,
+            "end_year": 1944,
+            "organization": "Fabriken i Nol",
+            "location": {
+                "name": "Nol",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överingenjörsassistent",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Pär",
+        "last_name": "Gierow",
+        "middle_name": "Erik Gert",
+        "gender": "Male",
+        "birth_date": "17-03-1912",
+        "birth_place": {
+            "name": "Hälsingborg",
+            "latitude": 64.1386294,
+            "longitude": 19.5225599,
+            "formatted_address": "922 93 Hälsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Arvid",
+                "last_name": "Gierow",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "teologie doktor",
+                    "occupation_english": "Doctor of Theology",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Astrid",
+                "last_name": "Sjöblom",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Nol",
+        "latitude": null,
+        "longitude": null,
+        "formatted_address": null
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Hälsingborg"
+        },
+        {
+            "degree": "avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1939",
+            "institution": "Kungliga Tekniska Högskolan"
+        },
+        {
+            "degree": "lov",
+            "degree_level": "Bachelor's",
+            "year": "1946",
+            "institution": "Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Christina",
+            "last_name": "Egerström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1942",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Arvid",
+                "last_name": "Gierow",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Charlotte",
+                "last_name": "Gierow",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "hobbies": [
+        "skönlitteratur",
+        "tennis"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "uppsatser i transportfrågor och arbetsstudier",
+            "year": "None",
+            "type": "artikel",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Holländerna",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "NLD",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Spanien",
+                "latitude": 40.46366700000001,
+                "longitude": -3.74922,
+                "formatted_address": "Spain"
+            },
+            "country_code": "ESP",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Senegal",
+                "latitude": 14.497401,
+                "longitude": -14.452362,
+                "formatted_address": "Senegal"
+            },
+            "country_code": "SEN",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1947"
+        }
+    ]
+}

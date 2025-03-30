@@ -1,0 +1,194 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1926,
+            "end_year": 1928,
+            "organization": "Amerik Motor Import",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1928,
+            "end_year": 1929,
+            "organization": "General Motors Nord Aktiebolag",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kamrer",
+            "start_year": 1929,
+            "end_year": 1937,
+            "organization": "Aktiebolaget Malmö Margarinfabrik",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1938,
+            "end_year": 1941,
+            "organization": "Aktiebolaget Malmö Margarinfabrik",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vice verkställande direktör",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Margarinbolaget huvudkontor",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Borgh",
+        "middle_name": "Filip",
+        "gender": "Male",
+        "birth_date": "26-08-1905",
+        "birth_place": {
+            "name": "Hälsingborg",
+            "latitude": 64.1386294,
+            "longitude": 19.5225599,
+            "formatted_address": "922 93 Hälsingborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "Borgh",
+                "middle_name": "E",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Ester",
+                "last_name": "Broström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Skidfrämjandet"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Filatelistföreningen",
+            "role": "Ledamot av huvudstyrelsen",
+            "start_year": 0,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Edsviken",
+        "latitude": 59.42647879999999,
+        "longitude": 17.9808589,
+        "formatted_address": "Edsviken, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1924",
+            "institution": "Hälsingborg"
+        },
+        {
+            "degree": "Handelsgymnasiets studiekurs",
+            "degree_level": "Schooling",
+            "year": "1925",
+            "institution": "Hälsingborg"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elsa",
+            "last_name": "Bergqvist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Friluftsliv",
+        "Filateli"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Holland",
+                "latitude": 52.132633,
+                "longitude": 5.291265999999999,
+                "formatted_address": "Netherlands"
+            },
+            "country_code": "NLD",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1938"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1905,
+            "end_year": 1915,
+            "organization": "Högre Konstindustriella Skolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1924,
+            "end_year": 1949,
+            "organization": "Högre Konstindustriella Skolan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lärare",
+            "start_year": 1923,
+            "end_year": 1927,
+            "organization": "Brunsons vävskola",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överstyrelse",
+            "start_year": 1950,
+            "end_year": null,
+            "organization": "Överstyrelsen för yrkesutbildning och skolöverstyrelsen med flera",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Free lance",
+            "start_year": 1950,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Eivor",
+        "last_name": "Fisher",
+        "middle_name": "H",
+        "gender": "Female",
+        "birth_date": "10-04-1884",
+        "birth_place": {
+            "name": "Gävle",
+            "latitude": 60.6748796,
+            "longitude": 17.1412726,
+            "formatted_address": "Gävle, Sweden"
+        },
+        "occupation": {
+            "occupation": "Textilkonstnärinna",
+            "occupation_english": "Textile artist",
+            "hisco_code_english": "16130.0",
+            "hisco_description_english": "Painter, Artist"
+        },
+        "parents": [
+            {
+                "first_name": "Fredrik",
+                "last_name": "Hedvall",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Redaktör",
+                    "occupation_english": "Editor",
+                    "hisco_code_swedish": "15920.0",
+                    "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+                    "hisco_code_english": "15120.0",
+                    "hisco_description_english": "Author"
+                }
+            },
+            {
+                "first_name": "Hilda",
+                "last_name": "Norström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Teknisk skola",
+            "degree_level": "Schooling",
+            "year": "1900-1905",
+            "institution": "Teknisk skola"
+        },
+        {
+            "degree": "Högre Konstindustriella Skolan",
+            "degree_level": "Schooling",
+            "year": "1900-1905",
+            "institution": "Högre Konstindustriella Skolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ejnar",
+            "last_name": "Blunck-Fisher",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "Diplomingenjör",
+                "occupation_english": "Diplomate Engineer",
+                "hisco_code_swedish": "2000.0",
+                "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                "hisco_code_english": "84100.0",
+                "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+            },
+            "parents": null
+        },
+        "marriage_year": "1915",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Else",
+                "last_name": "Fisher",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1918"
+            },
+            {
+                "first_name": "Randi",
+                "last_name": "Fisher",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1920"
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Hemslöjdens Märkbok",
+            "year": "1944",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Svensk Broderikonst",
+            "year": "1952",
+            "type": "Bok",
+            "editions": [
+                {
+                    "edition_number": "2:a",
+                    "year": "1961",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Swedish Embroidery",
+            "year": "1953",
+            "type": "Bok",
+            "editions": [
+                {
+                    "edition_number": "Ny",
+                    "year": "1961",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Melbourne",
+                "latitude": -37.8136276,
+                "longitude": 144.9630576,
+                "formatted_address": "Melbourne VIC, Australia"
+            },
+            "country_code": "AUS",
+            "year": "1917"
+        }
+    ]
+}

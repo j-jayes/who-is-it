@@ -1,0 +1,176 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1903,
+            "end_year": 1907,
+            "organization": "John O Brain Co",
+            "location": {
+                "name": "Somers, Mont, USA",
+                "latitude": 48.0804858,
+                "longitude": -114.2247965,
+                "formatted_address": "Somers, MT, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Försäljare",
+            "start_year": 1907,
+            "end_year": 1909,
+            "organization": "Montgomery Ward & Co",
+            "location": {
+                "name": "Chicago",
+                "latitude": 41.8781136,
+                "longitude": -87.6297982,
+                "formatted_address": "Chicago, IL, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Ägare",
+            "start_year": 1909,
+            "end_year": null,
+            "organization": "Möbleringsaffär under firma Ernst Nilsson",
+            "location": {
+                "name": "Vislanda",
+                "latitude": 56.7858694,
+                "longitude": 14.4650634,
+                "formatted_address": "342 52 Vislanda, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Filial",
+            "start_year": 1915,
+            "end_year": null,
+            "organization": "Ryd",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Nilsson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "22-10-1885",
+        "birth_place": null,
+        "occupation": {
+            "occupation": "Möbelhandlare",
+            "occupation_english": null,
+            "hisco_code_swedish": "41030.0",
+            "hisco_description_swedish": "Working Proprietor (Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "N",
+                "last_name": "Andersson",
+                "middle_name": "P",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byggmästare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21240.0",
+                    "hisco_description_swedish": "Contractor"
+                }
+            },
+            {
+                "first_name": "Ingrid-Lena",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Vislanda",
+        "latitude": 56.7858694,
+        "longitude": 14.4650634,
+        "formatted_address": "342 52 Vislanda, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Ester",
+            "last_name": "Samuelsson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Affärsrörelsen"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Irland",
+                "latitude": 53.77975540000001,
+                "longitude": -7.3055309,
+                "formatted_address": "Ireland"
+            },
+            "country_code": "IRL",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Kanada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

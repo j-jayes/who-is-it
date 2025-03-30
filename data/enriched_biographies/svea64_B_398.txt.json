@@ -1,0 +1,219 @@
+{
+    "career": [
+        {
+            "position": "stadsarkitekt",
+            "start_year": 1934,
+            "organization": "Arboga",
+            "location": {
+                "name": "Arboga",
+                "latitude": 59.39368829999999,
+                "longitude": 15.8381747,
+                "formatted_address": "Arboga, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "länsarkitektassistent",
+            "start_year": 1936,
+            "organization": null,
+            "location": {
+                "name": "Härnösand",
+                "latitude": 62.6322698,
+                "longitude": 17.9408714,
+                "formatted_address": "Härnösand, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "stadsplanearkitekt",
+            "start_year": 1938,
+            "organization": null,
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "stadsarkitekt",
+            "start_year": 1945,
+            "organization": null,
+            "location": {
+                "name": "Lidköping",
+                "latitude": 58.5035047,
+                "longitude": 13.1570768,
+                "formatted_address": "Lidköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "stadsarkitekt",
+            "start_year": 1947,
+            "end_year": 1962,
+            "organization": null,
+            "location": {
+                "name": "Västerås",
+                "latitude": 59.60990049999999,
+                "longitude": 16.5448091,
+                "formatted_address": "Västerås, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "egen arkitektverksamhet",
+            "start_year": 1963,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Bohlin",
+        "middle_name": "S",
+        "gender": "Male",
+        "birth_date": "29-06-1908",
+        "birth_place": {
+            "name": "Borås",
+            "latitude": 57.72103500000001,
+            "longitude": 12.939819,
+            "formatted_address": "Borås, Sweden"
+        },
+        "occupation": {
+            "occupation": "arkitekt",
+            "occupation_english": "architect",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "H",
+                "last_name": "Bohlin",
+                "middle_name": "O",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "läroverksadjunkt",
+                    "occupation_english": "lecturer",
+                    "hisco_code_swedish": "13200.0",
+                    "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Frida",
+                "last_name": "Engman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Västerås",
+        "latitude": 59.60990049999999,
+        "longitude": 16.5448091,
+        "formatted_address": "Västerås, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1927",
+            "institution": "Borås"
+        },
+        {
+            "degree": "Kungliga Tekniska Högskolan",
+            "degree_level": "Master's",
+            "year": "1932",
+            "institution": "KTH"
+        },
+        {
+            "degree": "Kungliga Konsthögskolan",
+            "degree_level": "Master's",
+            "year": "1946",
+            "institution": "KKH"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingrid",
+            "last_name": "Dahlberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "textillärare",
+                "occupation_english": "textile teacher",
+                "hisco_code_english": "13990.0",
+                "hisco_description_english": "Other Teachers"
+            },
+            "parents": [
+                {
+                    "first_name": "Ernst",
+                    "last_name": "Dahlberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kamrer",
+                        "occupation_english": "comptroller",
+                        "hisco_code_swedish": "11010.0",
+                        "hisco_description_swedish": "Accountant, General"
+                    }
+                },
+                {
+                    "first_name": "Ester",
+                    "last_name": "Boman",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1935",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Per",
+                "last_name": "Hans",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1937"
+            },
+            {
+                "first_name": "Ann",
+                "last_name": "Kristin",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Henrik",
+                "last_name": "Bohlin",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1948"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

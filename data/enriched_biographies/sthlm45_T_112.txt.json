@@ -1,0 +1,149 @@
+{
+    "career": [
+        {
+            "position": "Överingenjör",
+            "start_year": 1940,
+            "organization": "Telefonaktiebolaget L. M. Ericsson"
+        },
+        {
+            "position": "Organisatör",
+            "start_year": 1917,
+            "end_year": 1920,
+            "organization": "Bergedorfer Eisenwerk",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Factory Superintendent",
+            "start_year": 1920,
+            "end_year": 1921,
+            "organization": "The Eck Dynamo and Motor Co.",
+            "location": {
+                "name": "Belleville, N J",
+                "latitude": 40.7873846,
+                "longitude": -74.152875,
+                "formatted_address": "Belleville, NJ, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Testing Engineer",
+            "start_year": 1922,
+            "end_year": 1923,
+            "organization": "Panel Switching System, The Western Electric Co.",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Montage- och projekteringsingenjör",
+            "start_year": 1923,
+            "organization": "Telefonaktiebolaget L. M. Ericsson"
+        },
+        {
+            "position": "Chef för statprojektavdelningen",
+            "start_year": 1932,
+            "organization": "Telefonaktiebolaget L. M. Ericsson"
+        },
+        {
+            "position": "Chef för tillverkningsavdelningen",
+            "start_year": 1933,
+            "end_year": 1935,
+            "organization": "Telefonaktiebolaget L. M. Ericsson"
+        },
+        {
+            "position": "Dirassistent för utländska fabriksbolag",
+            "start_year": 1935,
+            "organization": "Telefonaktiebolaget L. M. Ericsson"
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Thorelli",
+        "middle_name": "Wilhelm Robert",
+        "gender": "Male",
+        "birth_date": "19-01-1893",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överingenjör",
+            "occupation_english": "Chief Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "S",
+                "last_name": "Thorelli",
+                "middle_name": "E",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "von Nolting",
+                "gender": "Female"
+            }
+        ]
+    },
+    "military_service": "Fänrik i Göta livgardes reserv 1915, löjtnant 1920, avsked 1924, hvobefälhavare 1940.",
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1924"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1926"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1927"
+        }
+    ]
+}

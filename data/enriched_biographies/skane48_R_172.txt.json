@@ -1,0 +1,236 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1907,
+            "end_year": null,
+            "organization": "Diverse anställningar i Sverige",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1908,
+            "end_year": 1910,
+            "organization": "Nya Förenade Elektricitets Aktiebolag i Ludvika",
+            "location": {
+                "name": "Ludvika",
+                "latitude": 60.152358,
+                "longitude": 15.191639,
+                "formatted_address": "Ludvika, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1911,
+            "end_year": 1912,
+            "organization": "Diverse firmor i USA",
+            "location": null,
+            "country_code": "USA"
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": "Södra Sveriges Ångpanneförening",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Avdelningsföreståndare",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "Södra Sveriges Ångpanneförening",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Eskil",
+        "last_name": "Rydholm",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "18-12-1884",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Peter",
+                "last_name": "Magnus R.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kontraktsprost",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Gerda",
+                "last_name": "Bergstedt",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1903",
+            "institution": "Göteborg"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1906",
+            "institution": "Chalmers Tekniska Högskola (E)"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Stella",
+            "last_name": "Hammargren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1913",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Barbro",
+                "last_name": "Rydholm",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1916"
+            },
+            {
+                "first_name": "Jan",
+                "last_name": "Rydholm",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1918"
+            },
+            {
+                "first_name": "Tomas",
+                "last_name": "Rydholm",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1928"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Vasaorden",
+        "Ångpanneföreningens förtjänstmedalj",
+        "Patriotiska Sällskapets guldmedalj"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1911"
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

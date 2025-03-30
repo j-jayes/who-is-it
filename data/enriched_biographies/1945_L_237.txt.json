@@ -1,0 +1,183 @@
+{
+    "career": [
+        {
+            "position": "Laborator",
+            "start_year": 1942,
+            "organization": "Sthlms högskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1942,
+            "organization": "Wenner-Grens institut, Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Lindahl",
+        "middle_name": "Erie Edvard Arvid",
+        "gender": "Male",
+        "birth_date": "31-01-1906",
+        "birth_place": {
+            "name": "Edsvära, Skaraborgs Län",
+            "latitude": 58.24146030000001,
+            "longitude": 13.1838817,
+            "formatted_address": "535 93 Edsvära, Sweden"
+        },
+        "occupation": {
+            "occupation": "Laborator",
+            "occupation_english": "Laboratory Technician",
+            "hisco_code_swedish": "1400.0",
+            "hisco_description_swedish": "Physical Science Technician, Specialisation Unknown",
+            "hisco_code_english": "1400.0",
+            "hisco_description_english": "Physical Science Technician, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Erie",
+                "last_name": "Lindahl",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapt.",
+                    "occupation_english": "Sea Captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Bertha",
+                "last_name": "Moritz",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie kandidat",
+            "position_english": "Bachelor of Arts",
+            "institution": "Sthlms högskola",
+            "start_year": 1929,
+            "field": null
+        },
+        {
+            "position": "Filosofie licentiat",
+            "position_english": "Licentiate of Philosophy",
+            "institution": "Sthlms högskola",
+            "start_year": 1932,
+            "field": null
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Sthlms högskola",
+            "department": "Zoologi",
+            "start_year": 1936,
+            "field": "Zoologi"
+        },
+        {
+            "position": "Filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Sthlms högskola",
+            "start_year": 1936,
+            "field": "Zoologi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Hanna",
+            "last_name": "Jansson",
+            "gender": "Female",
+            "birth_date": "01-01-1903",
+            "parents": [
+                {
+                    "first_name": "Ludv.",
+                    "last_name": "Jansson",
+                    "gender": "Male"
+                },
+                {
+                    "first_name": "Malin",
+                    "last_name": "Jansson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1927"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Zur Kenntnis der physiologischen Grundlagen der Determination im Seeigelkeim",
+            "year": "1936",
+            "type": "doktorsavhandling",
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Monaco",
+                "latitude": 43.73841760000001,
+                "longitude": 7.424615799999999,
+                "formatted_address": "Monaco"
+            },
+            "country_code": "MCO",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

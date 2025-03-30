@@ -1,0 +1,120 @@
+{
+    "career": [
+        {
+            "position": "civilingenjör",
+            "start_year": 1954,
+            "organization": "Billeruds aktiebolag Säffle",
+            "location": {
+                "name": "Säffle",
+                "latitude": 59.132661,
+                "longitude": 12.930107,
+                "formatted_address": "Säffle, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Technician Assistant",
+            "start_year": 1957,
+            "organization": "West Virginia Pulp & Paper Co Covington",
+            "location": {
+                "name": "Covington",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "Laboratoriechef",
+            "start_year": 1959,
+            "organization": "Munksjö aktiebolag Aspa sulfatfabrik",
+            "location": {
+                "name": "Aspa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        },
+        {
+            "position": "Laboratoriechef",
+            "start_year": 1963,
+            "organization": "Dynäs aktiebolag",
+            "location": {
+                "name": "Väja",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Virdalm",
+        "middle_name": "Axel",
+        "gender": "Male",
+        "birth_date": "31-12-1929",
+        "birth_place": {
+            "name": "Dubuque, Iowa, USA",
+            "latitude": 42.5063629,
+            "longitude": -90.6677479,
+            "formatted_address": "Dubuque, IA, USA"
+        },
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Carlsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "arkitekt",
+                    "occupation_english": "architect",
+                    "hisco_code_swedish": "2120.0",
+                    "hisco_description_swedish": "Building Architect",
+                    "hisco_code_english": "2120.0",
+                    "hisco_description_english": "Building Architect"
+                }
+            },
+            {
+                "first_name": "Disa",
+                "last_name": "Jacobson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1954",
+            "institution": "Chalmers Tekniska Högskola"
+        }
+    ],
+    "publications": [
+        {
+            "title": "i fackämnen",
+            "year": "None",
+            "type": "article"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        }
+    ]
+}

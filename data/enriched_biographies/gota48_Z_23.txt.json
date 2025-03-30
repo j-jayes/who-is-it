@@ -1,0 +1,159 @@
+{
+    "career": [
+        {
+            "position": "Föreståndare",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "Institutet för Kärnkemi",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Zimen",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "05-02-1912",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent",
+            "occupation_english": null,
+            "hisco_code_swedish": "99999.0",
+            "hisco_description_swedish": "Unspecified worktitle or several titles"
+        },
+        "parents": [
+            {
+                "first_name": "Sven",
+                "last_name": "Larsson-Z.",
+                "middle_name": "Olof",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Ella",
+                "last_name": "Otto",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Chalmers Tekniska Högskola",
+            "department": null,
+            "start_year": 1946,
+            "end_year": null,
+            "field": "Tillämpad Kärnkemi"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Eva",
+            "last_name": "Haberlandt",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1938",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Erik",
+                "last_name": "Zimen",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Ralf",
+                "last_name": "Zimen",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            },
+            {
+                "first_name": "Monica",
+                "last_name": "Zimen",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "publications": [
+        {
+            "title": "Ett 20-tal vetenskapliga publikationer rörande kristall- och kärnkemi",
+            "year": "1937-1947",
+            "type": "Publikationer",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        }
+    ]
+}

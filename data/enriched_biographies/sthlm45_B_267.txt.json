@@ -1,0 +1,216 @@
+{
+    "career": [
+        {
+            "position": "Producent",
+            "start_year": 1922,
+            "end_year": 1923,
+            "organization": null,
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Filmförsäljning till utlandet",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "Rialto-Biografen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "Biörnstads Filmkompani",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Representant",
+            "start_year": 1923,
+            "end_year": null,
+            "organization": "Warner Bros.",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1929,
+            "end_year": 1934,
+            "organization": "A-B Fox Film",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör",
+            "start_year": 1934,
+            "end_year": 1935,
+            "organization": "Columbia Film A-B",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör och delägare",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "Rikoncernen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Direktör och delägare",
+            "start_year": 1935,
+            "end_year": null,
+            "organization": "A-B Parkteatern",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Odd",
+        "last_name": "Biörnstad",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "15-03-1896",
+        "birth_place": {
+            "name": "Sarpsborg, Norge",
+            "latitude": 59.28407290000001,
+            "longitude": 11.1094028,
+            "formatted_address": "Sarpsborg, Norway"
+        },
+        "occupation": {
+            "occupation": "Direktör",
+            "occupation_english": "Director",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": null
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Helga",
+            "last_name": "Kjeldsen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Bjarne",
+                "last_name": "Biörnstad",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1927"
+            },
+            {
+                "first_name": "Anitra",
+                "last_name": "Biörnstad",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1929"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "career": [
+        {
+            "position": "civilingenjör i väg- och vattenbyggnad",
+            "start_year": 1902,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "assistent i telegrafverket",
+            "start_year": 1903,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "extra ordinarie linjeingenjör",
+            "start_year": 1904,
+            "end_year": null,
+            "organization": "Telegrafverket",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "vikarierande adjunkt",
+            "start_year": 1906,
+            "end_year": null,
+            "organization": "Norra Latinläroverket",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "lärare",
+            "start_year": 1907,
+            "end_year": null,
+            "organization": "Stockholms borgarskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "ordinarie lärare",
+            "start_year": 1910,
+            "end_year": null,
+            "organization": "Grevesmühlska samskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "assistent i matematik",
+            "start_year": 1913,
+            "end_year": null,
+            "organization": "Tekniska Högskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "sekreterare",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Tekniska Högskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "avdelningsföreståndare",
+            "start_year": 1917,
+            "end_year": null,
+            "organization": "Stockholms borgarskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Philip",
+        "middle_name": "Joseph",
+        "gender": "Male",
+        "birth_date": "06-05-1881",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör, sekreterare",
+            "occupation_english": "Civil Engineer, Secretary"
+        },
+        "parents": [
+            {
+                "first_name": "Joseph",
+                "last_name": "Philip",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Bibi",
+                "last_name": "Levertin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "tillförordnad professor i matematik",
+            "position_english": "Acting Professor of Mathematics",
+            "institution": "Tekniska högskolan",
+            "department": null,
+            "start_year": 1916,
+            "end_year": 1916,
+            "field": "matematik"
+        },
+        {
+            "position": "tillförordnad professor i matematik",
+            "position_english": "Acting Professor of Mathematics",
+            "institution": "Tekniska högskolan",
+            "department": null,
+            "start_year": 1918,
+            "end_year": 1918,
+            "field": "matematik"
+        },
+        {
+            "position": "tillförordnad professor i matematik",
+            "position_english": "Acting Professor of Mathematics",
+            "institution": "Tekniska högskolan",
+            "department": null,
+            "start_year": 1921,
+            "end_year": 1921,
+            "field": "matematik"
+        }
+    ],
+    "board_memberships": [
+        {
+            "position": "styrelsesekreterare",
+            "organization": "Tekniska Högskolan"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Tekniska Högskolans styrelse",
+            "role": "sekreterare",
+            "start_year": 1917,
+            "end_year": 1921,
+            "organization": "Tekniska Högskolan",
+            "significance": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "Svensk ordlista",
+            "year": "1906-1920",
+            "type": "bok",
+            "editions": [
+                {
+                    "edition_number": "1-10",
+                    "year": "1906-1920",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": "1905"
+        }
+    ]
+}

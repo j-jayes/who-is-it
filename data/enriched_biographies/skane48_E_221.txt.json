@@ -1,0 +1,180 @@
+{
+    "career": [
+        {
+            "position": "Anställd vid Rörlednings Aktiebolag Celsius",
+            "start_year": 1935,
+            "end_year": 1944,
+            "organization": "Rörlednings Aktiebolag Celsius",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Avdelningschef",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Aktiebolag Såna",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Erlandsson",
+        "middle_name": "Rolf",
+        "gender": "Male",
+        "birth_date": "02-09-1910",
+        "birth_place": {
+            "name": "Skövde",
+            "latitude": 58.3902782,
+            "longitude": 13.8461208,
+            "formatted_address": "Skövde, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Erlandsson",
+                "middle_name": "Adolf",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överste",
+                    "occupation_english": "Colonel",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Billvall",
+                "middle_name": "Victoria",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1929",
+            "institution": "Umeå"
+        },
+        {
+            "degree": "Avgångsexamen från Kungliga Tekniska Högskolan",
+            "degree_level": "Master's",
+            "year": "1935",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Blomquist",
+            "middle_name": "Knutsdotter",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Marianne",
+                "last_name": "Erlandsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Per",
+                "last_name": "Erlandsson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Helene",
+                "last_name": "Erlandsson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": null
+        }
+    ]
+}

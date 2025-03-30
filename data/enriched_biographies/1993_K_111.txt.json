@@ -1,0 +1,76 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Lundqvist",
+        "middle_name": null,
+        "gender": "Male"
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": [],
+    "family": {
+        "spouse": {
+            "first_name": "Carl",
+            "last_name": "Lundqvist",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": "00-00-1912",
+            "birth_place": null,
+            "occupation": {
+                "occupation": "kapten",
+                "occupation_english": "Captain",
+                "hisco_code_swedish": "58320.0",
+                "hisco_description_swedish": "Officer",
+                "hisco_code_english": "4215.0",
+                "hisco_description_english": "Ship's Master (Sea)"
+            },
+            "parents": null
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "country": {
+                "name": "Storbritannien",
+                "latitude": 55.378051,
+                "longitude": -3.435973,
+                "formatted_address": "United Kingdom"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA"
+        }
+    ]
+}

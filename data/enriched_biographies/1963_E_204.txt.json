@@ -1,0 +1,90 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1928,
+            "organization": "STAB"
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1962,
+            "organization": "STAB:s dotterbolag Helios Holding AG",
+            "location": {
+                "name": "Zürich",
+                "latitude": 47.3768866,
+                "longitude": 8.541694,
+                "formatted_address": "Zürich, Switzerland"
+            },
+            "country_code": "CHE"
+        },
+        {
+            "position": "Generalkonsul",
+            "start_year": 1957,
+            "end_year": 1961,
+            "location": {
+                "name": "Colombo",
+                "latitude": 6.9270786,
+                "longitude": 79.861243,
+                "formatted_address": "Colombo, Sri Lanka"
+            },
+            "country_code": "LKA"
+        },
+        {
+            "position": "Generalkonsul",
+            "start_year": 1962,
+            "location": {
+                "name": "Zürich",
+                "latitude": 47.3768866,
+                "longitude": 8.541694,
+                "formatted_address": "Zürich, Switzerland"
+            },
+            "country_code": "CHE"
+        }
+    ],
+    "person": {
+        "first_name": "Yngve",
+        "last_name": "Ekmark",
+        "middle_name": "H",
+        "gender": "Male",
+        "birth_date": "29-07-1904",
+        "birth_place": {
+            "name": "Jönköping",
+            "latitude": 57.78261370000001,
+            "longitude": 14.1617876,
+            "formatted_address": "Jönköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Generalkonsul",
+            "occupation_english": "Consul General",
+            "hisco_code_swedish": "58320.0",
+            "hisco_description_swedish": "Officer",
+            "hisco_code_english": "20210.0",
+            "hisco_description_english": "Government Administrator"
+        }
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1923",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Juridikstudier",
+            "degree_level": "Bachelor's",
+            "year": "1924-1928",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sigbrit",
+            "last_name": "Johansson",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null
+        },
+        "marriage_year": "1930"
+    }
+}

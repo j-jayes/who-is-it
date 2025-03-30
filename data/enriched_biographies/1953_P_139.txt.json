@@ -1,0 +1,178 @@
+{
+    "career": [
+        {
+            "position": "Amanuens",
+            "start_year": 1909,
+            "end_year": 1918,
+            "organization": "Kemiska institutionen i Uppsala",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kemist",
+            "start_year": 1918,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Fabrikschef",
+            "start_year": 1930,
+            "end_year": 1950,
+            "organization": "Dorch, Bäcksin & Co ab",
+            "location": {
+                "name": "Agnesberg",
+                "latitude": 57.7896435,
+                "longitude": 12.0153179,
+                "formatted_address": "424 38 Agnesberg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Pihlblad",
+        "middle_name": "Erland Herman",
+        "gender": "Male",
+        "birth_date": "14-04-1885",
+        "birth_place": {
+            "name": "Vendel, Uppsala Län",
+            "latitude": 60.1673283,
+            "longitude": 17.5982635,
+            "formatted_address": "748 95 Vendel, Sweden"
+        },
+        "occupation": {
+            "occupation": "Filosofie Doktor",
+            "occupation_english": "Doctor of Philosophy",
+            "hisco_code_swedish": "-1.0",
+            "hisco_description_swedish": "Missing, no title",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Erland",
+                "last_name": "Pihlblad",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Statsrinspektör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "31000.0",
+                    "hisco_description_swedish": "Government Executive Official, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Bergholtz",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Chalmers Tekniska Högskola",
+            "department": null,
+            "start_year": 1940,
+            "end_year": 1951,
+            "field": "Kemisk teknologi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lerum",
+        "latitude": 57.7694839,
+        "longitude": 12.2688197,
+        "formatted_address": "Lerum, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "Unknown",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Filosofie Doktor",
+            "degree_level": "Doctorate",
+            "year": "1918",
+            "institution": "Unknown"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Avhandlingar och uppsatser i kemi och kemisk teknologi",
+            "year": "Unknown",
+            "type": "Article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1929"
+        }
+    ]
+}

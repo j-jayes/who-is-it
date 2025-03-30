@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "extra ordinarie lektor",
+            "start_year": 1918,
+            "end_year": 1929,
+            "organization": "Landskrona",
+            "location": {
+                "name": "Landskrona",
+                "latitude": 55.8703477,
+                "longitude": 12.8300802,
+                "formatted_address": "Landskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "lektor",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": "Landskrona",
+            "location": {
+                "name": "Landskrona",
+                "latitude": 55.8703477,
+                "longitude": 12.8300802,
+                "formatted_address": "Landskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "rektor",
+            "start_year": 1934,
+            "end_year": 1954,
+            "organization": "högre allmänna läroverket",
+            "location": {
+                "name": "Gävle",
+                "latitude": 60.6748796,
+                "longitude": 17.1412726,
+                "formatted_address": "Gävle, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Per",
+        "last_name": "Hammarström",
+        "middle_name": "Emil",
+        "gender": "Male",
+        "birth_date": "04-02-1888",
+        "birth_place": {
+            "name": "Högbo, Gävleborgs Län",
+            "latitude": 60.6628609,
+            "longitude": 16.8013681,
+            "formatted_address": "811 92 Högbo, Sweden"
+        },
+        "occupation": {
+            "occupation": "före detta rektor",
+            "occupation_english": null,
+            "hisco_code_swedish": "13940.0",
+            "hisco_description_swedish": "Head Teacher"
+        },
+        "parents": [
+            {
+                "first_name": "Gustav",
+                "last_name": "Hammarström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bankföreståndare",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Kristina",
+                "last_name": "Pettersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Gävle",
+        "latitude": 60.6748796,
+        "longitude": 17.1412726,
+        "formatted_address": "Gävle, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1911",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1912",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Doctorate",
+            "year": "1916",
+            "institution": "Uppsala universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1924",
+            "institution": "Lunds universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Victoria",
+            "last_name": "Ehlers",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Richard",
+                    "last_name": "Ehlers",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "köpman",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "41025.0",
+                        "hisco_description_swedish": "Working Proprietor (Wholesale or Retail Trade)"
+                    }
+                },
+                {
+                    "first_name": "Natalia",
+                    "last_name": "Nilsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1920",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Zur Stellung des Verbums in der deutsch. Sprache",
+            "year": "1923",
+            "type": "gradavhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "På studiebesök i Lybecks skolor",
+            "year": "1932",
+            "type": "Okänd",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

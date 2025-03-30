@@ -1,0 +1,186 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Holmgren",
+        "middle_name": "Frithiof",
+        "gender": "Male",
+        "birth_date": "28-09-1877",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Hj.",
+                "last_name": "H.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "professor",
+                    "occupation_english": "professor",
+                    "hisco_code_swedish": "13100.0",
+                    "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13100.0",
+                    "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Nordgren",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "filosofie kandidat",
+            "institution": "Uppsala",
+            "start_year": 1899
+        },
+        {
+            "position": "filosofie licentiat",
+            "institution": "Stockholms Högskola",
+            "start_year": 1903
+        },
+        {
+            "position": "filosofie doktor",
+            "institution": "Stockholms Högskola",
+            "start_year": 1907
+        },
+        {
+            "position": "docent",
+            "institution": "Stockholms Högskola",
+            "start_year": 1907,
+            "field": "zoologi"
+        },
+        {
+            "position": "prosektor",
+            "institution": "Stockholms Högskola",
+            "start_year": 1912
+        },
+        {
+            "position": "tillförordnad professor",
+            "institution": "Stockholms Högskola",
+            "start_year": 1919
+        },
+        {
+            "position": "professor",
+            "institution": "Stockholms Högskola",
+            "start_year": 1921
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "ledamot av styrelsen",
+            "organization": "Stockholms Högskola"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Fjällbäck",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "J. A.",
+                    "last_name": "F.",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "fabrikör",
+                        "occupation_english": "manufacturer"
+                    }
+                },
+                {
+                    "first_name": "F.",
+                    "last_name": "Carlsson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1906"
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Ledamot av Vetenskapsakademien 1929"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Studien Uber sydamerikanische Termiten",
+            "year": "1906",
+            "type": "avhandling"
+        },
+        {
+            "title": "Monogr. Bearbeitung einer schalentra- genden Mycetophilidenlarve",
+            "year": "1907",
+            "type": "avhandling"
+        },
+        {
+            "title": "Termitenstudien I-IV",
+            "year": "1913",
+            "type": "avhandling"
+        },
+        {
+            "title": "Vergleichende Anatomie des Gehirns",
+            "year": "1916",
+            "type": "avhandling"
+        },
+        {
+            "title": "Zur Ana- tomie des Gehirns von Myxine",
+            "year": "1919",
+            "type": "avhandling"
+        },
+        {
+            "title": "Zur Anatomie u. Histologie des Vorder- u. Zwischenhims der Knochenfische",
+            "year": "1920",
+            "type": "avhandling"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Bolivia",
+                "latitude": -16.290154,
+                "longitude": -63.58865299999999,
+                "formatted_address": "Bolivia"
+            },
+            "year": "1904"
+        },
+        {
+            "country": {
+                "name": "Peru",
+                "latitude": -9.189967,
+                "longitude": -75.015152,
+                "formatted_address": "Peru"
+            },
+            "year": "1905"
+        }
+    ]
+}

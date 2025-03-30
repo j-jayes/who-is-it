@@ -1,0 +1,112 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Arthur",
+        "last_name": "Alvfeldt",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": null,
+        "birth_place": null,
+        "occupation": null
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Jenny",
+            "last_name": "Hasselqvist",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "danskonstnär",
+                "occupation_english": null,
+                "hisco_code_swedish": "17230.0",
+                "hisco_description_swedish": "Dancer"
+            }
+        },
+        "marriage_year": "1918",
+        "divorce_year": "1922",
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Chemnitz",
+                "latitude": 50.8282222,
+                "longitude": 12.9208547,
+                "formatted_address": "09 Chemnitz, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Zürich",
+                "latitude": 47.3768866,
+                "longitude": 8.541694,
+                "formatted_address": "Zürich, Switzerland"
+            },
+            "country_code": "CHE"
+        },
+        {
+            "country": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "country": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT"
+        },
+        {
+            "country": {
+                "name": "Prag",
+                "latitude": 50.0755381,
+                "longitude": 14.4378005,
+                "formatted_address": "Prague, Czechia"
+            },
+            "country_code": "CZE"
+        },
+        {
+            "country": {
+                "name": "Budapest",
+                "latitude": 47.497912,
+                "longitude": 19.040235,
+                "formatted_address": "Budapest, Hungary"
+            },
+            "country_code": "HUN"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "career": [
+        {
+            "position": "musikdirektör",
+            "start_year": 1898,
+            "organization": "Kronobergs regemente",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "musikdirektör",
+            "start_year": 1908,
+            "end_year": null,
+            "organization": "Västmanlands regemente",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "musikdirektör",
+            "start_year": 1909,
+            "end_year": 1932,
+            "organization": "Flottan",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "konsert",
+            "start_year": 1888,
+            "end_year": 1919,
+            "organization": "Hovkapellet",
+            "location": {
+                "name": "Skansen",
+                "latitude": 59.3263227,
+                "longitude": 18.1058583,
+                "formatted_address": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Högberg",
+        "middle_name": "Erik",
+        "gender": "Male",
+        "birth_date": "08-05-1869",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "fd. musikdirektör",
+            "occupation_english": null,
+            "hisco_code_swedish": "17130.0",
+            "hisco_description_swedish": "Orchestrator"
+        },
+        "parents": [
+            {
+                "first_name": "Johan",
+                "last_name": "Högberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "skomakarmästare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "80110.0",
+                    "hisco_description_swedish": "Shoemaker, General"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Mattsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "musikdirektörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1894",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Mally",
+            "last_name": "Eriksson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "operasångerska",
+                "occupation_english": null,
+                "hisco_code_swedish": "17145.0",
+                "hisco_description_swedish": "Singer"
+            },
+            "parents": null
+        },
+        "marriage_year": "1904",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "GVOIM"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "en del mindre kompositioner",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1902"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1908"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1926"
+        }
+    ]
+}

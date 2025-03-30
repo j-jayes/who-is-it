@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "assistent",
+            "start_year": 1938,
+            "end_year": 1943,
+            "organization": "kirurgiska och gynekologiska avdelningen, sjukhuset Hamburg-Barmbeck, Berlin-Wihnersdorf",
+            "location": {
+                "name": "Hamburg",
+                "latitude": 53.5488282,
+                "longitude": 9.987170299999999,
+                "formatted_address": "Hamburg, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "Backe lasarett",
+            "location": {
+                "name": "Backe",
+                "latitude": 63.8109561,
+                "longitude": 16.4078427,
+                "formatted_address": "883 72 Backe, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "tillförordnad andre underläkare",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "kirurgiska avdelningen, Nyköpings lasarett",
+            "location": {
+                "name": "Nyköping",
+                "latitude": 58.75284389999999,
+                "longitude": 17.0091593,
+                "formatted_address": "Nyköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "andre underläkare",
+            "start_year": 1948,
+            "end_year": null,
+            "organization": "kirurgiska avdelningen, Västerviks lasarett",
+            "location": {
+                "name": "Västervik",
+                "latitude": 57.75771559999999,
+                "longitude": 16.6369759,
+                "formatted_address": "Västervik, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "tillförordnad underläkare",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "kirurgiska avdelningen, S:t Görans sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "tillförordnad underläkare",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Linköpings lasarett",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "förste underläkare",
+            "start_year": 1949,
+            "end_year": 1952,
+            "organization": "kirurgiska avdelningen, Västerviks lasarett",
+            "location": {
+                "name": "Västervik",
+                "latitude": 57.75771559999999,
+                "longitude": 16.6369759,
+                "formatted_address": "Västervik, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "förste underläkare",
+            "start_year": 1952,
+            "end_year": 1956,
+            "organization": "kirurgiska avdelningen, Ersta sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "förste underläkare",
+            "start_year": 1956,
+            "end_year": 1960,
+            "organization": "obstetrisk och gynekologisk avdelning, S:t Eriks sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "praktiserande läkare",
+            "start_year": 1961,
+            "end_year": null,
+            "organization": "Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "S",
+        "last_name": "LINDEBERG",
+        "middle_name": "GUNNAR",
+        "gender": "Male",
+        "birth_date": "26-01-1912",
+        "birth_place": {
+            "name": "Radebeül, Tyskland",
+            "latitude": 51.1115648,
+            "longitude": 13.6493707,
+            "formatted_address": "01 Radebeul, Germany"
+        },
+        "occupation": {
+            "occupation": "praktiserande läkare",
+            "occupation_english": "General Practitioner",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Lindeberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "konstnär",
+                    "occupation_english": "artist",
+                    "hisco_code_swedish": "16000.0",
+                    "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+                    "hisco_code_english": "17000.0",
+                    "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Hedvig",
+                "last_name": "Oeser",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "lärare",
+            "position_english": "teacher",
+            "institution": "Ersta sjuksköterskeskola",
+            "department": "kirurgi och gynekologi",
+            "start_year": 1952,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "publications": [
+        {
+            "title": "artiklar i Medicinsk Tidskrift, Nordisk Medicin och Svensk Läkartidning",
+            "year": "None",
+            "type": "article"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        }
+    ]
+}

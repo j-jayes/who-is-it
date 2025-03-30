@@ -1,0 +1,131 @@
+{
+    "career": [
+        {
+            "position": "medarbetare",
+            "start_year": 1917,
+            "organization": "Stockholmstidningen",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "litteraturanmälare",
+            "start_year": 1920,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "teateranmälare",
+            "start_year": 1917,
+            "end_year": 1923,
+            "organization": "Forum",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Kjell",
+        "last_name": "Strömberg",
+        "middle_name": "Rutger Georg",
+        "gender": "Male",
+        "birth_date": "05-08-1893",
+        "birth_place": {
+            "name": "Lundby gård, Södermanlands Län",
+            "latitude": 59.2780449,
+            "longitude": 16.4930571,
+            "formatted_address": "635, Norra Säterigatan 18, 418 76 Göteborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "författare",
+            "occupation_english": "author",
+            "hisco_code_swedish": "15120.0",
+            "hisco_description_swedish": "Author",
+            "hisco_code_english": "15120.0",
+            "hisco_description_english": "Author"
+        },
+        "parents": [
+            {
+                "first_name": "G. L.",
+                "last_name": "Strömberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "godsägare, köpman",
+                    "occupation_english": "landowner, merchant",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Malmström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie magister",
+            "degree_level": "Master's",
+            "year": "1913",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Doctorate",
+            "year": "1917",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Gabriel Nepomuk",
+            "year": "1915",
+            "type": "book"
+        },
+        {
+            "title": "La tragédie voltairienne en Suéde",
+            "year": "1916",
+            "type": "book"
+        },
+        {
+            "title": "Leopolds Virginia",
+            "year": "1917",
+            "type": "book"
+        },
+        {
+            "title": "Modern fransk litteratur",
+            "year": "1925",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

@@ -1,0 +1,191 @@
+{
+    "career": [
+        {
+            "position": "Anställd hos arkitekt Birger Jonson",
+            "start_year": 1930,
+            "end_year": 1934,
+            "organization": "Birger Jonsons Arkitektfirma",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd hos byggnadsrådet P. Hedqvist",
+            "start_year": 1934,
+            "end_year": 1938,
+            "organization": "P. Hedqvists Byggnadsråd",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen arkitektverksamhet",
+            "start_year": 1938,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Tesch",
+        "middle_name": "Erik Martin",
+        "gender": "Male",
+        "birth_date": "14-04-1907",
+        "birth_place": null,
+        "occupation": {
+            "occupation": "arkitekt",
+            "occupation_english": "architect",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Hjalmar",
+                "last_name": "Tesch",
+                "middle_name": "Gustaf A:n",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "apotekare",
+                    "occupation_english": "pharmacist",
+                    "hisco_code_swedish": "6710.0",
+                    "hisco_description_swedish": "Pharmacist",
+                    "hisco_code_english": "41030.0",
+                    "hisco_description_english": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Harriet",
+                "last_name": "Evald-Larsen",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1925",
+            "institution": "Djursholms samskola"
+        },
+        {
+            "degree": "Avgångsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1930",
+            "institution": "Kungliga Tekniska Högskolan"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Bachelor's",
+            "year": "1932-1934",
+            "institution": "Konsthögskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Aino",
+            "last_name": "Neovius",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1931",
+        "divorce_year": "1944",
+        "children": [
+            {
+                "first_name": "Tomas",
+                "last_name": "Tesch",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1933"
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Tesch",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1935"
+            },
+            {
+                "first_name": "Maja",
+                "last_name": "Tesch",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1938"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "career": [
+        {
+            "position": "assistentläkare",
+            "start_year": 1935,
+            "end_year": 1936,
+            "organization": "Akademiska sjukhuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "extra läkare",
+            "start_year": 1935,
+            "end_year": 1936,
+            "organization": "Akademiska sjukhuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "assistentläkare",
+            "start_year": 1939,
+            "end_year": 1940,
+            "organization": "Akademiska sjukhuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "extra läkare",
+            "start_year": 1939,
+            "end_year": 1940,
+            "organization": "Akademiska sjukhuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1936,
+            "end_year": 1938,
+            "organization": "kirurgiska avdelningen Lidköpings lasarett",
+            "location": {
+                "name": "Lidköping",
+                "latitude": 58.5035047,
+                "longitude": 13.1570768,
+                "formatted_address": "Lidköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "underläkare",
+            "start_year": 1940,
+            "end_year": 1942,
+            "organization": "medicinska avdelningen Umeå lasarett",
+            "location": {
+                "name": "Umeå",
+                "latitude": 63.8258471,
+                "longitude": 20.2630354,
+                "formatted_address": "Umeå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "förste underläkare",
+            "start_year": 1942,
+            "end_year": 1943,
+            "organization": "Sankt Ekebergs sanatorium",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "tillförordnad andre stadsläkare",
+            "start_year": 1944,
+            "end_year": 1945,
+            "organization": "Luleå",
+            "location": {
+                "name": "Luleå",
+                "latitude": 65.584819,
+                "longitude": 22.1567026,
+                "formatted_address": "Luleå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "provinsialläkare",
+            "start_year": 1945,
+            "end_year": 1948,
+            "organization": "Tärendö distrikt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "provinsialläkare",
+            "start_year": 1948,
+            "end_year": 1955,
+            "organization": "Färila distrikt",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "provinsialläkare",
+            "start_year": 1955,
+            "end_year": 1965,
+            "organization": "Mjölby distrikt",
+            "location": {
+                "name": "Mjölby",
+                "latitude": 58.3226908,
+                "longitude": 15.1335348,
+                "formatted_address": "Mjölby, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Bertil",
+        "last_name": "Ohlson",
+        "middle_name": "G E",
+        "gender": "Male",
+        "birth_date": "22-01-1899",
+        "birth_place": {
+            "name": "Vallerstad, Östergötlands Län",
+            "latitude": 58.4226298,
+            "longitude": 15.1402567,
+            "formatted_address": "596 92 Vallerstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "provinsialläkare",
+            "occupation_english": "Provincial Physician",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Ohlson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "godsägare",
+                    "occupation_english": "Landowner",
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Johanson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1918",
+            "institution": "Lund"
+        },
+        {
+            "degree": "medicine kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1926",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1934",
+            "institution": "Uppsala"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margaretha",
+            "last_name": "Sedin",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gustaf",
+                    "last_name": "Sedin",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "sjökapt",
+                        "occupation_english": "sea captain",
+                        "hisco_code_swedish": "4217.0",
+                        "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                        "hisco_code_english": "4215.0",
+                        "hisco_description_english": "Ship's Master (Sea)"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Sundberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1929",
+        "divorce_year": null,
+        "children": null
+    },
+    "honors": [
+        "RNO"
+    ],
+    "military_service": "Olympisk mästare i landstormens orientering-kamp 1920",
+    "travels": null
+}

@@ -1,0 +1,130 @@
+{
+    "career": [
+        {
+            "position": "ornamentsbildhuggare",
+            "start_year": 1895,
+            "organization": "Uppsala domkyrka",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "elev",
+            "start_year": 1895,
+            "organization": "École des Beaux-Arts",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "professor",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Eldh",
+        "middle_name": "Johan",
+        "gender": "Male",
+        "birth_date": "10-05-1873",
+        "birth_place": {
+            "name": "Film, Uppsala Län",
+            "latitude": 60.2287731,
+            "longitude": 17.8937679,
+            "formatted_address": "748 92 Film, Sweden"
+        },
+        "occupation": {
+            "occupation": "bildhuggare, professor",
+            "occupation_english": "sculptor, professor",
+            "hisco_code_swedish": "16120.0",
+            "hisco_description_swedish": "Sculptor",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        }
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Stockholms skönhetsråd",
+            "role": "Medlem",
+            "start_year": 1936,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studier",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Tekniska skolan i Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Elise",
+            "last_name": "Persson",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1915",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Kungliga Vasaorden 1:a klass",
+        "Riddare av Nordstjärneorden",
+        "Ledamot av Kungliga Fristadsakademien"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1895"
+        }
+    ]
+}

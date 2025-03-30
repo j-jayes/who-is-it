@@ -1,0 +1,158 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Bertil",
+        "last_name": "Rasmuson",
+        "middle_name": "S",
+        "gender": "Male",
+        "birth_date": "01-01-1909",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Professor emeritus",
+            "occupation_english": "Professor Emeritus",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Svante",
+                "last_name": "Rasmuson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Grosshandlare",
+                    "occupation_english": "Wholesaler",
+                    "hisco_code_swedish": "41020.0",
+                    "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Richson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Filosofie doktor",
+            "position_english": "Doctor of Philosophy",
+            "institution": "Stockholm",
+            "start_year": 1955
+        },
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Lantbrukshögskolan",
+            "start_year": 1955,
+            "end_year": 1961
+        },
+        {
+            "position": "Universitetslektor",
+            "position_english": "University Lecturer",
+            "institution": "Uppsala",
+            "start_year": 1961,
+            "end_year": 1964
+        },
+        {
+            "position": "Rådsforskare",
+            "position_english": "Council Researcher",
+            "institution": "Statens naturvetenskapliga forskningsråd",
+            "start_year": 1964,
+            "end_year": 1966
+        },
+        {
+            "position": "Professor",
+            "position_english": "Professor",
+            "institution": "Umeå",
+            "start_year": 1967,
+            "end_year": 1985,
+            "field": "Genetik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Naturvetenskapliga forskningsrådet",
+            "role": "Ledamot",
+            "start_year": 1967,
+            "end_year": 1974
+        },
+        {
+            "committee_name": "Statens råd för skogs- och jordbruksforskning",
+            "role": "Ledamot",
+            "start_year": 1977,
+            "end_year": 1981
+        },
+        {
+            "committee_name": "Nordiska genetikerföreningen",
+            "role": "Ordförande",
+            "start_year": 1979,
+            "end_year": 1986
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Umeå",
+        "latitude": 63.8258471,
+        "longitude": 20.2630354,
+        "formatted_address": "Umeå, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Marianne",
+            "last_name": "Essén",
+            "middle_name": null,
+            "gender": "Female",
+            "occupation": null
+        },
+        "marriage_year": "1945",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "särsk om genernas byggnad o funktion",
+            "year": "None",
+            "type": "Skrift"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1977"
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "Violinist",
+            "start_year": 1906,
+            "end_year": null,
+            "organization": "Landesakademie i Budapest",
+            "location": {
+                "name": "Budapest",
+                "latitude": 47.497912,
+                "longitude": 19.040235,
+                "formatted_address": "Budapest, Hungary"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Konsertmästare",
+            "start_year": 1923,
+            "end_year": 1930,
+            "organization": "Göteborgs Orkesterförening",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Andre Konsertmästare",
+            "start_year": 1930,
+            "end_year": null,
+            "organization": "Stockholms Konsertförening",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Dirigent",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Konsertföreningen",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tillförordnad Dirigent",
+            "start_year": 1941,
+            "end_year": null,
+            "organization": "Konsertföreningen",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "Ordinarie Dirigent",
+            "start_year": 1942,
+            "end_year": null,
+            "organization": "Konsertföreningen",
+            "location": null,
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Garaguly",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "28-12-1900",
+        "birth_place": {
+            "name": "Budapest",
+            "latitude": 47.497912,
+            "longitude": 19.040235,
+            "formatted_address": "Budapest, Hungary"
+        },
+        "occupation": {
+            "occupation": "Dirigent",
+            "occupation_english": "Conductor",
+            "hisco_code_english": "36040.0",
+            "hisco_description_english": "Bus Conductor"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Garaguly",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Violinist",
+                    "occupation_english": "Violinist",
+                    "hisco_code_swedish": "17140.0",
+                    "hisco_description_swedish": "Instrumentalist",
+                    "hisco_code_english": "17140.0",
+                    "hisco_description_english": "Instrumentalist"
+                }
+            },
+            {
+                "first_name": "Julia",
+                "last_name": "Ratz",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Brita",
+            "last_name": "Bjerström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tjeckien",
+                "latitude": 49.81749199999999,
+                "longitude": 15.472962,
+                "formatted_address": "Czechia"
+            },
+            "country_code": "CZE",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        }
+    ]
+}

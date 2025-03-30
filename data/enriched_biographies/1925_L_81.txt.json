@@ -1,0 +1,225 @@
+{
+    "career": [
+        {
+            "position": "Lärare",
+            "start_year": 1885,
+            "end_year": 1895,
+            "organization": "Landskrona elementarläroverk för flickor",
+            "location": {
+                "name": "Landskrona",
+                "latitude": 55.8703477,
+                "longitude": 12.8300802,
+                "formatted_address": "Landskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie ämneslärare",
+            "start_year": 1898,
+            "end_year": 1906,
+            "organization": "Statens normalskola för flickor",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Ordinarie ämneslärare",
+            "start_year": 1906,
+            "end_year": null,
+            "organization": "Högre lärarinneseminariet och normalskola för flickor",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Dagmar",
+        "last_name": "Lauritzen",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "11-10-1868",
+        "birth_place": {
+            "name": "Store Ring, Danmark",
+            "latitude": 56.26392,
+            "longitude": 9.501785,
+            "formatted_address": "Denmark"
+        },
+        "occupation": {
+            "occupation": "Lärarinna",
+            "occupation_english": "Teacher",
+            "hisco_code_swedish": "13000.0",
+            "hisco_description_swedish": "Teacher, Level and Subject Unknown",
+            "hisco_code_english": "13020.0",
+            "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+        },
+        "parents": [
+            {
+                "first_name": "Lauritz",
+                "last_name": "L.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Stativveterinär",
+                    "occupation_english": null
+                }
+            },
+            {
+                "first_name": "Christiane",
+                "last_name": "Thestrup",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Elementarläroverk för flickor",
+            "degree_level": "Schooling",
+            "year": "1882",
+            "institution": "Landskrona elementarläroverk"
+        },
+        {
+            "degree": "Högre lärarinneseminarium",
+            "degree_level": "Schooling",
+            "year": "1898",
+            "institution": "Högre lärarinneseminarium"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Svenska språkets formlära för begynnare",
+            "year": "1902",
+            "type": "book",
+            "editions": [
+                {
+                    "edition_number": "8",
+                    "year": "1922",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Tyska dikter",
+            "year": "1912",
+            "type": "book",
+            "editions": [
+                {
+                    "edition_number": "2",
+                    "year": "1919",
+                    "publisher": null,
+                    "notes": null
+                }
+            ],
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Uppsats i facktidskrift",
+            "year": "None",
+            "type": "article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1910"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1912"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR",
+            "year": null
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "career": [
+        {
+            "position": "Organist",
+            "start_year": 1943,
+            "end_year": 1953,
+            "organization": "Köping",
+            "location": {
+                "name": "Köping",
+                "latitude": 59.5120962,
+                "longitude": 15.9945102,
+                "formatted_address": "Köping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Organist",
+            "start_year": 1953,
+            "end_year": 1962,
+            "organization": "Sankt Maria kyrka",
+            "location": {
+                "name": "Helsingborg",
+                "latitude": 56.0464674,
+                "longitude": 12.6945121,
+                "formatted_address": "Helsingborg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kantor och körledare",
+            "start_year": 1962,
+            "organization": "Oscars församling",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lärare i liturgisk sång",
+            "start_year": 1965,
+            "end_year": 1970,
+            "organization": "Uppsala universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lärare i liturgisk sång",
+            "start_year": 1965,
+            "end_year": 1970,
+            "organization": "Stockholms teologiska institution",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Lärare i musikteori",
+            "start_year": 1967,
+            "end_year": null,
+            "organization": "Musikpedagog institutionen Stockholms kommunala musikskola",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Torsten",
+        "last_name": "Nilsson",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "20-01-1921",
+        "birth_place": {
+            "name": "Höör, Malmöhus Län",
+            "latitude": 55.9348588,
+            "longitude": 13.5395904,
+            "formatted_address": "Höör, Sweden"
+        },
+        "occupation": {
+            "occupation": "Musikdirektör, tonsättare",
+            "occupation_english": null,
+            "hisco_code_swedish": "17130.0",
+            "hisco_description_swedish": "Orchestrator"
+        },
+        "parents": [
+            {
+                "first_name": "Torsten",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kantor",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "17150.0",
+                    "hisco_description_swedish": "Vocal Group Conductor"
+                }
+            },
+            {
+                "first_name": "Gurli",
+                "last_name": "Ljungdahl",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Grammofoninspelningar, radioprogram, konsertresor",
+            "field": "Musik",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Högre organist-, kantors- och musiklärarexamen",
+            "degree_level": "Master's",
+            "year": "1938-1943",
+            "institution": "Musikhögskolan Stockholm"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1961"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1963"
+        },
+        {
+            "country": {
+                "name": "Sverige",
+                "latitude": 60.12816100000001,
+                "longitude": 18.643501,
+                "formatted_address": "Sweden"
+            },
+            "country_code": "SWE",
+            "year": null
+        }
+    ]
+}

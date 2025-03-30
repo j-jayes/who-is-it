@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "Intendent",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": "Sveriges allmänna konstförening",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Svensk kommissionär",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": "Grafiska utställningen i Leipzig",
+            "location": {
+                "name": "Leipzig",
+                "latitude": 51.3396955,
+                "longitude": 12.3730747,
+                "formatted_address": "04 Leipzig, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Norsk kommissionär",
+            "start_year": 1914,
+            "end_year": null,
+            "organization": "Grafiska utställningen i Leipzig",
+            "location": {
+                "name": "Leipzig",
+                "latitude": 51.3396955,
+                "longitude": 12.3730747,
+                "formatted_address": "04 Leipzig, Germany"
+            },
+            "country_code": "DEU"
+        }
+    ],
+    "person": {
+        "first_name": "Sigge",
+        "last_name": "Bergström",
+        "middle_name": "Olof",
+        "gender": "Male",
+        "birth_date": "20-08-1880",
+        "birth_place": {
+            "name": "Munkeberg, Värmlands Län",
+            "latitude": 59.72055559999999,
+            "longitude": 14.1591667,
+            "formatted_address": "Munkebergs Stugor & Vandrarhem, Munkebergs camping / skillervägen, 682 33 Filipstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Konstnär, intendent",
+            "occupation_english": "Artist, superintendent",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Bergström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bruksägare",
+                    "occupation_english": "Mill owner"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Bronell",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Infört konstnärligt träsnitt i Sverige",
+            "field": "Konst",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Karlstads museum"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Grafiska sällskapet",
+            "role": "Ordförande",
+            "start_year": 1913,
+            "end_year": 1918,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Konstnärsklubben",
+            "role": "Ordförande",
+            "start_year": 1928,
+            "end_year": 1929,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Riksförbundet för bildande konst",
+            "role": "Ledamot av styrelsen",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Riksförbundet för bildande konsts arbetsutskott",
+            "role": "Vice ordförande",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Ledamot",
+            "organization": "Konstnärsringen"
+        },
+        {
+            "role": "Ledamot av nämnd",
+            "organization": "Sällskapet Idun"
+        }
+    ],
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "Läroverket i Örebro"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1906"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1907"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1904"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1905"
+        }
+    ]
+}

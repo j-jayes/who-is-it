@@ -1,0 +1,178 @@
+{
+    "career": [
+        {
+            "position": "lantmäteriskolan",
+            "start_year": 1929,
+            "end_year": 1930,
+            "organization": "Svalöv",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Specialkurs för inträde i Lantbrukshögskolan",
+            "start_year": 1935,
+            "end_year": 1937,
+            "organization": "Lantbrukshögskolan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "agronom",
+            "start_year": 1941,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "jordbrukskonsulent",
+            "start_year": 1941,
+            "organization": null,
+            "location": {
+                "name": "Kristianstad",
+                "latitude": 56.0293936,
+                "longitude": 14.1566778,
+                "formatted_address": "Kristianstad, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl-Maurits",
+        "last_name": "Björklund",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "17-09-1909",
+        "birth_place": {
+            "name": "Tillinge, Uppsala Län",
+            "latitude": 59.6333658,
+            "longitude": 16.9890532,
+            "formatted_address": "745 94 Enköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "agronom, jordbrukskonsulent",
+            "occupation_english": null,
+            "hisco_code_swedish": "5320.0",
+            "hisco_description_swedish": "Agronomist"
+        },
+        "parents": [
+            {
+                "first_name": "C",
+                "last_name": "Björklund",
+                "middle_name": "Aug.",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "landstingsman",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "20110.0",
+                    "hisco_description_swedish": "Legislative Official"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Selin",
+                "middle_name": "Sofia",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Kristianstad",
+        "latitude": 56.0293936,
+        "longitude": 14.1566778,
+        "formatted_address": "Kristianstad, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Realexamen",
+            "degree_level": "Schooling",
+            "year": "1926",
+            "institution": "Realexamen"
+        },
+        {
+            "degree": "Agronomexamen",
+            "degree_level": "Master's",
+            "year": "1941",
+            "institution": "Agronomexamen"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna",
+            "last_name": "Nilsson",
+            "middle_name": "Brita",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1942",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Kristdna",
+                "last_name": "Björklund",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1943"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1946"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        }
+    ]
+}

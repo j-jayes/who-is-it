@@ -1,0 +1,153 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Stockholms elverk",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1934,
+            "end_year": 1936,
+            "organization": "Visby elverk",
+            "location": {
+                "name": "Visby",
+                "latitude": 57.6348,
+                "longitude": 18.29484,
+                "formatted_address": "Visby, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1936,
+            "end_year": 1944,
+            "organization": "Avesta Järnverk",
+            "location": {
+                "name": "Avesta",
+                "latitude": 60.14532999999999,
+                "longitude": 16.1738399,
+                "formatted_address": "Avesta, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1944,
+            "end_year": null,
+            "organization": "Bergvik & Ala Nya Aktiebolags kraftförvaltning",
+            "location": {
+                "name": "Bergvik, Söderhamn",
+                "latitude": 61.2582458,
+                "longitude": 16.8341505,
+                "formatted_address": "826 68 Bergvik, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Werner",
+        "last_name": "Ivermark",
+        "middle_name": "Henning",
+        "gender": "Male",
+        "birth_date": "01-05-1911",
+        "birth_place": {
+            "name": "Hamrånge, Gävleborgs Län",
+            "latitude": 60.9362478,
+            "longitude": 17.0352004,
+            "formatted_address": "817 40 Hamrånge, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "F",
+                "last_name": "Eriksson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Ingenjör",
+                    "occupation_english": "Engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Hanna",
+                "last_name": "Karlsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1929",
+            "institution": "Örebro"
+        },
+        {
+            "degree": "Civilingenjör",
+            "degree_level": "Master's",
+            "year": "1934",
+            "institution": "Kungliga Tekniska Högskolan (elteknik)"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "Skytte",
+        "Fjällfärder"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "Huvudvärnsområdesbefälhavare Avesta-Krylbo-Grytnäs huvudvärnsområde",
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1933"
+        }
+    ]
+}

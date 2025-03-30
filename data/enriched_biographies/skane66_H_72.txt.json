@@ -1,0 +1,146 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Olle",
+        "last_name": "Hallén",
+        "middle_name": "R",
+        "gender": "Male",
+        "birth_date": "19-07-1918",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "konstnär",
+            "occupation_english": "artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Herman",
+                "last_name": "Hallén",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kassör",
+                    "occupation_english": "treasurer",
+                    "hisco_code_swedish": "33135.0",
+                    "hisco_description_swedish": "Cashier, Office or Cash Desk"
+                }
+            },
+            {
+                "first_name": "Kerstin",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": {
+                    "occupation": "None",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Teknisk skola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Teknisk skola"
+        },
+        {
+            "degree": "Skånska målarskola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Skånska målarskola"
+        },
+        {
+            "degree": "Essem-skola",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Essem-skola"
+        }
+    ],
+    "family": null,
+    "hobbies": [
+        "musik",
+        "språk"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "Frankrike (Colliours)",
+                "latitude": 42.52675199999999,
+                "longitude": 3.084631,
+                "formatted_address": "Collioure, France"
+            },
+            "country_code": "FRA",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "Belgien",
+                "latitude": 50.503887,
+                "longitude": 4.469936,
+                "formatted_address": "Belgium"
+            },
+            "country_code": "BEL",
+            "year": "None"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "None"
+        }
+    ]
+}

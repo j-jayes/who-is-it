@@ -1,0 +1,229 @@
+{
+    "career": [
+        {
+            "position": "tjänsteman",
+            "start_year": 1929,
+            "end_year": 1938,
+            "organization": "landsstat Stockholm",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "direktörsassistent",
+            "start_year": 1938,
+            "end_year": 1940,
+            "organization": "Stockholms läns landsting",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "direktör",
+            "start_year": 1940,
+            "organization": "Blekinge läns landsting",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Kurt",
+        "last_name": "Berg",
+        "middle_name": "A",
+        "gender": "Male",
+        "birth_date": "22-01-1908",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "landstingsdirektör",
+            "occupation_english": "county council director",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Mandus",
+                "last_name": "Berg",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "sjökapt",
+                    "occupation_english": "sea captain",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)",
+                    "hisco_code_english": "4215.0",
+                    "hisco_description_english": "Ship's Master (Sea)"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Karlsson",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "centrala sjövärnsberedningen"
+        },
+        {
+            "position": "Vice ordförande",
+            "organization": "länsarbetsnämnden"
+        },
+        {
+            "position": "Vice ordförande",
+            "organization": "Blekinge läns företagarförening"
+        },
+        {
+            "position": "Ordförande",
+            "organization": "Sveriges kreditbank Karlskrona"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "centrala sjövärnsberedningen",
+            "role": "Styrelseledamot",
+            "start_year": 1955,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "länsarbetsnämnden",
+            "role": "Vice ordförande",
+            "start_year": 1963,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Blekinge läns företagarförening",
+            "role": "Vice ordförande",
+            "start_year": 1950,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Sveriges kreditbank Karlskrona",
+            "role": "Ordförande",
+            "start_year": 1965,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": [
+        {
+            "role": "Ordförande",
+            "organization": "Karlskrona tennisklubb"
+        }
+    ],
+    "current_location": {
+        "name": "Karlskrona",
+        "latitude": 56.161224,
+        "longitude": 15.5869,
+        "formatted_address": "Karlskrona, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1928",
+            "institution": "None"
+        },
+        {
+            "degree": "kansliexamen",
+            "degree_level": "Bachelor's",
+            "year": "1932",
+            "institution": "Stockholms högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunhild",
+            "last_name": "Ahlin",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "Å",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "fabrikör",
+                        "occupation_english": "manufacturer"
+                    }
+                },
+                {
+                    "first_name": "Maria",
+                    "last_name": "Jonsson",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1940",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Marie-Louise",
+                "last_name": "Berg",
+                "gender": "Female",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Anne-Marie",
+                "last_name": "Berg",
+                "gender": "Female",
+                "birth_year": "1942"
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Berg",
+                "gender": "Female",
+                "birth_year": "1945"
+            },
+            {
+                "first_name": "Birgitta",
+                "last_name": "Berg",
+                "gender": "Female",
+                "birth_year": "1949"
+            }
+        ]
+    },
+    "hobbies": [
+        "tennis"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Riddare av Nordstjärneorden (RNO)"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": null
+}

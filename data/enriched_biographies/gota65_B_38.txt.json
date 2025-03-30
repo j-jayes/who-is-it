@@ -1,0 +1,104 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1920,
+            "organization": "Sandslätts bruk aktiebolag"
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1939,
+            "organization": "Sandslätts bruk aktiebolag"
+        }
+    ],
+    "person": {
+        "first_name": "Folke",
+        "last_name": "Barklund",
+        "middle_name": "T",
+        "gender": "Male",
+        "birth_date": "23-03-1901",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Axel",
+                "last_name": "Barklund",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": "Manager",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Ebba",
+                "last_name": "Ericson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "family": {
+        "spouse": {
+            "first_name": "Dagny",
+            "last_name": "Sampson",
+            "gender": "Female",
+            "parents": [
+                {
+                    "first_name": "C",
+                    "last_name": "Sampson",
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Fabrikör",
+                        "occupation_english": "Manufacturer"
+                    }
+                },
+                {
+                    "first_name": "Charlotta",
+                    "last_name": "Johansson",
+                    "gender": "Female"
+                }
+            ]
+        },
+        "marriage_year": "1929",
+        "children": [
+            {
+                "first_name": "Lars",
+                "last_name": "Barklund",
+                "gender": "Male"
+            },
+            {
+                "first_name": "Margareta",
+                "last_name": "Barklund",
+                "gender": "Female"
+            },
+            {
+                "first_name": "Elisabeth",
+                "last_name": "Barklund",
+                "gender": "Female"
+            }
+        ]
+    },
+    "political_positions": [
+        {
+            "organization": "Kommunfullmäktige",
+            "position": "Ledamot",
+            "start_year": 1939
+        }
+    ],
+    "travels": null
+}

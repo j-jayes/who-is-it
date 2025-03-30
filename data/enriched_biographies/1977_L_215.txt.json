@@ -1,0 +1,220 @@
+{
+    "career": [
+        {
+            "position": "läkare",
+            "start_year": 1960,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "biträdande överläkare",
+            "start_year": 1966,
+            "end_year": null,
+            "organization": "foniatr avdelning öronkliniken Karolinska sjukhuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "operasångare",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": "Drottningholm",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Rolf",
+        "last_name": "Leanderson",
+        "middle_name": "B",
+        "gender": "Male",
+        "birth_date": "16-10-1933",
+        "birth_place": {
+            "name": "Sölvesborg",
+            "latitude": 56.0537433,
+            "longitude": 14.5796878,
+            "formatted_address": "Sölvesborg, Sweden"
+        },
+        "occupation": {
+            "occupation": "läkare, operasångare",
+            "occupation_english": null,
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "David",
+                "last_name": "Leanderson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "tullmästare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "31040.0",
+                    "hisco_description_swedish": "Customs officer"
+                }
+            },
+            {
+                "first_name": "Astrid",
+                "last_name": "Johannesson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "medicine licentiat",
+            "position_english": null,
+            "institution": "Stockholm",
+            "department": null,
+            "start_year": 1960,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "medicine doktor",
+            "position_english": null,
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1972,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1972,
+            "end_year": null,
+            "field": "röst- och talrubbningar"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Helene",
+            "last_name": "Broman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": null,
+            "occupation": {
+                "occupation": "musikdirektör",
+                "occupation_english": null
+            },
+            "parents": [
+                {
+                    "first_name": "Waldemar",
+                    "last_name": "Broman",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "major",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Maja",
+                    "last_name": "Olausson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1958",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i foniatri",
+            "year": "None",
+            "type": "None",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Montreal",
+                "latitude": 45.5018869,
+                "longitude": -73.56739189999999,
+                "formatted_address": "Montreal, QC, Canada"
+            },
+            "country_code": "CAN",
+            "year": "1967"
+        },
+        {
+            "country": {
+                "name": "München",
+                "latitude": 48.1351253,
+                "longitude": 11.5819806,
+                "formatted_address": "Munich, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1969"
+        }
+    ]
+}

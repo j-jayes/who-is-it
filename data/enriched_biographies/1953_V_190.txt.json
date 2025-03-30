@@ -1,0 +1,177 @@
+{
+    "career": [
+        {
+            "position": "anställd",
+            "start_year": 1899,
+            "end_year": 1901,
+            "organization": "Köpenhamn",
+            "location": {
+                "name": "Köpenhamn",
+                "latitude": 55.6760968,
+                "longitude": 12.5683371,
+                "formatted_address": "Copenhagen, Denmark"
+            },
+            "country_code": null
+        },
+        {
+            "position": "anställd",
+            "start_year": 1901,
+            "end_year": 1907,
+            "organization": "USA",
+            "location": null,
+            "country_code": "USA"
+        },
+        {
+            "position": "vid Lidköpings mekaniska verkstad",
+            "start_year": 1907,
+            "end_year": 1910,
+            "organization": "Lidköpings mekaniska verkstad",
+            "location": {
+                "name": "Lidköping",
+                "latitude": 58.5035047,
+                "longitude": 13.1570768,
+                "formatted_address": "Lidköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "disponent",
+            "start_year": 1910,
+            "end_year": 1944,
+            "organization": "Halmstads nya verkstadsaktiebolag",
+            "location": {
+                "name": "Halmstad",
+                "latitude": 56.6743748,
+                "longitude": 12.8577884,
+                "formatted_address": "Halmstad, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Johan",
+        "last_name": "Wendt",
+        "middle_name": "Gustaf",
+        "gender": "Male",
+        "birth_date": "26-09-1875",
+        "birth_place": {
+            "name": "Hoby, Malmöhus Län",
+            "latitude": 55.9619752,
+            "longitude": 14.1959672,
+            "formatted_address": "291 91 Hovby, Sweden"
+        },
+        "occupation": {
+            "occupation": "före detta disponent",
+            "occupation_english": "former manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Robert",
+                "last_name": "Wendt",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lantbrukare",
+                    "occupation_english": "farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Pettersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "styrelseledamot",
+            "organization": "Sydsvenska kraftaktiebolag"
+        },
+        {
+            "position": "styrelseledamot",
+            "organization": "aktiebolag Malcus Holmqvist"
+        }
+    ],
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Halmstad",
+        "latitude": 56.6743748,
+        "longitude": 12.8577884,
+        "formatted_address": "Halmstad, Sweden"
+    },
+    "education": [
+        {
+            "degree": "ingenjörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1899",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Olga",
+            "last_name": "Tengberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "John",
+                    "last_name": "Tengberg",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "bankdirektör",
+                        "occupation_english": "bank director",
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager",
+                        "hisco_code_english": "44140.0",
+                        "hisco_description_english": "Stock Broker"
+                    }
+                },
+                {
+                    "first_name": "Gerda",
+                    "last_name": "Schönbeck",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1903",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": [
+        {
+            "organization": "stadsfullmäktige",
+            "position": "ledamot",
+            "start_year": 1921,
+            "end_year": 1942,
+            "focus_area": "kommunal",
+            "significance": null
+        }
+    ],
+    "publications": null,
+    "travels": null
+}

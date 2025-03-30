@@ -1,0 +1,187 @@
+{
+    "career": [
+        {
+            "position": "Gobelängkonstnär",
+            "start_year": 1948,
+            "organization": "Acad des Beaux Arts",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Inredare",
+            "start_year": 1948,
+            "organization": "Acad des Beaux Arts",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Konstnärlig ledare",
+            "start_year": 1948,
+            "organization": "Galerie Bleue",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Lars",
+        "last_name": "Gynning",
+        "middle_name": "O",
+        "gender": "Male",
+        "birth_date": "29-07-1920",
+        "birth_place": {
+            "name": "Karlskrona",
+            "latitude": 56.161224,
+            "longitude": 15.5869,
+            "formatted_address": "Karlskrona, Sweden"
+        },
+        "occupation": {
+            "occupation": "Konstnär",
+            "occupation_english": "Artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ernst",
+                "last_name": "Gynning",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Disponent",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager"
+                }
+            },
+            {
+                "first_name": "Maja",
+                "last_name": "Nelson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Komp gobelänger",
+            "field": "Konst",
+            "year": null,
+            "significance": null,
+            "recognized_by": "Konserthusen Karlskrona och Helsingborg, Stadshuset Solna, Idrottshuset Kiruna"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Konstfackskolan",
+            "degree_level": "Schooling",
+            "year": "1943-1945",
+            "institution": "Konstfackskolan"
+        },
+        {
+            "degree": "Målarskola",
+            "degree_level": "Schooling",
+            "year": "1946-1947",
+            "institution": "Isaac Grünewalds och Otte Skölds"
+        },
+        {
+            "degree": "Acad des Beaux Arts",
+            "degree_level": "Schooling",
+            "year": "1948",
+            "institution": "Acad des Beaux Arts"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Karin",
+            "last_name": "Dalén",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Lennart",
+                    "last_name": "Dalén",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Filosofie Doktor",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Inger",
+                    "last_name": "Haldin",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1972",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA",
+            "year": "1950-1952"
+        },
+        {
+            "country": {
+                "name": "Lausanne",
+                "latitude": 46.5196535,
+                "longitude": 6.6322734,
+                "formatted_address": "Lausanne, Switzerland"
+            },
+            "country_code": "CHE",
+            "year": "1962"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "career": [
+        {
+            "position": "Underlöjtnant",
+            "start_year": 1895,
+            "organization": "Dalregementet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Löjtnant",
+            "start_year": 1900,
+            "organization": "Dalregementet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kapten i armén",
+            "start_year": 1917,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Andre brandkapten",
+            "start_year": 1901,
+            "organization": "Stockholms brandkår",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Förste brandkapten",
+            "start_year": 1911,
+            "organization": "Stockholms brandkår",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Vice brandchef",
+            "start_year": 1924,
+            "end_year": 1931,
+            "organization": "Leksands brandkår",
+            "location": {
+                "name": "Leksand",
+                "latitude": 60.7303082,
+                "longitude": 14.9998922,
+                "formatted_address": "Leksand, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Gyllenhammar",
+        "middle_name": "August Melcher",
+        "gender": "Male",
+        "birth_date": "12-02-1873",
+        "birth_place": {
+            "name": "Leksand, Kopparbergs Län",
+            "latitude": 60.7303082,
+            "longitude": 14.9998922,
+            "formatted_address": "Leksand, Sweden"
+        },
+        "occupation": {
+            "occupation": "Före detta vice brandchef",
+            "occupation_english": null,
+            "hisco_code_swedish": "21990.0",
+            "hisco_description_swedish": "Other Managers"
+        },
+        "parents": [
+            {
+                "first_name": "Carl",
+                "last_name": "Gyllenhammar",
+                "middle_name": "Wilhelm Melcher",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Apotekare",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "6710.0",
+                    "hisco_description_swedish": "Pharmacist"
+                }
+            },
+            {
+                "first_name": "Zelma",
+                "last_name": "Hammarström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": null,
+    "education": [
+        {
+            "degree": "Gymnastikdirektörsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1901",
+            "institution": "Gymnastikdirektörsinstitutet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gretchen",
+            "last_name": "Blom",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1905",
+        "divorce_year": "1923",
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1902"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1904"
+        },
+        {
+            "country": {
+                "name": "Wien",
+                "latitude": 48.20806959999999,
+                "longitude": 16.3713095,
+                "formatted_address": "Vienna, Austria"
+            },
+            "country_code": "AUT",
+            "year": "1904"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1920"
+        }
+    ]
+}

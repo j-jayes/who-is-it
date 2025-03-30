@@ -1,0 +1,120 @@
+{
+    "career": [
+        {
+            "position": "Underläkare",
+            "start_year": 1931,
+            "organization": "Serafimerlasarettet",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Underläkare",
+            "start_year": 1932,
+            "end_year": 1940,
+            "organization": "S:t Görans sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Röntgendiagnostisk avdelning",
+            "start_year": 1940,
+            "end_year": 1944,
+            "organization": "Radiumhemmet och Karolinska sjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1944,
+            "organization": "Landskrona lasaretts röntgendiagnostiska avdelning",
+            "location": {
+                "name": "Landskrona",
+                "latitude": 55.8703477,
+                "longitude": 12.8300802,
+                "formatted_address": "Landskrona, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lasaretts styresman",
+            "start_year": 1948,
+            "organization": "Landskrona lasarett",
+            "location": {
+                "name": "Landskrona",
+                "latitude": 55.8703477,
+                "longitude": 12.8300802,
+                "formatted_address": "Landskrona, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Gösta",
+        "last_name": "Forssman",
+        "middle_name": "Fredrik",
+        "gender": "Male",
+        "birth_date": "09-01-1903",
+        "birth_place": {
+            "name": "Mariestad",
+            "latitude": 58.7101119,
+            "longitude": 13.8213327,
+            "formatted_address": "Mariestad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lasarettsläkare",
+            "occupation_english": "Hospital doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Fredrik",
+                "last_name": "Forssman",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Major",
+                    "occupation_english": "Major",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer",
+                    "hisco_code_english": "58320.0",
+                    "hisco_description_english": "Officer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Rohdin",
+                "gender": "Female"
+            }
+        ]
+    },
+    "political_positions": [
+        {
+            "organization": "Stadsfullmäktige",
+            "position": "Stadsfullmäktige",
+            "start_year": 1951
+        }
+    ],
+    "publications": [
+        {
+            "title": "Ett 20-tal arbeten särskilt i röntgendiagnostik",
+            "year": "None",
+            "type": "Arbete"
+        }
+    ],
+    "travels": null
+}

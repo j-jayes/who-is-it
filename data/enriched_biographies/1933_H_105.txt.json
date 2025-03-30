@@ -1,0 +1,286 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Bertil",
+        "last_name": "Hanström",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "20-01-1891",
+        "birth_place": {
+            "name": "Kalmar",
+            "latitude": 56.6634447,
+            "longitude": 16.356779,
+            "formatted_address": "Kalmar, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Per",
+                "last_name": "Hanström",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "rådman",
+                    "occupation_english": "councilman",
+                    "hisco_code_swedish": "12210.0",
+                    "hisco_description_swedish": "Judge",
+                    "hisco_code_english": "99910.0",
+                    "hisco_description_english": "Labourer"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Säfström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "extra ordinarie lektor",
+            "position_english": "associate professor",
+            "institution": "Landskrona gymnasium",
+            "department": null,
+            "start_year": 1918,
+            "end_year": 1929,
+            "field": null
+        },
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Lunds universitet",
+            "department": "zoologi",
+            "start_year": 1925,
+            "end_year": null,
+            "field": null
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Lunds universitet",
+            "department": null,
+            "start_year": 1931,
+            "end_year": null,
+            "field": null
+        }
+    ],
+    "achievements": null,
+    "awards": [
+        "Skm g 10",
+        "riksSM 11"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Lund",
+        "latitude": 55.7046601,
+        "longitude": 13.1910073,
+        "formatted_address": "Lund, Sweden"
+    },
+    "education": [
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1914",
+            "institution": "Stockholms universitet"
+        },
+        {
+            "degree": "filosofie licentiat",
+            "degree_level": "Master's",
+            "year": "1916",
+            "institution": "Stockholms universitet"
+        },
+        {
+            "degree": "filosofie doktor",
+            "degree_level": "Doctorate",
+            "year": "1920",
+            "institution": "Stockholms universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ingeborg",
+            "last_name": "Hoflund",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "null-null-1892",
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Erik",
+                    "last_name": "Hoflund",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kontraktsprost",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "14120.0",
+                        "hisco_description_swedish": "Minister of Religion"
+                    }
+                },
+                {
+                    "first_name": "Theresia",
+                    "last_name": "Hoflund",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1917",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skisser från en Kaliforniafärd",
+            "year": "1922",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Hur djuren se",
+            "year": "1924",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Våra sinnen o. deras utveckling från djuren till människan",
+            "year": "1926",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Vergleich. Anat. d. Gehirns",
+            "year": "1928",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Trondhjem",
+                "latitude": 63.4305149,
+                "longitude": 10.3950528,
+                "formatted_address": "Trondheim, Norway"
+            },
+            "country_code": "NOR",
+            "year": "1921"
+        },
+        {
+            "country": {
+                "name": "Trondhjem",
+                "latitude": 63.4305149,
+                "longitude": 10.3950528,
+                "formatted_address": "Trondheim, Norway"
+            },
+            "country_code": "NOR",
+            "year": "1924"
+        },
+        {
+            "country": {
+                "name": "Kalifornien",
+                "latitude": 36.778261,
+                "longitude": -119.4179324,
+                "formatted_address": "California, USA"
+            },
+            "country_code": "USA",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Woods Hole, Massachusetts",
+                "latitude": 41.5264977,
+                "longitude": -70.6730857,
+                "formatted_address": "Woods Hole, Falmouth, MA, USA"
+            },
+            "country_code": "USA",
+            "year": "1925"
+        },
+        {
+            "country": {
+                "name": "Bergen",
+                "latitude": 60.39126279999999,
+                "longitude": 5.3220544,
+                "formatted_address": "Bergen, Norway"
+            },
+            "country_code": "NOR",
+            "year": "1927"
+        },
+        {
+            "country": {
+                "name": "Helgoland",
+                "latitude": 54.1826273,
+                "longitude": 7.886083499999999,
+                "formatted_address": "Heligoland, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Istrien",
+                "latitude": 45.2745018,
+                "longitude": 13.8901858,
+                "formatted_address": "Istria"
+            },
+            "country_code": "HRV",
+            "year": "1930"
+        },
+        {
+            "country": {
+                "name": "Riigen",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "DEU",
+            "year": "1931"
+        },
+        {
+            "country": {
+                "name": "Trondhjem",
+                "latitude": 63.4305149,
+                "longitude": 10.3950528,
+                "formatted_address": "Trondheim, Norway"
+            },
+            "country_code": "NOR",
+            "year": "1931"
+        }
+    ]
+}

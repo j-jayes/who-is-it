@@ -1,0 +1,209 @@
+{
+    "career": [
+        {
+            "position": "docent",
+            "start_year": 1916,
+            "organization": "Oslo Universitet",
+            "location": {
+                "name": "Oslo",
+                "latitude": 59.9138688,
+                "longitude": 10.7522454,
+                "formatted_address": "Oslo, Norway"
+            },
+            "country_code": "NOR"
+        },
+        {
+            "position": "professor",
+            "start_year": 1928,
+            "organization": "Uppsala Universitet",
+            "location": {
+                "name": "Uppsala",
+                "latitude": 59.85856380000001,
+                "longitude": 17.6389267,
+                "formatted_address": "Uppsala, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Anton",
+        "last_name": "Fridrichsen",
+        "middle_name": "Johnson",
+        "gender": "Male",
+        "birth_date": "04-01-1888",
+        "birth_place": {
+            "name": "Meråker, Norge",
+            "latitude": 63.41399749999999,
+            "longitude": 11.7428655,
+            "formatted_address": "Meraker, Norway"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Jakob",
+                "last_name": "F.",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "prost",
+                    "occupation_english": "provost",
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Johnson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Oslo Universitet",
+            "department": null,
+            "start_year": 1916,
+            "field": null
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1928,
+            "field": "exegetik"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uppsala",
+        "latitude": 59.85856380000001,
+        "longitude": 17.6389267,
+        "formatted_address": "Uppsala, Sweden"
+    },
+    "education": [
+        {
+            "degree": "teologie kandidat",
+            "degree_level": "Master's",
+            "year": "1911",
+            "institution": "Oslo Universitet"
+        },
+        {
+            "degree": "teologie doktor",
+            "degree_level": "Doctorate",
+            "year": "1925",
+            "institution": "Strasbourg Universitet"
+        },
+        {
+            "degree": "teologie hedersdoktor",
+            "degree_level": "Doctorate",
+            "year": "1927",
+            "institution": "Marburg Universitet"
+        },
+        {
+            "degree": "teologie hedersdoktor",
+            "degree_level": "Doctorate",
+            "year": "1932",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Signe",
+            "last_name": "Ullman",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Wilfrid",
+                    "last_name": "Ullman",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "godsägare",
+                        "occupation_english": "landowner",
+                        "hisco_code_swedish": "-1.0",
+                        "hisco_description_swedish": "Missing, no title"
+                    }
+                },
+                {
+                    "first_name": "Malin",
+                    "last_name": "Kjellberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1931",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Ledamot av Vetenskapsakademien i Oslo 1925",
+        "Ledamot av Letterstedtska Humanistiska Vetenskapssamfundet 1938",
+        "Ledamot av Nationella Söderblomsällskapet 1941"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Vem ville Jesus vara?",
+            "year": "1931",
+            "type": "book"
+        },
+        {
+            "title": "Grekisk-svensk ordbok till Nya Testamentet",
+            "year": "1934",
+            "type": "dictionary"
+        },
+        {
+            "title": "Johannesevangeliet",
+            "year": "1939",
+            "type": "book"
+        },
+        {
+            "title": "Ur bibeln",
+            "year": "1940",
+            "type": "book"
+        },
+        {
+            "title": "Krig och fred i Nya Testamentet",
+            "year": "1940",
+            "type": "book"
+        },
+        {
+            "title": "Våra evangeliers historiska värde",
+            "year": "1942",
+            "type": "book"
+        },
+        {
+            "title": "Kyrka och diakoni",
+            "year": "1944",
+            "type": "book"
+        }
+    ],
+    "travels": null
+}

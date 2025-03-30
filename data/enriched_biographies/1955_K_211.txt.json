@@ -1,0 +1,161 @@
+{
+    "career": [
+        {
+            "position": "Underläkarförordnande",
+            "start_year": 1931,
+            "end_year": 1932,
+            "organization": "Allmänna Barnbördshuset",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Underläkarförordnande",
+            "start_year": 1934,
+            "end_year": 1935,
+            "organization": "Centrallasarettet Jönköping",
+            "location": {
+                "name": "Jönköping",
+                "latitude": 57.78261370000001,
+                "longitude": 14.1617876,
+                "formatted_address": "Jönköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Kvinno-kliniken",
+            "start_year": 1936,
+            "end_year": 1937,
+            "organization": "Lund",
+            "location": {
+                "name": "Lund",
+                "latitude": 55.7046601,
+                "longitude": 13.1910073,
+                "formatted_address": "Lund, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Biträdande läkare",
+            "start_year": 1938,
+            "end_year": 1948,
+            "organization": "Radiumhemmet gynologiska avdelningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1948,
+            "end_year": null,
+            "organization": "Radiumhemmet gynologiska avdelningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Visiting Professor",
+            "start_year": 1951,
+            "end_year": null,
+            "organization": "USA",
+            "location": null,
+            "country_code": "USA"
+        }
+    ],
+    "person": {
+        "first_name": "Hans",
+        "last_name": "Kottmeier",
+        "middle_name": "Ludvig",
+        "gender": "Male",
+        "birth_date": "15-11-1903",
+        "birth_place": {
+            "name": "Malmö",
+            "latitude": 55.604981,
+            "longitude": 13.003822,
+            "formatted_address": "Malmö, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent, Överläkare",
+            "occupation_english": "Docent, Senior Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Karl",
+                "last_name": "Kottmeier",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Direktör",
+                    "occupation_english": "Director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "21000.0",
+                    "hisco_description_english": "Manager, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Auguste",
+                "last_name": "Stadier",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1947,
+            "end_year": null,
+            "field": "Obstetrik och Gynekologi"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Ett 70-tal arbeten",
+            "field": "Obstetrik, Gynekologi, Patologi och Gynekologisk Radiologi",
+            "year": null,
+            "significance": null,
+            "recognized_by": null
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gurli",
+            "last_name": "Baude",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1947",
+        "divorce_year": null,
+        "children": null
+    },
+    "travels": [
+        {
+            "country": {
+                "name": "Europa",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "EUR",
+            "year": "1948-1954"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1948-1954"
+        }
+    ]
+}

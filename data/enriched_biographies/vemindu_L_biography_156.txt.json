@@ -1,0 +1,200 @@
+{
+    "career": [
+        {
+            "position": "Assistent hytt-, gjuteri- och laboratorieingenjör",
+            "start_year": 1925,
+            "end_year": 1929,
+            "organization": "Stora Kopparbergs Bergslags Aktiebolag, Söderfors Bruk",
+            "location": {
+                "name": "Söderfors",
+                "latitude": 60.3822707,
+                "longitude": 17.2468246,
+                "formatted_address": "815 75 Söderfors, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Laboratoriechef",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": "Avesta Järnverks Aktiebolag",
+            "location": {
+                "name": "Avesta",
+                "latitude": 60.14532999999999,
+                "longitude": 16.1738399,
+                "formatted_address": "Avesta, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "LILLJEKVIST",
+        "middle_name": "Albrecht",
+        "gender": "Male",
+        "birth_date": "24-03-1896",
+        "birth_place": {
+            "name": "Djursholm",
+            "latitude": 59.39707249999999,
+            "longitude": 18.0903005,
+            "formatted_address": "Djursholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Bergsingenjör",
+            "occupation_english": "Mining Engineer",
+            "hisco_code_swedish": "2710.0",
+            "hisco_description_swedish": "Mining Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "J",
+                "last_name": "LILLJEKVIST",
+                "middle_name": "F",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Byggnadsråd",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "95000.0",
+                    "hisco_description_swedish": "Bricklayers, Carpenters and Other Construction Workers"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Strömberg",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Metallografförbundet",
+            "role": "Styrelseledamot och vice ordförande",
+            "start_year": 1940,
+            "end_year": 1943,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Jernkontorets Tekniska Forskningsverksamhet",
+            "role": "Medlem",
+            "start_year": 1939,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Avesta",
+        "latitude": 60.14532999999999,
+        "longitude": 16.1738399,
+        "formatted_address": "Avesta, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1916",
+            "institution": "Djursholms samskola"
+        },
+        {
+            "degree": "Bergsingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1922",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Christina",
+            "last_name": "Karlberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Segling"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1924"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Estland",
+                "latitude": 58.595272,
+                "longitude": 25.013607,
+                "formatted_address": "Estonia"
+            },
+            "country_code": "EST",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tjeckoslovakien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "CZE",
+            "year": null
+        }
+    ]
+}

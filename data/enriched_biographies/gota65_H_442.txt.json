@@ -1,0 +1,230 @@
+{
+    "career": [
+        {
+            "position": "läkareförordnande",
+            "start_year": 1936,
+            "end_year": 1944,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "biträdande överläkare",
+            "start_year": 1945,
+            "end_year": 1959,
+            "organization": "öronklin",
+            "location": {
+                "name": "Akademiska sjukhuset",
+                "latitude": 59.8489878,
+                "longitude": 17.6355235,
+                "formatted_address": "Dag Hammarskjölds Väg 21, 752 37 Uppsala, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1959,
+            "end_year": 1961,
+            "organization": "öronklin",
+            "location": {
+                "name": "Umeå",
+                "latitude": 63.8258471,
+                "longitude": 20.2630354,
+                "formatted_address": "Umeå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "överläkare",
+            "start_year": 1962,
+            "end_year": null,
+            "organization": "Sahlgrenska sjukhuset",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "E",
+        "last_name": "Herberts",
+        "middle_name": "Gösta",
+        "gender": "Male",
+        "birth_date": "28-01-1909",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "professor",
+            "occupation_english": "professor",
+            "hisco_code_swedish": "13100.0",
+            "hisco_description_swedish": "University and Higher Education Teacher, Subject Unknown",
+            "hisco_code_english": "13100.0",
+            "hisco_description_english": "University and Higher Education Teacher, Subject Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Erik",
+                "last_name": "Herberts",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "tjänsteman",
+                    "occupation_english": "civil servant",
+                    "hisco_code_swedish": "30000.0",
+                    "hisco_description_swedish": "Clerical or Related Worker, Specialisation Unknown",
+                    "hisco_code_english": "30000.0",
+                    "hisco_description_english": "Clerical or Related Worker, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Astrea",
+                "last_name": "Wessman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "docent",
+            "position_english": "docent",
+            "institution": "Uppsala Universitet",
+            "department": null,
+            "start_year": 1944,
+            "end_year": 1959,
+            "field": "öron-, näs- och halssjukdomar"
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Umeå Universitet",
+            "department": null,
+            "start_year": 1959,
+            "end_year": 1961,
+            "field": "oto-rhino-laryngologi"
+        },
+        {
+            "position": "professor",
+            "position_english": "professor",
+            "institution": "Göteborgs Universitet",
+            "department": null,
+            "start_year": 1962,
+            "end_year": null,
+            "field": "oto-rhino-laryngologi"
+        }
+    ],
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "medicine licentiat",
+            "degree_level": "Master's",
+            "year": "1934",
+            "institution": "Stockholms Universitet"
+        },
+        {
+            "degree": "medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1944",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Carin",
+            "last_name": "Karlen",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Olof",
+                    "last_name": "Karlen",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "stadsläkare",
+                        "occupation_english": "city doctor",
+                        "hisco_code_swedish": "6140.0",
+                        "hisco_description_swedish": "Public Health Physician"
+                    }
+                },
+                {
+                    "first_name": "Elsa",
+                    "last_name": "Sjögren",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Erik",
+                "last_name": "Herberts",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1938"
+            },
+            {
+                "first_name": "Peter",
+                "last_name": "Herberts",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1939"
+            },
+            {
+                "first_name": "Christina",
+                "last_name": "Herberts",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Ulla",
+                "last_name": "Herberts",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1944"
+            },
+            {
+                "first_name": "Britta",
+                "last_name": "Herberts",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1945"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": "Marinläkare 1:a graden i reserven sedan 1944",
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i oto-rhino-laryngologi",
+            "year": "None",
+            "type": "None"
+        }
+    ],
+    "travels": null
+}

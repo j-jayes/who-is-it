@@ -1,0 +1,92 @@
+{
+    "career": [
+        {
+            "position": "Förste statskartograf",
+            "start_year": 1936,
+            "organization": "Rikets allmänna kartverk",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Karl",
+        "last_name": "Hallert",
+        "middle_name": "Bertil Pelle",
+        "gender": "Male",
+        "birth_date": "10-02-1910",
+        "birth_place": {
+            "name": "Södra Solberga församling, Jönköpings Län",
+            "latitude": 57.3708434,
+            "longitude": 14.3439173,
+            "formatted_address": "Jonkoping County, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        }
+    },
+    "academic_positions": [
+        {
+            "position": "tekn. dr",
+            "position_english": "Doctor of Technology",
+            "institution": "Kungliga Tekniska Högskolan",
+            "start_year": 1944
+        },
+        {
+            "position": "docent",
+            "position_english": "Docent",
+            "institution": "Kungliga Tekniska Högskolan",
+            "start_year": 1944
+        }
+    ],
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1930",
+            "institution": "Linköping"
+        },
+        {
+            "degree": "Lantmäteriexamen",
+            "degree_level": "Bachelor's",
+            "year": "1936",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA"
+        }
+    ]
+}

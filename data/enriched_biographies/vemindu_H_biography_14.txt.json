@@ -1,0 +1,194 @@
+{
+    "career": [
+        {
+            "position": "Bryggmästare",
+            "start_year": 1900,
+            "end_year": 1908,
+            "organization": "AB Nya Centralbrygg",
+            "location": {
+                "name": "Vimmerby",
+                "latitude": 57.6690339,
+                "longitude": 15.858857,
+                "formatted_address": "Vimmerby, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1908,
+            "end_year": 1928,
+            "organization": "Grönwalls bryggeri",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1929,
+            "end_year": null,
+            "organization": "Münchens bryggeri",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Karl-Axel",
+        "last_name": "Hagen",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "26-04-1877",
+        "birth_place": {
+            "name": "Örsås, Älvsborgs Län",
+            "latitude": 57.4394818,
+            "longitude": 13.128811,
+            "formatted_address": "512 94 Örsås, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": "Manager",
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager",
+            "hisco_code_english": "21000.0",
+            "hisco_description_english": "Manager, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "H",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Fabrikör",
+                    "occupation_english": "Manufacturer"
+                }
+            },
+            {
+                "first_name": "Amalia",
+                "last_name": "Sundström",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Carlshamns bryggeri"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Kalmar bryggeri"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Gotlands Maltfabrik"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Bryggareföreningen",
+            "role": "Ledamot",
+            "start_year": 1900,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        },
+        {
+            "committee_name": "Bryggareförbundet",
+            "role": "Suppleant",
+            "start_year": 1919,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Borås hal",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "None"
+        },
+        {
+            "degree": "Versuchs- und Lehranstalt fur Brauerei",
+            "degree_level": "Schooling",
+            "year": "1899",
+            "institution": "Berlin"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anja",
+            "last_name": "Hirmu",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Mitt arbete"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "RVO",
+        "Patriotiska Sällskapets Guldmedalj"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

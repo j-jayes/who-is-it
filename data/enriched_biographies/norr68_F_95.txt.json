@@ -1,0 +1,132 @@
+{
+    "career": [
+        {
+            "position": "Kommunalkamrer",
+            "start_year": 1949,
+            "organization": "Torsåkers kommun",
+            "location": {
+                "name": "Torsåker",
+                "latitude": 60.5105162,
+                "longitude": 16.4729298,
+                "formatted_address": "813 40 Torsåker, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Stadskamrer",
+            "start_year": 1954,
+            "organization": "Bollnäs",
+            "location": {
+                "name": "Bollnäs",
+                "latitude": 61.34837950000001,
+                "longitude": 16.3942685,
+                "formatted_address": "Bollnäs, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Kanslichef",
+            "start_year": 1967,
+            "organization": "Ljusdals köping",
+            "location": {
+                "name": "Ljusdal",
+                "latitude": 61.8308392,
+                "longitude": 16.0817501,
+                "formatted_address": "Ljusdal, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Forssell",
+        "middle_name": "F",
+        "gender": "Male",
+        "birth_date": "23-07-1920",
+        "birth_place": {
+            "name": "Uppsala",
+            "latitude": 59.85856380000001,
+            "longitude": 17.6389267,
+            "formatted_address": "Uppsala, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kanslichef",
+            "occupation_english": "Head of Chancery",
+            "hisco_code_swedish": "20210.0",
+            "hisco_description_swedish": "Government Administrator"
+        },
+        "parents": [
+            {
+                "first_name": "Karl",
+                "last_name": "Forssell",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Jordbruksarbetare",
+                    "occupation_english": "Agricultural Worker",
+                    "hisco_code_swedish": "62105.0",
+                    "hisco_description_swedish": "FarmWorker, General",
+                    "hisco_code_english": "99910.0",
+                    "hisco_description_english": "Labourer"
+                }
+            },
+            {
+                "first_name": "Anna",
+                "last_name": "Hedman",
+                "middle_name": "Sofia",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Diplom Socialinstitutet",
+            "degree_level": "Bachelor's",
+            "year": "1948",
+            "institution": "Stockholm Socialinstitut"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gunvor",
+            "last_name": "Löfgren",
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "parents": [
+                {
+                    "first_name": "Edvin",
+                    "last_name": "Löfgren",
+                    "gender": "Male",
+                    "occupation": null
+                },
+                {
+                    "first_name": "Selma",
+                    "last_name": "Backlund",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1950",
+        "children": [
+            {
+                "first_name": "Håkan",
+                "last_name": "Forssell",
+                "gender": "Male",
+                "birth_year": "1953"
+            }
+        ]
+    },
+    "hobbies": [
+        "Tennis"
+    ],
+    "publications": [
+        {
+            "title": "Skrifter i fackämnen",
+            "year": "None",
+            "type": "article"
+        }
+    ],
+    "travels": null
+}

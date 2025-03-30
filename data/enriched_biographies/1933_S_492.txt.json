@@ -1,0 +1,178 @@
+{
+    "career": [
+        {
+            "position": "sopransångerska",
+            "start_year": 1902,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "sopransångerska",
+            "start_year": 1902,
+            "organization": "Bostons ledande kyrkor",
+            "location": {
+                "name": "Boston, Massachussets",
+                "latitude": 42.3555076,
+                "longitude": -71.0565364,
+                "formatted_address": "Boston, MA, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "konsertsångerska",
+            "start_year": 1902,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "sångerska",
+            "start_year": 1915,
+            "organization": "Metropolitan Opera",
+            "location": {
+                "name": "New York",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": "USA"
+        },
+        {
+            "position": "gästspel",
+            "start_year": 1923,
+            "organization": "Kungliga Teatern",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "konsert",
+            "start_year": 1925,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Sverige, Norge och Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Marie",
+        "last_name": "Sundelius",
+        "middle_name": "Louise",
+        "gender": "Female",
+        "birth_date": "04-02-1884",
+        "birth_place": {
+            "name": "Karlstad",
+            "latitude": 59.4021806,
+            "longitude": 13.5114977,
+            "formatted_address": "Karlstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "operasångerska",
+            "occupation_english": "opera singer",
+            "hisco_code_swedish": "17145.0",
+            "hisco_description_swedish": "Singer",
+            "hisco_code_english": "17145.0",
+            "hisco_description_english": "Singer"
+        },
+        "parents": [
+            {
+                "first_name": "And.",
+                "last_name": "Sundborg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "maskinist",
+                    "occupation_english": "machinist",
+                    "hisco_code_swedish": "96910.0",
+                    "hisco_description_swedish": "Stationary Engine Operator, General",
+                    "hisco_code_english": "41025.0",
+                    "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Karolina",
+                "last_name": "Fornell",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "Litteris et Artibus 1923"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "New York, N. Y., U. S. A.",
+        "latitude": 40.7127753,
+        "longitude": -74.0059728,
+        "formatted_address": "New York, NY, USA"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Gust.",
+            "last_name": "Sundelius",
+            "middle_name": null,
+            "gender": "Male",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": {
+                "occupation": "redaktör",
+                "occupation_english": "editor",
+                "hisco_code_swedish": "15920.0",
+                "hisco_description_swedish": "Editor, Newspapers and Periodicals",
+                "hisco_code_english": "15120.0",
+                "hisco_description_english": "Author"
+            },
+            "parents": null
+        },
+        "marriage_year": "1906",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE",
+            "year": "1907"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1911"
+        }
+    ]
+}

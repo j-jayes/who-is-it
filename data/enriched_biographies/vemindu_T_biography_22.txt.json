@@ -1,0 +1,205 @@
+{
+    "career": [
+        {
+            "position": "Konstruktör",
+            "start_year": 1923,
+            "organization": "Bergsunds mekaniska verkstad",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Konstruktör och avdelningschef",
+            "start_year": 1924,
+            "end_year": 1926,
+            "organization": "Electric Bond & Share Co",
+            "location": {
+                "name": "N. Y.",
+                "latitude": 40.7127753,
+                "longitude": -74.0059728,
+                "formatted_address": "New York, NY, USA"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Konstruktör",
+            "start_year": 1926,
+            "end_year": 1930,
+            "organization": "AB Vattenbyggnadsbyrån",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1930,
+            "end_year": 1937,
+            "organization": "AB Electro-Invests jugoslaviska verksamhet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Verkställande direktör",
+            "start_year": 1937,
+            "end_year": 1943,
+            "organization": "Sthlms Siporexfabriks AB, Int Siporex AB, AB Betongklinker",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Disponent",
+            "start_year": 1943,
+            "organization": "Skånska Cement Hellekisförvaltning",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Harry",
+        "last_name": "Tham",
+        "middle_name": "Sebastian",
+        "gender": "Male",
+        "birth_date": "12-10-1900",
+        "birth_place": {
+            "name": "Skövde",
+            "latitude": 58.3902782,
+            "longitude": 13.8461208,
+            "formatted_address": "Skövde, Sweden"
+        },
+        "occupation": {
+            "occupation": "Disponent",
+            "occupation_english": null,
+            "hisco_code_swedish": "21110.0",
+            "hisco_description_swedish": "General Manager"
+        },
+        "parents": [
+            {
+                "first_name": "H",
+                "last_name": "Tham",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Överstelöjtnant",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer"
+                }
+            },
+            {
+                "first_name": "h",
+                "last_name": "Blom",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1918",
+            "institution": "None"
+        },
+        {
+            "degree": "KTH (Väg- och vattenbyggnad)",
+            "degree_level": "Master's",
+            "year": "1922",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Märta",
+            "last_name": "Tisell",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "honors": [
+        "FFrK-4kl",
+        "Jugoslaviska Sankt Savas Orden 4kl"
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1924-1926"
+        },
+        {
+            "country": {
+                "name": "Burma",
+                "latitude": 21.916221,
+                "longitude": 95.955974,
+                "formatted_address": "Myanmar (Burma)"
+            },
+            "country_code": "MMR",
+            "year": "1926-1928"
+        },
+        {
+            "country": {
+                "name": "Jugoslavien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1930-1937"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Grekland",
+                "latitude": 39.074208,
+                "longitude": 21.824312,
+                "formatted_address": "Greece"
+            },
+            "country_code": "GRC",
+            "year": null
+        }
+    ]
+}

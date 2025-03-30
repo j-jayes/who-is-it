@@ -1,0 +1,208 @@
+{
+    "career": [
+        {
+            "position": "Praktik",
+            "start_year": 1919,
+            "end_year": 1926,
+            "organization": "Jönköping",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Praktik",
+            "start_year": 1926,
+            "end_year": null,
+            "organization": "Djursholm",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Praktik",
+            "start_year": 1940,
+            "end_year": null,
+            "organization": "Stockholm",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1926,
+            "end_year": 1927,
+            "organization": "Tandläkarinstitutet, protesavdelningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tillförordnad Laborator",
+            "start_year": 1927,
+            "end_year": 1931,
+            "organization": "Tandfyllningsavdelningen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Chef",
+            "start_year": 1934,
+            "end_year": null,
+            "organization": "Serafimerlasarettets tandpoliklinik",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Erik",
+        "last_name": "Hellner",
+        "middle_name": "Seved Johannes",
+        "gender": "Male",
+        "birth_date": "26-07-1894",
+        "birth_place": {
+            "name": "Torekov, Kristianstads Län",
+            "latitude": 56.423635,
+            "longitude": 12.6273003,
+            "formatted_address": "269 77 Torekov, Sweden"
+        },
+        "occupation": {
+            "occupation": "Tandläkare",
+            "occupation_english": "Dentist",
+            "hisco_code_swedish": "6310.0",
+            "hisco_description_swedish": "Dentist, General",
+            "hisco_code_english": "6310.0",
+            "hisco_description_english": "Dentist, General"
+        },
+        "parents": [
+            {
+                "first_name": "Anders",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kontraktsprost",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "14120.0",
+                    "hisco_description_swedish": "Minister of Religion"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Hellner",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [
+        {
+            "position": "Styrelseledamot",
+            "organization": "Sveriges sjukvårdstandläkarförening"
+        },
+        {
+            "position": "Styrelseledamot",
+            "organization": "Svenska Tandläkaresällskapet"
+        }
+    ],
+    "committee_memberships": [
+        {
+            "committee_name": "Svenska Tandläkaresällskapet",
+            "role": "Ledamot av dess redaktionsråd",
+            "start_year": 1931,
+            "end_year": null,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Djursholm",
+        "latitude": 59.39707249999999,
+        "longitude": 18.0903005,
+        "formatted_address": "Djursholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1913",
+            "institution": "Lund"
+        },
+        {
+            "degree": "Tandläkarexamen",
+            "degree_level": "Bachelor's",
+            "year": "1918",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Sara",
+            "last_name": "Mellgren",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Gunnar",
+                    "last_name": "Mellgren",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Disponent",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "21110.0",
+                        "hisco_description_swedish": "General Manager"
+                    }
+                },
+                {
+                    "first_name": "Dagmar",
+                    "last_name": "Spånberg",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1924",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1917"
+        },
+        {
+            "country": {
+                "name": "Storbritannien",
+                "latitude": 55.378051,
+                "longitude": -3.435973,
+                "formatted_address": "United Kingdom"
+            },
+            "country_code": "GBR",
+            "year": "1934"
+        }
+    ]
+}

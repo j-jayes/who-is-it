@@ -1,0 +1,224 @@
+{
+    "career": [
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Lasarettet i Karlskrona",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Lasarettsläkare",
+            "start_year": 1934,
+            "end_year": 1949,
+            "organization": "Lasarettet i Luleå",
+            "location": {
+                "name": "Luleå",
+                "latitude": 65.584819,
+                "longitude": 22.1567026,
+                "formatted_address": "Luleå, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Chef",
+            "start_year": 1941,
+            "end_year": 1941,
+            "organization": "Krigssjukhuset i Finland",
+            "location": null,
+            "country_code": "FIN"
+        },
+        {
+            "position": "Lasarettsunderläkare",
+            "start_year": 1923,
+            "end_year": 1926,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Gyllensvärd",
+        "middle_name": "Robert Vilhelm",
+        "gender": "Male",
+        "birth_date": "01-04-1896",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Lasarettsläkare",
+            "occupation_english": "Hospital doctor",
+            "hisco_code_swedish": "6105.0",
+            "hisco_description_swedish": "General Physician"
+        },
+        "parents": [
+            {
+                "first_name": "Vilh.",
+                "last_name": "Gyllensvärd",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Registrator",
+                    "occupation_english": "Registrar"
+                }
+            },
+            {
+                "first_name": "Sigrid",
+                "last_name": "Geijer",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1933,
+            "end_year": null,
+            "field": "Experimentell kirurgi"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Medicine licentiat",
+            "degree_level": "Doctorate",
+            "year": "1923",
+            "institution": "None"
+        },
+        {
+            "degree": "Medicine doktor",
+            "degree_level": "Doctorate",
+            "year": "1933",
+            "institution": "Karolinska Institutet"
+        },
+        {
+            "degree": "Filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "None",
+            "institution": "None"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gudrun",
+            "last_name": "Graeve",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Halvor",
+                    "last_name": "Graeve",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Lasarettsläkare",
+                        "occupation_english": "Hospital doctor",
+                        "hisco_code_swedish": "6105.0",
+                        "hisco_description_swedish": "General Physician"
+                    }
+                },
+                {
+                    "first_name": "Annie",
+                    "last_name": "Gylling",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1926",
+        "divorce_year": null,
+        "children": null
+    },
+    "publications": [
+        {
+            "title": "Experimentelle u. klin. Stud. über Avertinnarkose (grad:avh. 33)",
+            "year": "1933",
+            "type": "avhandling",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1949"
+        },
+        {
+            "country": {
+                "name": "Canada",
+                "latitude": 56.130366,
+                "longitude": -106.346771,
+                "formatted_address": "Canada"
+            },
+            "country_code": "CAN",
+            "year": "1949"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1951"
+        }
+    ]
+}

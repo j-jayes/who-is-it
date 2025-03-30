@@ -1,0 +1,190 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": 1924,
+            "organization": "Siemens-Schuckertwerke",
+            "location": {
+                "name": "Berlin, Dresden och Nurnberg",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "Manager",
+            "start_year": 1924,
+            "end_year": 1927,
+            "organization": "Siemens India Ltd",
+            "location": {
+                "name": "Bombay",
+                "latitude": 19.0759837,
+                "longitude": 72.8776559,
+                "formatted_address": "Mumbai, Maharashtra, India"
+            },
+            "country_code": "IND"
+        },
+        {
+            "position": "Kontorschef och Försäljningschef",
+            "start_year": 1928,
+            "organization": "Uddebo Möbeltyg Väfveri AB",
+            "location": {
+                "name": "Uddebo",
+                "latitude": 57.474512,
+                "longitude": 13.2616706,
+                "formatted_address": "514 92 Uddebo, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ludvig",
+        "last_name": "Neergaard",
+        "middle_name": "Peter",
+        "gender": "Male",
+        "birth_date": "26-10-1897",
+        "birth_place": {
+            "name": "Görlitz",
+            "latitude": 51.1524553,
+            "longitude": 14.9688941,
+            "formatted_address": "02 Görlitz, Germany"
+        },
+        "occupation": {
+            "occupation": "Kontorschef, Försäljningschef",
+            "occupation_english": "Office Manager, Sales Manager",
+            "hisco_code_swedish": "22110.0",
+            "hisco_description_swedish": "Clerical Supervisor, General",
+            "hisco_code_english": "22000.0",
+            "hisco_description_english": "Supervisor, Foreman or Inspector, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "L",
+                "last_name": "Neergaard",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Övering",
+                    "occupation_english": "Chief Engineer",
+                    "hisco_code_swedish": "58320.0",
+                    "hisco_description_swedish": "Officer"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Scheib",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Uddebo",
+        "latitude": 57.474512,
+        "longitude": 13.2616706,
+        "formatted_address": "514 92 Uddebo, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Handelsgymnasium",
+            "degree_level": "Schooling",
+            "year": "None",
+            "institution": "Mömo"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Adéle",
+            "last_name": "Torge",
+            "gender": "Female"
+        }
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA"
+        },
+        {
+            "country": {
+                "name": "Brittiska Indien",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "IND"
+        },
+        {
+            "country": {
+                "name": "Schweiz",
+                "latitude": 46.818188,
+                "longitude": 8.227511999999999,
+                "formatted_address": "Switzerland"
+            },
+            "country_code": "CHE"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK"
+        },
+        {
+            "country": {
+                "name": "Norge",
+                "latitude": 60.47202399999999,
+                "longitude": 8.468945999999999,
+                "formatted_address": "Norway"
+            },
+            "country_code": "NOR"
+        }
+    ]
+}

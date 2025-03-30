@@ -1,0 +1,183 @@
+{
+    "career": [
+        {
+            "position": "Forskningsassistent",
+            "start_year": 1932,
+            "end_year": 1933,
+            "organization": "Chalmers Tekniska Högskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Delägare och medarbetare",
+            "start_year": 1934,
+            "end_year": 1939,
+            "organization": "Handelsbolaget Reagens, E Gustafsson & Co",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Driftingeniör",
+            "start_year": 1934,
+            "end_year": 1940,
+            "organization": "Svenska Oljeslageri Aktiebolags fabrik",
+            "location": {
+                "name": "Mölndal",
+                "latitude": 57.65,
+                "longitude": 12.016667,
+                "formatted_address": "Mölndal, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Fabrikschef",
+            "start_year": 1940,
+            "end_year": 1943,
+            "organization": "Svenska Oljeslageri Aktiebolags fabrik",
+            "location": {
+                "name": "Mölndal",
+                "latitude": 57.65,
+                "longitude": 12.016667,
+                "formatted_address": "Mölndal, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Fabriksledare",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": "Stockholms Superfosfat Fabriks Aktiebolag",
+            "location": {
+                "name": "Ljungaverk",
+                "latitude": 62.4892714,
+                "longitude": 16.0421105,
+                "formatted_address": "841 98 Ljungaverk, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Nils",
+        "last_name": "Gustafson",
+        "middle_name": "Erie Helmer",
+        "gender": "Male",
+        "birth_date": "07-03-1907",
+        "birth_place": {
+            "name": "Göteborg",
+            "latitude": 57.70887,
+            "longitude": 11.97456,
+            "formatted_address": "Gothenburg, Sweden"
+        },
+        "occupation": {
+            "occupation": "Civilingenjör",
+            "occupation_english": "Civil Engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "N",
+                "last_name": "Gustafson",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Sjökapten",
+                    "hisco_code_swedish": "4217.0",
+                    "hisco_description_swedish": "Ship's Master (Sea or Inland Waterways)"
+                }
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Eriksson",
+                "gender": "Female"
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Ljungaverk",
+        "latitude": 62.4892714,
+        "longitude": 16.0421105,
+        "formatted_address": "841 98 Ljungaverk, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1928",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "Civilingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1932",
+            "institution": "Okänd"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Ester",
+            "last_name": "Hagman",
+            "gender": "Female"
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": [
+        "Göta Coldin"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1928"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        }
+    ]
+}

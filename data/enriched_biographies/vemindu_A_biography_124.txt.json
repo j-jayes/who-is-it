@@ -1,0 +1,123 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1894,
+            "end_year": 1897,
+            "organization": "Nydqvist & Holm",
+            "location": {
+                "name": "Trollhättan",
+                "latitude": 58.28348939999999,
+                "longitude": 12.2858206,
+                "formatted_address": "Trollhättan, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1897,
+            "end_year": 1898,
+            "organization": "Arkitektkontor",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överingenjör och Verkställande Direktör",
+            "start_year": 1898,
+            "end_year": null,
+            "organization": "Natrolith AB",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överingenjör och Verkställande Direktör",
+            "start_year": 1898,
+            "end_year": null,
+            "organization": "AB Ambrosius Ingenjörsbyrå",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Ambrosius",
+        "middle_name": "Adolf",
+        "gender": "Male",
+        "birth_date": "09-12-1872",
+        "birth_place": {
+            "name": "Lund",
+            "latitude": 55.7046601,
+            "longitude": 13.1910073,
+            "formatted_address": "Lund, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överingenjör",
+            "occupation_english": null,
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Mattias",
+                "last_name": "Ambrosius",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Filosofie Doktor",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "-1.0",
+                    "hisco_description_swedish": "Missing, no title"
+                }
+            },
+            {
+                "first_name": "Emma",
+                "last_name": "Brusewitz",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "education": [
+        {
+            "degree": "Examen",
+            "degree_level": "Bachelor's",
+            "year": "1894",
+            "institution": "CTL:s högre avdelning (mek, väg- o vatten, husbyggn)"
+        }
+    ],
+    "honors": [
+        "Förtjänstmedalj i guld",
+        "Idrottsmärke i guld",
+        "Skytteutmärkelser"
+    ],
+    "military_service": "Aktiv i Istoff och bataljonschef under mobilisering 1914 samt en tid befälhavare för Malmö Istoffområde",
+    "publications": [
+        {
+            "title": "Ångmaskin för högt överhettad ånga",
+            "year": "1907",
+            "type": "Uppfinning",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

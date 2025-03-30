@@ -1,0 +1,308 @@
+{
+    "career": [
+        {
+            "position": "lärare",
+            "start_year": 1902,
+            "end_year": 1903,
+            "organization": "Rösiö v. Hagaberg",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "medarbetare",
+            "start_year": 1903,
+            "organization": "Svenska Dagbladet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "korrespondent",
+            "start_year": 1907,
+            "end_year": null,
+            "organization": "Svenska Dagbladet",
+            "location": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA"
+        },
+        {
+            "position": "korrespondent",
+            "start_year": 1908,
+            "end_year": null,
+            "organization": "Svenska Dagbladet",
+            "location": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR"
+        },
+        {
+            "position": "Berlinkorrespondent",
+            "start_year": 1910,
+            "end_year": 1913,
+            "organization": "Svenska Dagbladet",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "direktör",
+            "start_year": 1913,
+            "end_year": 1914,
+            "organization": "ett filmbolag",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "i filmaffär och som Berlinkorrespondent",
+            "start_year": 1915,
+            "end_year": null,
+            "organization": "Svenska Dagbladet",
+            "location": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU"
+        },
+        {
+            "position": "vid universitet",
+            "start_year": 1915,
+            "end_year": 1916,
+            "organization": "Greifswald",
+            "location": null,
+            "country_code": "DEU"
+        },
+        {
+            "position": "redaktionssekreterare",
+            "start_year": 1916,
+            "end_year": 1918,
+            "organization": "Aftonbladet",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1919,
+            "organization": "Nya Banken",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "styrelseledamot",
+            "start_year": 1920,
+            "end_year": 1922,
+            "organization": "div. bolag för svenska affärsintressen",
+            "location": {
+                "name": "Grekland, Turkiet, Kaukasus, Egypten med flera",
+                "latitude": 38.963745,
+                "longitude": 35.243322,
+                "formatted_address": "Türkiye"
+            },
+            "country_code": null
+        },
+        {
+            "position": "startare och innehare",
+            "start_year": 1923,
+            "organization": "Anglo-Swedish Import Co.",
+            "location": null,
+            "country_code": "SWE"
+        },
+        {
+            "position": "vicekonsul",
+            "start_year": 1925,
+            "organization": "Brasilien",
+            "location": null,
+            "country_code": "BRA"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1931,
+            "organization": "brasilianska legationen",
+            "location": null,
+            "country_code": "BRA"
+        },
+        {
+            "position": "före detta konsul",
+            "start_year": 1931,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "John",
+        "last_name": "Lönnegren",
+        "middle_name": "Alexander",
+        "gender": "Male",
+        "birth_date": "12-12-1878",
+        "birth_place": {
+            "name": "Luleå",
+            "latitude": 65.584819,
+            "longitude": 22.1567026,
+            "formatted_address": "Luleå, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "Aug.",
+                "last_name": "Lönnegren",
+                "middle_name": "Valfrid",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "lektor",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "13030.0",
+                    "hisco_description_swedish": "Teacher, Level and Subject Unknown, Not Primary Education"
+                }
+            },
+            {
+                "first_name": "Ester",
+                "last_name": "Elmstedt",
+                "middle_name": "Augusta",
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": [
+        "GVOIM"
+    ],
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "juridisk preliminärexamen",
+            "degree_level": "Bachelor's",
+            "year": "1897",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "filosofie kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1901",
+            "institution": "Uppsala"
+        },
+        {
+            "degree": "Dr. der Rechts- und Staatswissensch.",
+            "degree_level": "Doctorate",
+            "year": "1916",
+            "institution": "Greifswald"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Käte",
+            "last_name": "Tisell",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Casimir",
+                    "last_name": "Tisell",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "kapten",
+                        "occupation_english": null,
+                        "hisco_code_swedish": "58320.0",
+                        "hisco_description_swedish": "Officer"
+                    }
+                },
+                {
+                    "first_name": "Hedvig",
+                    "last_name": "Wolffrath",
+                    "middle_name": "von",
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1924",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "And. Berch und der schwed. Merkantilismus",
+            "year": "1916",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ryssland och Europa (bearbetning av P. Rohrbachs Russl. u. wir)",
+            "year": "1916",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1929-1930"
+        }
+    ]
+}

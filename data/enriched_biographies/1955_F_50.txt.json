@@ -1,0 +1,143 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Mollie",
+        "last_name": "Faustman",
+        "middle_name": null,
+        "gender": "Female",
+        "birth_date": "15-03-1883",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "målarinna, författarinna",
+            "occupation_english": "painter, writer",
+            "hisco_code_swedish": "15120.0",
+            "hisco_description_swedish": "Author",
+            "hisco_code_english": "93120.0",
+            "hisco_description_english": "Building Painter"
+        },
+        "parents": [
+            {
+                "first_name": "Edv.",
+                "last_name": "Faustman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "ingenjör",
+                    "occupation_english": "engineer",
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown",
+                    "hisco_code_english": "84100.0",
+                    "hisco_description_english": "Machinery Fitters and Machine Assemblers"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Karsten",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Människans glädjeämnen",
+            "field": "fresk",
+            "year": "1949",
+            "significance": null,
+            "recognized_by": "Småskoleseminariets aula, Härnösand"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "studentexamen",
+            "degree_level": "Schooling",
+            "year": "1901",
+            "institution": "Okänd"
+        },
+        {
+            "degree": "rit- och målarskola",
+            "degree_level": "Schooling",
+            "year": "1905-1908",
+            "institution": "Göteborgs museums"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "ett flertal barnböcker",
+            "year": "okänt",
+            "type": "barnböcker",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "kåserisamlingar",
+            "year": "okänt",
+            "type": "kåserisamlingar",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": "Vagabonde",
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": null
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": null
+        }
+    ]
+}

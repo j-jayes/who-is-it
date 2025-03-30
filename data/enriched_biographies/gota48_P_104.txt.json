@@ -1,0 +1,207 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1937,
+            "end_year": 1941,
+            "organization": "Kooperativa Förbundet",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "hos arkitekt",
+            "start_year": 1941,
+            "end_year": 1943,
+            "organization": "Gustav Holmdahl",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Flygförvaltningens byggnadsavdelning",
+            "start_year": 1943,
+            "end_year": 1945,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "assistent",
+            "start_year": 1945,
+            "end_year": null,
+            "organization": "Länsarkitektkontoret i Visby",
+            "location": {
+                "name": "Visby",
+                "latitude": 57.6348,
+                "longitude": 18.29484,
+                "formatted_address": "Visby, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen arkitektverksamhet",
+            "start_year": 1943,
+            "end_year": null,
+            "organization": null,
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Arne",
+        "last_name": "Petterson",
+        "middle_name": "Viktor Daniel",
+        "gender": "Male",
+        "birth_date": "15-12-1908",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "arkitekt",
+            "occupation_english": "architect",
+            "hisco_code_swedish": "2120.0",
+            "hisco_description_swedish": "Building Architect",
+            "hisco_code_english": "2120.0",
+            "hisco_description_english": "Building Architect"
+        },
+        "parents": [
+            {
+                "first_name": "Georg",
+                "last_name": "Petterson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "kamrer",
+                    "occupation_english": "comptroller",
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "h. h.",
+                "last_name": "Petterson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Visby",
+        "latitude": 57.6348,
+        "longitude": 18.29484,
+        "formatted_address": "Visby, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1929",
+            "institution": "Norra Real i Stockholm"
+        },
+        {
+            "degree": "Arkitektexamen",
+            "degree_level": "Bachelor's",
+            "year": "1936",
+            "institution": "Kungliga Tekniska Högskolan"
+        },
+        {
+            "degree": "Studier",
+            "degree_level": "Schooling",
+            "year": "1938-1939",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Aina",
+            "last_name": "Sundström",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1937",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Inger",
+                "last_name": "Petterson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1938"
+            },
+            {
+                "first_name": "Karin",
+                "last_name": "Petterson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Gunilla",
+                "last_name": "Petterson",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1941"
+            },
+            {
+                "first_name": "Jan",
+                "last_name": "Petterson",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1947"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1936"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": "1938"
+        }
+    ]
+}

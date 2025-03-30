@@ -1,0 +1,188 @@
+{
+    "career": [
+        {
+            "position": "Kommissarie",
+            "start_year": 1886,
+            "end_year": 1890,
+            "organization": "Konstnärsförbundets Stockholmsutställning",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1893,
+            "end_year": 1897,
+            "organization": "Göteborgs Museums målarskola",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Georg",
+        "last_name": "Pauli",
+        "middle_name": "Vilhelm",
+        "gender": "Male",
+        "birth_date": "02-07-1855",
+        "birth_place": {
+            "name": "Jönköping",
+            "latitude": 57.78261370000001,
+            "longitude": 14.1617876,
+            "formatted_address": "Jönköping, Sweden"
+        },
+        "occupation": {
+            "occupation": "Konstnär",
+            "occupation_english": "Artist",
+            "hisco_code_swedish": "16000.0",
+            "hisco_description_swedish": "Sculptor, Painter, Photographer or Related Creative Artist, Specialisation Unknown",
+            "hisco_code_english": "17000.0",
+            "hisco_description_english": "Composer or Performing Artist, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Ferdinand",
+                "last_name": "Pauli",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Apotekare",
+                    "occupation_english": "Pharmacist",
+                    "hisco_code_swedish": "6710.0",
+                    "hisco_description_swedish": "Pharmacist",
+                    "hisco_code_english": "41030.0",
+                    "hisco_description_english": "Working Proprietor (Retail Trade)"
+                }
+            },
+            {
+                "first_name": "Augusta",
+                "last_name": "Gagner",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": [
+        {
+            "title": "Mention Honorable",
+            "field": "Konst",
+            "year": "1884",
+            "significance": null,
+            "recognized_by": "Paris"
+        },
+        {
+            "title": "Tredje medalj",
+            "field": "Konst",
+            "year": "1889",
+            "significance": null,
+            "recognized_by": "Parisutställningen"
+        },
+        {
+            "title": "Första pris",
+            "field": "Arkitektur",
+            "year": "1914",
+            "significance": null,
+            "recognized_by": "Vigselrumstävling"
+        }
+    ],
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Saltsjö-Storängen",
+        "latitude": 59.32489260000001,
+        "longitude": 18.1663683,
+        "formatted_address": "Saltsjön, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Konstakademin",
+            "degree_level": "Schooling",
+            "year": "1871-1875",
+            "institution": "Konstakademien"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Konstnärsliv och om konst",
+            "year": "1913",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Ernst Josephson",
+            "year": "1914",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "Konstens socialisering",
+            "year": "1915",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        },
+        {
+            "title": "I Paris",
+            "year": "1916",
+            "type": "Bok",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1875-1888"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1875-1888"
+        }
+    ]
+}

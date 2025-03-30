@@ -1,0 +1,155 @@
+{
+    "career": [],
+    "person": {
+        "first_name": "Torsten",
+        "last_name": "Hallberg",
+        "middle_name": "Herman",
+        "gender": "Male",
+        "birth_date": "11-04-1909",
+        "birth_place": {
+            "name": "S:t Petersburg",
+            "latitude": 59.9310584,
+            "longitude": 30.3609097,
+            "formatted_address": "St Petersburg, Russia"
+        },
+        "occupation": {
+            "occupation": "kamrer",
+            "occupation_english": null,
+            "hisco_code_swedish": "11010.0",
+            "hisco_description_swedish": "Accountant, General"
+        },
+        "parents": [
+            {
+                "first_name": "G",
+                "last_name": "Hallberg",
+                "middle_name": "V",
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "överingenjör",
+                    "occupation_english": null,
+                    "hisco_code_swedish": "2000.0",
+                    "hisco_description_swedish": "Engineer, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Maria",
+                "last_name": "Nygren",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": [],
+    "committee_memberships": [],
+    "community_involvement": [],
+    "current_location": {
+        "name": "Ålsten",
+        "latitude": 59.32339140000001,
+        "longitude": 17.9490937,
+        "formatted_address": "Ålsten, Bromma, Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "S:t Petri rsk.",
+            "degree_level": "Schooling",
+            "year": "1926",
+            "institution": "Leningrad"
+        },
+        {
+            "degree": "ekonomie examen",
+            "degree_level": "Bachelor's",
+            "year": "1929",
+            "institution": "Leningrad"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Anna-Lisa",
+            "last_name": "Nylander",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1942",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Göran",
+                "last_name": "Erik",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1943"
+            }
+        ]
+    },
+    "hobbies": [
+        "Sportfiske",
+        "tennis"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": [],
+    "military_service": null,
+    "political_positions": [],
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1932"
+        },
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1941"
+        },
+        {
+            "country": {
+                "name": "England",
+                "latitude": 52.3555177,
+                "longitude": -1.1743197,
+                "formatted_address": "England, UK"
+            },
+            "country_code": "GBR",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "Frankrike",
+                "latitude": 46.227638,
+                "longitude": 2.213749,
+                "formatted_address": "France"
+            },
+            "country_code": "FRA",
+            "year": "1933"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1933"
+        }
+    ]
+}

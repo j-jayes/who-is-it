@@ -1,0 +1,227 @@
+{
+    "career": [
+        {
+            "position": "Assistent",
+            "start_year": 1944,
+            "end_year": 1947,
+            "organization": "Statens Bakteriologiska Laboratorium",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Tillförordnad Underläkare",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "Stockholms Epidemisjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1947,
+            "end_year": 1949,
+            "organization": "Statens Institut för Folkhälsan",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Extra Läkare",
+            "start_year": 1948,
+            "end_year": null,
+            "organization": "Norrtulls Sjukhus",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Biträdande Läkare",
+            "start_year": 1949,
+            "end_year": null,
+            "organization": "Sandvikens Bruks Sjukhus",
+            "location": {
+                "name": "Sandviken",
+                "latitude": 60.621607,
+                "longitude": 16.775918,
+                "formatted_address": "Sandviken, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Andre Underläkare",
+            "start_year": 1951,
+            "end_year": null,
+            "organization": "Avesta lasarett",
+            "location": {
+                "name": "Avesta",
+                "latitude": 60.14532999999999,
+                "longitude": 16.1738399,
+                "formatted_address": "Avesta, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Stadsläkare",
+            "start_year": 1952,
+            "end_year": null,
+            "organization": "Falun",
+            "location": {
+                "name": "Falun",
+                "latitude": 60.60646000000001,
+                "longitude": 15.6355,
+                "formatted_address": "Falun, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Stig",
+        "last_name": "Forssling",
+        "middle_name": "R",
+        "gender": "Male",
+        "birth_date": "06-10-1916",
+        "birth_place": {
+            "name": "Falun",
+            "latitude": 60.60646000000001,
+            "longitude": 15.6355,
+            "formatted_address": "Falun, Sweden"
+        },
+        "occupation": {
+            "occupation": "Förste stadsdistriktsläkare",
+            "occupation_english": "First City District Doctor",
+            "hisco_code_english": "14130.0",
+            "hisco_description_english": "Missionary"
+        },
+        "parents": [
+            {
+                "first_name": "John",
+                "last_name": "Forssling",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Läroverksadjunkt",
+                    "occupation_english": "Upper Secondary School Teacher",
+                    "hisco_code_swedish": "13200.0",
+                    "hisco_description_swedish": "Secondary Education Teacher, Subject Unknown",
+                    "hisco_code_english": "13020.0",
+                    "hisco_description_english": "Teacher, Level and Subject Unknown, Not University and Higher Education Level"
+                }
+            },
+            {
+                "first_name": "Alma",
+                "last_name": "Ericsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Falun",
+        "latitude": 60.60646000000001,
+        "longitude": 15.6355,
+        "formatted_address": "Falun, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1935",
+            "institution": "Falun"
+        },
+        {
+            "degree": "Medicine Kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1939",
+            "institution": "Stockholm"
+        },
+        {
+            "degree": "Medicine Licentiat",
+            "degree_level": "Master's",
+            "year": "1944",
+            "institution": "Stockholm"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Carin",
+            "last_name": "Malmlöf",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Knut",
+                    "last_name": "Malmlöf",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "Stadsrevisor",
+                        "occupation_english": "City Auditor",
+                        "hisco_code_swedish": "11020.0",
+                        "hisco_description_swedish": "Auditor",
+                        "hisco_code_english": "11020.0",
+                        "hisco_description_english": "Auditor"
+                    }
+                },
+                {
+                    "first_name": "Elin",
+                    "last_name": "Olsson",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Johan",
+                "last_name": "Forssling",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1948"
+            }
+        ]
+    },
+    "hobbies": [
+        "tennis",
+        "fjällvandringar"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Skrifter i bakteriologi och hygien",
+            "year": "None",
+            "type": "skrift",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": null
+}

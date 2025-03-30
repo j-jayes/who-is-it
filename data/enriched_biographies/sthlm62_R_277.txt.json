@@ -1,0 +1,159 @@
+{
+    "career": [
+        {
+            "position": "Vikarierande underläkare",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "Röntgendiagnostiska avdelningen, Karolinska Sjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Tf. förste underläkare",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "Röntgendiagnostiska avdelningen, Karolinska Sjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Förste underläkare",
+            "start_year": 1948,
+            "end_year": 1951,
+            "organization": "Röntgendiagnostiska avdelningen, Karolinska Sjukhuset",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Förste underläkare",
+            "start_year": 1951,
+            "end_year": null,
+            "organization": "Röntgenavdelningen, Barnkliniken",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "Överläkare",
+            "start_year": 1957,
+            "end_year": null,
+            "organization": "Röntgenavdelningen, Barnkliniken",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        }
+    ],
+    "person": {
+        "first_name": "Ulf",
+        "last_name": "Rudhe",
+        "middle_name": "G",
+        "gender": "Male",
+        "birth_date": "28-02-1919",
+        "birth_place": {
+            "name": "Stockholm",
+            "latitude": 59.3327036,
+            "longitude": 18.0656255,
+            "formatted_address": "Stockholm, Sweden"
+        },
+        "occupation": {
+            "occupation": "Docent, Överläkare",
+            "occupation_english": "Docent, Senior Physician",
+            "hisco_code_english": "6100.0",
+            "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Rudhe",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Kamrer",
+                    "occupation_english": "Treasurer",
+                    "hisco_code_swedish": "11010.0",
+                    "hisco_description_swedish": "Accountant, General"
+                }
+            },
+            {
+                "first_name": "Helga",
+                "last_name": "Eliasson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": [
+        {
+            "position": "Docent",
+            "position_english": "Docent",
+            "institution": "Karolinska Institutet",
+            "department": null,
+            "start_year": 1957,
+            "end_year": null,
+            "field": "Röntgendiagnostik"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Electrokymography with special reference to valvular pulmonary and infundibular stenosis",
+            "year": "1956",
+            "type": "doktorsavhandling"
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1956"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1957"
+        },
+        {
+            "country": {
+                "name": "Sydamerika",
+                "latitude": -8.783195,
+                "longitude": -55.491477,
+                "formatted_address": "South America"
+            },
+            "country_code": "null",
+            "year": "1958"
+        }
+    ]
+}

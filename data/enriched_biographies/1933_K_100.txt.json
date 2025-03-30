@@ -1,0 +1,169 @@
+{
+    "career": [
+        {
+            "position": "Diakonpastor",
+            "start_year": 1904,
+            "end_year": 1908,
+            "organization": "förs:hyddan",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Komminister",
+            "start_year": 1908,
+            "end_year": 1916,
+            "organization": "Masthuggsförsamlingen",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Kyrkoherde",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Klingner",
+        "middle_name": "Gottfrid",
+        "gender": "Male",
+        "birth_date": "06-01-1872",
+        "birth_place": {
+            "name": "Skörstorp, Skaraborgs Län",
+            "latitude": 58.12477209999999,
+            "longitude": 13.7342186,
+            "formatted_address": "522 92 Skörstorp, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kyrkoherde",
+            "occupation_english": "Vicar",
+            "hisco_code_swedish": "14120.0",
+            "hisco_description_swedish": "Minister of Religion",
+            "hisco_code_english": "14120.0",
+            "hisco_description_english": "Minister of Religion"
+        },
+        "parents": [
+            {
+                "first_name": "Aug.",
+                "last_name": "Kling",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Lantbrukare",
+                    "occupation_english": "Farmer",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer",
+                    "hisco_code_english": "61110.0",
+                    "hisco_description_english": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Clara",
+                "last_name": "Andersson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": [
+        {
+            "committee_name": "Göteborgs kyrkofullmäktige",
+            "role": "Ledamot",
+            "start_year": 1908,
+            "end_year": 1925,
+            "organization": null,
+            "significance": null
+        }
+    ],
+    "community_involvement": null,
+    "current_location": {
+        "name": "Göteborg",
+        "latitude": 57.70887,
+        "longitude": 11.97456,
+        "formatted_address": "Gothenburg, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Teologie filosofie examen",
+            "degree_level": "Bachelor's",
+            "year": "1898",
+            "institution": "Uppsala Universitet"
+        },
+        {
+            "degree": "Teologie dimissionsexamen",
+            "degree_level": "Bachelor's",
+            "year": "1901",
+            "institution": "Uppsala Universitet"
+        }
+    ],
+    "family": null,
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Bidrag i tidningar och religiösa publikationer",
+            "year": "None",
+            "type": "Article",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Okänt",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1911"
+        },
+        {
+            "country": {
+                "name": "Okänt",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "country_code": "None",
+            "year": "1914"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1925"
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "career": [
+        {
+            "position": "Ingenjör",
+            "start_year": 1925,
+            "end_year": 1925,
+            "organization": "Laxå Bruks AB",
+            "location": {
+                "name": "Laxå",
+                "latitude": 58.9819967,
+                "longitude": 14.6238408,
+                "formatted_address": "Laxå, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1925,
+            "end_year": 1927,
+            "organization": "Gullspångs Elektrokemiska AB",
+            "location": {
+                "name": "Gullspång",
+                "latitude": 58.985467,
+                "longitude": 14.096623,
+                "formatted_address": "Gullspång, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Ingenjör",
+            "start_year": 1927,
+            "end_year": 1933,
+            "organization": "Stora Kopparbergs Bergslags AB vid Domnarvets Järnverk",
+            "location": {
+                "name": "Domnarvet",
+                "latitude": 60.5002563,
+                "longitude": 15.4551433,
+                "formatted_address": "784 74 Domnarvet, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Disponent och Verkställande Direktör",
+            "start_year": 1933,
+            "end_year": 1937,
+            "organization": "Hults Bruks AB",
+            "location": {
+                "name": "Åby",
+                "latitude": 58.66449960000001,
+                "longitude": 16.181169,
+                "formatted_address": "616 30 Åby, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överingenjör",
+            "start_year": 1937,
+            "end_year": 1943,
+            "organization": "Bultfabriks AB Hallstahammar",
+            "location": {
+                "name": "Hallstahammar",
+                "latitude": 59.6132041,
+                "longitude": 16.2294755,
+                "formatted_address": "Hallstahammar, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Överingenjör",
+            "start_year": 1943,
+            "organization": "Avesta Jernverks AB",
+            "location": {
+                "name": "Avesta",
+                "latitude": 60.14532999999999,
+                "longitude": 16.1738399,
+                "formatted_address": "Avesta, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Sten",
+        "last_name": "Sandlund",
+        "middle_name": "Erik Gustaf",
+        "gender": "Male",
+        "birth_date": "14-11-1898",
+        "birth_place": {
+            "name": "Ramundeboda, Örebro Län",
+            "latitude": 58.98669150000001,
+            "longitude": 14.615373,
+            "formatted_address": "Kjellbergsgatan, 695 30 Laxå, Sweden"
+        },
+        "occupation": {
+            "occupation": "Överingenjör",
+            "occupation_english": "Chief Engineer",
+            "hisco_code_swedish": "2000.0",
+            "hisco_description_swedish": "Engineer, Specialisation Unknown"
+        },
+        "parents": [
+            {
+                "first_name": "P G",
+                "last_name": "Sandlund",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bergsingenjör",
+                    "occupation_english": "Mining Engineer",
+                    "hisco_code_swedish": "2710.0",
+                    "hisco_description_swedish": "Mining Engineer, General"
+                }
+            },
+            {
+                "first_name": "Berta",
+                "last_name": "Boman",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Avesta",
+        "latitude": 60.14532999999999,
+        "longitude": 16.1738399,
+        "formatted_address": "Avesta, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1917",
+            "institution": "Linköping"
+        },
+        {
+            "degree": "Bergsingenjörsexamen",
+            "degree_level": "Master's",
+            "year": "1922",
+            "institution": "Kungliga Tekniska Högskolan"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Maja",
+            "last_name": "Ulander",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1923"
+        },
+        {
+            "country": {
+                "name": "USA",
+                "latitude": 38.7945952,
+                "longitude": -106.5348379,
+                "formatted_address": "United States"
+            },
+            "country_code": "USA",
+            "year": "1924"
+        }
+    ]
+}

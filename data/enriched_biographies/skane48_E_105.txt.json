@@ -1,0 +1,171 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1942,
+            "end_year": 1946,
+            "organization": "Uddeholms Aktiebolag, Elektrokemiska fabriken i Skoghall",
+            "location": {
+                "name": "Skoghall",
+                "latitude": 59.32462750000001,
+                "longitude": 13.4693947,
+                "formatted_address": "Skoghall, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "G. C. Faxe Aktiebolag",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1947,
+            "end_year": null,
+            "organization": "Nordiska Ackumulatorfabriken",
+            "location": {
+                "name": "Malmö",
+                "latitude": 55.604981,
+                "longitude": 13.003822,
+                "formatted_address": "Malmö, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Matts",
+        "last_name": "Ekman",
+        "middle_name": "Jakob Gustaf",
+        "gender": "Male",
+        "birth_date": "12-07-1916",
+        "birth_place": {
+            "name": "Storfors, Värmlands Län",
+            "latitude": 59.5332079,
+            "longitude": 14.2722085,
+            "formatted_address": "Storfors, Sweden"
+        },
+        "occupation": {
+            "occupation": "civilingenjör",
+            "occupation_english": "civil engineer",
+            "hisco_code_swedish": "2210.0",
+            "hisco_description_swedish": "Civil Engineer, General"
+        },
+        "parents": [
+            {
+                "first_name": "Gustaf",
+                "last_name": "Ekman",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "bankdirektör",
+                    "occupation_english": "bank director",
+                    "hisco_code_swedish": "21110.0",
+                    "hisco_description_swedish": "General Manager",
+                    "hisco_code_english": "44140.0",
+                    "hisco_description_english": "Stock Broker"
+                }
+            },
+            {
+                "first_name": "Hedvig",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Malmö",
+        "latitude": 55.604981,
+        "longitude": 13.003822,
+        "formatted_address": "Malmö, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1936",
+            "institution": "None"
+        },
+        {
+            "degree": "Civilingenjörsexamen i kemi och kemisk teknologi",
+            "degree_level": "Master's",
+            "year": "1942",
+            "institution": "Chalmers Tekniska Högskola"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Gudrun",
+            "last_name": "Falkheden",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1943",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Marianne",
+                "last_name": "Ekman",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1944"
+            },
+            {
+                "first_name": "Matts",
+                "last_name": "Ekman",
+                "middle_name": null,
+                "gender": "Male",
+                "birth_year": "1946"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1939"
+        },
+        {
+            "country": {
+                "name": "Italien",
+                "latitude": 41.87194,
+                "longitude": 12.56738,
+                "formatted_address": "Italy"
+            },
+            "country_code": "ITA",
+            "year": "1939"
+        }
+    ]
+}

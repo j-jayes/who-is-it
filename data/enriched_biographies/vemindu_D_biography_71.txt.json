@@ -1,0 +1,196 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1911,
+            "end_year": 1915,
+            "organization": "I 15",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1916,
+            "end_year": null,
+            "organization": "Firma And Skog i Göteborg",
+            "location": {
+                "name": "Göteborg",
+                "latitude": 57.70887,
+                "longitude": 11.97456,
+                "formatted_address": "Gothenburg, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Föreståndare",
+            "start_year": 1917,
+            "end_year": 1920,
+            "organization": "Firma And Skogs örebro-kontor",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Grosshandlare",
+            "start_year": 1921,
+            "end_year": null,
+            "organization": "G L Dawidsson",
+            "location": {
+                "name": "Örebro",
+                "latitude": 59.2752626,
+                "longitude": 15.2134105,
+                "formatted_address": "Örebro, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Gunnar",
+        "last_name": "DAWIDSSON",
+        "middle_name": "Leonard",
+        "gender": "Male",
+        "birth_date": "03-07-1893",
+        "birth_place": {
+            "name": "Källstad, Älvsborgs Län",
+            "latitude": 58.3783943,
+            "longitude": 14.7785381,
+            "formatted_address": "592 93 Källstad, Sweden"
+        },
+        "occupation": {
+            "occupation": "Grosshandlare",
+            "occupation_english": "Wholesaler",
+            "hisco_code_swedish": "41020.0",
+            "hisco_description_swedish": "Working Proprietor (Wholesale Trade)",
+            "hisco_code_english": "41025.0",
+            "hisco_description_english": "Working Proprietor (Wholesale or Retail Trade)"
+        },
+        "parents": [
+            {
+                "first_name": "D",
+                "last_name": "Isaksson",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Hemmansägare",
+                    "occupation_english": "Home Owner",
+                    "hisco_code_swedish": "61110.0",
+                    "hisco_description_swedish": "General Farmer"
+                }
+            },
+            {
+                "first_name": "Ida",
+                "last_name": "Larsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": [
+        {
+            "role": "Mast",
+            "organization": "Logen Eyrabro-Havamal"
+        },
+        {
+            "role": "ASM",
+            "organization": "Landskapslog Midgård"
+        },
+        {
+            "role": "Skattmästare",
+            "organization": "Storlog Tirfing av Bifrostorden"
+        },
+        {
+            "role": "Skattmästare",
+            "organization": "Log örebrohus av Odd Fellow"
+        },
+        {
+            "role": "Kassör och Sekreterare",
+            "organization": "Log örebrohus av Odd Fellows nödhjälpsfond"
+        },
+        {
+            "role": "Kassör",
+            "organization": "Brödrakedjan örebrohus"
+        },
+        {
+            "role": "Före detta Sekreterare",
+            "organization": "Västgöta Gille i Örebro"
+        }
+    ],
+    "current_location": {
+        "name": "Örebro",
+        "latitude": 59.2752626,
+        "longitude": 15.2134105,
+        "formatted_address": "Örebro, Sweden"
+    },
+    "education": null,
+    "family": {
+        "spouse": {
+            "first_name": "Esther",
+            "last_name": "Lidberg",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": null,
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": [
+        "Fiske",
+        "Mykologi"
+    ],
+    "honorary_titles": null,
+    "honors": [
+        "Skyttemärke",
+        "Idrottsmärke i guld"
+    ],
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1922"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Österrike",
+                "latitude": 47.516231,
+                "longitude": 14.550072,
+                "formatted_address": "Austria"
+            },
+            "country_code": "AUT",
+            "year": "1929"
+        }
+    ]
+}

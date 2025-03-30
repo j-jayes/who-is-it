@@ -1,0 +1,201 @@
+{
+    "career": [
+        {
+            "position": "Tingstjänstgöring",
+            "start_year": 1939,
+            "end_year": 1942,
+            "organization": "Västra Göinge domsaga",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1942,
+            "end_year": 1942,
+            "organization": "Länsarbetsnämnden i Kristianstad",
+            "location": {
+                "name": "Kristianstad",
+                "latitude": 56.0293936,
+                "longitude": 14.1566778,
+                "formatted_address": "Kristianstad, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Assistent",
+            "start_year": 1942,
+            "end_year": 1945,
+            "organization": "Länsarbetsnämnden i Linköping",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Beredskapsinspektör",
+            "start_year": 1942,
+            "end_year": 1945,
+            "organization": "Länsarbetsnämnden i Linköping",
+            "location": {
+                "name": "Linköping",
+                "latitude": 58.41080700000001,
+                "longitude": 15.6213727,
+                "formatted_address": "Linköping, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Extra ordinarie notarie",
+            "start_year": 1945,
+            "end_year": 1946,
+            "organization": "Drätselkammaren i Karlskrona",
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Stadsnotarie",
+            "start_year": 1946,
+            "end_year": null,
+            "organization": null,
+            "location": {
+                "name": "Karlskrona",
+                "latitude": 56.161224,
+                "longitude": 15.5869,
+                "formatted_address": "Karlskrona, Sweden"
+            },
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Carl",
+        "last_name": "Stigner",
+        "middle_name": "Filip Ingvar",
+        "gender": "Male",
+        "birth_date": "04-05-1913",
+        "birth_place": {
+            "name": "Knislinge, Kristianstads Län",
+            "latitude": 56.1934814,
+            "longitude": 14.0854131,
+            "formatted_address": "Knislinge, Sweden"
+        },
+        "occupation": {
+            "occupation": "Stadsnotarie",
+            "occupation_english": null,
+            "hisco_code_swedish": "12310.0",
+            "hisco_description_swedish": "Notary"
+        },
+        "parents": [
+            {
+                "first_name": "N.",
+                "last_name": "S.",
+                "middle_name": "E.",
+                "gender": "Male",
+                "occupation": null
+            },
+            {
+                "first_name": "Elin",
+                "last_name": "Nilsson",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Karlskrona",
+        "latitude": 56.161224,
+        "longitude": 15.5869,
+        "formatted_address": "Karlskrona, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Studentexamen",
+            "degree_level": "Schooling",
+            "year": "1932",
+            "institution": "Kristianstads högre allmänna läroverk"
+        },
+        {
+            "degree": "Juridisk kandidat",
+            "degree_level": "Bachelor's",
+            "year": "1939",
+            "institution": "Lunds Universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Kerstin",
+            "last_name": "Stubbendorff",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": null,
+            "birth_place": null,
+            "occupation": null,
+            "parents": null
+        },
+        "marriage_year": "1945",
+        "divorce_year": null,
+        "children": [
+            {
+                "first_name": "Gerd",
+                "last_name": "Stigner",
+                "middle_name": null,
+                "gender": "Female",
+                "birth_year": "1946"
+            }
+        ]
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1929"
+        },
+        {
+            "country": {
+                "name": "Tyskland",
+                "latitude": 51.165691,
+                "longitude": 10.451526,
+                "formatted_address": "Germany"
+            },
+            "country_code": "DEU",
+            "year": "1937"
+        },
+        {
+            "country": {
+                "name": "Danmark",
+                "latitude": 56.26392,
+                "longitude": 9.501785,
+                "formatted_address": "Denmark"
+            },
+            "country_code": "DNK",
+            "year": null
+        }
+    ]
+}

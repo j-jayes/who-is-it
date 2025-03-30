@@ -1,0 +1,232 @@
+{
+    "career": [
+        {
+            "position": "tjänstgöring",
+            "start_year": 1916,
+            "end_year": 1917,
+            "organization": "Svea hovrätt",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": "SWE"
+        },
+        {
+            "position": "anställd",
+            "start_year": 1917,
+            "end_year": 1918,
+            "organization": "svenska beskickningen",
+            "location": {
+                "name": "Moskva",
+                "latitude": 55.755826,
+                "longitude": 37.6173,
+                "formatted_address": "Moscow, Russia"
+            },
+            "country_code": "RUS"
+        },
+        {
+            "position": "hos tull- och traktatkommittén",
+            "start_year": 1919,
+            "end_year": 1922,
+            "organization": "tull- och traktatkommittén",
+            "location": null,
+            "country_code": null
+        },
+        {
+            "position": "amanuens",
+            "start_year": 1922,
+            "end_year": null,
+            "organization": "Handelsdepartementet",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "N",
+        "last_name": "S",
+        "middle_name": null,
+        "gender": "Male",
+        "birth_date": "30-08-1883",
+        "birth_place": {
+            "name": "Gävle",
+            "latitude": 60.6748796,
+            "longitude": 17.1412726,
+            "formatted_address": "Gävle, Sweden"
+        },
+        "occupation": null,
+        "parents": [
+            {
+                "first_name": "N",
+                "last_name": "Joh",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "medicine licentiat",
+                    "occupation_english": "Medical Licentiate",
+                    "hisco_code_swedish": "6100.0",
+                    "hisco_description_swedish": "Medical Doctor, Specialisation Unknown",
+                    "hisco_code_english": "6100.0",
+                    "hisco_description_english": "Medical Doctor, Specialisation Unknown"
+                }
+            },
+            {
+                "first_name": "Andrée",
+                "last_name": "Lundqvist",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Stockholm",
+        "latitude": 59.3327036,
+        "longitude": 18.0656255,
+        "formatted_address": "Stockholm, Sweden"
+    },
+    "education": [
+        {
+            "degree": "Handelshögskoleexamen",
+            "degree_level": "Bachelor's",
+            "year": "1909",
+            "institution": "Handelshögskolan Berlin"
+        },
+        {
+            "degree": "Juristkandidatexamen",
+            "degree_level": "Master's",
+            "year": "None",
+            "institution": "Stockholms universitet"
+        }
+    ],
+    "family": {
+        "spouse": {
+            "first_name": "Margareta",
+            "last_name": "Halidén",
+            "middle_name": null,
+            "gender": "Female",
+            "birth_date": "None",
+            "birth_place": {
+                "name": "None",
+                "latitude": null,
+                "longitude": null,
+                "formatted_address": null
+            },
+            "occupation": null,
+            "parents": [
+                {
+                    "first_name": "Carl",
+                    "last_name": "H",
+                    "middle_name": null,
+                    "gender": "Male",
+                    "occupation": {
+                        "occupation": "postassistent",
+                        "occupation_english": "Postal Clerk",
+                        "hisco_code_swedish": "33170.0",
+                        "hisco_description_swedish": "Post Office Counter Clerk",
+                        "hisco_code_english": "30000.0",
+                        "hisco_description_english": "Clerical or Related Worker, Specialisation Unknown"
+                    }
+                },
+                {
+                    "first_name": "Anna",
+                    "last_name": "Cederblad",
+                    "middle_name": null,
+                    "gender": "Female",
+                    "occupation": null
+                }
+            ]
+        },
+        "marriage_year": "1921",
+        "divorce_year": null,
+        "children": null
+    },
+    "hobbies": null,
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": [
+        {
+            "title": "Sovjetryssland, industri, handel, koncessionspolitik",
+            "year": "1923",
+            "type": "book",
+            "editions": null,
+            "publisher": null,
+            "reception": null,
+            "signature": null,
+            "volumes": null
+        }
+    ],
+    "travels": [
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1909"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1909"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1909"
+        },
+        {
+            "country": {
+                "name": "Berlin",
+                "latitude": 52.52000659999999,
+                "longitude": 13.404954,
+                "formatted_address": "Berlin, Germany"
+            },
+            "country_code": "DEU",
+            "year": "1911"
+        },
+        {
+            "country": {
+                "name": "London",
+                "latitude": 51.5072178,
+                "longitude": -0.1275862,
+                "formatted_address": "London, UK"
+            },
+            "country_code": "GBR",
+            "year": "1911"
+        },
+        {
+            "country": {
+                "name": "Paris",
+                "latitude": 48.8575475,
+                "longitude": 2.3513765,
+                "formatted_address": "Paris, France"
+            },
+            "country_code": "FRA",
+            "year": "1911"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "career": [
+        {
+            "position": "Anställd",
+            "start_year": 1912,
+            "end_year": 1915,
+            "organization": "AB Stridsberg & Biörck",
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Egen firma",
+            "start_year": 1915,
+            "end_year": 1920,
+            "organization": null,
+            "location": {
+                "name": "Stockholm",
+                "latitude": 59.3327036,
+                "longitude": 18.0656255,
+                "formatted_address": "Stockholm, Sweden"
+            },
+            "country_code": null
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1921,
+            "end_year": 1936,
+            "organization": "M J Caldas",
+            "location": {
+                "name": "Rio de Janeiro",
+                "latitude": -22.9068467,
+                "longitude": -43.1728965,
+                "formatted_address": "Rio de Janeiro, State of Rio de Janeiro, Brazil"
+            },
+            "country_code": "BRA"
+        },
+        {
+            "position": "Anställd",
+            "start_year": 1937,
+            "end_year": null,
+            "organization": "AB Svenska Möbelfabriken",
+            "location": null,
+            "country_code": null
+        }
+    ],
+    "person": {
+        "first_name": "Ernst",
+        "last_name": "Stridsberg",
+        "middle_name": "Ivar",
+        "gender": "Male",
+        "birth_date": "27-08-1898",
+        "birth_place": {
+            "name": "Tranås",
+            "latitude": 58.035518,
+            "longitude": 14.975696,
+            "formatted_address": "Tranås, Sweden"
+        },
+        "occupation": {
+            "occupation": "Kamrer",
+            "occupation_english": "Comptroller",
+            "hisco_code_swedish": "11010.0",
+            "hisco_description_swedish": "Accountant, General"
+        },
+        "parents": [
+            {
+                "first_name": "E",
+                "last_name": "Stridsberg",
+                "middle_name": null,
+                "gender": "Male",
+                "occupation": {
+                    "occupation": "Bruksägare",
+                    "occupation_english": "Mill Owner"
+                }
+            },
+            {
+                "first_name": "Linda",
+                "last_name": "Schedin",
+                "middle_name": null,
+                "gender": "Female",
+                "occupation": null
+            }
+        ]
+    },
+    "academic_positions": null,
+    "achievements": null,
+    "awards": null,
+    "board_memberships": null,
+    "committee_memberships": null,
+    "community_involvement": null,
+    "current_location": {
+        "name": "Värnamo",
+        "latitude": 57.1831605,
+        "longitude": 14.0478214,
+        "formatted_address": "Värnamo, Sweden"
+    },
+    "education": null,
+    "family": null,
+    "hobbies": [
+        "Filateli"
+    ],
+    "honorary_titles": null,
+    "honors": null,
+    "languages_spoken": null,
+    "leadership_roles": null,
+    "military_service": null,
+    "political_positions": null,
+    "publications": null,
+    "travels": [
+        {
+            "country": {
+                "name": "Ryssland",
+                "latitude": 61.52401,
+                "longitude": 105.318756,
+                "formatted_address": "Russia"
+            },
+            "country_code": "RUS",
+            "year": "1916"
+        },
+        {
+            "country": {
+                "name": "Finland",
+                "latitude": 61.92410999999999,
+                "longitude": 25.748151,
+                "formatted_address": "Finland"
+            },
+            "country_code": "FIN",
+            "year": "1916"
+        },
+        {
+            "country": {
+                "name": "Brasilien",
+                "latitude": -14.235004,
+                "longitude": -51.92528,
+                "formatted_address": "Brazil"
+            },
+            "country_code": "BRA",
+            "year": null
+        }
+    ]
+}
