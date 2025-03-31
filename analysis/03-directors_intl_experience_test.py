@@ -164,6 +164,9 @@ def extract_directors_international_experience():
                 director_record = {
                     'id': os.path.basename(filename),
                     'name': f"{person.get('first_name', '')} {person.get('last_name', '')}".strip(),
+                    'first_name': person.get('first_name', ''),
+                    'middle_name': person.get('middle_name', ''),
+                    'last_name': person.get('last_name', ''),
                     'birth_date': birth_date,
                     'birth_decade': birth_decade,
                     'occupation': person.get('occupation', {}).get('occupation'),
@@ -285,7 +288,7 @@ def main():
     location_metadata = extract_international_locations(directors_data)
     
     # Save location metadata
-    with open(os.path.join(OUTPUT_DIR, 'international_locations_metadata.json'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(OUTPUT_DIR, 'directors_international_locations_metadata.json'), 'w', encoding='utf-8') as f:
         json.dump(location_metadata, f, ensure_ascii=False, indent=2)
     
     # Print summary

@@ -89,23 +89,30 @@ def analyze_occupations(directory_path):
                             occupation = occupation_info.get('occupation')
                             
                             if occupation:
+                                # Standardize the case (convert to lowercase for counting)
+                                occupation_standardized = occupation.lower()
+                                
                                 # Store HISCO code and description
+                                # Keep original case for display purposes, but use standardized case for counting
                                 hisco_code = occupation_info.get('hisco_code_swedish')
                                 hisco_desc = occupation_info.get('hisco_description_swedish')
                                 
-                                if hisco_code and hisco_desc:
-                                    occupation_hisco_map[occupation] = {
-                                        'hisco_code': hisco_code,
-                                        'hisco_description': hisco_desc
-                                    }
+                                # This is now handled in the counting section
                                 
-                                # Count the occupation
+                                # Count the occupation using standardized case
                                 if gender.lower() == 'male':
-                                    male_occupations[decade][occupation] += 1
+                                    male_occupations[decade][occupation_standardized] += 1
                                     male_decade_totals[decade] += 1
                                 elif gender.lower() == 'female':
-                                    female_occupations[decade][occupation] += 1
+                                    female_occupations[decade][occupation_standardized] += 1
                                     female_decade_totals[decade] += 1
+                                
+                                # Map standardized occupation to original for display
+                                occupation_hisco_map[occupation_standardized] = {
+                                    'original': occupation,  # Store original for display
+                                    'hisco_code': hisco_code,
+                                    'hisco_description': hisco_desc
+                                }
             
             except (json.JSONDecodeError, Exception) as e:
                 print(f"Error processing {filename}: {e}")
@@ -119,7 +126,7 @@ def analyze_occupations(directory_path):
             hisco_info = occupation_hisco_map.get(occupation, {})
             male_data.append({
                 'Decade': decade,
-                'Occupation': occupation,
+                'Occupation': hisco_info.get('original', occupation),  # Use original case for display
                 'Count': count,
                 'Share': round(count / decade_total * 100, 2) if decade_total > 0 else 0,
                 'HISCO Code': hisco_info.get('hisco_code', 'N/A'),
@@ -134,7 +141,7 @@ def analyze_occupations(directory_path):
             hisco_info = occupation_hisco_map.get(occupation, {})
             female_data.append({
                 'Decade': decade,
-                'Occupation': occupation,
+                'Occupation': hisco_info.get('original', occupation),  # Use original case for display
                 'Count': count,
                 'Share': round(count / decade_total * 100, 2) if decade_total > 0 else 0,
                 'HISCO Code': hisco_info.get('hisco_code', 'N/A'),
@@ -207,13 +214,24 @@ def analyze_overall_top_occupations(directory_path):
                                         'hisco_description': hisco_desc
                                     }
                                 
+                                # Standardize the case for overall counting too
+                                occupation_standardized = occupation.lower()
+                                
                                 # Count the occupation
                                 if gender.lower() == 'male':
-                                    male_all_occupations[occupation] += 1
+                                    male_all_occupations[occupation_standardized] += 1
                                     total_males += 1
                                 elif gender.lower() == 'female':
-                                    female_all_occupations[occupation] += 1
+                                    female_all_occupations[occupation_standardized] += 1
                                     total_females += 1
+                                
+                                # Map standardized occupation to original for display
+                                if hisco_code and hisco_desc:
+                                    occupation_hisco_map[occupation_standardized] = {
+                                        'original': occupation,  # Store original for display
+                                        'hisco_code': hisco_code,
+                                        'hisco_description': hisco_desc
+                                    }
             
             except (json.JSONDecodeError, Exception) as e:
                 print(f"Error processing {filename}: {e}")
@@ -224,7 +242,7 @@ def analyze_overall_top_occupations(directory_path):
     for occupation, count in male_all_occupations.most_common(10):
         hisco_info = occupation_hisco_map.get(occupation, {})
         male_top_data.append({
-            'Occupation': occupation,
+            'Occupation': hisco_info.get('original', occupation),  # Use original case for display
             'Count': count,
             'Share': round(count / total_males * 100, 2) if total_males > 0 else 0,
             'HISCO Code': hisco_info.get('hisco_code', 'N/A'),
@@ -236,7 +254,7 @@ def analyze_overall_top_occupations(directory_path):
     for occupation, count in female_all_occupations.most_common(10):
         hisco_info = occupation_hisco_map.get(occupation, {})
         female_top_data.append({
-            'Occupation': occupation,
+            'Occupation': hisco_info.get('original', occupation),  # Use original case for display
             'Count': count,
             'Share': round(count / total_females * 100, 2) if total_females > 0 else 0,
             'HISCO Code': hisco_info.get('hisco_code', 'N/A'),

@@ -28,7 +28,7 @@ TECHNICAL_KEYWORDS = [
 
 BUSINESS_KEYWORDS = [
     'handels', 'ekonomi', 'handelshögskola', 'business', 'commerce', 
-    'ekonomisk', 'handelsinstitut', 'handelsgymnasium'
+    'ekonomisk', 'handelsinstitut', 'handelsgymnasium', 'ekonom'
 ]
 
 def extract_birth_decade(birth_date: str) -> Optional[int]:
@@ -120,11 +120,11 @@ def extract_directors_education():
                 data = json.load(f)
             
             # Check if the person is a director
-            if 'person' in data and is_director(data['person']):
+            person = data.get('person', {})
+            if person and is_director(person):
                 directors_count += 1
                 
-                person = data['person']
-                education = data.get('education', [])
+                education = data.get('education', []) or []
                 
                 # Extract relevant information
                 birth_date = person.get('birth_date')
@@ -132,14 +132,18 @@ def extract_directors_education():
                 education_classification = classify_education(education)
                 
                 # Create a record
+                occupation = person.get('occupation', {}) or {}
                 director_record = {
                     'id': os.path.basename(filename),
                     'name': f"{person.get('first_name', '')} {person.get('last_name', '')}".strip(),
+                    'first_name': person.get('first_name', ''),
+                    'middle_name': person.get('middle_name', ''),
+                    'last_name': person.get('last_name', ''),
                     'birth_date': birth_date,
                     'birth_decade': birth_decade,
-                    'occupation': person.get('occupation', {}).get('occupation'),
-                    'hisco_code_swedish': person.get('occupation', {}).get('hisco_code_swedish'),
-                    'hisco_code_english': person.get('occupation', {}).get('hisco_code_english'),
+                    'occupation': occupation.get('occupation'),
+                    'hisco_code_swedish': occupation.get('hisco_code_swedish'),
+                    'hisco_code_english': occupation.get('hisco_code_english'),
                     'has_technical_education': education_classification['technical'],
                     'has_business_education': education_classification['business'],
                     'has_other_higher_education': education_classification['other'],
@@ -190,7 +194,10 @@ def extract_education_metadata(directors_data: List[Dict[str, Any]]):
     education_degrees = defaultdict(int)
     
     for director in directors_data:
-        for edu in director.get('education', []):
+        # Make sure education is a list and not None
+        education_entries = director.get('education', []) or []
+        
+        for edu in education_entries:
             if 'institution' in edu and edu['institution']:
                 education_institutions[edu['institution']] += 1
             if 'degree' in edu and edu['degree']:
