@@ -1,0 +1,76 @@
+---
+title: "Untitled"
+format: html
+---
+
+
+```{r}
+library(tidyverse)
+library(histmaps)
+
+p_map <- get_boundaries(1921, "parish")
+
+p_map <- p_map %>% select(-type, -type_id, -start, -end)
+
+p_map <- p_map %>%
+    mutate(
+        parish_code = str_remove(ref_code, "SE/"),
+        parish_code = parse_number(parish_code)
+    )
+        
+```
+
+
+```{r}
+library(haven)
+parishes <- read_dta(here::here("data", "parishes", "data Figure 2 and Table A2.dta"))
+
+parishes <- parishes %>% janitor::clean_names()
+
+parishes <- parishes %>%
+    filter(year == 1920) %>%
+    rename(
+        western_line = iline,
+        railway = irail
+    ) %>% 
+    select(western_line, railway, parish_name, parish_code)
+
+
+parishes
+```
+
+
+```{r}
+#
+library(sf)
+
+parishes_out <- parishes %>%
+    inner_join(p_map)
+
+parishes_out %>%     
+    write_sf(here::here("data", "parishes", "parish_map_1920.shp"))
+
+parishes_out %>% select(geometry)
+
+```
+
+
+
+
+```{r}
+parishes_out %>%
+    mutate(western_line = case_when(
+        western_line == 1 ~ "Parish located along the western line",
+        TRUE ~ "Other Swedish parishes"
+    )) %>%
+    ggplot() +
+    geom_sf(aes(fill = western_line, geometry = geometry)) +
+    # scale_fill_manual(values = c("white", "black")) +
+    theme_void() +
+    labs(
+        title = "Parishes with Western Line",
+        fill = "Western Line"
+    ) +
+    theme(legend.position = "bottom") +
+    coord_sf(datum = NA)
+```

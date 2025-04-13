@@ -1,0 +1,1305 @@
+---
+title: "Untitled"
+format: html
+---
+
+
+Mark 2
+
+
+```{r}
+# --- Load Required Libraries ---
+# install.packages(c("tidyverse", "gt", "stringr")) # Uncomment to install if needed
+library(tidyverse) # For data manipulation (dplyr, readr, stringr etc.)
+library(gt) # For creating nice tables
+library(stringr) # For string manipulation (extracting birth year)
+
+# --- Configuration ---
+# Set the path to your final CSV file (output from the previous Python script)
+csv_file_path <- "data/analysis/persons_data_final_for_regression.csv"
+# Set the path for the output table (optional)
+# output_table_path <- "data/analysis/descriptive_stats_by_work_wl.html"
+
+# --- Load Data ---
+message("Loading data from: ", csv_file_path)
+tryCatch(
+    {
+        # Use readr::read_csv as requested
+        person_data <- readr::read_csv(
+            csv_file_path,
+            na = c("", "NA", "NaN", "None", "null", "-1"), # Added -1 as NA for potentially unmapped WL status if needed
+            col_types = cols( # Specify types for clarity, esp. logicals/factors
+                birth_parish_is_western_line = col_logical(),
+                currently_lives_in_wl = col_logical(),
+                worked_wl_before_1930 = col_logical(), # This is our key grouping variable
+                worked_wl_after_1930 = col_logical(),
+                edu_technical = col_logical(),
+                edu_business = col_logical(),
+                edu_other_higher = col_logical(),
+                career_has_overseas = col_logical(),
+                career_has_us = col_logical(),
+                studied_kth = col_logical(),
+                studied_chalmers = col_logical(),
+                studied_hhs = col_logical(),
+                studied_foreign = col_logical(),
+                # Ensure categoricals are read as character initially
+                father_hisco_major_group_label = col_character(),
+                birth_cohort = col_character(),
+                # Numeric
+                birth_decade = col_double(), # Read original decade if needed
+                board_membership_count = col_integer(),
+                edu_network_size = col_double(), # Read as double to handle potential NAs from calculation
+                edu_network_wl_birth_prop = col_double()
+                # Add others as needed
+            )
+        ) %>%
+            # Ensure logical types are correct after loading
+            mutate(across(where(is.logical), as.logical))
+
+        message("Data loaded successfully: ", nrow(person_data), " rows.")
+    },
+    error = function(e) {
+        stop("Error loading CSV file: ", e$message)
+    }
+)
+
+# --- Data Preparation for Summary Table ---
+message("Preparing data for summary table...")
+
+# 1. Create Birth Year variable
+person_data <- person_data %>%
+    mutate(
+        # Extract last 4 characters, convert to numeric, set NA if invalid
+        birth_year_str = str_sub(birth_date, -4), # Extract last 4 chars
+        birth_year = suppressWarnings(parse_number(birth_year_str)), # Convert, suppress warnings
+        # Set NA if year is outside a plausible range (e.g., 1800-1980)
+        birth_year = if_else(birth_year >= 1800 & birth_year <= 1980, birth_year, NA_real_)
+    )
+
+# Check how many birth years were successfully parsed
+parsed_years_count <- sum(!is.na(person_data$birth_year))
+message(
+    "Attempted to parse birth year. Successfully parsed: ", parsed_years_count,
+    " (out of ", nrow(person_data), ")"
+)
+if (parsed_years_count < nrow(person_data) * 0.8) { # Warning if many failed
+    warning("A significant number of birth years could not be parsed.")
+}
+
+# 2. Define variables of interest (using birth_year now)
+vars_to_summarize <- c(
+    "birth_year", # Replaced birth_decade
+    "father_hisco_major_group_label",
+    "edu_technical",
+    "edu_business",
+    "edu_other_higher",
+    "studied_kth",
+    "studied_chalmers",
+    "studied_hhs",
+    "studied_foreign",
+    "career_has_overseas",
+    "career_has_us",
+    "board_membership_count",
+    "edu_network_size" # Excluded network prop for simplicity based on previous issues
+    # Add/remove variables as needed
+)
+
+# 3. Create grouping variable and ensure factors
+person_data <- person_data %>%
+    mutate(
+        # Grouping variable based on working in WL pre-1930
+        work_group_pre1930 = case_when(
+            worked_wl_before_1930 == TRUE ~ "Worked WL Pre-1930",
+            worked_wl_before_1930 == FALSE ~ "Did Not Work WL Pre-1930",
+            TRUE ~ "Unknown Work Status Pre-1930" # Handles potential NA if col wasn't bool
+        ) %>% factor(levels = c("Worked WL Pre-1930", "Did Not Work WL Pre-1930", "Unknown Work Status Pre-1930")),
+
+        # Predictor Categorical Variables
+        father_hisco_major_group_label = factor(father_hisco_major_group_label),
+        birth_cohort = factor(birth_cohort)
+    )
+
+# Check if all variables exist
+missing_vars <- setdiff(vars_to_summarize, names(person_data))
+if (length(missing_vars) > 0) {
+    warning(
+        "The following variables were not found in the data and will be excluded: ",
+        paste(missing_vars, collapse = ", ")
+    )
+    vars_to_summarize <- intersect(vars_to_summarize, names(person_data))
+}
+
+
+# --- Calculate Summary Statistics ---
+message("Calculating summary statistics grouped by 'work_group_pre1930'...")
+
+# Calculate stats grouped by the work status pre-1930
+# Modify your approach to keep the value types consistent
+summary_list <- person_data %>%
+    select(work_group_pre1930, all_of(vars_to_summarize)) %>%
+    group_by(work_group_pre1930) %>%
+    summarise(
+        n_group = n(), # Total in group
+        across(all_of(vars_to_summarize),
+            ~ list(
+                if (is.numeric(.)) {
+                    tibble(
+                        stat = c("N", "Mean", "SD", "Median", "Min", "Max"),
+                        # Convert all to character to maintain type consistency
+                        value = as.character(c(
+                            sum(!is.na(.)),
+                            round(mean(., na.rm = T), 1),
+                            round(sd(., na.rm = T), 1),
+                            round(median(., na.rm = T), 1),
+                            round(min(., na.rm = T), 1),
+                            round(max(., na.rm = T), 1)
+                        ))
+                    )
+                } else if (is.logical(.) | is.factor(.)) {
+                    counts <- table(factor(., exclude = NULL))
+                    props <- prop.table(counts)
+                    tibble(
+                        stat = names(counts),
+                        value = sprintf("%d (%.1f%%)", counts, props * 100)
+                    )
+                } else { # Fallback for other types
+                    tibble(stat = "Info", value = paste("Non-numeric/logical:", class(.)[1]))
+                }
+            ),
+            .names = "{.col}"
+        )
+    ) %>%
+    ungroup()
+
+# Unnest the results
+summary_long <- summary_list %>%
+    pivot_longer(
+        cols = all_of(vars_to_summarize),
+        names_to = "variable",
+        values_to = "summary_data"
+    ) %>%
+    unnest(summary_data)
+
+# --- Create gt Table ---
+message("Creating gt table...")
+
+# Nice labels for variables
+var_labels <- list(
+    birth_year = "Birth Year",
+    father_hisco_major_group_label = "Father's HISCO Major Group",
+    edu_technical = "Technical Education",
+    edu_business = "Business Education",
+    edu_other_higher = "Other Higher Education",
+    studied_kth = "Studied at KTH",
+    studied_chalmers = "Studied at Chalmers",
+    studied_hhs = "Studied at HHS",
+    studied_foreign = "Studied Abroad/Foreign Uni",
+    career_has_overseas = "Career Overseas",
+    career_has_us = "Career in USA",
+    board_membership_count = "Board Memberships (Count)",
+    edu_network_size = "Education Network Size (Peers)"
+)
+
+# Filter and format for the table
+# Filter and format for the table
+gt_data_final <- summary_long %>%
+    mutate(
+        # Apply nice labels, keeping original name if no label found
+        variable_label = recode(variable, !!!var_labels, .default = variable),
+
+        # Format values as strings directly without trying to convert back
+        value = case_when(
+            # For numeric stats that are already formatted as characters
+            stat %in% c("Mean", "SD") ~ value, # Already rounded to 1 decimal in summary_list
+            stat %in% c("N", "Median", "Min", "Max") ~ value, # Already formatted in summary_list
+            TRUE ~ as.character(value) # Keep formatted percentages/labels as is
+        )
+    ) %>%
+    # Pivot wider for gt
+    pivot_wider(
+        id_cols = c(variable_label, stat),
+        names_from = work_group_pre1930,
+        values_from = value
+    ) %>%
+    # Arrange rows logically
+    arrange(factor(variable_label, levels = unlist(var_labels)), stat) %>%
+    # Group by variable for gt display
+    group_by(variable_label)
+
+
+# Create the gt table
+gt_table <- gt_data_final %>%
+    filter(variable_label != "Education Network Size (Peers)") %>%
+    gt() %>%
+    #   tab_header(
+    #     title = "Descriptive Statistics for Engineers/Directors",
+    #     subtitle = "Grouped by Work Location Before 1930"
+    #   ) %>%
+    # Use variable label as row group spanner
+    #   tab_row_group(label = gt::md(variable_label), rows = everything()) %>%
+    # Clean up row labels
+    cols_label(stat = "") %>% # Hide the column header for row labels
+    # Rename columns if needed (already done via pivoting names)
+    # Add spanning header for the groups
+    tab_spanner(
+        label = "Worked in Western Line Parish before 1930?",
+        columns = c(
+            "Worked WL Pre-1930", "Did Not Work WL Pre-1930", # "Unknown Work Status Pre-1930"
+        )
+    ) %>%
+    # Apply formatting based on stat type (more robust if needed)
+    # e.g. fmt_number(columns = where(is.numeric), rows = stat == "Mean", decimals = 1)
+    # Add footnotes if needed
+    tab_source_note(
+        source_note = paste("Source: Processed biographical data (N =", nrow(person_data), "total individuals).")
+    ) %>%
+    # Optional: Hide the variable_label column if using row groups effectively
+    cols_hide(columns = c("variable_label")) %>%
+    tab_style(
+        style = cell_text(weight = "bold"),
+        locations = cells_row_groups()
+    ) %>%
+    tab_options(
+        row_group.background.color = "#f7f7f7"
+    )
+
+# Print the table
+print(gt_table)
+
+gt_table %>% gtsave(here::here("figures", "descriptive_stats_numeric.png"), expand = 2)
+
+
+# --- Optional: Save Table ---
+# if (!is.null(output_table_path)) {
+#   gtsave(gt_table, filename = output_table_path)
+#   message("Saved gt table to: ", output_table_path)
+# }
+
+message("Script finished.")
+```
+
+
+```{r}
+person_data %>% colnames()
+
+person_data %>% count(dep_var_birth_wl, dep_var_work_wl)
+
+```
+
+t-tests
+
+
+```{r}
+# --- Load Required Libraries ---
+# install.packages(c("tidyverse", "gt", "stringr", "broom", "scales")) # Uncomment to install if needed
+library(tidyverse) # For data manipulation (dplyr, readr, stringr etc.)
+library(gt) # For creating nice tables
+library(stringr) # For string manipulation (extracting birth year)
+library(broom) # For tidying statistical test outputs
+library(scales) # For formatting p-values
+
+# --- Configuration ---
+csv_file_path <- "data/analysis/persons_data_final_for_regression.csv"
+# output_table_path <- "data/analysis/descriptive_stats_with_tests.html" # Example output path
+
+# --- Load Data ---
+message("Loading data from: ", csv_file_path)
+tryCatch(
+    {
+        person_data <- readr::read_csv(
+            csv_file_path,
+            na = c("", "NA", "NaN", "None", "null", "-1"),
+            col_types = cols(
+                birth_parish_is_western_line = col_logical(),
+                currently_lives_in_wl = col_logical(),
+                worked_wl_before_1930 = col_logical(),
+                worked_wl_after_1930 = col_logical(),
+                edu_technical = col_logical(),
+                edu_business = col_logical(),
+                edu_other_higher = col_logical(),
+                career_has_overseas = col_logical(),
+                career_has_us = col_logical(),
+                studied_kth = col_logical(),
+                studied_chalmers = col_logical(),
+                studied_hhs = col_logical(),
+                studied_foreign = col_logical(),
+                father_hisco_major_group_label = col_character(),
+                birth_cohort = col_character(),
+                birth_decade = col_double(),
+                board_membership_count = col_integer(),
+                edu_network_size = col_double(),
+                edu_network_wl_birth_prop = col_double()
+                # Add others as needed, ensure birth_date is character if loaded
+                , birth_date = col_character()
+            )
+        ) %>%
+            mutate(across(where(is.logical), as.logical))
+        message("Data loaded successfully: ", nrow(person_data), " rows.")
+    },
+    error = function(e) {
+        stop("Error loading CSV file: ", e$message)
+    }
+)
+
+# --- Data Preparation ---
+message("Preparing data...")
+
+# 1. Create Birth Year
+person_data <- person_data %>%
+    mutate(
+        birth_year_str = str_sub(birth_date, -4),
+        birth_year = suppressWarnings(parse_number(birth_year_str)),
+        birth_year = if_else(birth_year >= 1800 & birth_year <= 1980, birth_year, NA_real_)
+    )
+
+# 2. Define variables of interest
+vars_to_summarize <- c(
+    "birth_year",
+    "father_hisco_major_group_label",
+    "edu_technical",
+    "edu_business",
+    "edu_other_higher",
+    "studied_kth",
+    "studied_chalmers",
+    "studied_hhs",
+    "studied_foreign",
+    "career_has_overseas",
+    "career_has_us",
+    "board_membership_count",
+    "edu_network_size" # Keep it here for now, filter later if needed
+)
+
+# Nice labels for variables
+var_labels <- list(
+    birth_year = "Birth Year",
+    father_hisco_major_group_label = "Father's HISCO Major Group",
+    edu_technical = "Technical Education",
+    edu_business = "Business Education",
+    edu_other_higher = "Other Higher Education",
+    studied_kth = "Studied at KTH",
+    studied_chalmers = "Studied at Chalmers",
+    studied_hhs = "Studied at HHS",
+    studied_foreign = "Studied Abroad/Foreign Uni",
+    career_has_overseas = "Career Overseas",
+    career_has_us = "Career in USA",
+    board_membership_count = "Board Memberships (Count)",
+    edu_network_size = "Education Network Size (Peers)"
+)
+
+# 3. Create grouping variable and ensure factors
+person_data <- person_data %>%
+    mutate(
+        work_group_pre1930 = case_when(
+            worked_wl_before_1930 == TRUE ~ "Worked WL Pre-1930",
+            worked_wl_before_1930 == FALSE ~ "Did Not Work WL Pre-1930",
+            TRUE ~ "Unknown" # Use simpler name
+        ) %>% factor(levels = c("Worked WL Pre-1930", "Did Not Work WL Pre-1930", "Unknown")),
+        father_hisco_major_group_label = factor(father_hisco_major_group_label),
+        birth_cohort = factor(birth_cohort)
+    )
+
+# Check if all variables exist
+missing_vars <- setdiff(vars_to_summarize, names(person_data))
+if (length(missing_vars) > 0) {
+    warning("Missing variables: ", paste(missing_vars, collapse = ", "))
+    vars_to_summarize <- intersect(vars_to_summarize, names(person_data))
+}
+
+# Variables to perform tests on (exclude network size as per original table)
+vars_to_test <- setdiff(vars_to_summarize, "edu_network_size")
+
+# --- Define Testing Function ---
+message("Defining statistical test function...")
+
+perform_test <- function(varname, data, group_var = "work_group_pre1930") {
+    # Filter data for the two comparison groups and non-missing values
+    data_filtered <- data %>%
+        filter(.data[[group_var]] %in% c("Worked WL Pre-1930", "Did Not Work WL Pre-1930")) %>%
+        droplevels() %>% # Drop unused factor levels in the group var
+        filter(!is.na(.data[[varname]]))
+
+    if (nrow(data_filtered) < 5 || n_distinct(data_filtered[[group_var]]) < 2) { # Need at least 2 groups and some data
+        return(tibble(variable = varname, stat_level = NA_character_, statistic = NA_real_, p.value = NA_real_, test_type = "Skipped - Insufficient data"))
+    }
+
+    y <- data_filtered[[varname]]
+    x <- data_filtered[[group_var]]
+    var_label <- recode(varname, !!!var_labels, .default = varname) # Get label early
+    results <- list()
+
+    if (is.numeric(y)) {
+        # Check for variance within groups
+        variance_check <- data_filtered %>%
+            group_by({{ group_var }}) %>%
+            summarise(var = var(y, na.rm = TRUE))
+        if (any(variance_check$var == 0, na.rm = TRUE) || n_distinct(y) < 2) {
+            results[[1]] <- tibble(variable = varname, stat_level = "_overall_", statistic = NA_real_, p.value = NA_real_, test_type = "Skipped - Zero variance or constant")
+        } else {
+            test_result <- tryCatch(t.test(y ~ x, data = data_filtered), error = function(e) NULL)
+            if (!is.null(test_result)) {
+                tidied <- tidy(test_result)
+                results[[1]] <- tibble(variable = varname, stat_level = "_overall_", statistic = tidied$statistic, p.value = tidied$p.value, test_type = "t-test")
+            } else {
+                results[[1]] <- tibble(variable = varname, stat_level = "_overall_", statistic = NA_real_, p.value = NA_real_, test_type = "t-test Error")
+            }
+        }
+    } else if (is.logical(y)) {
+        cont_table <- table(y, x)
+        if (nrow(cont_table) == 0 || ncol(cont_table) < 2 || sum(cont_table) < 5) { # Check dimensions and total count
+            results[[1]] <- tibble(variable = varname, stat_level = "TRUE", statistic = NA_real_, p.value = NA_real_, test_type = "Skipped - Low counts")
+        } else {
+            # Ensure table has TRUE/FALSE rows if applicable, handle case where only one level exists
+            if (!"TRUE" %in% rownames(cont_table)) cont_table <- rbind(cont_table, "TRUE" = rep(0, ncol(cont_table)))
+            if (!"FALSE" %in% rownames(cont_table)) cont_table <- rbind(cont_table, "FALSE" = rep(0, ncol(cont_table)))
+            cont_table <- cont_table[c("TRUE", "FALSE"), ] # Ensure order
+
+            successes <- cont_table["TRUE", ]
+            totals <- colSums(cont_table)
+            if (any(totals == 0)) {
+                results[[1]] <- tibble(variable = varname, stat_level = "TRUE", statistic = NA_real_, p.value = NA_real_, test_type = "Skipped - Zero Totals")
+            } else {
+                test_result <- tryCatch(prop.test(x = successes, n = totals), error = function(e) NULL)
+                if (!is.null(test_result)) {
+                    tidied <- tidy(test_result)
+                    # Note: We report the proportion test for the 'TRUE' level
+                    results[[1]] <- tibble(variable = varname, stat_level = "TRUE", statistic = tidied$statistic, p.value = tidied$p.value, test_type = "prop.test")
+                } else {
+                    results[[1]] <- tibble(variable = varname, stat_level = "TRUE", statistic = NA_real_, p.value = NA_real_, test_type = "prop.test Error")
+                }
+            }
+        }
+    } else if (is.factor(y)) {
+        levels_y <- levels(droplevels(y)) # Levels present in the filtered data
+        for (lvl in levels_y) {
+            y_lvl <- (y == lvl)
+            cont_table <- table(y_lvl, x)
+            lvl_char <- as.character(lvl) # Ensure level is character for tibble
+
+            if (nrow(cont_table) < 2 || ncol(cont_table) < 2 || sum(cont_table) < 5) { # Need TRUE/FALSE rows and data
+                results[[length(results) + 1]] <- tibble(variable = varname, stat_level = lvl_char, statistic = NA_real_, p.value = NA_real_, test_type = "Skipped - Low counts")
+                next
+            }
+
+            # Ensure table has TRUE/FALSE rows
+            if (!"TRUE" %in% rownames(cont_table)) cont_table <- rbind(cont_table, "TRUE" = rep(0, ncol(cont_table)))
+            if (!"FALSE" %in% rownames(cont_table)) cont_table <- rbind(cont_table, "FALSE" = rep(0, ncol(cont_table)))
+            cont_table <- cont_table[c("TRUE", "FALSE"), ] # Ensure order
+
+            successes <- cont_table["TRUE", ]
+            totals <- colSums(cont_table)
+
+            if (any(totals == 0)) {
+                results[[length(results) + 1]] <- tibble(variable = varname, stat_level = lvl_char, statistic = NA_real_, p.value = NA_real_, test_type = "Skipped - Zero Totals")
+            } else {
+                test_result <- tryCatch(prop.test(x = successes, n = totals), error = function(e) NULL)
+                if (!is.null(test_result)) {
+                    tidied <- tidy(test_result)
+                    results[[length(results) + 1]] <- tibble(variable = varname, stat_level = lvl_char, statistic = tidied$statistic, p.value = tidied$p.value, test_type = "prop.test")
+                } else {
+                    results[[length(results) + 1]] <- tibble(variable = varname, stat_level = lvl_char, statistic = NA_real_, p.value = NA_real_, test_type = "prop.test Error")
+                }
+            }
+        }
+    } else {
+        results[[1]] <- tibble(variable = varname, stat_level = NA_character_, statistic = NA_real_, p.value = NA_real_, test_type = paste("Skipped - Type:", class(y)[1]))
+    }
+
+    # Add nice variable label to results before returning
+    bind_rows(results) %>% mutate(variable_label = var_label)
+}
+
+# --- Calculate Tests ---
+message("Calculating statistical tests...")
+all_test_results <- map_dfr(vars_to_test, ~ perform_test(.x, person_data))
+
+# --- Calculate Summary Statistics (Original Approach) ---
+message("Calculating summary statistics...")
+summary_list <- person_data %>%
+    select(work_group_pre1930, all_of(vars_to_summarize)) %>%
+    # Filter out Unknown group before summarizing if you don't want it in the table
+    filter(work_group_pre1930 != "Unknown") %>%
+    group_by(work_group_pre1930) %>%
+    summarise(
+        n_group = n(),
+        across(all_of(vars_to_summarize),
+            ~ list(
+                if (is.numeric(.)) {
+                    tibble(
+                        stat = c("N", "Mean", "SD", "Median", "Min", "Max"),
+                        value = as.character(c(
+                            sum(!is.na(.)), round(mean(., na.rm = T), 1), round(sd(., na.rm = T), 1),
+                            round(median(., na.rm = T), 1), round(min(., na.rm = T), 1), round(max(., na.rm = T), 1)
+                        ))
+                    )
+                } else if (is.logical(.) | is.factor(.)) {
+                    # Use drop = FALSE to keep all levels, exclude = NULL to count NAs
+                    counts <- table(factor(., levels = c(levels(factor(.)), NA)), exclude = NULL)
+                    props <- prop.table(counts) * 100
+                    # Handle potential NA level name
+                    level_names <- names(counts)
+                    level_names[is.na(level_names)] <- "Unknown" # Or use "<NA>" if preferred
+
+                    tibble(
+                        stat = level_names,
+                        value = sprintf("%d (%.1f%%)", counts, props)
+                    ) %>% filter(stat != "Unknown") # Filter out the explicit NA count row if not desired
+                } else {
+                    tibble(stat = "Info", value = paste("Non-numeric/logical:", class(.)[1]))
+                }
+            ),
+            .names = "{.col}"
+        )
+    ) %>%
+    ungroup()
+
+summary_long <- summary_list %>%
+    pivot_longer(
+        cols = all_of(vars_to_summarize),
+        names_to = "variable",
+        values_to = "summary_data"
+    ) %>%
+    unnest(summary_data)
+
+
+# --- Prepare Data for GT Table ---
+message("Preparing final data for gt table...")
+
+# Format test results for display
+test_results_formatted <- all_test_results %>%
+    mutate(
+        # Determine the stat row where the test result should appear
+        stat_join = case_when(
+            test_type == "t-test" ~ "Mean", # Place t-test result on the Mean row
+            test_type == "prop.test" ~ stat_level, # Place prop.test result on the corresponding level row (TRUE for logicals, level name for factors)
+            TRUE ~ stat_level # Default
+        ),
+        statistic_label = case_when(
+            test_type == "t-test" & !is.na(statistic) ~ sprintf("t = %.2f", statistic),
+            test_type == "prop.test" & !is.na(statistic) ~ sprintf("χ² = %.2f", statistic),
+            grepl("Error|Skipped", test_type) ~ test_type, # Show error/skip reason
+            TRUE ~ ""
+        ),
+        p_value_formatted = case_when(
+            !is.na(p.value) ~ pvalue(p.value, accuracy = 0.001, decimal.mark = "."),
+            grepl("Error|Skipped", test_type) ~ "", # No p-value if skipped/error
+            TRUE ~ ""
+        )
+    ) %>%
+    select(variable_label, stat_join, statistic_label, p_value_formatted)
+
+
+# Create the base data structure for the gt table
+gt_data_final <- summary_long %>%
+    mutate(
+        variable_label = recode(variable, !!!var_labels, .default = variable),
+        # Ensure stat column is character for joining
+        stat = as.character(stat)
+    ) %>%
+    # Pivot wider for gt structure
+    pivot_wider(
+        id_cols = c(variable_label, stat),
+        names_from = work_group_pre1930,
+        values_from = value,
+        values_fill = "" # Use empty string for missing cells
+    ) %>%
+    # Join the formatted test results
+    left_join(test_results_formatted, by = c("variable_label", "stat" = "stat_join")) %>%
+    # Arrange rows logically
+    arrange(factor(variable_label, levels = unlist(var_labels)), stat) %>%
+    # Group by variable label for gt row groups
+    group_by(variable_label)
+
+
+# --- Create gt Table ---
+message("Creating gt table with tests...")
+
+gt_table_with_tests <- gt_data_final %>%
+    # Exclude variables if needed (like the original table did)
+    filter(variable_label != "Education Network Size (Peers)") %>%
+    gt() %>%
+    # tab_header( # Optional header
+    #   title = "Descriptive Statistics with Group Comparisons",
+    #   subtitle = "Grouped by Work Location Before 1930"
+    # ) %>%
+    cols_label(
+        stat = "", # Hide the 'stat' column name
+        `Worked WL Pre-1930` = "Worked WL Pre-1930",
+        `Did Not Work WL Pre-1930` = "Did Not Work WL Pre-1930",
+        statistic_label = "Test Statistic",
+        p_value_formatted = "P-value"
+    ) %>%
+    tab_spanner(
+        label = "Worked in Western Line Parish before 1930?",
+        columns = c("Worked WL Pre-1930", "Did Not Work WL Pre-1930")
+    ) %>%
+    # Adjust column widths for better layout
+    cols_width(
+        stat ~ px(200), # Wider for factor levels/stat names
+        statistic_label ~ px(120),
+        p_value_formatted ~ px(80)
+    ) %>%
+    # Align test columns
+    cols_align(
+        align = c("center"),
+        columns = c(statistic_label, p_value_formatted)
+    ) %>%
+    # Replace NA values in test columns with empty strings for cleaner look
+    fmt_missing(
+        #    columns = c(statistic_label, p_value_formatted),
+        columns = everything(),
+        missing_text = ""
+    ) %>%
+    # Add source note explaining tests
+    tab_source_note(
+        source_note = md(paste0(
+            "Source: Processed biographical data (N = ",
+            sum(person_data$work_group_pre1930 != "Unknown"), # N for compared groups
+            " individuals included in comparisons). ",
+            "Tests compare 'Worked WL Pre-1930' vs 'Did Not Work WL Pre-1930'. ",
+            "Numeric: Welch's t-test. Categorical/Logical: Chi-squared test for proportions (χ²). ",
+            "P-values < 0.001 shown as '<0.001'."
+        ))
+    ) %>%
+    # Hide the original variable label column as it's used for grouping
+    cols_hide(columns = c("variable_label")) %>%
+    # Style row group labels
+    tab_style(
+        style = cell_text(weight = "bold"),
+        locations = cells_row_groups()
+    ) %>%
+    # Style options
+    tab_options(
+        row_group.background.color = "#f7f7f7"
+    )
+# Print the table
+print(gt_table_with_tests)
+
+gt_table_with_tests %>% gtsave(here::here("figures", "descriptive_stats_numeric.png"), expand = 2)
+
+
+# --- Optional: Save the table ---
+# output_file <- here::here("figures", "descriptive_stats_with_tests.png")
+# message("Saving table to: ", output_file)
+# gtsave(gt_table_with_tests, filename = output_file, expand = 10)
+# Or save as HTML:
+# output_file_html <- here::here("figures", "descriptive_stats_with_tests.html")
+# gtsave(gt_table_with_tests, filename = output_file_html)
+```
+
+
+
+```{r}
+# Load necessary libraries
+library(dplyr)
+library(ggplot2)
+library(forcats) # For reordering factor levels (like variable names) in plots
+
+# 1. Manually transcribe the relevant data into a tibble
+#    We'll clean up the names here directly.
+coef_data <- tibble::tribble(
+    ~term_raw, ~estimate, ~std.error,
+    "Intercept", -1.6859, 0.072,
+    "C(father_hisco_major_group_label)[T.Agricultural/Fishing]", 0.1690, 0.096,
+    "C(father_hisco_major_group_label)[T.Clerical]", -0.3675, 0.278,
+    "C(father_hisco_major_group_label)[T.Production/Transport/Laborer]", 1.1574, 0.334,
+    "C(father_hisco_major_group_label)[T.Professional/Technical]", 0.4544, 0.586,
+    "C(father_hisco_major_group_label)[T.Sales]", -0.2831, 0.139,
+    "C(father_hisco_major_group_label)[T.Service]", -0.0664, 0.319,
+    "C(father_hisco_major_group_label)[T.Unknown]", 0.0565, 0.062,
+    "C(birth_cohort)[T.1880-1899]", -0.0801, 0.038,
+    "C(birth_cohort)[T.1900-1919]", -0.6295, 0.044,
+    "C(birth_cohort)[T.1920+]", -1.8031, 0.131,
+    "edu_technical", 0.3466, 0.043,
+    "edu_business", -0.0128, 0.050,
+    "edu_other_higher", -0.3494, 0.037,
+    "career_has_overseas", 0.0893, 0.051,
+    "career_has_us", 0.1479, 0.073,
+    "board_membership_count", 0.0077, 0.006,
+    "studied_kth", 0.1493, 0.049,
+    "studied_chalmers", 0.0424, 0.059,
+    "studied_hhs", 0.0579, 0.090,
+    "studied_foreign", -0.0152, 0.082,
+    "edu_network_size", -0.0002, 2.55e-05 # Note: SE is very small (scientific notation)
+)
+
+# 2. Clean up variable names for plotting
+coef_data <- coef_data %>%
+    mutate(
+        term = case_when(
+            term_raw == "Intercept" ~ "Intercept",
+            grepl("father_hisco.*Agricultural", term_raw) ~ "Father: Agri/Fishing",
+            grepl("father_hisco.*Clerical", term_raw) ~ "Father: Clerical",
+            grepl("father_hisco.*Production", term_raw) ~ "Father: Prod/Trans/Laborer",
+            grepl("father_hisco.*Professional", term_raw) ~ "Father: Prof/Technical",
+            grepl("father_hisco.*Sales", term_raw) ~ "Father: Sales",
+            grepl("father_hisco.*Service", term_raw) ~ "Father: Service",
+            grepl("father_hisco.*Unknown", term_raw) ~ "Father: Unknown",
+            grepl("birth_cohort.*1880", term_raw) ~ "Cohort: 1880-1899",
+            grepl("birth_cohort.*1900", term_raw) ~ "Cohort: 1900-1919",
+            grepl("birth_cohort.*1920", term_raw) ~ "Cohort: 1920+",
+            term_raw == "edu_technical" ~ "Edu: Technical",
+            term_raw == "edu_business" ~ "Edu: Business",
+            term_raw == "edu_other_higher" ~ "Edu: Other Higher",
+            term_raw == "career_has_overseas" ~ "Career: Overseas Exp.",
+            term_raw == "career_has_us" ~ "Career: US Exp.",
+            term_raw == "board_membership_count" ~ "Board Memberships",
+            term_raw == "studied_kth" ~ "Studied: KTH",
+            term_raw == "studied_chalmers" ~ "Studied: Chalmers",
+            term_raw == "studied_hhs" ~ "Studied: HHS",
+            term_raw == "studied_foreign" ~ "Studied: Foreign",
+            term_raw == "edu_network_size" ~ "Edu Network Size",
+            TRUE ~ term_raw # Default case, shouldn't be needed here
+        )
+    ) %>%
+    select(term, estimate, std.error) # Keep only cleaned names and numeric data
+
+# 3. Filter out the birth cohort variables and the Intercept (optional, but common for coef plots)
+coef_plot_data <- coef_data %>%
+    filter(!grepl("^Cohort:", term)) %>% # Remove birth cohorts
+    filter(term != "Intercept") # Remove intercept (optional)
+
+# 4. Calculate approximate 95% Confidence Intervals
+coef_plot_data <- coef_plot_data %>%
+    mutate(
+        conf.low = estimate - 1.96 * std.error,
+        conf.high = estimate + 1.96 * std.error
+    )
+
+# 5. Create the coefficient plot
+#    We use fct_reorder to sort the variables on the y-axis by their coefficient estimate
+coef_plot <- ggplot(coef_plot_data, aes(x = estimate, y = fct_reorder(term, estimate))) +
+    geom_vline(xintercept = 0, linetype = "dashed", color = "grey70") + # Add line at 0
+    geom_errorbarh(aes(xmin = conf.low, xmax = conf.high), height = 0.2, color = "gray50") +
+    geom_point(color = "blue", size = 2) +
+    labs(
+        title = "Probit Regression Coefficients for dep_var_work_wl",
+        subtitle = "Estimates and 95% Confidence Intervals",
+        x = "Coefficient Estimate (Probit Scale)",
+        y = "Predictor Variable",
+        caption = "Error bars represent 95% confidence intervals.\nBirth cohort coefficients were included in the model but are excluded from this plot."
+    ) +
+    theme_minimal(base_size = 12) +
+    theme(
+        plot.caption = element_text(hjust = 0, size = 9, colour = "grey30"),
+        axis.text.y = element_text(size = 10), # Adjust text size if needed
+        axis.title.x = element_text(margin = margin(t = 10)), # Add space below x-axis title
+        axis.title.y = element_text(margin = margin(r = 10)) # Add space to the left of y-axis title
+    )
+
+# 6. Print the plot
+print(coef_plot)
+
+coef_plot %>% ggsave(filename = here::here("figures", "probit_coefficient_plot.png"), width = 8, height = 7, dpi = 300)
+
+# Optional: Save the plot
+# ggsave("probit_coefficient_plot.png", plot = coef_plot, width = 8, height = 7, dpi = 300)
+```
+
+
+
+regression plot
+
+
+```{r}
+
+# Load necessary libraries (if not already loaded)
+library(dplyr)
+library(gt)
+library(tibble) # For tribble
+
+# 1. Recreate/Update the coefficient data tibble to include p-values
+#    (Make sure the previous code defining coef_data has been run,
+#     or define it here including the p-values)
+
+coef_data_full <- tibble::tribble(
+  ~term_raw,                                                          ~estimate, ~std.error, ~p.value,
+  "Intercept",                                                          -1.6859,      0.072,   0.000,
+  "C(father_hisco_major_group_label)[T.Agricultural/Fishing]",           0.1690,      0.096,   0.078,
+  "C(father_hisco_major_group_label)[T.Clerical]",                      -0.3675,      0.278,   0.187,
+  "C(father_hisco_major_group_label)[T.Production/Transport/Laborer]",   1.1574,      0.334,   0.001,
+  "C(father_hisco_major_group_label)[T.Professional/Technical]",         0.4544,      0.586,   0.438,
+  "C(father_hisco_major_group_label)[T.Sales]",                         -0.2831,      0.139,   0.041,
+  "C(father_hisco_major_group_label)[T.Service]",                       -0.0664,      0.319,   0.835,
+  "C(father_hisco_major_group_label)[T.Unknown]",                        0.0565,      0.062,   0.363,
+  "C(birth_cohort)[T.1880-1899]",                                        -0.0801,      0.038,   0.037,
+  "C(birth_cohort)[T.1900-1919]",                                        -0.6295,      0.044,   0.000,
+  "C(birth_cohort)[T.1920+]",                                            -1.8031,      0.131,   0.000,
+  "edu_technical",                                                       0.3466,      0.043,   0.000,
+  "edu_business",                                                       -0.0128,      0.050,   0.796,
+  "edu_other_higher",                                                   -0.3494,      0.037,   0.000,
+  "career_has_overseas",                                                 0.0893,      0.051,   0.080,
+  "career_has_us",                                                       0.1479,      0.073,   0.041,
+  "board_membership_count",                                              0.0077,      0.006,   0.191,
+  "studied_kth",                                                         0.1493,      0.049,   0.002,
+  "studied_chalmers",                                                    0.0424,      0.059,   0.471,
+  "studied_hhs",                                                         0.0579,      0.090,   0.518,
+  "studied_foreign",                                                    -0.0152,      0.082,   0.853,
+  "edu_network_size",                                                   -0.0002,   2.55e-05,   0.000
+)
+
+# 2. Clean names (similar to before)
+coef_data_full <- coef_data_full %>%
+  mutate(
+    term = case_when(
+      term_raw == "Intercept" ~ "Intercept",
+      grepl("father_hisco.*Agricultural", term_raw) ~ "Father: Agri/Fishing",
+      grepl("father_hisco.*Clerical", term_raw) ~ "Father: Clerical",
+      grepl("father_hisco.*Production", term_raw) ~ "Father: Prod/Trans/Laborer",
+      grepl("father_hisco.*Professional", term_raw) ~ "Father: Prof/Technical",
+      grepl("father_hisco.*Sales", term_raw) ~ "Father: Sales",
+      grepl("father_hisco.*Service", term_raw) ~ "Father: Service",
+      grepl("father_hisco.*Unknown", term_raw) ~ "Father: Unknown",
+      grepl("birth_cohort.*1880", term_raw) ~ "Cohort: 1880-1899",
+      grepl("birth_cohort.*1900", term_raw) ~ "Cohort: 1900-1919",
+      grepl("birth_cohort.*1920", term_raw) ~ "Cohort: 1920+",
+      term_raw == "edu_technical" ~ "Edu: Technical",
+      term_raw == "edu_business" ~ "Edu: Business",
+      term_raw == "edu_other_higher" ~ "Edu: Other Higher",
+      term_raw == "career_has_overseas" ~ "Career: Overseas Exp.",
+      term_raw == "career_has_us" ~ "Career: US Exp.",
+      term_raw == "board_membership_count" ~ "Board Memberships",
+      term_raw == "studied_kth" ~ "Studied: KTH",
+      term_raw == "studied_chalmers" ~ "Studied: Chalmers",
+      term_raw == "studied_hhs" ~ "Studied: HHS",
+      term_raw == "studied_foreign" ~ "Studied: Foreign",
+      term_raw == "edu_network_size" ~ "Edu Network Size",
+      TRUE ~ term_raw
+    ),
+    # Add significance stars based on p-value
+    signif = case_when(
+        p.value < 0.001 ~ "***",
+        p.value < 0.01  ~ "**",
+        p.value < 0.05  ~ "*",
+        p.value < 0.1   ~ ".", # Optional: mark p < 0.1
+        TRUE ~ ""
+    )
+  ) %>%
+  select(term, estimate, std.error, p.value, signif) # Keep only needed columns
+
+# 3. Filter out birth cohort variables for the table display
+gt_table_data <- coef_data_full %>%
+  filter(!grepl("^Cohort:", term),
+         term != "Intercept")  # Remove intercept (optional)
+
+# 4. Create the gt table
+probit_table <- gt_table_data %>%
+  gt() %>%
+  # Add Header Information
+#   tab_header(
+#     title = md("**Probit Regression Results**"), # Markdown for bold
+#     subtitle = "Dependent Variable: dep_var_work_wl"
+#   ) %>%
+  # Rename columns for presentation
+  cols_label(
+    term = "Variable",
+    estimate = "Estimate",
+    std.error = "Std. Error",
+    p.value = "P-value",
+    signif = "" # No label for significance column needed
+  ) %>%
+  # Format numeric columns
+  fmt_number(
+    columns = c(estimate, std.error),
+    decimals = 3
+  ) %>%
+  # Format p-values (show <0.001 and fixed decimals)
+   fmt_number(
+     columns = p.value,
+     decimals = 3,
+     pattern = "{x}" # Basic pattern first
+   ) %>%
+#    sub_small_vals(
+#       columns=p.value,
+#       threshold = 0.001,
+#       replacement="<0.001" # Handle very small p-values
+#     ) %>%
+  # Combine estimate and significance stars
+#   cols_merge_range(
+#      col_begin = estimate,
+#      col_end = signif,
+#      separator = "" # Use space or empty string if desired
+#   ) %>%
+  # Add footnote about significance levels
+  tab_footnote(
+    footnote = md("Signif. codes: `***` p<0.001, `**` p<0.01, `*` p<0.05, `.` p<0.1"),
+    locations = cells_column_labels(columns = estimate) # Place footnote marker on Estimate column
+  ) %>%
+  # Add source note with model summary stats
+  tab_source_note(
+    source_note = md(paste0(
+      "N = 47,715; Pseudo R-squared = 0.144; "
+      ))
+  ) %>%
+  # Optional: Add row striping for readability
+  opt_row_striping() %>%
+  # Optional: Adjust column widths
+  cols_width(
+      term ~ px(250), # Wider column for variable names
+      estimate ~ px(100),
+      std.error ~ px(100),
+      p.value ~ px(100)
+   ) %>%
+   # Align column headers
+   tab_style(
+      style = cell_text(align = "center"),
+      locations = cells_column_labels(columns = everything())
+    ) %>%
+   # Align specific columns
+   cols_align(
+     align = "center",
+     columns = c(std.error, p.value)
+   ) %>%
+   cols_align(
+     align = "left",
+     columns = term # Left-align variable names
+   ) %>%
+  # Add a title to the stub (variable column)
+  tab_stubhead(label = "Predictor")
+
+
+# 5. Print the table
+print(probit_table)
+
+probit_table %>% gtsave(here::here("figures", "probit_regression_table.png"), expand = 2)
+
+# Optional: Save the table
+# gtsave(probit_table, "probit_regression_table.png")
+# gtsave(probit_table, "probit_regression_table.html")
+```
+
+
+
+
+```{r}
+library(tidyverse)
+library(jsonlite)
+library
+library(sf)
+library(maps)
+library(gt) # For nice tables
+
+# --- Configuration ---
+csv_file_path <- "data/analysis/persons_data_final_for_regression.csv" 
+
+# --- Load Data ---
+message("Loading data from: ", csv_file_path)
+person_data <- read_csv(
+  csv_file_path, 
+  na = c("", "NA", "NaN", "None", "null", "-1"),
+  col_types = cols( # Be explicit with logicals
+      birth_parish_is_western_line = col_logical(),
+      currently_lives_in_wl = col_logical(),
+      worked_wl_before_1930 = col_logical(),
+      worked_wl_after_1930 = col_logical(),
+      career_has_us = col_logical(),
+      # Add other logicals if needed
+      .default = col_guess() # Guess other types
+      )
+  ) %>%
+  mutate(across(where(is.logical), as.logical)) # Ensure logical type
+
+message("Data loaded: ", nrow(person_data), " rows.")
+
+# Check if required columns exist
+required_cols <- c("person_id", "worked_wl_before_1930", "career_has_us", "_career_raw")
+if (!all(required_cols %in% names(person_data))) {
+  stop("Required columns are missing from the CSV: ", 
+       paste(setdiff(required_cols, names(person_data)), collapse=", "))
+}
+
+
+message("Parsing career data and extracting US experiences...")
+
+# --- Function to safely parse JSON and extract US career entries ---
+extract_us_career <- function(json_string) {
+  # Initial checks for valid input string
+  if (is.na(json_string) || !is.character(json_string) || nchar(trimws(json_string)) == 0 || trimws(json_string) == "[]") {
+    return(tibble()) # Return an empty tibble for invalid/empty input
+  }
+
+  career_list <- NULL
+  # First attempt with flattening (often works for simpler structures)
+  tryCatch({
+    career_list <- jsonlite::fromJSON(json_string, flatten = TRUE)
+  }, error = function(e1) {
+    # If flattening fails, try without flattening
+    # message("Flatten=TRUE failed, trying without flatten for: ", substr(json_string, 1, 50)) # Optional debug msg
+    tryCatch({
+       career_list <- jsonlite::fromJSON(json_string, flatten = FALSE)
+       # If successful without flattening, you might need different logic below 
+       # depending on the resulting structure (e.g., accessing nested columns)
+       # This example assumes it still produces a usable data frame structure eventually
+    }, error = function(e2){
+       message("JSON parsing failed for string: ", substr(json_string, 1, 100),"... Error: ", e2$message) # Log final failure
+       career_list <<- NULL # Ensure it's NULL on failure
+    })
+  })
+
+  # Check if parsing resulted in a usable list or data frame
+  if (is.null(career_list) || length(career_list) == 0) {
+     return(tibble()) 
+  }
+  
+  # If result is a list of lists (common if JSON objects aren't identical), try converting to tibble robustly
+  # This might happen if flatten=FALSE was used or structure varies
+  if(is.list(career_list) && !is.data.frame(career_list)) {
+      tryCatch({
+          # bind_rows handles potentially missing columns between list elements
+          career_df <- bind_rows(career_list) 
+      }, error = function(e){
+          message("Failed to bind list of lists to tibble for: ", substr(json_string, 1, 50))
+          return(tibble())
+      })
+  } else if (is.data.frame(career_list)) {
+      career_df <- as_tibble(career_list) # Ensure it's a tibble
+  } else {
+      message("Parsed JSON result is not a list or data frame for: ", substr(json_string, 1, 50))
+      return(tibble())
+  }
+
+  # --- Now work with career_df ---
+  # Check for essential columns before proceeding
+  if (!"country_code" %in% names(career_df)) {
+     # message("Parsed career data missing 'country_code' column for: ", substr(json_string, 1, 50))
+     return(tibble())
+  }
+
+  # Filter for USA entries (more robust check for NA country codes)
+  us_entries <- career_df %>%
+    filter(!is.na(country_code) & toupper(country_code) == "USA") 
+
+  # Check if any US entries remain
+  if (nrow(us_entries) == 0) {
+      return(tibble())
+  }
+    
+  # Select and process columns, handling potentially missing location columns
+  us_entries <- us_entries %>%
+    mutate(
+      # Use .data pronoun for robustness inside dplyr verbs
+      location.lat = if("location.latitude" %in% names(.)) suppressWarnings(as.numeric(.data$location.latitude)) else NA_real_,
+      location.lon = if("location.longitude" %in% names(.)) suppressWarnings(as.numeric(.data$location.longitude)) else NA_real_,
+      # Ensure required output columns exist even if not present in source JSON object for a specific job
+      organization = if("organization" %in% names(.)) as.character(.data$organization) else NA_character_,
+      position = if("position" %in% names(.)) as.character(.data$position) else NA_character_,
+      start_year = if("start_year" %in% names(.)) suppressWarnings(as.integer(.data$start_year)) else NA_integer_,
+      end_year = if("end_year" %in% names(.)) suppressWarnings(as.integer(.data$end_year)) else NA_integer_,
+      location.name = if("location.name" %in% names(.)) as.character(.data$location.name) else NA_character_
+    ) %>%
+    select( # Select final columns
+        organization, 
+        position, 
+        start_year, 
+        end_year, 
+        location.name, 
+        location.lat, 
+        location.lon
+        )
+
+  return(us_entries)
+}
+
+
+# Apply the function and unnest the results
+# This creates one row per person per US career entry
+us_career_data <- person_data %>%
+  select(person_id, worked_wl_before_1930, career_has_us, `_career_raw`)  %>% 
+  # Filter only those with US experience for efficiency
+  filter(career_has_us == TRUE) %>%
+  mutate(us_jobs = map(`_career_raw`, extract_us_career)) %>%
+  select(-`_career_raw`) %>% # Drop raw JSON string
+  unnest(us_jobs) 
+
+
+
+message("Found ", nrow(us_career_data), " US career entries for ", 
+        n_distinct(us_career_data$person_id), " individuals.")
+
+# Create the grouping variable based on the original data
+us_career_data <- us_career_data %>%
+  mutate(
+      work_group = if_else(worked_wl_before_1930 == TRUE, 
+                         "WL Pre-1930 + US Exp.", 
+                         "Control + US Exp.")
+  )
+```
+
+
+
+```{r}
+library(sf)
+
+message("Generating Map 1: US Destinations...")
+
+# Get unique US locations WITH coordinates for the WL group
+wl_us_locations <- us_career_data %>%
+  filter(work_group == "WL Pre-1930 + US Exp.") %>%
+  filter(!is.na(location.lat) & !is.na(location.lon)) %>%
+  # Aggregate to unique locations and count individuals per location
+  group_by(location.lat, location.lon) %>%
+  summarise(
+      location_name = first(location.name), # Take first name found
+      n_individuals = n_distinct(person_id), 
+      .groups = 'drop'
+      ) %>%
+  # Convert to sf object for plotting
+  st_as_sf(coords = c("location.lon", "location.lat"), crs = 4326) # WGS84
+
+# Get USA map data (requires 'maps' package)
+us_map <- ggplot2::map_data("state") # Or "county" for more detail
+
+# Create the plot
+map_plot <- ggplot() +
+  # Base map of US states
+  geom_polygon(data = us_map, aes(x = long, y = lat, group = group), 
+               fill = "grey85", color = "white", linewidth = 0.3) +
+  # Plot the locations for the WL group
+  geom_sf(data = wl_us_locations, aes(size = n_individuals), 
+          color = "darkred", alpha = 0.7, show.legend = "point") +
+  scale_size_continuous(name = "Number of Individuals", range = c(2, 8)) + # Adjust size range
+  coord_sf(xlim = c(-125, -67), ylim = c(25, 50), expand = FALSE) + # Focus on continental US
+  labs(
+    title = "USA Locations Visited by WL-Associated Engineers/Directors",
+    subtitle = "Locations derived from career history (Work/Study)",
+    caption = "Size indicates number of unique individuals visiting location."
+  ) +
+  theme_void() + # Minimal theme
+  theme(
+      plot.title = element_text(hjust = 0.5, face="bold"),
+      plot.subtitle = element_text(hjust = 0.5),
+      legend.position = "bottom"
+      )
+
+# Print the map
+print(map_plot) 
+
+# Optionally save the map
+ggsave("figures/map_us_destinations_wl_group.png", map_plot, width = 10, height = 7)
+# message("Map saved.")
+```
+
+Who worked at general electric?
+
+```{r}
+us_career_data %>%
+    filter(organization == "General Electric Co") %>%
+    view()
+
+
+us_career_data %>%
+    filter(!is.na(organization)) %>%
+    filter(!organization %in% c("USA", "New York", "Washington")) %>%
+    mutate(organization = case_when(
+        organization == "General Electric Co." ~ "General Electric Co",
+        TRUE ~ organization
+    )) %>%
+    count(organization, sort = T) %>%
+    slice(1:20) %>%
+    select(organization) %>%
+    gt() %>% 
+    cols_label(organization = "USA Workplace")  %>% 
+    gtsave("figures/top_20_us_workplaces.png", expand = 2)
+
+
+```
+
+```{r}
+message("Generating Table 1: US Employer Types...")
+
+# --- Define Organization Categories (Example - Needs Customization!) ---
+# You MUST adapt these keywords based on the actual organization names found
+categorize_organization <- function(org_name) {
+    if (is.na(org_name)) {
+        return("Unknown")
+    }
+    org_lower <- str_to_lower(org_name)
+
+    # Order matters - check more specific categories first
+    if (str_detect(org_lower, "univ|college|school|institute of tech|mit|harvard|stanford")) {
+        return("University/Research")
+    }
+    if (str_detect(org_lower, "ford|general motors|gm|chrysler|automotive|motor co")) {
+        return("Automotive Industry")
+    }
+    if (str_detect(org_lower, "general electric|ge|westinghouse|siemens|asea|electrical|electric co")) {
+        return("Electrical Industry")
+    }
+    if (str_detect(org_lower, "steel|mining|chemical|manufacturing|corp|inc| co\\.? |company|works")) {
+        return("Manufacturing/Industry (Other)")
+    }
+    if (str_detect(org_lower, "consulting|consultant|finance|bank")) {
+        return("Consulting/Finance")
+    }
+
+    return("Other/Unknown") # Default category
+}
+
+
+# Apply categorization and calculate proportions per group
+org_type_summary <- us_career_data %>%
+    # Ensure one entry per person per unique US org type
+    # (A person might work at multiple places within one category)
+    mutate(org_category = map_chr(organization, categorize_organization)) %>%
+    select(person_id, work_group, org_category) %>%
+    distinct() %>% # Count each person once per category they worked in
+    # Now count people per category within each work_group
+    count(work_group, org_category) %>%
+    # Calculate percentage within each work_group
+    group_by(work_group) %>%
+    mutate(prop = n / sum(n)) %>%
+    ungroup() %>%
+    # Add total N for each group
+    add_count(work_group, wt = n, name = "total_n_group")
+
+# Create the gt table
+gt_org_table <- org_type_summary %>%
+    filter(org_category != "Unknown") %>% # Exclude unknown categories
+    select(org_category, work_group, n, prop) %>%
+    # Create N (%) column
+    mutate(stat_value = sprintf("%d (%.1f%%)", n, prop * 100)) %>%
+    select(-n, -prop) %>%
+    # Pivot wider
+    pivot_wider(
+        names_from = work_group,
+        values_from = stat_value,
+        values_fill = "0 (0.0%)" # Fill missing categories with 0
+    ) %>%
+    # Arrange categories nicely
+    arrange(factor(org_category, levels = c(
+        "Electrical Industry", "Automotive Industry",
+        "Manufacturing/Industry (Other)",
+        "University/Research", "Consulting/Finance",
+        "Other/Unknown"
+    ))) %>%
+    gt(rowname_col = "org_category") %>%
+    # tab_header(
+    #     title = "Types of US Organizations Worked For",
+    #     subtitle = "Comparing WL-associated vs. Control individuals with US experience"
+    # ) %>%
+    cols_label(
+        `WL Pre-1930 + US Exp.` = "WL Pre-1930 Group",
+        `Control + US Exp.` = "Control Group"
+    ) %>%
+    tab_stubhead(label = "US Organization Type") %>%
+    fmt_missing(columns = everything(), missing_text = "0 (0.0%)") %>%
+    tab_style(
+        style = cell_text(weight = "bold"),
+        locations = cells_row_groups()
+    ) %>%
+    tab_options(
+        row_group.background.color = "#f7f7f7"
+    )
+#    tab_source_note(
+#       source_note = paste("Based on unique person-organization type combinations.")
+#   )
+
+# Print the table
+print(gt_org_table)
+
+gt_org_table %>% 
+    gtsave(here::here("figures", "us_organization_types.png"), expand = 2)
+
+# Optionally save
+# gtsave(gt_org_table, "data/analysis/table_us_org_types.html")
+# message("Table saved.")
+```
